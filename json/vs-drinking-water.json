@@ -1,0 +1,31 @@
+{
+	"vitalSign": {
+		"goal": "goal",
+		"name": "Drinking Water",
+		"lead": "lead",
+		"contact": "Contact goes here",
+		"what": "what",
+		"key-messages": "key messages",
+		"progress_rating": {
+			"mp": 0,
+			"msp": 70,
+			"nc": 15,
+			"gsw": 15,
+			"gw": 0
+		},
+		"indicators": {
+			"indicator1_name": "indicator 1",
+			"indicator2_name": "indicator 2",
+			"indicator3_name": "indicator 3"
+		},
+		"highlights": "highlights",
+		"highlight_photo": "image link",
+		"links": {
+			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b'>link</a>",
+			"link1": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b'>link</a>",
+			"link2": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b'>link</a>"
+
+		}
+	}
+
+}

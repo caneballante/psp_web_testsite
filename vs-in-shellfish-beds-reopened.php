@@ -28,7 +28,10 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js"></script>
 	
-	<script> var whatVS = "vs_shoreline_armoring.json";
+	<script> 
+		// set to zero to indicate this isn't that kind of page. Used for if statement to run either VS or IN code
+		var whatVS = 0; 
+		var whatIN = "in-shellfish-beds.json";
 	</script>
 	<link href="css/style.css" rel="stylesheet" type="text/css">
 

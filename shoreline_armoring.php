@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>2017 Vital Signs</title>
+<title>Land Cover and Development Vital Sign</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -23,13 +23,12 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
-	<script> navSelected = 6;  subNavSelected = 30;
+	<script> navSelected = 8;  subNavSelected = 46;
 	</script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js"></script>
 	
-	<script> 
-		//setting the unused variable to 0 to flag the if statement to run either the VS or IN code.
+	<script> //setting the unused variable to 0 to flag the if statement to run either the VS or IN code.
 		var whatIN = 0; 
 		var whatVS = "vs-shoreline-armoring.json";
 	</script>
