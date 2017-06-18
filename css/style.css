@@ -12,3 +12,32 @@
 .vsText {
 	margin: 20px;
 }
+.orange > a {
+	color: #e86e2f !important;
+}
+.green > a {
+	color: #60AA3E !important;
+}
+.pink > a {
+	color: #DB2365 !important;
+}
+.purp > a {
+	color: #8228BF !important;
+}
+.blue > a {
+	color: #54A4D2 !important;
+}
+.aqua > a {
+	color: #01B499 !important;
+}
+.white {
+	color: #fff;
+}
+/*overwriting the custom css from the main site- want the main nav to align left*/
+.nav-leftside-custom {
+    text-align: left;
+}
+
+.vs-nav-goal > a {
+    font-weight: 700;
+}
