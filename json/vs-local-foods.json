@@ -20,12 +20,44 @@
 		},
 		"highlights": "highlights",
 		"highlight_photo": "image link",
-		"links": {
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b'>link</a>",
-			"link1": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b'>link</a>",
-			"link2": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b'>link</a>"
-
-		}
+		 "links": {
+		"link0": {
+			"link-name" : "I am a link1",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link1": {
+			"link-name" : "I am a link2",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link2": {
+			"link-name" : "I am a link3",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link3": {
+			"link-name" : "I am a link4",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link4": {
+			"link-name" : "I am a link5",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link5": {
+			"link-name" : "I am a link6",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link6": {
+			"link-name" : "I am a link7",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link7": {
+			"link-name" : "I am a link8",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link8": {
+			"link-name" : "I am a link9",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		}	
+	}
 	}
 
 }

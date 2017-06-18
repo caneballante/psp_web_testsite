@@ -1,0 +1,59 @@
+{
+  "indicator": {
+    "goal": "name",
+    "vitalsign": "name",
+    "indicator-name": "Onsite sewage systems",
+    "lead": "Lead Name",
+    "contact": "Lead Contact",
+    "logo-link": "logo",
+"status-icon": "below target",
+"progress-icon": "getting better",
+    "progress-description": "Text goes here",
+	"data-chart": "Send me the image or reference in email I need to grab it from the indicator word doc",
+	"data-chart-details" : "Text goes here. NOTE IN ALL CAPS WHERE I NEED TO ADD A CHART",  
+	"why": "Text goes here",
+	"what": "Text goes here",
+    "target": "Target",
+	"interim-target": "Text goes here - NOTE IN ALL CAPS IF THERE IS A TABLE",
+    "map-link": "tell me where to find the map, or send it to me as a image file",
+	"map-link-text": "is there map text? if so it can go here",
+   	"links": {
+			"link0": {
+				"link-name" : "I am a link1",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link1": {
+				"link-name" : "I am a link2",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link2": {
+				"link-name" : "I am a link3",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link3": {
+				"link-name" : "I am a link4",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link4": {
+				"link-name" : "I am a link5",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link5": {
+				"link-name" : "I am a link6",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link6": {
+				"link-name" : "I am a link7",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link7": {
+				"link-name" : "I am a link8",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link8": {
+				"link-name" : "I am a link9",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			}	
+		}
+  }
+}

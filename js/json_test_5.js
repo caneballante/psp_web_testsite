@@ -80,12 +80,19 @@ $(document).ready(function () {
 			var vsHighlightPhoto = (dataVS['vitalSign']['highlight_photo']);
 			$('#show-highlight-photo').html(vsHighlightPhoto);
 
-
 			//links
-			$.each((dataVS['vitalSign']['links']), function(i, link) {
+			$.each((dataVS['vitalSign']['links']), function(i, linkSet) {
+					var vsLinkURL = (linkSet['link-name']);
+					var vsLinkName = (linkSet['link-url']);
+				//	var vslinkShow  = '<a href=' + vsLinkURL + '>' + vsLinkName '</a>';
+					var vslinkShow  = '<p><a href=">' + vsLinkURL + '">' + vsLinkName + '</a></p>';
+					$('#show-links').append(vslinkShow);
+				});
+			//links
+		/*	$.each((dataVS['vitalSign']['links']), function(i, link) {
 				var allLinks = '<p>' + link + '</p>'
 				$('#show-links').append(allLinks);
-			});
+			});*/
 
 		};
 

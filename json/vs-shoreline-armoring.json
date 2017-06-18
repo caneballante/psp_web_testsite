@@ -21,10 +21,42 @@
 		"highlights": "Did I mention we have comfy chairs? Saving the world with meals on wheels. I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship. Annihilate? No. No violence. I won't stand for it. Not now, not ever, do you understand me?! I'm the Doctor, the Oncoming Storm - and you basically meant beat them in a football match, didn't you?. You hit me with a cricket bat. I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship. Aw, you're all Mr. Grumpy Face today. It's a fez. I wear a fez now. Fezes are cool ~P Did I mention we have comfy chairs? Saving the world with meals on wheels. I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship. Annihilate? No. No violence. I won't stand for it. Not now, not ever, do you understand me?! I'm the Doctor, the Oncoming Storm - and you basically meant beat them in a football match, didn't you?. You hit me with a cricket bat. I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship. Aw, you're all Mr. Grumpy Face today. It's a fez. I wear a fez now. Fezes are cool",
 		"highlight_photo": "shoreline_armoring_image.jpg",
 		"links": {
-			"link": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b'>link</a>",
-			"link1": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b'>link</a>",
-			"link2": "<a href='https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b'>link</a>"
-
+			"link0": {
+				"link-name" : "I am a link1",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link1": {
+				"link-name" : "I am a link2",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link2": {
+				"link-name" : "I am a link3",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link3": {
+				"link-name" : "I am a link4",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link4": {
+				"link-name" : "I am a link5",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link5": {
+				"link-name" : "I am a link6",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link6": {
+				"link-name" : "I am a link7",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link7": {
+				"link-name" : "I am a link8",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link8": {
+				"link-name" : "I am a link9",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			}	
 		}
 	}
 
