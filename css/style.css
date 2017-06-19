@@ -41,3 +41,7 @@
 .vs-nav-goal > a {
     font-weight: 700;
 }
+
+.vs-nav-vital-indicator > a {
+	margin-left: 20px;
+}
