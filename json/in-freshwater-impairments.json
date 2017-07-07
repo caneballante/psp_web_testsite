@@ -1,22 +1,53 @@
-{
+﻿{
   "indicator": {
-    "goal": "name",
-    "vitalsign": "name",
-    "indicator-name": "Percent of shoreline inspection programs",
-    "lead": "Lead Name",
-    "contact": "Lead Contact",
-    "logo-link": "logo",
-"status-icon": "below target",
-"progress-icon": "getting better",
-    "progress-description": "Text goes here",
-	"data-chart": "Send me the image or reference in email I need to grab it from the indicator word doc",
-	"data-chart-details" : "Text goes here. NOTE IN ALL CAPS WHERE I NEED TO ADD A CHART",  
-	"why": "Text goes here",
-	"what": "Text goes here",
-    "target": "Target",
-	"interim-target": "Text goes here - NOTE IN ALL CAPS IF THERE IS A TABLE",
-    "map-link": "tell me where to find the map, or send it to me as a image file",
-	"map-link-text": "is there map text? if so it can go here",
+    "goal": "Healthy Water Quality",
+    "vitalsign": "Freshwater Quality",
+    "indicator-name": "Freshwater impairments",
+    "lead": "Patrick Lizon",
+    "contact": "pliz461@ECY.WA.GOV",
+    "logo-link": "ECY",
+	"last-updated": "June 28, 2017",
+	"status-icon": "below 2020 target",
+	"progress-icon": "no data",
+	"progress-icon-tagline": "No data are available yet to assess progress.",	  
+    "progress-description": "Since 1988, water quality has been assessed in approximately 10 percent of the waters of Washington State. The 2014 assessment report contains 10,175 listings for freshwaters in the Puget Sound region. Of these 1,694 listings (about 17 percent) are in Category 5, per the Candidate 303(d) list. An additional 741 listings also do not meet water quality standards but are in Categories 4A and 4B because they have an established cleanup plan. However, most listings (4,583) have insufficient data to determine the water quality status. These are unofficial results and are pending approval by the U.S. Environmental Protection Agency.~B To examine the change in listing rates over time, a subset of listings whose water quality status was reported on in both the 2004 and 2014 assessments was used (a total of 2,071 listings). The status of 68 listings changed category from impaired (Categories 5, 4A, or 4B) to non-impaired (Category 1). For most of these de-listings, the improvement in water quality is the result of the successful implementation of pollution control practices; in particular, efforts to reduce fecal bacteria pollution.~B Another sign of progress is that since 2004, pollution control plans have been developed for 236 of the new or ongoing 303(d) listings in efforts to restore water quality.~B However, a greater number of listings (392) have moved from a non-impaired status to an impaired status between assessments. Most of these new 303(d) listings are due to additional data that have improved the characterization of water quality conditions rather than indicating worsening water quality.~B The fate of the majority of listings was unchanged and remained impaired (852). An absence of change in category between assessments may be due to following: newer data verifying no water quality change; newer data that are insufficient to justify a category change; or no new data collected since 2004 (a category carries through time until newer data justifies a category change). Data about water quality are not systematically collected and submitted for each body of water with a listing. The assessments were not designed to answer questions about the status and trends of water quality. Therefore, reporting meaningfully on the progress of this indicator is not possible at this time.",
+	"what": "This indicator is the number of impaired waters.~P When lakes and streams have a reduced ability to support native species and human uses, then they are listed as Impaired. Impaired waters are segments of streams, rivers, or lakes that do not meet the State of Washington’s Water Quality Standards for bacteria, dissolved oxygen, temperature, toxics, or other pollutants. Cool, clean water is a key ingredient for a healthy Puget Sound. Under the Federal Clean Water Act of 1972, waters are considered impaired when they fail to meet water quality standards or minimum requirements for certain uses. Every two years, states are required to prepare a list of water bodies that do not meet water quality standards. This list is called the 303(d) list, because the process is described in Section 303(d) of the Clean Water Act. To achieve this goal, the State of Washington established water quality standards designed to protect and restore water quality for drinking, recreation, and habitat for fish and other aquatic life.~P More than one segment of a river can be listed as impaired, and a single segment can be listed for more than one pollutant. Once a segment is listed as impaired, a plan must be created and implemented to control pollution or improve water quality. The effects of these restoration programs can take many years to have a positive impact. ~P The Washington State Department of Ecology reviews data from a variety of sources to identify impairments relative to strict standards. Each freshwater listing is a unique combination of an assessment unit (a segment of river), medium (water, tissue, or sediment), and parameter (temperature, bacteria, or dissolved oxygen). Monitoring multiple parameters at several stations along the length of shoreline typically results in multiple assessment units, each of which will have a listing developed for each monitored parameter. The possible outcomes of the water quality assessment under the Clean Water Act 303(d) section are:~P Category 1: Meets Water Quality Standards ~P Category 2: Water of Concern~P Category 3: Insufficient Data~P Category 4A: Total Maximum Daily Loads have been established for the identified impairment ~P Category 4B: Impaired but an alternative pollution control plan is in place ~P Category 4C: Impaired by non-pollutant ~P Category 5: Impaired by a pollutant or an unidentified cause",
+	"data" : {
+		"figure-1" : {
+			"title" : "FIGURE 1. FATE OF LISTINGS FOR PUGET SOUND RIVERS, STREAMS AND LAKES, BASED ON THE WATER QUALITY ASSESSMENT 303(d) LISTS",
+			"subhead" : "2004 assessment vs 2014 assessment",
+			"figure-link" : "https://pspwa.box.com/s/yhm8jxq89x41wubgkhlhouwea61ocf28",
+			"caption" : "NONE",
+			"source" : "Source: Washington State Department of Ecology, Water Quality Program",
+			"description" : "XPuget Sound supports about 55,000"
+		},
+		"figure-2" : {
+			"title" : "XFIGURE 2. COUNT OF EELGRASS",
+			"subhead" : "X2000 – 2015 (medium-term) and 2010-2015 (recent)",
+			"figure-link" : "Xhttps://pspwa.box.com/s/jl8s",
+			"caption" : "XNumber of sites with",
+			"source" : "XSource: Washington Depart",
+			"description" : "XWhen looking at change on a site by site basis"
+		},
+		"figure-3" : {
+			"title" : "Xtext",
+			"subhead" : "Xtext",
+			"figure-link" : "Xlink",
+			"caption" : "Xtext",
+			"source" : "Xtext",
+			"description" : "Xtext"
+		}
+		
+	},
+	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
+	"why-happening": "XText goes here",
+	"references" : "X<H3>References</H3>~P Christiaen B.,",
+	"target": "Reduce the number of “impaired” waters.",
+	"interim-target": "Interim targets have not been set for this indicator.",
+    "interim-target-title": "XPaste in the table number and table title",
+	"interim-target-table":"XGive Jon link to the Word file",
+    "map-link": "Xtell me where to find the map, or send it to me as a image file",
+	"map-link-text": "Xis there map text? if so it can go here",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",
@@ -54,6 +85,7 @@
 				"link-name" : "I am a link9",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
 			}	
-		}
-  }
+		},
+	"comment":"Xinsert comment"
+	}	
 }

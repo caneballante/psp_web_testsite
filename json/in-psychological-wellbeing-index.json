@@ -1,22 +1,53 @@
-{
+﻿{
   "indicator": {
-    "goal": "name",
-    "vitalsign": "name",
-    "indicator-name": "Acres of harvestable shellfish",
-    "lead": "Lead Name",
-    "contact": "Lead Contact",
-    "logo-link": "logo",
-"status-icon": "below target",
-"progress-icon": "getting better",
-    "progress-description": "Text goes here",
-	"data-chart": "Send me the image or reference in email I need to grab it from the indicator word doc",
-	"data-chart-details" : "Text goes here. NOTE IN ALL CAPS WHERE I NEED TO ADD A CHART",  
-	"why": "Text goes here",
-	"what": "Text goes here",
-    "target": "Target",
-	"interim-target": "Text goes here - NOTE IN ALL CAPS IF THERE IS A TABLE",
-    "map-link": "tell me where to find the map, or send it to me as a image file",
-	"map-link-text": "is there map text? if so it can go here",
+    "goal": "Vibrant Quality of Life",
+    "vitalsign": "Sense of Place",
+    "indicator-name": "Psychological Wellbeing Index: 2a. Inspiration, 2b.  Stress reduction",
+    "lead": "Kelly Biedenweg",
+    "contact": "Kelly.Biedenweg@oregonstate.edu",
+    "logo-link": "OSU",
+	"last-updated": "June 28, 2017",
+	"status-icon": "no 2020 target",
+	"progress-icon": "insufficient or no data",
+	"progress-icon-tagline": "NONE",	  
+    "progress-description": "No data are currently available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
+	"what": "The Psychological Wellbeing Index will help us understand whether Puget Sound residents experience inspiration and stress reduction while in nature. These are critical measures of whether the natural environment contributes to human wellbeing. The Psychological Wellbeing Index is measured by using two survey questions to determine the degree to which engagement with the natural environment contributes to psychological wellbeing. An index is appropriate because each question measures a related, yet unique, aspect of the concept.~P Indicator 2a: Inspiration. Percent of residents who experience inspiration from being in nature~P Indicator 2b: Stress Reduction. Average number of residents who experience reduced stress from being in nature ~P Data will be collected every 2 years via a survey to Puget Sound residents. Results will be reported as a mean index value for Puget Sound residents. The data will be analyzed for significant differences across demographic groups.",
+	"data" : {
+		"figure-1" : {
+			"title" : "XFIGURE",
+			"subhead" : "X2000",
+			"figure-link" : "Xhttps:",
+			"caption" : "XEstimated",
+			"source" : "XSource:",
+			"description" : "No data are currently available for this indicator. The Puget Sound Partnership is seeking funding to support data collection."
+		},
+		"figure-2" : {
+			"title" : "XFIGURE",
+			"subhead" : "X2000",
+			"figure-link" : "Xhttps:",
+			"caption" : "XNumber",
+			"source" : "XSource:",
+			"description" : "XWhen"
+		},
+		"figure-3" : {
+			"title" : "Xtext",
+			"subhead" : "Xtext",
+			"figure-link" : "Xlink",
+			"caption" : "Xtext",
+			"source" : "Xtext",
+			"description" : "Xtext"
+		}
+		
+	},
+	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
+	"why-happening": "Analysis of data trends is not currently available. ",
+	"references" : "X<H3>References</H3>~P Christiaen B.,",
+	"target": "No targets are currently set for this indicator. ",
+	"interim-target": "XLink to interim targets http://www.psp.wa.gov/downloads/interimtargets/Shef",
+    "interim-target-title": "XPaste in the table number and table title",
+	"interim-target-table":"XGive Jon link to the Word file",
+    "map-link": "Xtell me where to find the map, or send it to me as a image file",
+	"map-link-text": "Xis there map text? if so it can go here",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",
@@ -54,6 +85,7 @@
 				"link-name" : "I am a link9",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
 			}	
-		}
-  }
+		},
+	"comment":"Xinsert comment"
+	}	
 }

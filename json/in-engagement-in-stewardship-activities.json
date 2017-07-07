@@ -1,22 +1,53 @@
-{
+﻿{
   "indicator": {
-    "goal": "name",
-    "vitalsign": "name",
-    "indicator-name": "Acres of harvestable shellfish",
-    "lead": "Lead Name",
-    "contact": "Lead Contact",
-    "logo-link": "logo",
-"status-icon": "below target",
-"progress-icon": "getting better",
-    "progress-description": "Text goes here",
-	"data-chart": "Send me the image or reference in email I need to grab it from the indicator word doc",
-	"data-chart-details" : "Text goes here. NOTE IN ALL CAPS WHERE I NEED TO ADD A CHART",  
-	"why": "Text goes here",
-	"what": "Text goes here",
-    "target": "Target",
-	"interim-target": "Text goes here - NOTE IN ALL CAPS IF THERE IS A TABLE",
-    "map-link": "tell me where to find the map, or send it to me as a image file",
-	"map-link-text": "is there map text? if so it can go here",
+    "goal": "Vibrant Quality of Life",
+    "vitalsign": "Sound Stewardship",
+    "indicator-name": "Engagement in stewardship activities",
+    "lead": "Kelly Biedenweg",
+    "contact": "Kelly.Biedenweg@oregonstate.edu",
+    "logo-link": "OSU",
+	"last-updated": "June 29, 2017",
+	"status-icon": "no 2020 target",
+	"progress-icon": "insufficient or no data",
+	"progress-icon-tagline": "XThere",	  
+    "progress-description": "No data are currently available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
+	"what": "This indicator is a measure of the extent to which Puget Sound residents engage in collective environmental stewardship activities. Because of the importance of social connections to sustaining behaviors and overall human wellbeing, it also provides a measure of the degree to which engagement in stewardship activities contributes to wellbeing. The indicator measures community-based, collaborative actions that are intended to improve some aspect of environmental health. Data from this indicator can be used to inform outreach strategies and to identify potential predictors of observed change in environmental health.~P Data will be collected every 2 years via survey to Puget Sound residents. Results will be reported as percent of Puget Sound residents that engage in collaborative environmental stewardship activities, as defined by the respondent. The data will be analyzed for significant differences across demographic groups.",
+	"data" : {
+		"figure-1" : {
+			"title" : "XFIGURE",
+			"subhead" : "X2000",
+			"figure-link" : "Xhttps:",
+			"caption" : "XEstimated",
+			"source" : "XSource:",
+			"description" : "No data are currently available for this indicator. The Puget Sound Partnership is seeking funding to support data collection."
+		},
+		"figure-2" : {
+			"title" : "XFIGURE",
+			"subhead" : "X2000",
+			"figure-link" : "Xhttps:",
+			"caption" : "XNumber",
+			"source" : "XSource:",
+			"description" : "XWhen"
+		},
+		"figure-3" : {
+			"title" : "Xtext",
+			"subhead" : "Xtext",
+			"figure-link" : "Xlink",
+			"caption" : "Xtext",
+			"source" : "Xtext",
+			"description" : "Xtext"
+		}
+		
+	},
+	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
+	"why-happening": "Analysis of data trends is not currently available.",
+	"references" : "X<H3>References</H3>~P Christiaen B.,",
+	"target": "No targets are currently set for this indicator. ",
+	"interim-target": "XLink to interim targets http://www.psp.wa.gov/downloads/interimtargets/Shef",
+    "interim-target-title": "XPaste in the table number and table title",
+	"interim-target-table":"XGive Jon link to the Word file",
+    "map-link": "Xtell me where to find the map, or send it to me as a image file",
+	"map-link-text": "Xis there map text? if so it can go here",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",
@@ -54,6 +85,7 @@
 				"link-name" : "I am a link9",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
 			}	
-		}
-  }
+		},
+	"comment":"Xinsert comment"
+	}	
 }

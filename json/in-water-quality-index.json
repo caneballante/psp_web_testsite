@@ -1,22 +1,52 @@
-{
+﻿{
   "indicator": {
-    "goal": "name",
-    "vitalsign": "name",
-    "indicator-name": "Percent of shoreline inspection programs",
-    "lead": "Lead Name",
-    "contact": "Lead Contact",
-    "logo-link": "logo",
-"status-icon": "below target",
-"progress-icon": "getting better",
-    "progress-description": "Text goes here",
-	"data-chart": "Send me the image or reference in email I need to grab it from the indicator word doc",
-	"data-chart-details" : "Text goes here. NOTE IN ALL CAPS WHERE I NEED TO ADD A CHART",  
-	"why": "Text goes here",
-	"what": "Text goes here",
-    "target": "Target",
-	"interim-target": "Text goes here - NOTE IN ALL CAPS IF THERE IS A TABLE",
-    "map-link": "tell me where to find the map, or send it to me as a image file",
-	"map-link-text": "is there map text? if so it can go here",
+    "goal": "Healthy Water Quality",
+    "vitalsign": "Freshwater Quality",
+    "indicator-name": "Water Quality Index",
+    "lead": "Markus Von Prause",
+    "contact": "mvon461@ecy.wa.gov",
+    "logo-link": "ECY",
+	"last-updated": "June 28, 2017",
+	"status-icon": "below 2020 target",
+	"progress-icon": "not changing",
+	"progress-icon-tagline": "",
+	"what": "The Water Quality Index.~P The Water Quality Index for rivers and streams combines eight measures of water quality. Expectations for four of the component measures (dissolved oxygen, pH, temperature, and fecal coliform bacteria) are tied to the State’s Water Quality Standards for protecting aquatic life and contact recreation. The other four measures (nitrogen, phosphorus, suspended sediment, and turbidity) do not have numeric standards however they are related to general ecosystem function. Toxics are not included in the index.~P Index values are based on monthly monitoring at individual stations. The index values range from 1 to 100; a higher number is indicative of better water quality. However, a particular station may receive a good Water Quality Index score, and yet have water quality impaired by parameters not included in the index. Similarly, some locations may have poor Water Quality Index scores based on measures that do not have Water Quality Standards.~P In general, stations scoring 80 and above met expectations for water quality according to Washington State Standards for surface water quality (Chapter 173-201A WAC), scores 40 to 80 indicate water quality is marginal, and water quality at stations with scores below 40 do not meet expectations. For measures without established criteria, a score of 80 indicates conditions were better than 20% of results collected during an historical benchmark period. ~P The Washington State Department of Ecology, monitor 31 long-term monitoring statsions across Puget Sound watersheds. These stations are located all along rivers and streams, from the mouth of the rivers to further upstream toward the headwaters. The Puget Sound Partnership’s target data come from these 31 stations.",
+	"data" : {
+		"figure-1" : {
+			"title" : "NONE-but figure exists",
+			"subhead" : "1996-2016",
+			"figure-link" : "https://pspwa.box.com/s/qpbf1lvx6p97k7q6eevwiu1izl5u3rkl",
+			"caption" : "Bar chart of average annual WQI scores for 14 long term Puget Sound sites since 1996-2016. Trend in Overall WQI scores is indicated by the black trend line. WQI site inter annual variation is indicated by the black error bars. A good water quality is represented by the above 80 target value highlighted in red. ",
+			"source" : "NONE",
+			"description" : "X"
+		},
+		"figure-2" : {
+			"title" : "Table 1. Water Quality Index Trends for Puget Sound Rivers . ",
+			"subhead" : "2006-2016",
+			"figure-link" : "https://pspwa.box.com/s/qpbf1lvx6p97k7q6eevwiu1izl5u3rkl",
+			"caption" : "NONE",
+			"source" : "NONE",
+			"description" : "There has been no progress toward the 2020 target for the Water Quality Index. Only 29% of monitored stations were at or above the target value of 80, on average, from 2012 to 2016. This percentage is a few percentage points lower compared to the baseline reference established for the period 2007-2011 (32%), but the difference is not significant. Results suggest that the water quality for rivers and streams throughout Puget Sound has essentially remained unchanged for at least the past 10 years. In the longer-term, results from the trend analysis of 14 major rivers at their most downstream sites since 1996 suggest that there has been very little change in water quality at the vast majority of sites.  ~P However, freshwater quality index scores for major rivers in Puget Sound are in the mid-70s and show a slight improving trend in WQI scores of > 0.32 units per year (p<0.05) since 1996. Variability in WQI scores have also decreased since 1996 at a rate of > 5.0 units per year (p<0.01). In addition to some improvements in the overall mean annual scores since 1996 for major rivers in Puget Sound, fecal coliform bacteria ( .21 units  per year )and total nitrogen index scores (.31 units per year) also improved (p<0.05).  Furthermore, there are some slight reductions in mean annual stream temperature and total suspended sediment concentration on a few systems. However, Puget Sound-wide trends in index scores for other measures were not significant.  In terms of classifying overall water quality on individual Puget Sound stream systems, two river systems show some improving trends that are significant. However, due to the slow rate of improvements in overall Puget Sound water quality trends, the Partnership’s recovery target is not likely to be reached by 2020. ~P The earliest projection for meeting the target value for these 14 rivers would be 2025. When adjusted for differences in seasonal flows, the trend is much slower: average flow-adjusted scores of 80 are projected for 2060. Flow-adjusting accounts for the effect of flow on the parameters underlying the index. Our projection to and beyond 2020 is a best guess. Predictions are difficult due to fluctuations in drivers like the rate of population growth, global warming, and effectiveness of management activities, as well as possible long-term cycles not visible in the current 15-year dataset. For example, management tends to address the easier and more egregious problems first. As those problems get fixed, remaining problems become more difficult to correct with less effect on the water body for a given level of effort. Consequently, the rate of improvement in the index could be less, perhaps much less, than predicted by simply extending current trends."
+		},
+		"figure-3" : {
+			"title" : "Xtext",
+			"subhead" : "Xtext",
+			"figure-link" : "Xlink",
+			"caption" : "Xtext",
+			"source" : "Xtext",
+			"description" : "Xtext"
+		}
+		
+	},
+	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
+	"why-happening": "XText goes here",
+	"references" : "X<H3>References</H3>~P Christiaen B.,",
+	"target": "At least half of all monitored stations should score 80 or above on the Water Quality Index.",
+	"interim-target": "Interim targets have not been set for these indicators ",
+    "interim-target-title": "NONE",
+	"interim-target-table":"XGive Jon link to the Word file",
+    "map-link": "Xtell me where to find the map, or send it to me as a image file",
+	"map-link-text": "Xis there map text? if so it can go here",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",
@@ -54,6 +84,7 @@
 				"link-name" : "I am a link9",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
 			}	
-		}
-  }
+		},
+	"comment":"Xinsert comment"
+	}	
 }

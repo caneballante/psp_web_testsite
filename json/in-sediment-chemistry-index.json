@@ -1,22 +1,53 @@
-{
+﻿{
   "indicator": {
-    "goal": "name",
-    "vitalsign": "name",
-    "indicator-name": "Percent of shoreline inspection programs",
-    "lead": "Lead Name",
-    "contact": "Lead Contact",
-    "logo-link": "logo",
-"status-icon": "below target",
-"progress-icon": "getting better",
-    "progress-description": "Text goes here",
-	"data-chart": "Send me the image or reference in email I need to grab it from the indicator word doc",
-	"data-chart-details" : "Text goes here. NOTE IN ALL CAPS WHERE I NEED TO ADD A CHART",  
-	"why": "Text goes here",
-	"what": "Text goes here",
-    "target": "Target",
-	"interim-target": "Text goes here - NOTE IN ALL CAPS IF THERE IS A TABLE",
-    "map-link": "tell me where to find the map, or send it to me as a image file",
-	"map-link-text": "is there map text? if so it can go here",
+    "goal": "Healthy Water Quality",
+    "vitalsign": "Marine Sediment Quality",
+    "indicator-name": "Sediment Chemistry Index",
+    "lead": "Margaret Dutch",
+    "contact": "mdut461@ECY.WA.GOV",
+    "logo-link": "ECY",
+	"last-updated": "June 27, 2017",
+	"status-icon": "near or at 2020 target",
+	"progress-icon": "not changing",
+	"progress-icon-tagline": "There was no significant trend for this indicator.",	  
+    "progress-description": "Overall, sediments in Puget Sound have been and continue to be in generally good condition with regard to the measured set of chemicals, except in Elliott Bay near Seattle. ",
+	"what": "This indicator is the Sediment Chemistry Index.~P The Sediment Chemistry Index (SCI) is one component of the Sediment Quality Triad Index (SQTI), one of the other indicators for this Vital Sign. It combines data on the concentrations of 39 of 47 chemicals for which state Sediment Quality Standards Chemical Criteria have been set into an overall index of chemical exposure (Table 1). Contaminants measured that contribute to the SCI include metals, polychlorinated biphenyls (PCBs), polynuclear aromatic hydrocarbons (PAHs), phthalates, and various other pollutants. Higher index values indicate less exposure to chemicals and thus healthier sediments (Table 1). ~P Results from other chemicals of concern, such as polybrominated diphenyl ethers (PBDEs), pesticides, dioxins, furans, endocrine disrupting chemicals, pharmaceuticals, personal care products, and perfluorinated chemicals, for which either no state Sediment Quality Standards have been set or measurements were not taken, are not incorporated into the SCI.~P Tracking the SCI gives an indication of how concentrations of selected chemicals in marine sediments change over time, primarily in response to anthropogenic input, such as stormwater runoff and direct discharge, as well as cleanup activities and passive burial as cleaner sediments settle over older, and sometimes more contaminated, sediments. ~P Ecology’s Marine Sediment Monitoring Team (MSMT) is redesigning the PSEMP Sediment Component monitoring program.  We have made the decision to not complete a third round of regional sampling which would have commenced in 2016.  Therefore, there are no further additions to SCI regional graphics after 2014.",
+	"data" : {
+		"figure-1" : {
+			"title" : "FIGURE 1. MARINE SEDIMENT CHEMISTRY INDEX VALUES FOR EIGHT PUGET SOUND REGIONS",
+			"subhead" : "1997 to 2014, time period varies",
+			"figure-link" : "https://pspwa.box.com/s/uh4kpyyw2gkofvqy4k9c98b5bemfv1yc",
+			"caption" : "NONE",
+			"source" : "Source: Washington State Department of Ecology, Marine Sediment Monitoring Team",
+			"description" : "NONE"
+		},
+		"figure-2" : {
+			"title" : "FIGURE 2. MARINE SEDIMENT CHEMISTRY INDEX VALUES FOR SIX PUGET SOUND URBAN BAYS",
+			"subhead" : "1997 to 2015, time period varies",
+			"figure-link" : "https://pspwa.box.com/s/uh4kpyyw2gkofvqy4k9c98b5bemfv1yc",
+			"caption" : "NONE",
+			"source" : "Source: Washington State Department of Ecology, Marine Sediment Monitoring Team",
+			"description" : "NONE"
+		},
+		"figure-3" : {
+			"title" : "Xtext",
+			"subhead" : "Xtext",
+			"figure-link" : "Xlink",
+			"caption" : "Xtext",
+			"source" : "Xtext",
+			"description" : "Xtext"
+		}
+		
+	},
+	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
+	"why-happening": "NONE",
+	"references" : "X<H3>References</H3>~P Christiaen B.,",
+	"target": "All Puget Sound regions and bays, as characterized by ambient monitoring, will achieve chemistry measures reflecting “minimum exposure” with the Sediment Chemistry Index (SCI) scores (i.e.,  SCI values >93.3). ",
+	"interim-target": "<strong>Did the indicator meet its 2016 interim target?</strong>~B Sediment Chemistry Index scores for all regions, and most bays continue to meet or exceed the target value.  Since 1997, all of the eight sampled regions and five of six urban bays met the SCI target value, and index values in most areas changed little since the late 1990s.~B SCI scores have improved incrementally and significantly in Elliott Bay since 1998, but not enough to reach the target value.  ~B Commencement Bay SCI scores have increased over time and are above the target value.~B SCI scores for Bainbridge Basin increased slightly between 2009 and 2015, and the target value continues to be met.~B Sampling in 2016 in Bellingham Bay was delayed until 2017, so 2016 SCI target conditions cannot be evaluated until 2018.  ~P Given that sediment contamination generally changes very slowly, we expect most areas currently meeting the target to continue to do so through 2020 unless contaminant inputs to the areas increase. It is possible that the target may eventually be reached in Elliott Bay if conditions there continue to improve.",
+    "interim-target-title": "TABLE 2. PROGRESS TOWARD 2016 INTERIM TARGET",
+	"interim-target-table":"https://pspwa.box.com/s/uh4kpyyw2gkofvqy4k9c98b5bemfv1yc",
+    "map-link": "Xtell me where to find the map, or send it to me as a image file",
+	"map-link-text": "Xis there map text? if so it can go here",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",
@@ -54,6 +85,7 @@
 				"link-name" : "I am a link9",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
 			}	
-		}
-  }
+		},
+	"comment":"Xinsert comment"
+	}	
 }

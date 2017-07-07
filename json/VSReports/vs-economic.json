@@ -1,0 +1,64 @@
+{
+	"vitalSign": {
+		"goal": "Vibrant Quality of Life",
+		"name": "Economic Vitality",
+		"lead": "Economic Indicators Work Group (Subset of the Puget Sound Partnership Science Panel’s Social Science Advisory Committee) ",
+		"contact": "katharine.wellman@norecon.com",
+		"last-updated" : "last updated date",
+		"what": "The Economic Vitality Vital Sign tells us how well natural resource industries (including timber, fisheries, shellfish aquaculture, agriculture, and tourism and recreation) in Puget Sound are doing economically over time. Reporting on this Vital Sign is based on indicators of employment and the value of output/production of each natural resource sector. Natural resource industries comprise an important part of the region’s economy, providing jobs and personal income, as well as a tax base for local communities. These long-established industries also contribute significantly to residents’ cultural wellbeing and sense of place. Balancing recovery of natural resources with their economic use is critical to sustaining the social-ecological system of Puget Sound.    ",
+		"key-messages": "~B Making some progress overall among natural resource industrial sectors as employment in the tourism and recreation sector increased and remained steady in shellfish aquaculture. GDP in tourism and recreation increased significantly and production value remained steady in the timber sector.~B While there is variation between Puget Sound natural resource based industries the status of the economic health of these industries collectively, in terms of output/production value and employment, remains relatively strong.~B In 2014 Puget Sound’s natural resource industries had an average annualized GDP growth rate of approximately 3.8 percent, which fell behind Washington State’s overall average annualized GDP growth rate of 4.4 percent.~B The average annualized employment growth rate for Puget Sound’s natural resource industries was nearly 6.6 percent in 2014, higher than the statewide employment growth rate of 4.5 percent.~B Recreation and tourism in Puget Sound is in part driving the upward trend in employment in the natural resource based industries collectively. This sector is critically dependent on the health of Puget Sound.",
+		"progress_rating": {
+			"mp": 0,
+			"msp": 100,
+			"nc": 0,
+			"gsw": 0,
+			"gw": 0
+		},
+		"indicators": {
+			"indicator1_name": "Employment in natural resource industries",
+			"indicator2_name": "Natural resource industry output",
+			"indicator3_name": "Percent of GDP in natural resource-based industries to total GDP indicator"
+		},
+		"highlights": "highlights",
+		"highlight_photo": "image link",
+		 "links": {
+		"link0": {
+			"link-name" : "I am a link1",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link1": {
+			"link-name" : "I am a link2",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link2": {
+			"link-name" : "I am a link3",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link3": {
+			"link-name" : "I am a link4",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link4": {
+			"link-name" : "I am a link5",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link5": {
+			"link-name" : "I am a link6",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link6": {
+			"link-name" : "I am a link7",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link7": {
+			"link-name" : "I am a link8",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link8": {
+			"link-name" : "I am a link9",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		}	
+	}
+	}
+
+}

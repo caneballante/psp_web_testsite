@@ -1,22 +1,53 @@
-{
+﻿{
   "indicator": {
-    "goal": "name",
-    "vitalsign": "name",
-    "indicator-name": "Percent of shoreline inspection programs",
-    "lead": "Lead Name",
-    "contact": "Lead Contact",
-    "logo-link": "logo",
-"status-icon": "below target",
-"progress-icon": "getting better",
-    "progress-description": "Text goes here",
-	"data-chart": "Send me the image or reference in email I need to grab it from the indicator word doc",
-	"data-chart-details" : "Text goes here. NOTE IN ALL CAPS WHERE I NEED TO ADD A CHART",  
-	"why": "Text goes here",
-	"what": "Text goes here",
-    "target": "Target",
-	"interim-target": "Text goes here - NOTE IN ALL CAPS IF THERE IS A TABLE",
-    "map-link": "tell me where to find the map, or send it to me as a image file",
-	"map-link-text": "is there map text? if so it can go here",
+    "goal": "Healthy Water Quality",
+    "vitalsign": "Marine Sediment Quality",
+    "indicator-name": "Percent of chemical measurements exceeding SQS",
+    "lead": "Margaret Dutch",
+    "contact": "mdut461@ECY.WA.GOV",
+    "logo-link": "ECY",
+	"last-updated": "June 27, 2017",
+	"status-icon": "below 2020 target",
+	"progress-icon": "getting better",
+	"progress-icon-tagline": "Yes, this indicator has made gains relative to the baseline reference.",	  
+    "progress-description": "Although the target is not fully met across all of Puget Sound, recent improvements suggest progress toward the target:~B The percent of individual chemicals exceeding SQS since 1997 is typically small (mostly less than 1 percent) except for Central Sound, Elliott Bay, and Commencement Bay, where the number still never exceeded 6 percent. ~B Even fewer chemicals exceeded state SQS in the second round of sampling, with four regions dropping to zero, now meeting the target value in those areas. ~B Budd Inlet and the Port Gardner/Everett Harbor urban embayments are also at zero.~B Values calculated for the third round of sampling in Bainbridge Basin in 2015 remain unchanged.",
+	"what": "This indicator is Sediment Quality Standards.~P This indicator is the percent of individual chemical measurements that exceed the Washington Sediment Quality Standards (SQS), which is related to the Sediment Chemistry Index, another indicator for the marine sediment Vital Sign. ~P SQS values have been determined for a total of 47 chemicals in Puget Sound. Of those, 39 are included in the SCI and evaluated for this indicator.",
+	"data" : {
+		"figure-1" : {
+			"title" : "FIGURE 1. PERCENT OF CHEMICALS EXCEEDING SEDIMENT QUALITY STANDARDS",
+			"subhead" : "1997 – 2015, time period varies",
+			"figure-link" : "https://pspwa.box.com/s/agttnuz4hr5ffclj0gv7fiasdctbhj08",
+			"caption" : "Top panel: Values for eight Puget Sound regions; Bottom panel: Values for six Puget Sound urban bays",
+			"source" : "Source: Washington State Department of Ecology, Marine Sediment Monitoring Team",
+			"description" : "Note:  ~P Ecology’s Marine Sediment Monitoring Team (MSMT) is redesigning the PSEMP Sediment Component monitoring program.  We have made the decision to not complete a third round of regional sampling which would have commenced in 2015.  Therefore, there are no further additions to SQS regional graphics after 2014."
+		},
+		"figure-2" : {
+			"title" : "XFIGURE 2. COUNT OF EELGRASS",
+			"subhead" : "X2000 – 2015 (medium-term) and 2010-2015 (recent)",
+			"figure-link" : "Xhttps://pspwa.box.com/s/jl8s",
+			"caption" : "XNumber of sites with",
+			"source" : "XSource: Washington Depart",
+			"description" : "XWhen looking at change on a site by site basis"
+		},
+		"figure-3" : {
+			"title" : "Xtext",
+			"subhead" : "Xtext",
+			"figure-link" : "Xlink",
+			"caption" : "Xtext",
+			"source" : "Xtext",
+			"description" : "Xtext"
+		}
+		
+	},
+	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
+	"why-happening": "NONE",
+	"references" : "X<H3>References</H3>~P Christiaen B.,",
+	"target": "All Puget Sound regions and bays, as characterized by ambient monitoring, will have no measurements exceeding the Sediment Quality Standards (SQS) chemical criteria set for Washington State. ",
+	"interim-target": "Link to interim targets http://www.psp.wa.gov/downloads/interimtargets/Marine%20Sediment%20Quality%20Interim%20Targets%20-FINAL.pdf",
+    "interim-target-title": "Target conditions remained unchanged, and were not met in Bainbridge Basin in 2015.",
+	"interim-target-table":"https://pspwa.box.com/s/agttnuz4hr5ffclj0gv7fiasdctbhj08",
+    "map-link": "Xtell me where to find the map, or send it to me as a image file",
+	"map-link-text": "Xis there map text? if so it can go here",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",
@@ -54,6 +85,7 @@
 				"link-name" : "I am a link9",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
 			}	
-		}
-  }
+		},
+	"comment":"Xinsert comment"
+	}	
 }

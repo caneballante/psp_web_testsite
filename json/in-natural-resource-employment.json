@@ -1,22 +1,53 @@
-{
+﻿{
   "indicator": {
-    "goal": "name",
-    "vitalsign": "name",
-    "indicator-name": "Acres of harvestable shellfish",
-    "lead": "Lead Name",
-    "contact": "Lead Contact",
-    "logo-link": "logo",
-"status-icon": "below target",
-"progress-icon": "getting better",
-    "progress-description": "Text goes here",
-	"data-chart": "Send me the image or reference in email I need to grab it from the indicator word doc",
-	"data-chart-details" : "Text goes here. NOTE IN ALL CAPS WHERE I NEED TO ADD A CHART",  
-	"why": "Text goes here",
-	"what": "Text goes here",
-    "target": "Target",
-	"interim-target": "Text goes here - NOTE IN ALL CAPS IF THERE IS A TABLE",
-    "map-link": "tell me where to find the map, or send it to me as a image file",
-	"map-link-text": "is there map text? if so it can go here",
+    "goal": "Vibrant Quality of Life",
+    "vitalsign": "Economic Vitality",
+    "indicator-name": "Employment in in natural resource industries",
+    "lead": "Katherine Wellman",
+    "contact": "katharine.wellman@norecon.com",
+    "logo-link": "Northern Economics",
+	"last-updated": "June 23, 2017",
+	"status-icon": "no 2020 target",
+	"progress-icon": "mixed results",
+	"progress-icon-tagline": "Employment in shellfish aquaculture and timber remained steady between 2012 and 2014.  Fishing and agricultural employment decreased and tourism and recreation show significant increases in employment in the same time frame.",	  
+    "progress-description": "~B Combined employment in natural resource-driven industries in Puget Sound has trended upward from 76,046 jobs in 2005 to 90,982 jobs in 2014, largely impacted by growth in Puget Sound shoreline recreation and tourism.~B Aquaculture, agriculture and recreation and tourism sectors all report general employment growth from 2005 to 2014.~B On average, 4,524 employed or self-employed people reported fishing employment between 2005 and 2014. Fishing employment trend is mixed between 2005 and 2012, but reveals a recent decline of roughly 300 people between 2012 and 2014.~B The timber extraction industry lost employment from 2005 to 2011, but held steady around 1,300 jobs from 2011 to 2014.~B Removing recreation and tourism employment from combined employment reveals mixed estimates. Trends from 2005 to 2014 are likely driven by a combination of pre- and post-recession effects paired with recent below average Puget Sound fishery yields, and declines in timber and agriculture in recent years.",
+	"what": "This indicator tells us how many jobs are supported by natural resource industries in Puget Sound. Puget Sound residents have a strong connection to resource-based industries such as fishing, agriculture, aquaculture, timber, and tourism. While we can measure the economic output for these industries, it is also important to monitor how such output relates to the maintenance of job opportunities. Natural resource industries often provide employment to many generations of a family and define a way of life. In addition, employment in these sectors brings individuals in direct contact with the environment, which can foster an ethic of stewardship toward natural resources. ~P This indicator can be used to track changes in the sustainability of employment opportunities in natural resource industries. The data will be compiled from existing sources to provide information on the number of jobs in individual and combined natural resources-based industries in Puget Sound, by county, by year.",
+	"data" : {
+		"figure-1" : {
+			"title" : "FIGURE 1. NATURAL RESOURCE EMPLOYMENT IN PUGET SOUND, INCLUDING TIMBER, FISHING, AGRICULTURE, RECREATION AND TOURISM",
+			"subhead" : "2005-2014",
+			"figure-link" : "https://pspwa.box.com/s/38z18rqdubygeenfazpcs8ddhpggf6t5",
+			"caption" : "NONE",
+			"source" : "Sources: Bureau of Economic Analysis (BEA), Washington State Department of Agriculture (WSDA), Washington State Department of Natural Resources (WADNR), National Oceanic and Atmospheric Administration (NOAA), Bureau of Labor Statistics (BLS), and US Census Bureau.",
+			"description" : "NONE"
+		},
+		"figure-2" : {
+			"title" : "FIGURE 2. EMPLOYMENT (Number of Jobs) BY INDUSTRY IN PUGET SOUND",
+			"subhead" : "2005-2014",
+			"figure-link" : "https://pspwa.box.com/s/38z18rqdubygeenfazpcs8ddhpggf6t5",
+			"caption" : "NONE",
+			"source" : "Sources: Bureau of Economic Analysis (BEA), Washington State Department of Agriculture (WSDA), Washington State Department of Natural Resources (WADNR), National Oceanic and Atmospheric Administration (NOAA), Bureau of Labor Statistics (BLS), and US Census Bureau.",
+			"description" : "NONE"
+		},
+		"figure-3" : {
+			"title" : "Xtext",
+			"subhead" : "Xtext",
+			"figure-link" : "Xlink",
+			"caption" : "Xtext",
+			"source" : "Xtext",
+			"description" : "Xtext"
+		}
+		
+	},
+	"more-description" : "X<H3>Notes about the methods and the data:</H3>~P Timber and agricultural employment is provided by Headwaters Economics Economic Profiling System (EPS), derived from the Bureau of Economic Analysis (BEA), and reported by county.~P The geographical scope of the Puget Sound Partnership includes all counties adjoining the Puget Sound basin. The outer coast of the state is not included. To restrict timber and agricultural employment estimates accordingly, Washington State Department of Natural Resources (WADNR) forest practice and Washington State Department of Agriculture (WSDA) agricultural land use maps were intersected with county and Puget Sound Partnership boundaries. The percentage of timber or agricultural land use that fell within the Puget Sound Area was used to draw a proportion of total county employment. <strong>Timber and agriculture employment represents actual harvest and farming activities, and does not include mills, manufacturing or other farm support services.</strong>~P Fishing and Aquaculture employment is provided by NOAA’s Economics: National Ocean Watch program (ENOW), derived from the BLS Quarterly Census of Employment and Wages (QCEW), and reported by region. Fishing is defined as all finfish and shellfish fishing, while Aquaculture employment includes finfish farming, fish hatcheries, and shellfish farming. ENOW’s west region includes all counties in the Puget Sound Management Area, as well as the coastal counties of Greys Harbor, Pacific and Wahkiakum. To accurately reflect management area employment, QCEW employment for the outlying counties was collected and subtracted from the larger west region. U.S. Census Bureau non-employer statistics for the fishing industry were also added to the time series to reflect a large amount of self-employed people in the fishing industry. <strong>Fishing and Aquaculture employment includes harvest activities but does not include value added  seafood processing or markets, such as retail and wholesale distribution. Due to the mobility of the fishing fleet, place of work data may only partially capture Puget Sound employment.  Because of these two limitations the numbers report in the indicator assessment are probably under estimates of true employment in these two industries.</strong>  For example NEI (2013) reports employment in shellfish aquaculture to have been 2,710 jobs in 2010. ~P Recreation and tourism employment is reported by ENOW and includes boat dealers, eating and drinking places, hotels and lodging, marinas, recreational parks and campsites, scenic water tours, sporting goods, amusement and recreation services, and zoos and aquaria. <strong>Employment in this sector is reported only for zip codes that are adjacent to the coastal areas.</strong>~P Recreation and tourism employment in Jefferson and Clallam counties accounted for 3,328 jobs on average annually from 2005-2014. However, those counties are not included in the figures above because the indicator is focused on Puget Sound economic activity and we could not accurately remove Pacific coastal tourism and recreation employment from the total. Additionally, employment in Thurston County is not estimated by ENOW because the portion of coastal tourism and recreation that can be attributed to the Puget Sound versus the professional and political activity at the state’s capital is unclear. For these reasons, recreation and tourism estimates above should be considered conservative.",
+	"why-happening": "~B Ex vessel value from PACfin confirms slack years in commercial fisheries.  In addition, droughts and low runs of salmon may have led to loss of jobs in this sector between 2012 and 2014. ~B While employment in timber and agriculture sectors has shown moderate declines, output has remained the same or risen.  This trend could be the result of technological advances.~B Increases in employment in tourism and recreation may be attributable to greater consumer demand for farm to table destination dining, cruise ship and tribal casino visitation, accessible shore based recreation (kayaking, stand up paddle boarding, and etc.), and development of tourism infrastructure such as hotels and VRBO accomodations. Some aspects of this increased demand suggest that there is a consumer willingness to pay for the nonmarket attributes of the coastal ecosystem (such as recreation, aesthetics, and culture).",
+	"references" : "NONE,",
+	"target": "No targets are currently set for this indicator. ",
+	"interim-target": "XLink to interim targets ",
+    “interim-target-title”: “XPaste in the table number and table title”,
+	"interim-target-table":"XGive Jon link to the Word file",
+    "map-link": "Xtell me where to find the map, or send it to me as a image file",
+	"map-link-text": "Xis there map text? if so it can go here",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",

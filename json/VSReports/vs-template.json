@@ -1,0 +1,58 @@
+{
+	"vitalSign": {
+		"goal": "goal",
+		"name": "birds",
+		"lead": "lead",
+		"contact": "email",
+		"last-updated" : "June XX, 2017",
+		"what": "what",
+		"key-messages": "key messages",
+		"progress_rating": "",
+		"indicators": {
+			"indicator1_name": "indicator",
+			"indicator2_name": "indicator",
+			"indicator3_name": "indicator"
+		},
+		"highlights": "highlights",
+		"highlight_photo": "image link",
+		 "links": {
+		"link0": {
+			"link-name" : "I am a link1",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link1": {
+			"link-name" : "I am a link2",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link2": {
+			"link-name" : "I am a link3",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link3": {
+			"link-name" : "I am a link4",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link4": {
+			"link-name" : "I am a link5",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link5": {
+			"link-name" : "I am a link6",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link6": {
+			"link-name" : "I am a link7",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link7": {
+			"link-name" : "I am a link8",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link8": {
+			"link-name" : "I am a link9",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		}	
+	}
+	}
+
+}

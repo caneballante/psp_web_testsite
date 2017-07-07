@@ -1,22 +1,53 @@
-{
+﻿{
   "indicator": {
-    "goal": "name",
-    "vitalsign": "name",
-    "indicator-name": "Percent of shoreline inspection programs",
-    "lead": "Lead Name",
-    "contact": "Lead Contact",
-    "logo-link": "logo",
-"status-icon": "below target",
-"progress-icon": "getting better",
-    "progress-description": "Text goes here",
-	"data-chart": "Send me the image or reference in email I need to grab it from the indicator word doc",
-	"data-chart-details" : "Text goes here. NOTE IN ALL CAPS WHERE I NEED TO ADD A CHART",  
-	"why": "Text goes here",
-	"what": "Text goes here",
-    "target": "Target",
-	"interim-target": "Text goes here - NOTE IN ALL CAPS IF THERE IS A TABLE",
-    "map-link": "tell me where to find the map, or send it to me as a image file",
-	"map-link-text": "is there map text? if so it can go here",
+    "goal": "Healthy Water Quality",
+    "vitalsign": "Marine Sediment Quality",
+    "indicator-name": "Sediment Quality Triad Index",
+    "lead": "Margaret Dutch",
+    "contact": "mdut461@ECY.WA.GOV",
+    "logo-link": "ECY",
+	"last-updated": "June 27, 2017",
+	"status-icon": "below 2020 target",
+	"progress-icon": "mixed results",
+	"progress-icon-tagline": "The results for this indicator are mixed.  ",	  
+    "progress-description": "Sediment Quality Triad Index results suggest a mixed portrait of Puget Sound sediment quality. ~B Five of eight regions and three of six urban bays sampled since 1997 currently have mean SQTI scores that statistically meet the target value of 81.  Three regions, Hood Canal, the San Juan Islands, and the Eastern Strait of Juan de Fuca, and three bays, Bainbridge Basin, Bellingham Bay, and Budd Inlet, do not meet the target value. ~B Among eight regions and three bays that were re-sampled from 2004 – 2015, SQTI scores improved in Whidbey Basin, South Sound, the San Juan Islands, and Elliott Bay, but declined in the other eight areas. This decline in SQTI values is primarily due to declines in the number and types of benthic invertebrates, resulting in lower SQTI scores. Two bays, Bellingham Bay and Budd Inlet, for which baseline sampling was first conducted in 2010 and 2011, respectively, also did not meet the SQTI target value due to low numbers and types of benthic invertebrates.~B A third round of sampling was conducted in Elliott Bay in 2013, Commencement Bay in 2014, and Bainbridge Basin in 2015. On a positive note, the SQTI scores improved and exceeded the target value in Elliott Bay and Commencement Bay. As a result, the 2014 interim targets were all met.  The SQTI score for Bainbridge Basin in 2015, however, declined, fell below the target value, and did not meet the 2016 interim target.  Again, the declining score was due to lower numbers and types of benthic invertebrates.~B Hood Canal was not resampled in 2016, so the 2016 interim SQTI target could not be evaluated.",
+	"what": "This indicator is the Sediment Quality Triad Index.~P Sediment quality is a key indicator of a healthy ecosystem, and high-quality sediments support a diverse and important biological community. ~P Much of the floor of Puget Sound is covered with sediments—the gravel, sand, silt, and clay that has accumulated over years, decades, centuries, and even millennia. High-quality sediments support a diverse and important biological community. ~P The Sediment Quality Triad Index (SQTI) measures three aspects of sediment quality in Puget Sound. The SQTI includes: ~P 1) Chemical contamination, as described in the Sediment Chemistry Index (SCI), which is also an indicator for this Vital Sign;~P 2) Toxicity of the sediments to marine life, which measures the combined (synergistic) effects of those chemicals and other sediment characteristics on laboratory test organisms; and ~P 3) Diversity of the benthos, which measures the total number of organisms and total number of species of small invertebrates living in the sediments and reflects the actual biological condition of the sediments as a response to all possible human-caused and natural stressors, whether measured or not. ~P The SQTI ranges from 1-100, with higher index values indicating higher quality sediments (Table 1).",
+	"data" : {
+		"figure-1" : {
+			"title" : "FIGURE 1. MARINE SEDIMENT QUALITY TRIAD INDEX VALUES FOR EIGHT PUGET SOUND REGIONS",
+			"subhead" : "1997 to 2014, time period varies",
+			"figure-link" : "https://pspwa.app.box.com/file/49136915065",
+			"caption" : "NONE",
+			"source" : "Source: Washington State Department of Ecology, Marine Sediment Monitoring Team",
+			"description" : "NONE"
+		},
+		"figure-2" : {
+			"title" : "FIGURE 2. MARINE SEDIMENT QUALITY TRIAD INDEX VALUES FOR SIX PUGET SOUND URBAN BAYS",
+			"subhead" : "1997 to 2015, time period varies",
+			"figure-link" : "https://pspwa.app.box.com/file/49136915065",
+			"caption" : "NONE",
+			"source" : "Source: Washington State Department of Ecology, Marine Sediment Monitoring Team",
+			"description" : "Note:~B Ecology’s Marine Sediment Monitoring Team (MSMT) is redesigning the PSEMP Sediment Component monitoring program.  We have made the decision to not complete a third round of regional sampling which would have commenced in 2015.  Therefore, there are no further additions to SQTI regional graphics after 2014.~B Ecology’s MSMT has also made the decision to discontinue toxicity testing during annual urban bay work, therefore the SQTI cannot be calculated after 2015, when the last round of toxicity testing was conducted for Bainbridge Basin sediments."
+		},
+		"figure-3" : {
+			"title" : "Xtext",
+			"subhead" : "Xtext",
+			"figure-link" : "Xlink",
+			"caption" : "Xtext",
+			"source" : "Xtext",
+			"description" : "Xtext"
+		}
+		
+	},
+	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
+	"why-happening": "NONE",
+	"references" : "Dutch, M.E., E.R. Long, S. Weakland, V. Partridge, and K. Welch. 2014. Sediment Quality Indicators for Puget Sound. Indicator definitions, derivations, and graphic displays. Washington State Department of Ecology. Unpublished document. 8 pp.",
+	"target": "All Puget Sound regions and bays, as characterized by ambient monitoring, will achieve Sediment Quality Triad Index (SQTI) scores reflecting “unimpacted” conditions (i.e., SQTI values >81).",
+	"interim-target": "http://www.psp.wa.gov/downloads/interimtargets/Marine%20Sediment%20Quality%20Interim%20Targets%20-FINAL.pdf",
+    "interim-target-title": "TABLE 2. PROGRESS TOWARD 2016 INTERIM TARGETS",
+	"interim-target-table":"https://pspwa.app.box.com/file/49136915065",
+    "map-link": "Xtell me where to find the map, or send it to me as a image file",
+	"map-link-text": "Xis there map text? if so it can go here",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",
@@ -54,6 +85,7 @@
 				"link-name" : "I am a link9",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
 			}	
-		}
-  }
+		},
+	"comment":"Xinsert comment"
+	}	
 }

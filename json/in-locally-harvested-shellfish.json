@@ -1,0 +1,91 @@
+﻿{
+  "indicator": {
+    "goal": "Healthy Human Population",
+    "vitalsign": "Locally Harvestable Foods",
+    "indicator-name": "Recreational shellfish beds: specific indicator to be determined in 2016",
+    "lead": "TBD",
+    "contact": "TBD",
+    "logo-link": "TBD",
+	"last-updated": "June 28, 2017",
+	"status-icon": "no 2020 target",
+	"progress-icon": "insufficient or no data",
+	"progress-icon-tagline": "NONE",	  
+    "progress-description": "No data are currently available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
+	"what": "This indicator is currently under development. It will use existing data to provide an objective measure of the ability of Puget Sound residents to access recreational shellfish beds, based on the health of the natural resource. ",
+	"data" : {
+		"figure-1" : {
+			"title" : "XFIGURE",
+			"subhead" : "X2000",
+			"figure-link" : "Xhttps:",
+			"caption" : "XEstimated",
+			"source" : "XSource:",
+			"description" : "No data are currently available for this indicator. "
+		},
+		"figure-2" : {
+			"title" : "XFIGURE",
+			"subhead" : "X2000",
+			"figure-link" : "Xhttps:",
+			"caption" : "XNumber",
+			"source" : "XSource:",
+			"description" : "XWhen"
+		},
+		"figure-3" : {
+			"title" : "Xtext",
+			"subhead" : "Xtext",
+			"figure-link" : "Xlink",
+			"caption" : "Xtext",
+			"source" : "Xtext",
+			"description" : "Xtext"
+		}
+		
+	},
+	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
+	"why-happening": "Analysis of data trends is not currently available. ",
+	"references" : "X<H3>References</H3>~P Christiaen B.,",
+	"target": "No targets are currently set for this indicator. ",
+	"interim-target": "XLink to interim targets http://www.psp.wa.gov/downloads/interimtargets/Shef",
+    "interim-target-title": "XPaste in the table number and table title",
+	"interim-target-table":"XGive Jon link to the Word file",
+    "map-link": "Xtell me where to find the map, or send it to me as a image file",
+	"map-link-text": "Xis there map text? if so it can go here",
+   	"links": {
+			"link0": {
+				"link-name" : "I am a link1",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link1": {
+				"link-name" : "I am a link2",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link2": {
+				"link-name" : "I am a link3",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link3": {
+				"link-name" : "I am a link4",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link4": {
+				"link-name" : "I am a link5",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link5": {
+				"link-name" : "I am a link6",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link6": {
+				"link-name" : "I am a link7",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link7": {
+				"link-name" : "I am a link8",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link8": {
+				"link-name" : "I am a link9",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			}	
+		},
+	"comment":"Xinsert comment"
+	}	
+}

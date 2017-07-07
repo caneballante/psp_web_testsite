@@ -137,46 +137,10 @@ $(document).ready(function () {
 			$('#show-goal-heading > p').addClass('.heading');
 			$('#show-goal-heading > p').css("color", "#333");
 		};
-		/*
-		function buildChart (ratingArray){
-				var ctx = document.getElementById("myChart").getContext('2d');
-				var myChart = new Chart(ctx, {
-				type: 'bar',
-				data: {
-					labels: ["Making Progress", "Making Some Progress", "Not Changing", "Getting Somewhat Worse", "Getting Worse"],
-					datasets: [{
-						label: 'Percentage',
-						data: ratingArray,
-						backgroundColor: [
-							'rgba(255, 99, 132, 0.2)',
-							'rgba(54, 162, 235, 0.2)',
-							'rgba(255, 206, 86, 0.2)',
-							'rgba(75, 192, 192, 0.2)',
-							'rgba(153, 102, 255, 0.2)'
-
-						],
-						borderColor: [
-							'rgba(255,99,132,1)',
-							'rgba(54, 162, 235, 1)',
-							'rgba(255, 206, 86, 1)',
-							'rgba(75, 192, 192, 1)',
-							'rgba(153, 102, 255, 1)'
-						],
-						borderWidth: 1
-					}]
-				},
-				options: {
-					scales: {
-						yAxes: [{
-							ticks: {
-								beginAtZero:true
-							}
-						}]
-					}
-				}
-			});
-		};*/
-
+		
+//--------------------------------INDICATOR------------------------------------------		
+		
+		
 	};
 	//INDICATOR
 	if (whatVS === 0){
@@ -230,48 +194,103 @@ $(document).ready(function () {
 			//logo
 			var inLogo = (dataIN['indicator']['logo-link']);
 			$('#show-in-logo').html(inLogo);
+			
+			//last updated
+			var inLastUpdated = (dataIN['indicator']['last-updated']);
+			$('#show-in-last-updated').html(inLastUpdated);
 
+			
+			//status icon
+			var inStatusIcon = (dataIN['indicator']['status-icon']);
+			$('#show-in-status-icon').html(inStatusIcon);
+
+			//progress icon
+			var inProgressIcon = (dataIN['indicator']['progress-icon']);
+			$('#show-in-progress-icon').html(inProgressIcon);
+
+			//progress icon tagline
+			var inProgressIconTag = (dataIN['indicator']['progress-icon-tagline']);
+			$('#show-in-progress-icon-tag').html(inProgressIconTag);
+
+			//Progress Description
+			var inProgressDesc = (dataIN['indicator']['progress-description']);
+			var inProgressDescFmt = inProgressDesc.replace(new RegExp('~P', 'g'), '</p><p>');
+			var inProgressDescHtml = '<p>' + inProgressDescFmt + '</p>';
+			$('#show-in-progress-desc').html(inProgressDescHtml);
+			//this will need to be worked into the code - additional checks to start and end the bullet
+			//var vsKeyMessagesFmt = vsKeyMessagesSafe.replace(new RegExp('~B', 'g'), '</li><li>');
+			//var vsKeyMessagesHtml = '<ul><li>' + vsKeyMessagesFmt + '</li></ul>';
+			
 			//what
 			var inWhat = (dataIN['indicator']['what']);
 			var inWhatFmt = inWhat.replace(new RegExp('~P', 'g'), '</p><p>');
 			var inWhatHtml = '<p>' + inWhatFmt + '</p>';
 			$('#show-in-what').html(inWhatHtml);
 
-			//indicator-progress
-			var inProgress = (dataIN['indicator']['indicator-progress']);
-			var inProgressFmt = inProgress.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inProgressHtml = '<p>' + inProgressFmt + '</p>';
-			$('#show-in-progress').html(inProgressHtml);
+			
+			//data 
+			//need loop code
+			
+			//more description
+			var inMoreDescription = (dataIN['indicator']['more-description']);
+			var inMoreDescriptionFmt = inMoreDescription.replace(new RegExp('~P', 'g'), '</p><p>');
+			var inMoreDescriptionHtml = '<p>' + inMoreDescriptionFmt + '</p>';
+			$('#show-in-more-description').html(inMoreDescriptionHtml);
+			
+			//why happening
+			var inWhyHappen = (dataIN['indicator']['why-happening']);
+			var inWhyHappenFmt = inWhyHappen.replace(new RegExp('~P', 'g'), '</p><p>');
+			var inWhyHappenHtml = '<p>' + inWhyHappenFmt + '</p>';
+			$('#show-in-why-happen').html(inWhyHappenHtml);
 
-			//description
-			var inDescription = (dataIN['indicator']['description']);
-			var inDescriptionFmt = inDescription.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inDescriptionHtml = '<p>' + inDescriptionFmt + '</p>';
-			$('#show-in-description').html(inDescriptionHtml);
-
-			//interim target
-			var inInterimTarget = (dataIN['indicator']['interim-target']);
-			var inInterimTargetFmt = inInterimTarget.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inInterimTargetHtml = '<p>' + inInterimTargetFmt + '</p>';
-			$('#show-in-interim-target').html(inInterimTargetHtml);
-
-			//data
-			var inData = (dataIN['indicator']['data']);
-			var inDataFmt = inData.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inDataHtml = '<p>' + inDataFmt + '</p>';
-			$('#show-in-data').html(inDataHtml);
-
+			
+			//references
+			var inReferences = (dataIN['indicator']['references']);
+			var inReferencesFmt = inReferences.replace(new RegExp('~P', 'g'), '</p><p>');
+			var inReferencesHtml = '<p>' + inReferencesFmt + '</p>';
+			$('#show-in-references').html(inReferencesHtml);
+			
 			//target
 			var inTarget = (dataIN['indicator']['target']);
 			var inTargetFmt = inTarget.replace(new RegExp('~P', 'g'), '</p><p>');
 			var inTargetHtml = '<p>' + inTargetFmt + '</p>';
 			$('#show-in-target').html(inTargetHtml);
 
+			//interim target
+			var inInterimTarget = (dataIN['indicator']['interim-target']);
+			var inInterimTargetFmt = inInterimTarget.replace(new RegExp('~P', 'g'), '</p><p>');
+			var inInterimTargetHtml = '<p>' + inInterimTargetFmt + '</p>';
+			$('#show-in-interim-target').html(inInterimTargetHtml);
+			
+			//interim target table title
+			var inInterimTargetTableTitle = (dataIN['indicator']['interim-target-title']);
+			var inInterimTargetTableTitleFmt = inInterimTargetTableTitle.replace(new RegExp('~P', 'g'), '</p><p>');
+			var inInterimTargetTableTitleHtml = '<p>' + inInterimTargetTableTitleFmt + '</p>';
+			$('#show-in-interim-target-table-title').html(inInterimTargetTableTitleHtml);
+
+			//interim target table
+			var inInterimTargetTable = (dataIN['indicator']['interim-target-table']);
+			//this is a graphic link
+			//$('#show-in-data').html(inDataHtml);
+
 			//map
 			var inMap = (dataIN['indicator']['map-link']);
-			var inMapFmt = inMap.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inMapHtml = '<p>' + inMapFmt + '</p>';
-			$('#show-in-map').html(inMapHtml);
+			//this is a graphic link
+			
+			//map text
+			var inMapText = (dataIN['indicator']['map-link-text']);
+			var inMapTextFmt = inMap.replace(new RegExp('~P', 'g'), '</p><p>');
+			var inMapTextHtml = '<p>' + inMapTextFmt + '</p>';
+			$('#show-in-map-text').html(inMapTextHtml);
+			
+			//links
+			$.each((dataIN['indicator']['links']), function(i, linkSet) {
+					var inLinkURL = (linkSet['link-name']);
+					var inLinkName = (linkSet['link-url']);
+				//	var vslinkShow  = '<a href=' + vsLinkURL + '>' + vsLinkName '</a>';
+					var inlinkShow  = '<p><a href=">' + inLinkURL + '">' + inLinkName + '</a></p>';
+					$('#show-links').append(inlinkShow);
+				});
 		};
 	};
 });
