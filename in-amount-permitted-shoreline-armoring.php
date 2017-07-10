@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>2017 Vital Signs</title>
+<title>2017 Vital Signs - Amount of permitted shoreline armoring indicator</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -26,12 +26,10 @@
 	<script>  navSelected = 5;  subNavSelected = 1;
 	</script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js"></script>
-	
 	<script> 
 		// set to zero to indicate this isn't that kind of page. Used for if statement to run either VS or IN code
 		var whatVS = 0; 
-		var whatIN = "in-amount-permitted-shoreline-armoring.json";
+		var whatIN = "in-test.json";
 	</script>
 	<link href="css/style.css" rel="stylesheet" type="text/css">
 
@@ -72,7 +70,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" --> 
 		<?php include 'includes/in-content.html';?>
-		<script src="js/json_test_5.js"></script>
+		<script src="js/vital.js"></script>
 		
 		
 		

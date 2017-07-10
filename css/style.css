@@ -45,3 +45,8 @@
 .vs-nav-vital-indicator > a {
 	margin-left: 20px;
 }
+.heading {
+    font-size: 1em;
+    font-weight: 800;
+	margin-top:20px;
+}

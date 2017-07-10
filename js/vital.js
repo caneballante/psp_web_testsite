@@ -4,6 +4,8 @@ $(document).ready(function () {
 	var dataJS;
 	var dataIN;
 	var ratingArray = [];
+	
+	console.log("vital.js loaded")
 
 	//NAVIGATION
 	$("#nav" + navSelected).addClass("active");
@@ -14,6 +16,8 @@ $(document).ready(function () {
 	
 	
 	if (whatIN === 0){
+		
+		console.log("vital if ran")
 		//VITAL SIGNS 
 		//load headings
 		$.getJSON('json/vs_headings.json', function (data1) {
@@ -144,6 +148,7 @@ $(document).ready(function () {
 	};
 	//INDICATOR
 	if (whatVS === 0){
+		console.log("indicator if ran")
 	
 		$.getJSON("json/" + whatIN, function (data3) {
 			dataIN = data3;
@@ -194,7 +199,10 @@ $(document).ready(function () {
 
 			//logo
 			var inLogo = (dataIN['indicator']['logo-link']);
-			$('#show-in-logo').html(inLogo);
+			var inlogoHtml  = '<img src="images/vitalsigns/logos/' + inLogo + '.jpg" width="150" height="101" alt=""/>';
+			$('#show-in-logo').html(inlogoHtml);
+
+			
 			
 			//last updated
 			var inLastUpdated = (dataIN['indicator']['last-updated']);
