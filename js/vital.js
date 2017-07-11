@@ -202,13 +202,10 @@ $(document).ready(function () {
 			var inlogoHtml  = '<img src="images/vitalsigns/logos/' + inLogo + '.jpg" width="150" height="101" alt=""/>';
 			$('#show-in-logo').html(inlogoHtml);
 
-			
-			
 			//last updated
 			var inLastUpdated = (dataIN['indicator']['last-updated']);
 			$('#show-in-last-updated').html(inLastUpdated);
 
-			
 			//status icon
 			var inStatusIcon = (dataIN['indicator']['status-icon']);
 			$('#show-in-status-icon').html(inStatusIcon);
@@ -232,13 +229,32 @@ $(document).ready(function () {
 			
 			//what
 			var inWhat = (dataIN['indicator']['what']);
-			var inWhatFmt = inWhat.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inWhatHtml = '<p>' + inWhatFmt + '</p>';
+			var inWhatFmtParagraphs = inWhat.replace(new RegExp('~P', 'g'), '</p><p>');
+			var inWhatFmtStartUL = inWhatFmtParagraphs.replace(new RegExp('~BB', 'g'), '</p><ul><li>');
+			var inWhatFmtEndUL = inWhatFmtStartUL.replace(new RegExp('~EB', 'g'), '</li></ul><p>');
+			var inWhatFmtBullets = inWhatFmtEndUL.replace(new RegExp('~B', 'g'), '</li><li>');
+			var inWhatHtml = '<p>' + inWhatFmtBullets + '</p>';
 			$('#show-in-what').html(inWhatHtml);
 
 			
 			//data 
-			//need loop code
+			$.each((dataIN['indicator']['data']), function(i, dataSet) {
+				var inDataTitle = '<p>'+(dataSet['title'])+'</p>';
+				var inDataSubhead = '<p>'+(dataSet['subhead'])+'</p>';
+				var inDataFigure = '<img src="images/vitalsigns/' + (dataSet['figure-link']) + '" width="715" height="491" alt=""/>';
+				var inDataCaption = '<p>'+(dataSet['caption'])+'</p>';
+				var inDataSource = '<p>'+(dataSet['source'])+'</p>';
+				var inDataDescription ='<p>'+ (dataSet['description']);
+					
+				//	var vslinkShow  = '<a href=' + vsLinkURL + '>' + vsLinkName '</a>';
+					//var inlinkShow  = '<p><a href="' + inLinkURL + '">' + inLinkName + '</a></p>';
+				$('#show-in-data').append(inDataTitle);
+				$('#show-in-data').append(inDataSubhead);
+				$('#show-in-data').append(inDataFigure);
+				$('#show-in-data').append(inDataCaption);
+				$('#show-in-data').append(inDataSource);
+				$('#show-in-data').append(inDataDescription);
+			});
 			
 			//more description
 			var inMoreDescription = (dataIN['indicator']['more-description']);
@@ -294,11 +310,12 @@ $(document).ready(function () {
 			
 			//links
 			$.each((dataIN['indicator']['links']), function(i, linkSet) {
-					var inLinkURL = (linkSet['link-name']);
-					var inLinkName = (linkSet['link-url']);
+					var inLinkURL = (linkSet['link-url']);
+					var inLinkName = (linkSet['link-name']);
+					console.log(inLinkName);
 				//	var vslinkShow  = '<a href=' + vsLinkURL + '>' + vsLinkName '</a>';
-					var inlinkShow  = '<p><a href=">' + inLinkURL + '">' + inLinkName + '</a></p>';
-					$('#show-links').append(inlinkShow);
+					var inlinkShow  = '<p><a href="' + inLinkURL + '">' + inLinkName + '</a></p>';
+					$('#show-in-links').append(inlinkShow);
 				});
 		};
 	};

@@ -73,7 +73,6 @@
 		<script src="js/vital.js"></script>
 		
 		
-		
 		<!-- InstanceEndEditable --> </div>
 		
 		
