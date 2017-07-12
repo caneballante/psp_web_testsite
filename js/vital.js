@@ -4,6 +4,8 @@ $(document).ready(function () {
 	var dataJS;
 	var dataIN;
 	var ratingArray = [];
+	var imgHeight;
+	var imgWidth;
 	
 	console.log("vital.js loaded")
 
@@ -14,6 +16,35 @@ $(document).ready(function () {
 		$("#subnav" + subNavSelected).addClass("active");
 	};
 	
+	function bulletMaker (bullitefy){
+		var bulletStart = bullitefy.replace(new RegExp('~SL', 'g'), '</p><ul><li>');
+		var bulletMiddle = bulletStart.replace(new RegExp('~EL', 'g'), '</li></ul><p>');
+		var bulletEnd = bulletMiddle.replace(new RegExp('~B', 'g'), '</li><li>');
+		return(bulletEnd);
+	};
+	//need to finish this function  
+	function paragraphMaker (paragraphify){
+		var addParagraph = paragraphify.replace(new RegExp('~P', 'g'), '</p><p>');
+		var wrapParagraph = '<p>' + addParagraph + '</p>';
+		return(wrapParagraph);
+	};
+	//imageloader not working yet. I don't sufficiently understand scope to get the width and height to the outer scope.
+	function imageLoader (imagify){
+		var img = new Image();
+		img.onload = function() {
+  			imgWidth = this.width;
+			imgHeight = this.height;
+			//var poop = (setImgWidthHeight (imgWidth, imgHeight, imagify));
+			//console.log (poop)
+		};
+		img.src = "images/vitalsigns/" + imagify;	
+		//var inDataFigure = '<img src="images/vitalsigns/' + (dataSet['figure-link']) + '" width="715" height="491" alt=""/>';
+	};
+	
+	function setImgWidthHeight (imgWidth, imgHeight, imagify){
+		return ("poopy");
+		//console.log("setImgWidthHeight function variables = " + imgWidth + " " + imgHeight + " " + imagify)
+	}; 
 	
 	if (whatIN === 0){
 		
@@ -169,32 +200,27 @@ $(document).ready(function () {
 
 			//goal
 			var inGoal = (dataIN['indicator']['goal']);
-			var inGoalFmt = inGoal.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inGoalHtml = '<p>' + inGoalFmt + '</p>';
+			var inGoalHtml = paragraphMaker(inGoal);
 			$('#show-in-goal').html(inGoalHtml);
 
 			//vital sign
 			var inVitalSign = (dataIN['indicator']['vitalsign']);
-			var inVitalFmt = inVitalSign.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inVitalHtml = '<p>' + inVitalFmt + '</p>';
+			var inVitalHtml = paragraphMaker(inVitalSign);
 			$('#show-in-vitalsign').html(inVitalHtml);
 
 			//indicator
 			var inIndicator = (dataIN['indicator']['indicator-name']);
-			var inIndicatorFmt = inIndicator.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inIndicatorHtml = '<p>' + inIndicatorFmt + '</p>';
+			var inIndicatorHtml = paragraphMaker(inIndicator);
 			$('#show-in-name').html(inIndicatorHtml);
 
 			//lead
 			var inLead = (dataIN['indicator']['lead']);
-			var inLeadFmt = inLead.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inLeadHtml = '<p>' + inLeadFmt + '</p>';
+			var inLeadHtml = paragraphMaker(inLead);
 			$('#show-in-lead').html(inLeadHtml);
 
 			//contact
 			var inContact = (dataIN['indicator']['contact']);
-			var inContactFmt = inContact.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inContactHtml = '<p>' + inContactFmt + '</p>';
+			var inContactHtml = paragraphMaker(inContact);
 			$('#show-in-contact').html(inContactHtml);
 
 			//logo
@@ -220,20 +246,14 @@ $(document).ready(function () {
 
 			//Progress Description
 			var inProgressDesc = (dataIN['indicator']['progress-description']);
-			var inProgressDescFmt = inProgressDesc.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inProgressDescHtml = '<p>' + inProgressDescFmt + '</p>';
+			var inProgressDescHtml = paragraphMaker(inProgressDesc);
 			$('#show-in-progress-desc').html(inProgressDescHtml);
-			//this will need to be worked into the code - additional checks to start and end the bullet
-			//var vsKeyMessagesFmt = vsKeyMessagesSafe.replace(new RegExp('~B', 'g'), '</li><li>');
-			//var vsKeyMessagesHtml = '<ul><li>' + vsKeyMessagesFmt + '</li></ul>';
+
 			
 			//what
 			var inWhat = (dataIN['indicator']['what']);
-			var inWhatFmtParagraphs = inWhat.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inWhatFmtStartUL = inWhatFmtParagraphs.replace(new RegExp('~BB', 'g'), '</p><ul><li>');
-			var inWhatFmtEndUL = inWhatFmtStartUL.replace(new RegExp('~EB', 'g'), '</li></ul><p>');
-			var inWhatFmtBullets = inWhatFmtEndUL.replace(new RegExp('~B', 'g'), '</li><li>');
-			var inWhatHtml = '<p>' + inWhatFmtBullets + '</p>';
+			var inWhatBullets = bulletMaker(inWhat);
+			var inWhatHtml = paragraphMaker(inWhatBullets);
 			$('#show-in-what').html(inWhatHtml);
 
 			
@@ -241,6 +261,7 @@ $(document).ready(function () {
 			$.each((dataIN['indicator']['data']), function(i, dataSet) {
 				var inDataTitle = '<p>'+(dataSet['title'])+'</p>';
 				var inDataSubhead = '<p>'+(dataSet['subhead'])+'</p>';
+				imageLoader (dataSet['figure-link']);
 				var inDataFigure = '<img src="images/vitalsigns/' + (dataSet['figure-link']) + '" width="715" height="491" alt=""/>';
 				var inDataCaption = '<p>'+(dataSet['caption'])+'</p>';
 				var inDataSource = '<p>'+(dataSet['source'])+'</p>';
@@ -312,7 +333,6 @@ $(document).ready(function () {
 			$.each((dataIN['indicator']['links']), function(i, linkSet) {
 					var inLinkURL = (linkSet['link-url']);
 					var inLinkName = (linkSet['link-name']);
-					console.log(inLinkName);
 				//	var vslinkShow  = '<a href=' + vsLinkURL + '>' + vsLinkName '</a>';
 					var inlinkShow  = '<p><a href="' + inLinkURL + '">' + inLinkName + '</a></p>';
 					$('#show-in-links').append(inlinkShow);
