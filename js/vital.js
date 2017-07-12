@@ -246,6 +246,7 @@ $(document).ready(function () {
 
 			//Progress Description
 			var inProgressDesc = (dataIN['indicator']['progress-description']);
+			var inProgressDesc = bulletMaker(inProgressDesc);
 			var inProgressDescHtml = paragraphMaker(inProgressDesc);
 			$('#show-in-progress-desc').html(inProgressDescHtml);
 
