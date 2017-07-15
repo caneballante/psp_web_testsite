@@ -19,35 +19,19 @@
 			"figure-link" : "https://pspwa.box.com/s/qopjejm2hc2t2mkygp54ke7cp1lejgnd",
 			"caption" : "* This number reflects new growth occurring within UGAs and migration of some existing population into UGAs",
 			"source" : "Source: Washington Department of Fish and Wildlife, Habitat Program, and the U.S. Census:",
-			"description" : "Washington population data, based on 2010 U.S. Census data, was used for the baseline analysis of population growth distribution for urban growth areas and rural areas between 2000 and 2010 (Table 1). Basin-wide, 83 percent of new population growth from 2000 to 2010 occurred within urban growth areas. For individual counties, the proportion of growth occurring within urban growth areas ranged from a low of 28 percent for Mason and Jefferson counties to highs of 92 percent and 101 percent for Snohomish and King counties, respectively. ~P Data are not currently available to complete a trend analysis of population distribution patterns over the past 10 years. However, the Washington State Department of Commerce has been collecting data on the distribution of permits for new development and a preliminary analysis suggests that growth is increasingly occurring within urban growth areas. For five central Puget Sound counties, the proportion of permits for new development within urban growth areas increased at an average rate of 0.85 percent per year from 2003 to 2010. Carried out over 10 years, these permit data suggest an almost 10 percent increase in the proportion of growth going into urban growth areas in central Puget Sound. While permit activity does not correlate exactly to population increase, these reports provide an indication of progress (in a five-county area) toward the 2020 recovery goal of an increasing proportion of population growth with urban growth areas.  "
-		},
-		"figure-2" : {
-			"title" : "XFIGURE",
-			"subhead" : "X2000",
-			"figure-link" : "Xhttps:",
-			"caption" : "XNumber",
-			"source" : "XSource:",
-			"description" : "XWhen"
-		},
-		"figure-3" : {
-			"title" : "Xtext",
-			"subhead" : "Xtext",
-			"figure-link" : "Xlink",
-			"caption" : "Xtext",
-			"source" : "Xtext",
-			"description" : "Xtext"
+			"description" : "Washington population data, based on 2010 U.S. Census data, was used for the baseline analysis of population growth distribution for urban growth areas and rural areas between 2000 and 2010 (Table 1). Basin-wide, 83 percent of new population growth from 2000 to 2010 occurred within urban growth areas. For individual counties, the proportion of growth occurring within urban growth areas ranged from a low of 28 percent for Mason and Jefferson counties to highs of 92 percent and 101 percent for Snohomish and King counties, respectively. ~P Data are not currently available to complete a trend analysis of population distribution patterns over the past 10 years. However, the Washington State Department of Commerce has been collecting data on the distribution of permits for new development and a preliminary analysis suggests that growth is increasingly occurring within urban growth areas. For five central Puget Sound counties, the proportion of permits for new development within urban growth areas increased at an average rate of 0.85 percent per year from 2003 to 2010. Carried out over 10 years, these permit data suggest an almost 10 percent increase in the proportion of growth going into urban growth areas in central Puget Sound. While permit activity does not correlate exactly to population increase, these reports provide an indication of progress (in a five-county area) toward the 2020 recovery goal of an increasing proportion of population growth with urban growth areas. "
 		}
 		
 	},
-	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
-	"why-happening": "XText",
-	"references" : "X<H3>References</H3>~P Christiaen B.,",
+	"more-description" : "X",
+	"why-happening": "X",
+	"references" : "X",
 	"target": "The proportion of basin-wide growth occurring within urban growth areas is at least 86.5 percent (equivalent to all counties exceeding their population growth goals by 3 percent), with all counties showing an increase over their 2000−2010 percentage.",
 	"interim-target": "There currently are no interim targets for this Vital Sign.",
-    "interim-target-title": "XPaste in the table number and table title",
-	"interim-target-table":"XGive Jon link to the Word file",
-    "map-link": "Xtell me where to find the map, or send it to me as a image file",
-	"map-link-text": "Xis there map text? if so it can go here",
+    "interim-target-title": "X",
+	"interim-target-table":"X",
+    "map-link": "X",
+	"map-link-text": "X",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",

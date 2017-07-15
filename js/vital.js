@@ -8,7 +8,16 @@ $(document).ready(function () {
 	var imgWidth;
 	
 	console.log("vital.js loaded")
-
+	
+	//untested for loop to open close nav without changing pages
+/*	for (i= 0; i<11; i++){
+		console.log(i);
+		$("#nav" + i).click(function(){
+			$("#nav" + i).addClass("subNavOn");	
+			console.log ("nav fired")
+		});
+	}
+*/
 	//NAVIGATION
 	$("#nav" + navSelected).addClass("active");
 	$("#nav" + navSelected).addClass("subNavOn");
@@ -22,24 +31,37 @@ $(document).ready(function () {
 		var bulletEnd = bulletMiddle.replace(new RegExp('~B', 'g'), '</li><li>');
 		return(bulletEnd);
 	};
-	//need to finish this function  
+	
 	function paragraphMaker (paragraphify){
 		var addParagraph = paragraphify.replace(new RegExp('~P', 'g'), '</p><p>');
 		var wrapParagraph = '<p>' + addParagraph + '</p>';
 		return(wrapParagraph);
 	};
-	//imageloader not working yet. I don't sufficiently understand scope to get the width and height to the outer scope.
+	/*window.vitalSigns = {}
+	//stuff I messed around with felix
 	function imageLoader (imagify){
+		window.vitalSigns.hash = {
+			'foo': 'bar'
+		}
+		
 		var img = new Image();
+		console.log('1');
 		img.onload = function() {
+			console.log('2');
   			imgWidth = this.width;
 			imgHeight = this.height;
+			console.log(hash['foo']);
+			
 			//var poop = (setImgWidthHeight (imgWidth, imgHeight, imagify));
 			//console.log (poop)
 		};
+		hash['foo'] = 'baz';
+		console.log('3');
+
 		img.src = "images/vitalsigns/" + imagify;	
 		//var inDataFigure = '<img src="images/vitalsigns/' + (dataSet['figure-link']) + '" width="715" height="491" alt=""/>';
 	};
+	*/
 	
 	function setImgWidthHeight (imgWidth, imgHeight, imagify){
 		return ("poopy");
@@ -262,12 +284,12 @@ $(document).ready(function () {
 			$.each((dataIN['indicator']['data']), function(i, dataSet) {
 				var inDataTitle = '<p>'+(dataSet['title'])+'</p>';
 				var inDataSubhead = '<p>'+(dataSet['subhead'])+'</p>';
-				imageLoader (dataSet['figure-link']);
 				var inDataFigure = '<img src="images/vitalsigns/' + (dataSet['figure-link']) + '" width="715" height="491" alt=""/>';
 				var inDataCaption = '<p>'+(dataSet['caption'])+'</p>';
 				var inDataSource = '<p>'+(dataSet['source'])+'</p>';
-				var inDataDescription ='<p>'+ (dataSet['description']);
-					
+				var inDataDescription = (dataSet['description']);
+				var inDataDescriptionBullets = bulletMaker(inDataDescription);
+				var inDataDescriptionHtml = paragraphMaker(inDataDescriptionBullets);
 				//	var vslinkShow  = '<a href=' + vsLinkURL + '>' + vsLinkName '</a>';
 					//var inlinkShow  = '<p><a href="' + inLinkURL + '">' + inLinkName + '</a></p>';
 				$('#show-in-data').append(inDataTitle);
@@ -275,7 +297,7 @@ $(document).ready(function () {
 				$('#show-in-data').append(inDataFigure);
 				$('#show-in-data').append(inDataCaption);
 				$('#show-in-data').append(inDataSource);
-				$('#show-in-data').append(inDataDescription);
+				$('#show-in-data').append(inDataDescriptionHtml);
 			});
 			
 			//more description

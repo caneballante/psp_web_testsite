@@ -72,7 +72,7 @@
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" --> 
 		<?php include 'includes/in-content.html';?>
-		<script src="js/json_test_5.js"></script>
+		<script src="js/vital.js"></script>
 		
 		
 		

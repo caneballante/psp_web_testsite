@@ -3,21 +3,15 @@
 		"goal": "goal",
 		"name": "birds",
 		"lead": "lead",
-		"contact": "Contact goes here",
+		"contact": "email",
 		"last-updated" : "last updated date",
 		"what": "what",
 		"key-messages": "key messages",
-		"progress_rating": {
-			"mp": 0,
-			"msp": 70,
-			"nc": 15,
-			"gsw": 15,
-			"gw": 0
-		},
+		
 		"indicators": {
-			"indicator1_name": "indicator 1",
-			"indicator2_name": "indicator 2",
-			"indicator3_name": "indicator 3"
+			"indicator1_name": "indicator",
+			"indicator2_name": "indicator",
+			"indicator3_name": "indicator"
 		},
 		"highlights": "highlights",
 		"highlight_photo": "image link",

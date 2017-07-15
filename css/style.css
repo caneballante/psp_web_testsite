@@ -36,6 +36,10 @@
 /*overwriting the custom css from the main site- want the main nav to align left*/
 .nav-leftside-custom {
     text-align: left;
+	
+}
+.nav-leftside-custom a {
+    font-size: 12px;
 }
 
 .vs-nav-goal > a {
@@ -45,6 +49,26 @@
 .vs-nav-vital-indicator > a {
 	margin-left: 20px;
 }
+/*overwrites bootstrap*/
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 3px 5px;
+}
+.nav-leftside-custom .subLeftNav a {
+    font-size: 12px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+/*overwrite rule in bootstrap to compress vital nav vertically*/
+hr {    
+	margin-top: 5px;
+    margin-bottom: 5px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+
 .heading {
     font-size: 1em;
     font-weight: 800;

@@ -1,22 +1,17 @@
 {
 	"vitalSign": {
-		"goal": "goal",
+		"goal": "Protected and Restored Habitat",
 		"name": "Estuaries",
-		"lead": "lead",
-		"contact": "Contact goes here",
-		"what": "what",
-		"key-messages": "key messages",
-		"progress_rating": {
-			"mp": 0,
-			"msp": 70,
-			"nc": 15,
-			"gsw": 15,
-			"gw": 0
-		},
+		"lead": "PSEMP Nearshore work group",
+		"contact": "tofty@u.washington.edu",
+		"last-updated" : "last updated date",
+		"what": "A functioning, resilient Puget Sound ecosystem is defined to include tidally-influenced wetland habitats at the estuaries of Puget Sound’s major rivers that provide ecosystem functions, goods, and services. 75% of river delta tidal wetlands have been lost or degraded in Puget Sound. River delta estuaries, a unique environment where freshwater mixes with salt water and sediments collect, provide important feeding and resting habitat for young salmon, migratory birds, and many other species that cannot find these unique benefits in any other place in our landscape. These areas are also highly valuable for people: they have been heavily developed and they provide some of the most fertile agricultural lands in the region. The estuary Vital Sign tracks protection, loss, and restoration of large and small estuaries.",
+		"key-messages": "~B	Some progress is being made for this Vital Sign, as investments in restoring estuary habitat incrementally improves habitat for salmon in large river deltas. Approximately 2,791 acres, or about 38 percent of the 2020 target, of estuarine wetlands at 28 projects in the 16 major river deltas were restored to tidal flooding between 2006 and 2016.~B Since 2014, 522 acres, or almost seven percent of the 2020 target, were restored in the Skagit (Fir Island Farms), Snohomish (Qwuloolt), and Skokomish river deltas.~B Large acreage has been gained on the Dungeness, Quilcene, Skokomish, Skagit, Nooksack, Stillaguamish, and Nisqually deltas. In particular, work in the Quilcene, Skokomish, and Nisqually has restored almost the full extent of historical tidal flows.~B Roughly 1,144 acres of restoration are anticipated over the next five years. At this rate, the indicator is not likely to reach the 2020 target.~B The number of large-scale estuary restoration projects implemented between now and 2020 will depend on a successful combination of funding, available land, politics, knowledge, project development, and permitting.",
+		
 		"indicators": {
-			"indicator1_name": "indicator 1",
-			"indicator2_name": "indicator 2",
-			"indicator3_name": "indicator 3"
+			"indicator1_name": "Area of estuarine wetlands restored to tidal flooding",
+			"indicator2_name": "Estuary restoration meeting salmon recovery goals",
+			"indicator3_name": "indicator"
 		},
 		"highlights": "highlights",
 		"highlight_photo": "image link",

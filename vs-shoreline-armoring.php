@@ -71,7 +71,7 @@
 		</div>
 		 
 		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" --><?php include 'includes/vs-content.html';?>
-		<script src="js/json_test_5.js"></script><!-- InstanceEndEditable --></div>
+		<script src="js/vital.js"></script><!-- InstanceEndEditable --></div>
 		
 		</div>
 	<!--END OF ROW --> 

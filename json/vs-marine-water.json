@@ -1,0 +1,58 @@
+{
+	"vitalSign": {
+		"goal": "Healthy Water Quality",
+		"name": "Marine Waters",
+		"lead": "PSEMP Marine Waters Workgroup",
+		"contact": "JBOS461@ECY.WA.GOV",
+		"last-updated" : "last updated date",
+		"what": "Marine water quality refers to many aspects of water such as temperature, salinity, oxygen, nutrient levels, algae biomass, and pH. In much of Puget Sound, marine water quality is affected by many different factors including weather, climate and natural circulation patterns, inflow from rivers and streams, discharges from wastewater treatment plants and industries, offshore ocean conditions, erosion and storm-water runoff, ground water, and other pollution. This Vital Sign tells us about the combined impacts of global and local change and human-caused stresses on Puget Sound marine waters.",
+		"key-messages": "~B The status of this Vital Sing is getting somewhat worse, but there is uncertainty and may in fact be getting worse. ~B Record breaking warm air and water temperatures in 2015, caused by the Pacific Ocean “Blob” and El Niño, occurred and altered the timing of the water cycle and amplified the seasonality of salinity; a fresher water column in spring and early summer, higher salinity and reduced water renewal in summer increasing the likelihood of pollutant buildup, followed by heavy rains and dilution of surface water in Puget Sound in late fall.~B Dissolved oxygen levels impacted by the Blob improved due to favorable physical conditions of vertical mixing of the water column in the summer in Puget Sound, with only Hood Canal showing decreasing oxygen levels and a fish kill.~B Climate conditions resulted in earlier spring phytoplankton blooms, affecting zooplankton abundances and community structure, accompanied by unusually high ammonium concentrations and abundant gelatinous zooplankton. Harmful algal blooms (HABs) were widespread and unprecedented but no illnesses were reported. Laboratory-confirmed illnesses for vibrio, on the other hand, occurred frequently after consumption of raw oysters.~B Atmospheric carbon dioxide levels increased along the coast similarly to global levels, with Hood Canal levels rising faster than along the coast. This increase has implications for local impacts of ocean acidification.~B The yearly Marine Water Condition Index scores for the Puget Sound region generally declined over 17 years and fluctuations in scores show the influence from El Niño climate patterns. Regionally, index scores in Bellingham Bay, Sinclair Inlet, and Oakland Bay declined, more consistently over 17 years, and Budd Inlet declined significantly over the last decade.",
+		
+		"indicators": {
+			"indicator1_name": "Marine Water Condition Index",
+			"indicator2_name": "Dissolved oxygen in marine waters",
+			"indicator3_name": "NONE"
+		},
+		"highlights": "highlights",
+		"highlight_photo": "image link",
+		 "links": {
+		"link0": {
+			"link-name" : "I am a link1",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link1": {
+			"link-name" : "I am a link2",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link2": {
+			"link-name" : "I am a link3",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link3": {
+			"link-name" : "I am a link4",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link4": {
+			"link-name" : "I am a link5",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link5": {
+			"link-name" : "I am a link6",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link6": {
+			"link-name" : "I am a link7",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link7": {
+			"link-name" : "I am a link8",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		},
+		"link8": {
+			"link-name" : "I am a link9",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		}	
+	}
+	}
+
+}
