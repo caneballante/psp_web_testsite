@@ -1,12 +1,10 @@
 $(document).ready(function () {	
 	
 	//Initialize variables and arrays
-	var dataJS;
-	var dataIN;
-	var ratingArray = [];
-	var imgHeight;
-	var imgWidth;
+	//var dataJS;
+	//var dataIN;
 	
+
 	console.log("vital.js loaded")
 	
 	//untested for loop to open close nav without changing pages
@@ -116,15 +114,20 @@ $(document).ready(function () {
 
 			//indicators
 			$.each((dataVS['vitalSign']['indicators']), function(i, indicator) {
-				var allIndicators = '<p>' + indicator + '</p>'
-				$('#show-indicators').append(allIndicators);
+				$.getJSON("json/" + indicator, function (data4) {
+					dataIN = data4;
+					var vsINName= (dataIN['indicator']['indicator-name']);
+					var vsINProgress= (dataIN['indicator']['progress-icon']);
+					var vsINStatus= (dataIN['indicator']['status-icon']);
+					var allIndicators = '<p> <strong>Indicator name:</strong> ' + vsINName + ' <strong>Status:</strong> ' + vsINStatus + ' <strong>Progress: </strong>' + vsINProgress + '</p>'
+					$('#show-indicators').append(allIndicators);
+				});			
 			});
 
 			//highlights
 			var vsHighlights = (dataVS['vitalSign']['highlights']);
-			var vsHighlightsSafe = vsHighlights.replace(new RegExp('<', 'g'), 'DELETED');
-			var vsHighlightsFmt = vsHighlightsSafe.replace(new RegExp('~P', 'g'), '</p><p>');
-			var vsHighlightsHtml = '<p>' + vsHighlightsFmt + '</p>';
+			var vsHighlightsBullit = bulletMaker(vsHighlights);
+			var vsHighlightsHtml = paragraphMaker(vsHighlightsBullit);
 			$('#show-highlight').html(vsHighlightsHtml);
 
 			//highlight photos
