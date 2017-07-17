@@ -72,11 +72,7 @@ $(document).ready(function () {
 		
 		console.log("vital if ran")
 		//VITAL SIGNS 
-		//load headings
-		$.getJSON('json/vs_headings.json', function (data1) {
-			headingsVS = data1;
-			vsHeadingsShow();
-		});
+	
 		//load vital sign data
 		$.getJSON("json/" + whatVS, function (data2) {
 			dataVS = data2;
@@ -108,16 +104,14 @@ $(document).ready(function () {
 
 			//assessment
 			var vsKeyMessages = (dataVS['vitalSign']['key-messages']);
-			var vsKeyMessagesSafe = vsKeyMessages.replace(new RegExp('<', 'g'), 'DELETED');
-			var vsKeyMessagesFmt = vsKeyMessagesSafe.replace(new RegExp('~B', 'g'), '</li><li>');
-			var vsKeyMessagesHtml = '<ul><li>' + vsKeyMessagesFmt + '</li></ul>';
+			var vsKeyMessagesBullit = bulletMaker(vsKeyMessages);
+			var vsKeyMessagesHtml = paragraphMaker(vsKeyMessagesBullit);
 			$('#show-key-messages').html(vsKeyMessagesHtml);
 
-			//rating
-			//NEED TO DECIDE HOW TO DISPLAY THIS DATA
-			$.each((dataVS['vitalSign']['progress_rating']), function(i, rating) {
-				ratingArray.push(rating);
-			});
+			//rating - removed
+			//$.each((dataVS['vitalSign']['progress_rating']), function(i, rating) {
+			//	ratingArray.push(rating);
+			//});
 			/*buildChart(ratingArray);*/
 
 			//indicators
@@ -152,8 +146,8 @@ $(document).ready(function () {
 			});*/
 
 		};
-
-		function vsHeadingsShow () {
+		// heading function removed - i added all the headings into the content include.
+		/*function vsHeadingsShow () {
 			var vsGoalHeading = $('<p>' + (headingsVS['vitalSign-headings']['goal-heading']) + '<p>');
 			$('#show-goal-heading').html(vsGoalHeading);
 
@@ -193,7 +187,7 @@ $(document).ready(function () {
 		function vsAddStyles () {
 			$('#show-goal-heading > p').addClass('.heading');
 			$('#show-goal-heading > p').css("color", "#333");
-		};
+		};*/
 		
 //--------------------------------INDICATOR------------------------------------------		
 		
