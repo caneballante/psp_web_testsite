@@ -29,8 +29,9 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js"></script>
 	
 	<script> //setting the unused variable to 0 to flag the if statement to run either the VS or IN code.
-		var whatIN = 0; 
-		var whatVS = "vs-summer-stream-flows.json";
+		var whatIN = "none"; 
+		var whatVS = "none";
+		var whatPage = "data-summary"
 	</script>
 	<link href="css/style.css" rel="stylesheet" type="text/css">
 
@@ -53,7 +54,7 @@
 <div class="container page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
-			<h1>&nbsp;</h1>
+			<h1>Data Summary</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -69,7 +70,7 @@
 			</div>
 		</div>
 		 
-		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" -->Data Summary<!-- InstanceEndEditable --></div>
+		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" --><div id="show-indicators"></div>content goes here<script src="js/vital.js"></script><!-- InstanceEndEditable --></div>
 		
 		</div>
 	<!--END OF ROW --> 

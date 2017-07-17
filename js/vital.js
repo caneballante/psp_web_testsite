@@ -4,7 +4,7 @@ $(document).ready(function () {
 	//var dataJS;
 	//var dataIN;
 	
-
+	var whatPage;
 	console.log("vital.js loaded")
 	
 	//untested for loop to open close nav without changing pages
@@ -35,37 +35,27 @@ $(document).ready(function () {
 		var wrapParagraph = '<p>' + addParagraph + '</p>';
 		return(wrapParagraph);
 	};
-	/*window.vitalSigns = {}
-	//stuff I messed around with felix
-	function imageLoader (imagify){
-		window.vitalSigns.hash = {
-			'foo': 'bar'
+	
+	if (whatPage === "data-summary"){
+		$.getJSON("json/indicator-list.json", function (data6) {
+				dataINList = data6;
+				rollUpMaker(dataINList);
+				
+			});			
+		function rollUpMaker (dataINList){
+			console.log(dataINList)
+			$.each((dataINList['indicators']), function(i, indicator) {
+				$.getJSON("json/" + indicator, function (data4) {
+					dataIN = data4;
+					var vsINName= (dataIN['indicator']['indicator-name']);
+					var vsINProgress= (dataIN['indicator']['progress-icon']);
+					var vsINStatus= (dataIN['indicator']['status-icon']);
+					var allIndicators = '<p> <strong>Indicator name:</strong> ' + vsINName + ' <strong>Status:</strong> ' + vsINStatus + ' <strong>Progress: </strong>' + vsINProgress + '</p></br>'
+					$('#show-indicators').append(allIndicators);
+				});			
+			});
 		}
-		
-		var img = new Image();
-		console.log('1');
-		img.onload = function() {
-			console.log('2');
-  			imgWidth = this.width;
-			imgHeight = this.height;
-			console.log(hash['foo']);
-			
-			//var poop = (setImgWidthHeight (imgWidth, imgHeight, imagify));
-			//console.log (poop)
-		};
-		hash['foo'] = 'baz';
-		console.log('3');
-
-		img.src = "images/vitalsigns/" + imagify;	
-		//var inDataFigure = '<img src="images/vitalsigns/' + (dataSet['figure-link']) + '" width="715" height="491" alt=""/>';
-	};
-	*/
-	
-	function setImgWidthHeight (imgWidth, imgHeight, imagify){
-		return ("poopy");
-		//console.log("setImgWidthHeight function variables = " + imgWidth + " " + imgHeight + " " + imagify)
-	}; 
-	
+	}
 	if (whatIN === 0){
 		
 		console.log("vital if ran")
