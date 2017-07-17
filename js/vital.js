@@ -248,7 +248,7 @@ $(document).ready(function () {
 			$('#show-in-logo').html(inlogoHtml);
 
 			//last updated
-			var inLastUpdated = (dataIN['indicator']['last-updated']);
+			var inLastUpdated = ('<p>' + dataIN['indicator']['last-updated'] + '</p>');
 			$('#show-in-last-updated').html(inLastUpdated);
 
 			//status icon
@@ -260,7 +260,7 @@ $(document).ready(function () {
 			$('#show-in-progress-icon').html(inProgressIcon);
 
 			//progress icon tagline
-			var inProgressIconTag = (dataIN['indicator']['progress-icon-tagline']);
+			var inProgressIconTag = ('<p>' + dataIN['indicator']['progress-icon-tagline'] + '</p>');
 			$('#show-in-progress-icon-tag').html(inProgressIconTag);
 
 			//Progress Description

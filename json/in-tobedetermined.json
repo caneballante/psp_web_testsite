@@ -1,0 +1,41 @@
+﻿{
+  "indicator": {
+    "goal": "TBD",
+    "vitalsign": "TBD",
+    "indicator-name": "TBD",
+    "lead": "TBD",
+    "contact": "TBD",
+    "logo-link": "TBD",
+	"last-updated": "TBD",
+	"status-icon": "TBD",
+	"progress-icon": "TBD",
+	"progress-icon-tagline": "TBD",	  
+    "progress-description": "TBD",
+	"what": "TBD",
+	"data" : {
+		"figure-1" : {
+			"title" : "TBD",
+			"subhead" : "TBD",
+			"figure-link" : "TBD",
+			"caption" : "TBD",
+			"source" : "TBD",
+			"description" : "TBD"
+		}
+	},
+	"more-description" : "TBD",
+	"why-happening": "TBD",
+	"references" : "TBD",
+	"target": "TBD",
+	"interim-target": "TBD",
+    "interim-target-title": "TBD",
+	"interim-target-table":"TBD",
+    "map-link": "TBD",
+	"map-link-text": "TBD",
+   	"links": {
+			"link0": {
+				"link-name" : "TBD",
+				"link-url" : "TBD"
+			}
+		}
+  }
+}

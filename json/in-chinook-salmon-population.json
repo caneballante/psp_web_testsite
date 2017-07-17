@@ -20,22 +20,6 @@
 			"caption" : "The gray vertical lines show the recovery target ranges from National Marine Fisheries Service’s Final Supplement to the Shared Strategy's Puget Sound Recovery Plan (2006). There are no targets available for Skokomish, White, and Green rivers. The +* and -* symbols indicate that the population statistically significantly increased or declined, respectively, over the time period.",
 			"source" : "Source: Washington Department of Fish and Wildlife, SaSI database",
 			"description" : "All Puget Sound Chinook populations are currently well below abundance levels (recovery goals) needed for populations to recover and to reduce their risk of extinction (Figure 1). Spawner abundance values often fluctuates from year to year, often with no clear linear trends. To visualize the year–to-year adult abundance estimates and the data underlying our results, please consult the “Fish Abundance” compiled by the Washington Department of Fish and Wildlife and report in the State of the Salmon: http://stateofsalmon.wa.gov/puget-sound/fish-populations/. "
-		},
-		"figure-2" : {
-			"title" : "NONE",
-			"subhead" : "X2000 – 2015 (medium-term) and 2010-2015 (recent)",
-			"figure-link" : "Xhttps://pspwa.box.com/s/jl8ssgyiraxw1wveubysb2afct7tdpyj",
-			"caption" : "XNumber of sites with gains or losses in eelgrass area.",
-			"source" : "XSource: Washington Department of Natural Resources, Submerged Veg Program",
-			"description" : "XWhen looking at change on a site by site basis"
-		},
-		"figure-3" : {
-			"title" : "Xtext",
-			"subhead" : "Xtext",
-			"figure-link" : "Xlink",
-			"caption" : "Xtext",
-			"source" : "Xtext",
-			"description" : "Xtext"
 		}
 		
 	},
@@ -44,7 +28,7 @@
 	"references" : "NONE",
 	"target": "Stop the overall decline and start seeing improvements in wild Chinook abundance in two to four populations in each biogeographic region.",
 	"interim-target": "Link to interim targets http://www.psp.wa.gov/downloads/interimtargets/Chinook%20Interim%20Targets%20-%20FINAL.pdf",
-    “interim-target-title”: “TABLE 1. PROGRESS TOWARD 2016 INTERIM TARGETS”,
+    "interim-target-title": "TABLE 1. PROGRESS TOWARD 2016 INTERIM TARGETS",
 	"interim-target-table":"https://pspwa.app.box.com/file/47570728965",
     "map-link": "Xtell me where to find the map, or send it to me as a image file",
 	"map-link-text": "Xis there map text? if so it can go here",

@@ -11,32 +11,9 @@
 	"progress-icon": "no data",
 	"progress-icon-tagline": "No data are available yet to assess progress.",	  
     "progress-description": "There are no data for terrestrial birds.",
-	"what": "The bird indicators serve as measures of population abundance of marine and terrestrial species.~P Terrestrial bird indicators:~P 1.Breeding abundance trends of resident species associated with interior conifer forests, namely golden-crowned kinglet, varied thrush and brown creeper.~P 2.	Breeding abundance trends of resident synanthropic (human-associated) species, namely American crow, rock pigeon, house sparrow, house finch, and European starling.~P The indicator was chosen because it serves as measures of the size of terrestrial bird populations that reside most, if not all, of the year in Puget Sound. In addition, the indicator provides an integrative view of the health of Puget Sound, in contrast to being indicators of something specific like habitat, contaminants or prey. ~P The Washington State Department of Fish and Wildlife, the USGS Patuxent Wildlife Research Center and the Puget Sound Partnership are collaborating to compile and analyze existing data. Initial results are expected in 2014.~P The terrestrial bird indicator for the Bird Vital Sign was officially endorsed by the Science Panel at their April 9, 2014 meeting. The endorsement was based on a peer-reviewed report written jointly by the Washington State Department of Fish and Wildlife and the Puget Sound Partnership. The report, titled “Marine and Terrestrial Bird Indicators for Puget Sound,” (http://www.psp.wa.gov/vitalsigns/documents/Pearson%20and%20Hamel%20Bird%20Indicators%202013_Final.pdf) develops, presents and uses a transparent process to identify and evaluate potential indicators and ultimately recommends terrestrial birds. The peer-review process was coordinated by the Puget Sound Partnership Science Panel in 2013. The report was finalized in April of 2014. The indicators were also endorsed by the Leadership Council in January 2014. Supplemental material to the report is linked here.",
+	"what": "The bird indicators serve as measures of population abundance of marine and terrestrial species.~P Terrestrial bird indicators:~P 1.Breeding abundance trends of resident species associated with interior conifer forests, namely golden-crowned kinglet, varied thrush and brown creeper.~P 2. Breeding abundance trends of resident synanthropic (human-associated) species, namely American crow, rock pigeon, house sparrow, house finch, and European starling.~P The indicator was chosen because it serves as measures of the size of terrestrial bird populations that reside most, if not all, of the year in Puget Sound. In addition, the indicator provides an integrative view of the health of Puget Sound, in contrast to being indicators of something specific like habitat, contaminants or prey. ~P The Washington State Department of Fish and Wildlife, the USGS Patuxent Wildlife Research Center and the Puget Sound Partnership are collaborating to compile and analyze existing data. Initial results are expected in 2014.~P The terrestrial bird indicator for the Bird Vital Sign was officially endorsed by the Science Panel at their April 9, 2014 meeting. The endorsement was based on a peer-reviewed report written jointly by the Washington State Department of Fish and Wildlife and the Puget Sound Partnership. The report, titled “Marine and Terrestrial Bird Indicators for Puget Sound, (http://www.psp.wa.gov/vitalsigns/documents/Pearson%20and%20Hamel%20Bird%20Indicators%202013_Final.pdf) develops, presents and uses a transparent process to identify and evaluate potential indicators and ultimately recommends terrestrial birds. The peer-review process was coordinated by the Puget Sound Partnership Science Panel in 2013. The report was finalized in April of 2014. The indicators were also endorsed by the Leadership Council in January 2014. Supplemental material to the report is linked here.",
 	"data" : {
-		"figure-1" : {
-			"title" : "NONE",
-			"subhead" : "X2000 – 2008 baseline",
-			"figure-link" : "Xhttps://pspwa.box.com/s/jl8",
-			"caption" : "XEstimated soundwide area with standard error bars.",
-			"source" : "XSource: Washington State Dep",
-			"description" : "XPuget Sound supports about 55,000"
-		},
-		"figure-2" : {
-			"title" : "XFIGURE 2. COUNT OF EELGRASS",
-			"subhead" : "X2000 – 2015 (medium-term) and 2010-2015 (recent)",
-			"figure-link" : "Xhttps://pspwa.box.com/s/jl8s",
-			"caption" : "XNumber of sites with",
-			"source" : "XSource: Washington Depart",
-			"description" : "XWhen looking at change on a site by site basis"
-		},
-		"figure-3" : {
-			"title" : "Xtext",
-			"subhead" : "Xtext",
-			"figure-link" : "Xlink",
-			"caption" : "Xtext",
-			"source" : "Xtext",
-			"description" : "Xtext"
-		}
+	
 		
 	},
 	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
@@ -49,43 +26,10 @@
     "map-link": "Xtell me where to find the map, or send it to me as a image file",
 	"map-link-text": "Xis there map text? if so it can go here",
    	"links": {
-			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}	
-		},
-	"comment":"Xinsert comment"
-	}	
+		"link0": {
+			"link-name" : "I am a link1",
+			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		}	
+	}
+}	
 }

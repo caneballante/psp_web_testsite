@@ -13,30 +13,6 @@
     "progress-description": "No data are available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
 	"what": "This indicator describes Puget Sound residents’ perception of their ability to engage in cultural practices as a result of either natural resource quality or management restrictions. “Cultural practices” addresses a range of practices linked to the natural environment, including tribal cultural practices related to the use, celebration, and stewardship of natural resources. The term also refers to non-tribal participation in practices associated with natural resource industries, such as agriculture, timber harvest, fishing and aquaculture; and to individual participation in cultural practices associated with nature-based outdoor recreation. This indicator will be important for assessing tradeoffs among potential recovery strategies and ensuring that strategies enhance cultural practices across diverse cultural groups.~P Data will be collected every 2 years via survey to Puget Sound residents about their ability to engage in cultural practices linked to the natural environment. It is particularly important to survey diverse populations to reflect the varying definitions of cultural wellbeing as it relates to the natural environment. ",
 	"data" : {
-		"figure-1" : {
-			"title" : "XFIGURE",
-			"subhead" : "X2000",
-			"figure-link" : "Xhttps:",
-			"caption" : "XEstimated",
-			"source" : "XSource:",
-			"description" : "No data are currently available for this indicator. The Puget Sound Partnership is seeking funding to support data collection."
-		},
-		"figure-2" : {
-			"title" : "XFIGURE",
-			"subhead" : "X2000",
-			"figure-link" : "Xhttps:",
-			"caption" : "XNumber",
-			"source" : "XSource:",
-			"description" : "XWhen"
-		},
-		"figure-3" : {
-			"title" : "Xtext",
-			"subhead" : "Xtext",
-			"figure-link" : "Xlink",
-			"caption" : "Xtext",
-			"source" : "Xtext",
-			"description" : "Xtext"
-		}
 		
 	},
 	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
@@ -52,40 +28,7 @@
 			"link0": {
 				"link-name" : "I am a link1",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
 			}	
-		},
-	"comment":"Xinsert comment"
+		}
 	}	
 }

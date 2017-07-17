@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Drinking Water Vital Sign</title>
+<title>2017 Vital Signs - Terrestrial bird abundance</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -23,13 +23,13 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
-	<script> navSelected = 5;  subNavSelected = 3;
+	<script>  navSelected = 7;  subNavSelected = 65;
 	</script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	
-	<script> //setting the unused variable to 0 to flag the if statement to run either the VS or IN code.
-		var whatIN = 0; 
-		var whatVS = "vs-drinking-water.json";
+	<script> 
+		// set to zero to indicate this isn't that kind of page. Used for if statement to run either VS or IN code
+		var whatVS = 0; 
+		var whatIN = "in-terrestrial-bird-population.json";
 	</script>
 	<link href="css/style.css" rel="stylesheet" type="text/css">
 
@@ -39,11 +39,11 @@
 <!-- InstanceParam name="OptionalRegion3" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion4" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion5" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion6" type="boolean" value="false" -->
+<!-- InstanceParam name="OptionalRegion6" type="boolean" value="true" -->
 <!-- InstanceParam name="OptionalRegion7" type="boolean" value="false" -->
 <!-- InstanceParam name="OptionalRegion8" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion9" type="boolean" value="false" -->
-<!-- InstanceParam name="OptionalRegion10" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion9" type="boolean" value="true" -->
+<!-- InstanceParam name="OptionalRegion10" type="boolean" value="false" -->
 </head>
 <body>
 <?php include 'includes/modal-inc.html';?>
@@ -68,9 +68,17 @@
 			</div>
 		</div>
 		 
-		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" --><?php include 'includes/vs-content.html';?>
-		<script src="js/vital.js"></script><!-- InstanceEndEditable --></div>
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" --> 
+		<?php include 'includes/in-content.html';?>
+		<script src="js/vital.js"></script>
 		
+		
+		<!-- InstanceEndEditable --> </div>
+		
+		
+		
+		
+		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceEndRepeat --></div>
 		</div>
 	<!--END OF ROW --> 
 </div>
