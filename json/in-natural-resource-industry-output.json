@@ -5,7 +5,7 @@
     "indicator-name": "Natural resource industry output (gross domestic product, GDP)",
     "lead": "Katherine Wellman",
     "contact": "katharine.wellman@norecon.com",
-    "logo-link": "Northern Economics",
+    "logo-link": "NorthernEconomics",
 	"last-updated": "June 23, 2017",
 	"status-icon": "no 2020 target",
 	"progress-icon": "mixed results",
@@ -44,7 +44,7 @@
 	"references" : "NONE",
 	"target": "No targets are currently set for this indicator. ",
 	"interim-target": "NONE",
-    “interim-target-title”: “XPaste in the table number and table title”,
+    "interim-target-title": "XPaste in the table number and table title",
 	"interim-target-table":"XGive Jon link to the Word file",
     "map-link": "Xtell me where to find the map, or send it to me as a image file",
 	"map-link-text": "Xis there map text? if so it can go here",
@@ -52,39 +52,7 @@
 			"link0": {
 				"link-name" : "I am a link1",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}	
+			}
 		}
   }
 }

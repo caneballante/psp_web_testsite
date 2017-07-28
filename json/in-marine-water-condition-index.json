@@ -10,7 +10,7 @@
 	"status-icon": "no 2020 target",
 	"progress-icon": "Getting worse",
 	"progress-icon-tagline": "No, this indicator lost ground relative to the baseline reference period.",	  
-    "progress-description": "~B Over the long-term, Marine Water Condition Index scores have generally declined. These results indicate that marine water quality has diminished.~B In 2015, water was exceptionally warm in Puget Sound due to a large-scale temperature anomaly in the North East Pacific (the “Blob”). As a result, index scores for the entire region declined below baseline conditions.~B Some regions are not faring well: index scores in Bellingham Bay, Sinclair Inlet, and Oakland Bay have declined continuously relative to the baseline starting in 1999, and Budd Inlet has followed a similar trend over the last decade.",
+    "progress-description": "~SL Over the long-term, Marine Water Condition Index scores have generally declined. These results indicate that marine water quality has diminished.~B In 2015, water was exceptionally warm in Puget Sound due to a large-scale temperature anomaly in the North East Pacific (the “Blob”). As a result, index scores for the entire region declined below baseline conditions.~B Some regions are not faring well: index scores in Bellingham Bay, Sinclair Inlet, and Oakland Bay have declined continuously relative to the baseline starting in 1999, and Budd Inlet has followed a similar trend over the last decade.~EL",
 	"what": "The Marine Water Condition Index measures changes in water quality that are relevant to eutrophication against a baseline reference period. The index integrates 12 variables that each describe an important aspect of water quality, such as temperature, salinity, nutrient balance, algae biomass, and dissolved oxygen in surface water 0-50 m. The baseline is calculated for the time period 1999 – 2008. Positive values of the index indicate relatively improved marine water quality, and negative values indicate worse marine water quality relative to the baseline.~P The Marine Water Condition Index provides a framework that links changes in water quality and physical conditions in Puget Sound to the larger context of influencing factors of oceanic water quality and climate. The Marine Water Condition Index detects changes in water conditions against site and seasonal-specific baseline conditions with a focus on change rather than an absolute quality. The index reports on a scale of +50 to -50 indicating a complete positive or negative departure from baseline conditions, with zero indicating unchanged conditions relative to the baseline. The index is reported for 12 regions using 27 monthly sampled monitoring stations.",
 	"data" : {
 		"figure-1" : {
@@ -20,22 +20,6 @@
 			"caption" : "Green shades show improved marine water quality relative to the baseline reference, 1999 – 2008. Orange to red shades indicate worse conditions. Yellow shows scores between -1 and 1 represent little to no change. The maximal range of the index scores spans from -50 to +50, indicating that monthly measured variables are falling either exclusively above or below the expected baseline.",
 			"source" : "Source: Washington State Department of Ecology, Environmental Assessment Program, Marine",
 			"description" : "The decline in the Marine Water Condition Index is illustrated in Table 1 showing 1) a shift in the past 17 years from green in the early years to shades of orange and red in the later years, and 2) more negative scores. These results show that conditions are drifting in the direction of lower water quality. The largest significant change over 17 years occurred in Bellingham Bay (22% decline in index score values), followed by Central Basin and Sinclair Inlet (>15%) while Oakland Bay’s with already low quality to start with declined significantly but less than 15%. Recently, more unfavorable ocean conditions in the Salish Sea and off the west coast of Washington have contributed to the apparent decline across all regions.~P In the shorter-term since 2012, changes in water quality in Puget Sound were more variable, with average values hovering around the baseline value of 0 across all regions.  In 2015 conditions, however, uniformly fell below the baseline in response to the oceanic influence of the Blob.~P Marine water quality patterns in Puget Sound vary over time in response to large climate variations and may be best described by periods of consecutive years when water quality is better than average, and periods when water quality is lower than average (e.g. 2003-2006). However, despite these fluctuations, trends emerge over time. For instance, index scores in Bellingham Bay and Sinclair Inlet have been significantly declining over the last seventeen years, while Oakland Bay and Budd Inlet significantly declined over the last 10 years. Other regions decreased, but not as consistently."
-		},
-		"figure-2" : {
-			"title" : "NONE",
-			"subhead" : "X2000 – 2015 (medium-term) and 2010-2015 (recent)",
-			"figure-link" : "Xhttps://pspwa.box.com/s/jl8s",
-			"caption" : "XNumber of sites with",
-			"source" : "XSource: Washington Depart",
-			"description" : "XWhen looking at change on a site by site basis"
-		},
-		"figure-3" : {
-			"title" : "Xtext",
-			"subhead" : "Xtext",
-			"figure-link" : "Xlink",
-			"caption" : "Xtext",
-			"source" : "Xtext",
-			"description" : "Xtext"
 		}
 		
 	},
@@ -52,40 +36,7 @@
 			"link0": {
 				"link-name" : "I am a link1",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
 			}	
-		},
-	"comment":"Xinsert comment"
+		}
 	}	
 }

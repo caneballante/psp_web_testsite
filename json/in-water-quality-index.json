@@ -9,7 +9,8 @@
 	"last-updated": "June 28, 2017",
 	"status-icon": "below 2020 target",
 	"progress-icon": "not changing",
-	"progress-icon-tagline": "",
+	"progress-icon-tagline": "x",
+	 "progress-description": "~B IS THERE TEXT FOR THIS? ",
 	"what": "The Water Quality Index.~P The Water Quality Index for rivers and streams combines eight measures of water quality. Expectations for four of the component measures (dissolved oxygen, pH, temperature, and fecal coliform bacteria) are tied to the State’s Water Quality Standards for protecting aquatic life and contact recreation. The other four measures (nitrogen, phosphorus, suspended sediment, and turbidity) do not have numeric standards however they are related to general ecosystem function. Toxics are not included in the index.~P Index values are based on monthly monitoring at individual stations. The index values range from 1 to 100; a higher number is indicative of better water quality. However, a particular station may receive a good Water Quality Index score, and yet have water quality impaired by parameters not included in the index. Similarly, some locations may have poor Water Quality Index scores based on measures that do not have Water Quality Standards.~P In general, stations scoring 80 and above met expectations for water quality according to Washington State Standards for surface water quality (Chapter 173-201A WAC), scores 40 to 80 indicate water quality is marginal, and water quality at stations with scores below 40 do not meet expectations. For measures without established criteria, a score of 80 indicates conditions were better than 20% of results collected during an historical benchmark period. ~P The Washington State Department of Ecology, monitor 31 long-term monitoring statsions across Puget Sound watersheds. These stations are located all along rivers and streams, from the mouth of the rivers to further upstream toward the headwaters. The Puget Sound Partnership’s target data come from these 31 stations.",
 	"data" : {
 		"figure-1" : {
@@ -27,14 +28,6 @@
 			"caption" : "NONE",
 			"source" : "NONE",
 			"description" : "There has been no progress toward the 2020 target for the Water Quality Index. Only 29% of monitored stations were at or above the target value of 80, on average, from 2012 to 2016. This percentage is a few percentage points lower compared to the baseline reference established for the period 2007-2011 (32%), but the difference is not significant. Results suggest that the water quality for rivers and streams throughout Puget Sound has essentially remained unchanged for at least the past 10 years. In the longer-term, results from the trend analysis of 14 major rivers at their most downstream sites since 1996 suggest that there has been very little change in water quality at the vast majority of sites.  ~P However, freshwater quality index scores for major rivers in Puget Sound are in the mid-70s and show a slight improving trend in WQI scores of > 0.32 units per year (p<0.05) since 1996. Variability in WQI scores have also decreased since 1996 at a rate of > 5.0 units per year (p<0.01). In addition to some improvements in the overall mean annual scores since 1996 for major rivers in Puget Sound, fecal coliform bacteria ( .21 units  per year )and total nitrogen index scores (.31 units per year) also improved (p<0.05).  Furthermore, there are some slight reductions in mean annual stream temperature and total suspended sediment concentration on a few systems. However, Puget Sound-wide trends in index scores for other measures were not significant.  In terms of classifying overall water quality on individual Puget Sound stream systems, two river systems show some improving trends that are significant. However, due to the slow rate of improvements in overall Puget Sound water quality trends, the Partnership’s recovery target is not likely to be reached by 2020. ~P The earliest projection for meeting the target value for these 14 rivers would be 2025. When adjusted for differences in seasonal flows, the trend is much slower: average flow-adjusted scores of 80 are projected for 2060. Flow-adjusting accounts for the effect of flow on the parameters underlying the index. Our projection to and beyond 2020 is a best guess. Predictions are difficult due to fluctuations in drivers like the rate of population growth, global warming, and effectiveness of management activities, as well as possible long-term cycles not visible in the current 15-year dataset. For example, management tends to address the easier and more egregious problems first. As those problems get fixed, remaining problems become more difficult to correct with less effect on the water body for a given level of effort. Consequently, the rate of improvement in the index could be less, perhaps much less, than predicted by simply extending current trends."
-		},
-		"figure-3" : {
-			"title" : "Xtext",
-			"subhead" : "Xtext",
-			"figure-link" : "Xlink",
-			"caption" : "Xtext",
-			"source" : "Xtext",
-			"description" : "Xtext"
 		}
 		
 	},
@@ -51,40 +44,7 @@
 			"link0": {
 				"link-name" : "I am a link1",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}	
-		},
-	"comment":"Xinsert comment"
+			}
+		}
 	}	
 }

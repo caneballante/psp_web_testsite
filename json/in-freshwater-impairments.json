@@ -20,22 +20,6 @@
 			"caption" : "NONE",
 			"source" : "Source: Washington State Department of Ecology, Water Quality Program",
 			"description" : "XPuget Sound supports about 55,000"
-		},
-		"figure-2" : {
-			"title" : "XFIGURE 2. COUNT OF EELGRASS",
-			"subhead" : "X2000 – 2015 (medium-term) and 2010-2015 (recent)",
-			"figure-link" : "Xhttps://pspwa.box.com/s/jl8s",
-			"caption" : "XNumber of sites with",
-			"source" : "XSource: Washington Depart",
-			"description" : "XWhen looking at change on a site by site basis"
-		},
-		"figure-3" : {
-			"title" : "Xtext",
-			"subhead" : "Xtext",
-			"figure-link" : "Xlink",
-			"caption" : "Xtext",
-			"source" : "Xtext",
-			"description" : "Xtext"
 		}
 		
 	},
@@ -52,40 +36,7 @@
 			"link0": {
 				"link-name" : "I am a link1",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
 			}	
-		},
-	"comment":"Xinsert comment"
+		}
 	}	
 }

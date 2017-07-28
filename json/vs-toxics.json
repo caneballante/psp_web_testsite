@@ -5,52 +5,20 @@
 		"lead": "PSEMP Toxics Workgroup",
 		"contact": "jamesca@uw.edu",
 		"last-updated" : "last updated date",
-		"what": "Fish in aquatic systems can be exposed to and accumulate toxic chemical pollutants, causing disease, and posing a threat to humans who consume them. The indicators for this Vital Sign track a few important pollutants in Puget Sound and are considered signs and symptoms of fish health related to exposure to these pollutants.  The toxic chemicals pollutants tracked in Puget Sound fish include those that last for a long time in the ecosystem and which increase in predators as the chemicals move through food webs. Measuring these pollutants in fish tissues tells us whether current levels are harmful to the fish or the predators that consume them and whether they are safe for humans to eat.~P The vital sign focuses on four classes of pollutants in several fish species and includes:~B PCBs (Polychlorinated biphenyls) - PCBs are man-made organic chemicals that were produced domestically from 1929 until manufacturing was banned in 1979.  PCBs were used in hundreds of industrial and commercial applications, and are found in trace amounts today.~B PBDEs (Polybrominated diphenyl ethers) – PBDEs are used as flame retardants in a wide array of products such as electronics, motor vehicles parts, plastics, foams, and textiles.  The production of some types of PBDEs is banned and their use in consumer products is restricted.~B PAHs (polycyclic aromatic hydrocarbons) – PAHs are found in petroleum products and also produced through burning fossil fuels.~B EDCs (Endocrine Disrupting Compounds) – EDCs are a wide class of compounds that impact reproduction and development. ",
-		"key-messages": "The Vital Sign progress is mixed as it tracks many species and in many areas, and the status and trends of contaminants are either making progress, not changing or getting worse.  ~B PBDEs are found in many fish, however, levels in monitored species and locations are generally decreasing.~I~B PBDEs declined in bottomfish from 2 high and one low development sites and remained unchanged at the remaining seven sites.~I~B Declining PBDE trends were observed in all four herring populations sampled. ~I~B Despite these declines, approximately 15% of juvenile Chinook salmon sampled from throughout the Puget Sound were exposed to PBDEs at levels of concern. ~B While fish continue to come into contact with PAHs, fish health in some areas of the Sound has improved somewhat based on reduced exposure to PAHs.~I~B PAH-related liver disease has declined in bottomfish throughout the Sound. ~I~B Midwater fish (herring) continue to be exposed to high levels of PAHs, particularly in central and southern Puget Sound.~I~B Less than 5% of juvenile chinook salmon were exposed to PAHs at levels that may affect their health.~B PCBs are still high in many fish, though results are mixed depending on location and species.~I~B Bottom fish in 70% of sampled locations were exposed to PCBs at levels of concern and trends in most of those areas are getting worse.  The remaining 30% of locations have shown no PCB decline.~I~B Half of the monitored herring populations (those in central and southern Puget Sound) were exposed to PCBs at levels of concern, with no signs of improvement.  PCBs in the remaining half (those from northern Puget Sound) were below levels of concern and are showing improving trends.~I~B Approximately one-third of juvenile Chinook salmon sampled from throughout the Puget Sound were exposed to PCBs at levels of concern~B Fish are exposed to EDCs, particularly in urban bays.  The indicator for this group of chemicals is currently under development.~B Predicted health impacts for some toxic chemical pollutants are based on thresholds developed in lab studies designed to identify how much chemical exposure fish can tolerate before they exhibit disease.  It is important to note that the science related to establishing thresholds is evolving.~B Additional Puget Sound monitoring indicates (PSEMP Toxics Monitoring Synthesis):~I~B Contaminants of emerging concern such as EDCs and microplastics are widespread and frequently detected.~I~B Contaminant source control and cleanup have been effective in reducing sediment contamination in many areas.~I~B On-the-ground remediation of contaminated sites is ongoing throughout the region. ~I~B Stormwater impacts and responses are being addressed through coordinated regional efforts.~P Add link to vital sing tables?",
+		"what": "Fish in aquatic systems can be exposed to and accumulate toxic chemical pollutants, causing disease, and posing a threat to humans who consume them. The indicators for this Vital Sign track a few important pollutants in Puget Sound and are considered signs and symptoms of fish health related to exposure to these pollutants.  The toxic chemicals pollutants tracked in Puget Sound fish include those that last for a long time in the ecosystem and which increase in predators as the chemicals move through food webs. Measuring these pollutants in fish tissues tells us whether current levels are harmful to the fish or the predators that consume them and whether they are safe for humans to eat.~P The vital sign focuses on four classes of pollutants in several fish species and includes:~SL PCBs (Polychlorinated biphenyls) - PCBs are man-made organic chemicals that were produced domestically from 1929 until manufacturing was banned in 1979.  PCBs were used in hundreds of industrial and commercial applications, and are found in trace amounts today.~B PBDEs (Polybrominated diphenyl ethers) – PBDEs are used as flame retardants in a wide array of products such as electronics, motor vehicles parts, plastics, foams, and textiles.  The production of some types of PBDEs is banned and their use in consumer products is restricted.~B PAHs (polycyclic aromatic hydrocarbons) – PAHs are found in petroleum products and also produced through burning fossil fuels.~B EDCs (Endocrine Disrupting Compounds) – EDCs are a wide class of compounds that impact reproduction and development.~EL",
+		"key-messages": "The Vital Sign progress is mixed as it tracks many species and in many areas, and the status and trends of contaminants are either making progress, not changing or getting worse.  ~SL PBDEs are found in many fish, however, levels in monitored species and locations are generally decreasing.~I~B PBDEs declined in bottomfish from 2 high and one low development sites and remained unchanged at the remaining seven sites.~I~B Declining PBDE trends were observed in all four herring populations sampled. ~I~B Despite these declines, approximately 15% of juvenile Chinook salmon sampled from throughout the Puget Sound were exposed to PBDEs at levels of concern. ~B While fish continue to come into contact with PAHs, fish health in some areas of the Sound has improved somewhat based on reduced exposure to PAHs.~I~B PAH-related liver disease has declined in bottomfish throughout the Sound. ~I~B Midwater fish (herring) continue to be exposed to high levels of PAHs, particularly in central and southern Puget Sound.~I~B Less than 5% of juvenile chinook salmon were exposed to PAHs at levels that may affect their health.~B PCBs are still high in many fish, though results are mixed depending on location and species.~I~B Bottom fish in 70% of sampled locations were exposed to PCBs at levels of concern and trends in most of those areas are getting worse.  The remaining 30% of locations have shown no PCB decline.~I~B Half of the monitored herring populations (those in central and southern Puget Sound) were exposed to PCBs at levels of concern, with no signs of improvement.  PCBs in the remaining half (those from northern Puget Sound) were below levels of concern and are showing improving trends.~I~B Approximately one-third of juvenile Chinook salmon sampled from throughout the Puget Sound were exposed to PCBs at levels of concern~B Fish are exposed to EDCs, particularly in urban bays.  The indicator for this group of chemicals is currently under development.~B Predicted health impacts for some toxic chemical pollutants are based on thresholds developed in lab studies designed to identify how much chemical exposure fish can tolerate before they exhibit disease.  It is important to note that the science related to establishing thresholds is evolving.~B Additional Puget Sound monitoring indicates (PSEMP Toxics Monitoring Synthesis):~I~B Contaminants of emerging concern such as EDCs and microplastics are widespread and frequently detected.~I~B Contaminant source control and cleanup have been effective in reducing sediment contamination in many areas.~I~B On-the-ground remediation of contaminated sites is ongoing throughout the region. ~I~B Stormwater impacts and responses are being addressed through coordinated regional efforts.~EL~P Add link to vital sing tables?",
 		
 		"indicators": {
-			"indicator1_name": "English sole contaminants and disease - PCBs, PBDEs, PAHs",
-			"indicator2_name": "Pacific herring contaminants - PCBs, PBDEs, PAHs",
-			"indicator3_name": "Adult salmon contaminants - PCBs, PBDEs"
-			"indicator4_name": "Juvenile salmon contaminants - PCBs, PBDEs "
+			"indicator1_json": "in-english-sole-contaminants.json",
+			"indicator2_json": "in-pacific-herring-contaminants.json",
+			"indicator3_json": "in-salmon-contaminants.json"
+			
 		},
 		"highlights": "highlights",
 		"highlight_photo": "image link",
 		 "links": {
 		"link0": {
 			"link-name" : "I am a link1",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		},
-		"link1": {
-			"link-name" : "I am a link2",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		},
-		"link2": {
-			"link-name" : "I am a link3",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		},
-		"link3": {
-			"link-name" : "I am a link4",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		},
-		"link4": {
-			"link-name" : "I am a link5",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		},
-		"link5": {
-			"link-name" : "I am a link6",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		},
-		"link6": {
-			"link-name" : "I am a link7",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		},
-		"link7": {
-			"link-name" : "I am a link8",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		},
-		"link8": {
-			"link-name" : "I am a link9",
 			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
 		}	
 	}

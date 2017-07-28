@@ -16,9 +16,9 @@
 		"figure-1" : {
 			"title" : "FIGURE 1. ESTIMATED FOOTPRINT OF PROJECTS THAT RESTORED VEGETATION IN RIPARIAN CORRIDORS",
 			"subhead" : "2009 – 2020",
-			"figure-link" : "https://pspwa.box.com/s/tsndgz25db0ozbtcfbbmt2yojn6ujmb2:",
+			"figure-link" : "landcover_riparian.jpg",
 			"caption" : "The numbers over the bars show the number of projects that reported activities to restore vegetation in riparian corridors, for a total of 48 completed projects between 2009 and 2014. Years represent Federal Fiscal Year (2009 refers to Oct. 1, 2008, to Sep. 30, 2009). Cumulative length is the total be- tween 2009 and 2014.",
-			"source" : "Source: National Estuary Program On-Line Report (NEPORT). Most projects in NEPORT were derived from the Project Information System (PRISM).:",
+			"source" : "Source: National Estuary Program On-Line Report (NEPORT). Most projects in NEPORT were derived from the Project Information System (PRISM).",
 			"description" : "NONE"
 		}
 		
@@ -36,40 +36,7 @@
 			"link0": {
 				"link-name" : "I am a link1",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}	
-		},
-	"comment":"Xinsert comment"
+			}
+		}
 	}	
 }

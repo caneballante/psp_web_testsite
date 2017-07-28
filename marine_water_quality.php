@@ -30,7 +30,7 @@
 	
 	<script> //setting the unused variable to 0 to flag the if statement to run either the VS or IN code.
 		var whatIN = 0; 
-		var whatVS = "vs-marine-water-quality.json";
+		var whatVS = "vs-marine-water.json";
 	</script>
 	<link href="css/style.css" rel="stylesheet" type="text/css">
 

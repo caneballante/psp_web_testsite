@@ -10,8 +10,11 @@
 	"status-icon": "below 2020 target",
 	"progress-icon": "insufficient or no data",
 	"progress-icon-tagline": "No data or not enough data are available to make a conclusion about progress.",	  
-    "progress-description": "Using modeling to assess the human-related contributions of nitrogen, the model results show that the 2020 target value is not met. The model was recently updated to include processes in bottom sediments that affect dissolved oxygen.  ~P The latest models show the following results for human contribution to the low oxygen problem. ~B Modeled oxygen depletion resulting from human-related inputs to Puget Sound is not within the target value of 0.2 mg/L for significant portions of the Puget Sound. ~B In several areas throughout Puget Sound, human-related modeled oxygen depletion of more than the target value of 0.2 mg/L persists for months.~B In local areas, including South Sound inlets and Skagit Bay, the magnitude of oxygen depletion caused by nutrient inputs from humans is much larger than the target value of 0.2 mg/L.",
-	"what": "This indicator is the amount of dissolved oxygen in marine waters influenced by human impacts.~P Low dissolved oxygen in marine waters can create significant problems, such as extensive fish kills. The addition of excessive nutrients from human activities can create or exacerbate the conditions that lead to low oxygen in Puget Sound. Nitrogen can fuel algae blooms, which decompose and draw down oxygen. The human sources of nutrients include wastewater treatment plants, failed septic systems, and fertilizers that reach Puget Sound. ~P Processes leading to low oxygen can also create other problems such as high carbon dioxide in the water and more acidic waters.~P To reduce the frequency and severity of low dissolved oxygen and associated problems in Puget Sound, the Leadership Council adopted a target intended to minimize local human contributions that worsen low dissolved oxygen in Puget Sound. However, the issue is complicated by the fact that dissolved oxygen naturally exhibits a high degree of variability in marine waters, changing almost continuously with time of day, location, season, tidal cycle, depth, the mixing and movement of different water sources, and many other factors. Also, there are several main sources of nitrogen entering Puget Sound, including the ocean (generally the largest overall source), watershed sources (some of which are natural, and some of which are human), groundwater, and the atmosphere. Watershed sources include natural nitrogen inputs from forested land areas as well as increased nitrogen from developed land areas.~P Consequently, determining precisely the degree to which human inputs are responsible for a decline in dissolved oxygen, relative to the normal range of variability, is a complex issue. Addressing the issue requires a combination of good monitoring data, information on the sources of nitrogen, and sophisticated mathematical models.~P The Department of Ecology monitors oxygen throughout Puget Sound as part of the ambient monitoring program (http://www.ecy.wa.gov/programs/eap/mar_wat/data.html). The program includes monthly profiles of oxygen and related parameters, continuous monitoring at select moorings, and ferry-based monitoring of near-surface conditions. Oxygen data are also part of the Marine Water Condition Index (http://www.ecy.wa.gov/programs/eap/mar_wat/mwci.html), the other indicator under the Marine Water Quality Vital Sign.~P The target established by the Leadership Council focuses on how much human contributions worsen dissolved oxygen. Since this cannot be monitored directly, the Department of Ecology uses computer models to tease apart different influences. Many processes influence dissolved oxygen, including Pacific Ocean conditions, climate patterns, seasonal light and temperature, stratification and mixing, river and wastewater inputs, sediment processes, and biological processes. This Department of Ecology web site (http://www.ecy.wa.gov/programs/eap/Nitrogen/Index.html) summarizes what we know about nitrogen throughout the Puget Sound ecosystem.",
+    "progress-description": "Using modeling to assess the human-related contributions of nitrogen, the model results show that the 2020 target value is not met. The model was recently updated to include processes in bottom sediments that affect dissolved oxygen. ~P The latest models show the following results for human contribution to the low oxygen problem.~SL Modeled oxygen depletion resulting from human-related inputs to Puget Sound is not within the target value of 0.2 mg/L for significant portions of the Puget Sound. ~B In several areas throughout Puget Sound, human-related modeled oxygen depletion of more than the target value of 0.2 mg/L persists for months.~B In local areas, including South Sound inlets and Skagit Bay, the magnitude of oxygen depletion caused by nutrient inputs from humans is much larger than the target value of 0.2 mg/L.~EL",
+	
+	  
+	  
+	  "what": "This indicator is the amount of dissolved oxygen in marine waters influenced by human impacts.~P Low dissolved oxygen in marine waters can create significant problems, such as extensive fish kills. The addition of excessive nutrients from human activities can create or exacerbate the conditions that lead to low oxygen in Puget Sound. Nitrogen can fuel algae blooms, which decompose and draw down oxygen. The human sources of nutrients include wastewater treatment plants, failed septic systems, and fertilizers that reach Puget Sound. ~P Processes leading to low oxygen can also create other problems such as high carbon dioxide in the water and more acidic waters.~P To reduce the frequency and severity of low dissolved oxygen and associated problems in Puget Sound, the Leadership Council adopted a target intended to minimize local human contributions that worsen low dissolved oxygen in Puget Sound. However, the issue is complicated by the fact that dissolved oxygen naturally exhibits a high degree of variability in marine waters, changing almost continuously with time of day, location, season, tidal cycle, depth, the mixing and movement of different water sources, and many other factors. Also, there are several main sources of nitrogen entering Puget Sound, including the ocean (generally the largest overall source), watershed sources (some of which are natural, and some of which are human), groundwater, and the atmosphere. Watershed sources include natural nitrogen inputs from forested land areas as well as increased nitrogen from developed land areas.~P Consequently, determining precisely the degree to which human inputs are responsible for a decline in dissolved oxygen, relative to the normal range of variability, is a complex issue. Addressing the issue requires a combination of good monitoring data, information on the sources of nitrogen, and sophisticated mathematical models.~P The Department of Ecology monitors oxygen throughout Puget Sound as part of the ambient monitoring program (http://www.ecy.wa.gov/programs/eap/mar_wat/data.html). The program includes monthly profiles of oxygen and related parameters, continuous monitoring at select moorings, and ferry-based monitoring of near-surface conditions. Oxygen data are also part of the Marine Water Condition Index (http://www.ecy.wa.gov/programs/eap/mar_wat/mwci.html), the other indicator under the Marine Water Quality Vital Sign.~P The target established by the Leadership Council focuses on how much human contributions worsen dissolved oxygen. Since this cannot be monitored directly, the Department of Ecology uses computer models to tease apart different influences. Many processes influence dissolved oxygen, including Pacific Ocean conditions, climate patterns, seasonal light and temperature, stratification and mixing, river and wastewater inputs, sediment processes, and biological processes. This Department of Ecology web site (http://www.ecy.wa.gov/programs/eap/Nitrogen/Index.html) summarizes what we know about nitrogen throughout the Puget Sound ecosystem.",
 	"data" : {
 		"figure-1" : {
 			"title" : "Figure 1. Modeled duration of oxygen depletion in Puget Sound",
@@ -51,40 +54,7 @@
 			"link0": {
 				"link-name" : "I am a link1",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}	
-		},
-	"comment":"Xinsert comment"
+			}
+		}
 	}	
 }

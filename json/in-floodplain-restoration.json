@@ -11,31 +11,15 @@
 	"progress-icon": "getting better",
 	"progress-icon-tagline": "Yes, this indicator has made gains relative to the baseline reference.",	  
     "progress-description": "Much of Puget Sound’s floodplains have lost ecological function due to development or because portions have become disconnected from the main stem of their river. Nearly 290,380 acres are currently estimated to be degraded. This represents 62 percent of the total 467,280 acres of Puget Sound floodplains.~P A total of 65 floodplain projects were completed in federal fiscal years 2011 through 2016, improving or restoring an estimated 4,060 acres (15.6 square kilometers). Though the indicator is making gains, the target of restoring function to 43,557 acres (15 percent of degraded floodplains) by 2020 is far from being met.",
-	"what": "This indicator tracks the restoration of floodplains.~P Floodplains are areas that occupy valley bottoms adjacent to rivers. They are dynamic landscape features, shaped by the river and formed primarily of silt, sand, and gravel left by the river when it floods or changes course.~P Floodplains are an important part of the Puget Sound landscape, particularly in the lowlands along large rivers. They are used by people for cities, farms, and transportation. They provide habitat for fish and wildlife, which in turn play a role in human wellbeing, meeting economic, cultural, and recreational needs. They store and route water through river corridors during floods, holding some of it to recharge groundwater.~P Protection and restoration of the services provided by floodplains is integral to the recovery of Puget Sound and the viability of Puget Sound communities. Rivers and streams around Puget Sound respond to winter storms and melting snowpack by rising and flooding low-lying areas in the floodplain. By absorbing this overflow, floodplains provide rich agricultural land; level ground that accommodates development; and refuge, food, and fresh water for a variety of species. ~P Unfortunately, human use has degraded floodplains over time. Projects are underway to better manage floodplains, restore hydrologic connectivity and natural flows, reduce flood hazards, and improve habitat for salmon.~P Floodplain restoration is measured in three ways: ~B Documenting the footprint of floodplains associated with the 17 major rivers in Puget Sound. ~B Characterizing the loss of function, or degradation, of floodplains.~B Tabulating the number and size of projects intended to restore floodplain function in the 17 major rivers.~P <em>Extent of floodplains in Puget Sound</em>~P Several available datasets have been integrated into one to describe the extent of floodplains associated with Puget Sound’s major rivers and to characterize floodplain degradation. The methodology, along with limitations of the data, are described on pages 14 to 17 of the Implementation Strategy for Puget Sound’s Floodplain Recovery Target (June 30 2016 draft). Work to improve data accuracy and the baseline estimates of degradation is ongoing.~P <em>Degraded floodplains</em>~P A degraded floodplain may be disconnected from the river by roads, levees, shoreline armoring, fill, infrastructure, or structures in the floodplain; or it may be disconnected because the character of the land changes through  resource extraction, clearing of the land or disturbing the soil, or grading to support intensive land use. In any case, inundation or channel migration processes are impeded. ~P Degradation varies according to land cover type (such as agriculture versus commercial development) and whether an area is connected to the river’s main stem. For example, agricultural lands tend to support more intact floodplain functions than do developed lands, and connected agricultural land retains a more functional ecosystem than does disconnected agricultural land. ~P ,em>Restoration of floodplains</em>~P The estimated area of projects intended to restore floodplain function is derived from the National Estuary Program On-Line Report (NEPORT).",
+	"what": "This indicator tracks the restoration of floodplains.~P Floodplains are areas that occupy valley bottoms adjacent to rivers. They are dynamic landscape features, shaped by the river and formed primarily of silt, sand, and gravel left by the river when it floods or changes course.~P Floodplains are an important part of the Puget Sound landscape, particularly in the lowlands along large rivers. They are used by people for cities, farms, and transportation. They provide habitat for fish and wildlife, which in turn play a role in human wellbeing, meeting economic, cultural, and recreational needs. They store and route water through river corridors during floods, holding some of it to recharge groundwater.~P Protection and restoration of the services provided by floodplains is integral to the recovery of Puget Sound and the viability of Puget Sound communities. Rivers and streams around Puget Sound respond to winter storms and melting snowpack by rising and flooding low-lying areas in the floodplain. By absorbing this overflow, floodplains provide rich agricultural land; level ground that accommodates development; and refuge, food, and fresh water for a variety of species. ~P Unfortunately, human use has degraded floodplains over time. Projects are underway to better manage floodplains, restore hydrologic connectivity and natural flows, reduce flood hazards, and improve habitat for salmon.~P Floodplain restoration is measured in three ways: ~SL Documenting the footprint of floodplains associated with the 17 major rivers in Puget Sound. ~B Characterizing the loss of function, or degradation, of floodplains.~B Tabulating the number and size of projects intended to restore floodplain function in the 17 major rivers.~EL ~P <em>Extent of floodplains in Puget Sound</em>~P Several available datasets have been integrated into one to describe the extent of floodplains associated with Puget Sound’s major rivers and to characterize floodplain degradation. The methodology, along with limitations of the data, are described on pages 14 to 17 of the Implementation Strategy for Puget Sound’s Floodplain Recovery Target (June 30 2016 draft). Work to improve data accuracy and the baseline estimates of degradation is ongoing.~P <em>Degraded floodplains</em>~P A degraded floodplain may be disconnected from the river by roads, levees, shoreline armoring, fill, infrastructure, or structures in the floodplain; or it may be disconnected because the character of the land changes through  resource extraction, clearing of the land or disturbing the soil, or grading to support intensive land use. In any case, inundation or channel migration processes are impeded. ~P Degradation varies according to land cover type (such as agriculture versus commercial development) and whether an area is connected to the river’s main stem. For example, agricultural lands tend to support more intact floodplain functions than do developed lands, and connected agricultural land retains a more functional ecosystem than does disconnected agricultural land. ~P ,em>Restoration of floodplains</em>~P The estimated area of projects intended to restore floodplain function is derived from the National Estuary Program On-Line Report (NEPORT).",
 	"data" : {
 		"figure-1" : {
 			"title" : "FIGURE 1. ESTIMATED FLOODPLAIN CONDITION IN PUGET SOUND",
 			"subhead" : "2011 baseline",
-			"figure-link" : "https://pspwa.app.box.com/file/68967703553",
+			"figure-link" : "floodplain-restoration-figure1.jpg",
 			"caption" : "NONE",
 			"source" : "Source: Implementation Strategy for Puget Sound’s Floodplains Recovery Target, Puget Sound Partnership, 2016. June 30 draft.",
 			"description" : "<strong.Current extent of Puget Sound floodplains</strong.~P  Roughly 467,280 floodplain acres currently exist in Puget Sound’s 17 major river watersheds. While this estimate lacks fine tuning, it is the best estimate available to assess the regional scale of floodplain restoration. Ongoing research and discussions will fine-tune the delineation (see <em>Improving the baseline and tracking the target</em>, below).~P <strong>Degraded floodplains</strong>~P Our most recent analysis estimated that 290,380 acres of Puget Sound’s floodplains (or 62 percent of the total) are characterized as degraded. "
-		},
-		"figure-2" : {
-			"title" : "XFIGURE 2. ESTIMATED EXTENT OF FLOODPLAIN RESTORATION PROJECTS IN PUGET SOUND’S 17 MAJOR RIVERS",
-			"subhead" : "2011 – 2016",
-			"figure-link" : "https://pspwa.app.box.com/file/68967703553",
-			"caption" : "The numbers above the bars in Figure 2 show the number of projects that included floodplain restoration.  Years represent federal fiscal years (for example, 2011 refers to October 2010 to September 2015).",
-			"source" : "Source: National Estuary Program On-Line Report (NEPORT). ",
-			"description" : "An estimated 4,060 acres of degraded floodplain area have been restored since federal fiscal year 2011. The restoration gain estimated to date represents about 9 percent of the total number of acres (43,557 acres) needed to reach the 15 percent restoration target."
-		},
-		"figure-3" : {
-			"title" : "Xtext",
-			"subhead" : "Xtext",
-			"figure-link" : "Xlink",
-			"caption" : "Xtext",
-			"source" : "Xtext",
-			"description" : "Xtext"
 		}
 		
 	},
@@ -44,7 +28,7 @@
 	"references" : "NONE",
 	"target": "XThe 2020 target is a 20% increase in the area of eelgrass in Puget Sound relative to the 2000-2008 baseline reference by the year 2020.",
 	"interim-target": "XLink to interim targets http://www.psp.wa.gov/downloads/interimtargets/Shellfish%20Beds%20Interim%20Targets%20-%20FINAL.pdf",
-    “interim-target-title”: “XPaste in the table number and table title”,
+    "interim-target-title": "XPaste in the table number and table title",
 	"interim-target-table":"XGive Jon link to the Word file",
     "map-link": "Xtell me where to find the map, or send it to me as a image file",
 	"map-link-text": "Xis there map text? if so it can go here",
@@ -52,39 +36,7 @@
 			"link0": {
 				"link-name" : "I am a link1",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}	
+			}
 		}
   }
 }

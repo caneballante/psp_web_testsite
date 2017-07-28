@@ -9,8 +9,8 @@
 	"last-updated": "June 27, 2017",
 	"status-icon": "below 2020 target",
 	"progress-icon": "mixed results",
-	"progress-icon-tagline": "The results for this indicator are mixed.  ",	  
-    "progress-description": "Sediment Quality Triad Index results suggest a mixed portrait of Puget Sound sediment quality. ~B Five of eight regions and three of six urban bays sampled since 1997 currently have mean SQTI scores that statistically meet the target value of 81.  Three regions, Hood Canal, the San Juan Islands, and the Eastern Strait of Juan de Fuca, and three bays, Bainbridge Basin, Bellingham Bay, and Budd Inlet, do not meet the target value. ~B Among eight regions and three bays that were re-sampled from 2004 – 2015, SQTI scores improved in Whidbey Basin, South Sound, the San Juan Islands, and Elliott Bay, but declined in the other eight areas. This decline in SQTI values is primarily due to declines in the number and types of benthic invertebrates, resulting in lower SQTI scores. Two bays, Bellingham Bay and Budd Inlet, for which baseline sampling was first conducted in 2010 and 2011, respectively, also did not meet the SQTI target value due to low numbers and types of benthic invertebrates.~B A third round of sampling was conducted in Elliott Bay in 2013, Commencement Bay in 2014, and Bainbridge Basin in 2015. On a positive note, the SQTI scores improved and exceeded the target value in Elliott Bay and Commencement Bay. As a result, the 2014 interim targets were all met.  The SQTI score for Bainbridge Basin in 2015, however, declined, fell below the target value, and did not meet the 2016 interim target.  Again, the declining score was due to lower numbers and types of benthic invertebrates.~B Hood Canal was not resampled in 2016, so the 2016 interim SQTI target could not be evaluated.",
+	"progress-icon-tagline": "The results for this indicator are mixed.",	  
+    "progress-description": "Sediment Quality Triad Index results suggest a mixed portrait of Puget Sound sediment quality. ~SL Five of eight regions and three of six urban bays sampled since 1997 currently have mean SQTI scores that statistically meet the target value of 81. Three regions, Hood Canal, the San Juan Islands, and the Eastern Strait of Juan de Fuca, and three bays, Bainbridge Basin, Bellingham Bay, and Budd Inlet, do not meet the target value. ~B Among eight regions and three bays that were re-sampled from 2004 – 2015, SQTI scores improved in Whidbey Basin, South Sound, the San Juan Islands, and Elliott Bay, but declined in the other eight areas. This decline in SQTI values is primarily due to declines in the number and types of benthic invertebrates, resulting in lower SQTI scores. Two bays, Bellingham Bay and Budd Inlet, for which baseline sampling was first conducted in 2010 and 2011, respectively, also did not meet the SQTI target value due to low numbers and types of benthic invertebrates.~B A third round of sampling was conducted in Elliott Bay in 2013, Commencement Bay in 2014, and Bainbridge Basin in 2015. On a positive note, the SQTI scores improved and exceeded the target value in Elliott Bay and Commencement Bay. As a result, the 2014 interim targets were all met. The SQTI score for Bainbridge Basin in 2015, however, declined, fell below the target value, and did not meet the 2016 interim target.  Again, the declining score was due to lower numbers and types of benthic invertebrates.~B Hood Canal was not resampled in 2016, so the 2016 interim SQTI target could not be evaluated.~EL",
 	"what": "This indicator is the Sediment Quality Triad Index.~P Sediment quality is a key indicator of a healthy ecosystem, and high-quality sediments support a diverse and important biological community. ~P Much of the floor of Puget Sound is covered with sediments—the gravel, sand, silt, and clay that has accumulated over years, decades, centuries, and even millennia. High-quality sediments support a diverse and important biological community. ~P The Sediment Quality Triad Index (SQTI) measures three aspects of sediment quality in Puget Sound. The SQTI includes: ~P 1) Chemical contamination, as described in the Sediment Chemistry Index (SCI), which is also an indicator for this Vital Sign;~P 2) Toxicity of the sediments to marine life, which measures the combined (synergistic) effects of those chemicals and other sediment characteristics on laboratory test organisms; and ~P 3) Diversity of the benthos, which measures the total number of organisms and total number of species of small invertebrates living in the sediments and reflects the actual biological condition of the sediments as a response to all possible human-caused and natural stressors, whether measured or not. ~P The SQTI ranges from 1-100, with higher index values indicating higher quality sediments (Table 1).",
 	"data" : {
 		"figure-1" : {
@@ -27,15 +27,7 @@
 			"figure-link" : "https://pspwa.app.box.com/file/49136915065",
 			"caption" : "NONE",
 			"source" : "Source: Washington State Department of Ecology, Marine Sediment Monitoring Team",
-			"description" : "Note:~B Ecology’s Marine Sediment Monitoring Team (MSMT) is redesigning the PSEMP Sediment Component monitoring program.  We have made the decision to not complete a third round of regional sampling which would have commenced in 2015.  Therefore, there are no further additions to SQTI regional graphics after 2014.~B Ecology’s MSMT has also made the decision to discontinue toxicity testing during annual urban bay work, therefore the SQTI cannot be calculated after 2015, when the last round of toxicity testing was conducted for Bainbridge Basin sediments."
-		},
-		"figure-3" : {
-			"title" : "Xtext",
-			"subhead" : "Xtext",
-			"figure-link" : "Xlink",
-			"caption" : "Xtext",
-			"source" : "Xtext",
-			"description" : "Xtext"
+			"description" : "Note:~SL Ecology’s Marine Sediment Monitoring Team (MSMT) is redesigning the PSEMP Sediment Component monitoring program.  We have made the decision to not complete a third round of regional sampling which would have commenced in 2015.  Therefore, there are no further additions to SQTI regional graphics after 2014.~B Ecology’s MSMT has also made the decision to discontinue toxicity testing during annual urban bay work, therefore the SQTI cannot be calculated after 2015, when the last round of toxicity testing was conducted for Bainbridge Basin sediments.~EL"
 		}
 		
 	},
@@ -52,40 +44,7 @@
 			"link0": {
 				"link-name" : "I am a link1",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
 			}	
-		},
-	"comment":"Xinsert comment"
+		}
 	}	
 }

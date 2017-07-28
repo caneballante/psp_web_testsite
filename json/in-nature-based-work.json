@@ -13,30 +13,7 @@
     "progress-description": "No data are available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
 	"what": "This indicator tracks participation in nature-based occupations in the Puget Sound, such as logging, fishing, agriculture, aquaculture, interpretative work, and nature guiding. ~P We are not yet collecting data on this indicator, but when we do, data will be collected every 2 years via survey to Puget Sound residents about their annual nature-based work activities. ~P The results will be reported as the average time Puget Sound residents spend per week engaging in nature-based work. All data will be analyzed for significant differences across demographic groups.",
 	"data" : {
-		"figure-1" : {
-			"title" : "XFIGURE",
-			"subhead" : "X2000",
-			"figure-link" : "Xhttps:",
-			"caption" : "XEstimated",
-			"source" : "XSource:",
-			"description" : "No data are currently available for this indicator. The Puget Sound Partnership is seeking funding to support data collection."
-		},
-		"figure-2" : {
-			"title" : "XFIGURE",
-			"subhead" : "X2000",
-			"figure-link" : "Xhttps:",
-			"caption" : "XNumber",
-			"source" : "XSource:",
-			"description" : "XWhen"
-		},
-		"figure-3" : {
-			"title" : "Xtext",
-			"subhead" : "Xtext",
-			"figure-link" : "Xlink",
-			"caption" : "Xtext",
-			"source" : "Xtext",
-			"description" : "Xtext"
-		}
+	
 		
 	},
 	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
@@ -52,40 +29,7 @@
 			"link0": {
 				"link-name" : "I am a link1",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}	
-		},
-	"comment":"Xinsert comment"
+			}
+		}
 	}	
 }

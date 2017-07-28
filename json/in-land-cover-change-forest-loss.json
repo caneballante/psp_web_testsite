@@ -11,7 +11,7 @@
 	"progress-icon": "getting better",
 	"progress-icon-tagline": "Yes, this indicator has made gains relative to the baseline reference.",	  
     "progress-description": "The status of this indicator is improving relative to the baseline reference, and is making progress toward the 2020 target.~SL Non-federal forestlands were lost to development at a rate of 2,176 acres per year for the period 2001 – 2006, the baseline reference year. ~B Between 2006 and 2011, the most recent period with available data, the rate of forest loss decreased by almost half to 1,196 acres per year. The target value of 1000 acres per year was nearly reached during the 2006-2011 period.~EL ",
-	"what": "This indicator is forest loss, measured by the number of acres of non-federal forest land cover converted to development. Changes in forest cover are measured using National Oceanic and Atmospheric Administration (NOAA) Coastal Change analysis of Landsat satellite imagery with a 30-meter resolution.~P The forest loss indicator provides a check on the region’s success in maintaining forest cover throughout the Puget Sound Basin. More specifically, this indicator tracks the conversion of forested cover, including coniferous, deciduous, and mixed forest classes, to developed land cover by using four classes of development intensity, based on Landsat satellite imagery with a 30m resolution.~P Forests are important for the health of Puget Sound watersheds because forested landscapes provide habitat that support terrestrial species, deliver watershed functions that support freshwater systems, and provide ecological and cultural services for humans. ~P Forest cover conversion in the Puget Sound Basin has been consistently measured every four to five years since 1992; the most recent results are for the period 2006-2011. Results are reported as an annual average loss, in acres, for a five-year period.~P While the forest loss indicator provides a good measure of forest cover change across all Puget Sound watersheds, it underestimates forest conversion, particularly in urbanizing areas that exhibit complex mixes of land cover. Additionally, urban in-fill, or the continuing conversion of small forested parcels, often occurs at sizes too small to be captured reliably by the 30-meter NOAA satellite data used for this indicator. Work at the Washington Department of Fish and Wildlife (http://wdfw.wa.gov/conservation/research/projects/aerial_imagery/index.html) is underway to develop a more sensitive land cover change analysis based on high-resolution photography.",
+	"what": "This indicator is forest loss, measured by the number of acres of non-federal forest land cover converted to development. Changes in forest cover are measured using National Oceanic and Atmospheric Administration (NOAA) Coastal Change analysis of Landsat satellite imagery with a 30-meter resolution.~P The forest loss indicator provides a check on the region’s success in maintaining forest cover throughout the Puget Sound Basin. More specifically, this indicator tracks the conversion of forested cover, including coniferous, deciduous, and mixed forest classes, to developed land cover by using four classes of development intensity, based on Landsat satellite imagery with a 30m resolution.~P Forests are important for the health of Puget Sound watersheds because forested landscapes provide habitat that support terrestrial species, deliver watershed functions that support freshwater systems, and provide ecological and cultural services for humans. ~P Forest cover conversion in the Puget Sound Basin has been consistently measured every four to five years since 1992; the most recent results are for the period 2006-2011. Results are reported as an annual average loss, in acres, for a five-year period.~P While the forest loss indicator provides a good measure of forest cover change across all Puget Sound watersheds, it underestimates forest conversion, particularly in urbanizing areas that exhibit complex mixes of land cover. Additionally, urban in-fill, or the continuing conversion of small forested parcels, often occurs at sizes too small to be captured reliably by the 30-meter NOAA satellite data used for this indicator. Work at the Washington Department of Fish and Wildlife <a href='http://wdfw.wa.gov/conservation/research/projects/aerial_imagery/index.html'>(http://wdfw.wa.gov/conservation/research/projects/aerial_imagery/index.html)</a> is underway to develop a more sensitive land cover change analysis based on high-resolution photography.",
 	"data" : {
 		"figure-1" : {
 			"title" : "FIGURE 1. FOREST LOSS ON NON-FEDERAL LANDS",
@@ -37,40 +37,7 @@
 			"link0": {
 				"link-name" : "I am a link1",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
 			}	
-		},
-	"comment":"Xinsert comment"
+		}
 	}	
 }

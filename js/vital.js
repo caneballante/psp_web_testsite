@@ -36,26 +36,7 @@ $(document).ready(function () {
 		return(wrapParagraph);
 	};
 	
-	if (whatPage === "data-summary"){
-		$.getJSON("json/indicator-list.json", function (data6) {
-				dataINList = data6;
-				rollUpMaker(dataINList);
-				
-			});			
-		function rollUpMaker (dataINList){
-			console.log(dataINList)
-			$.each((dataINList['indicators']), function(i, indicator) {
-				$.getJSON("json/" + indicator, function (data4) {
-					dataIN = data4;
-					var vsINName= (dataIN['indicator']['indicator-name']);
-					var vsINProgress= (dataIN['indicator']['progress-icon']);
-					var vsINStatus= (dataIN['indicator']['status-icon']);
-					var allIndicators = '<p> <strong>Indicator name:</strong> ' + vsINName + ' <strong>Status:</strong> ' + vsINStatus + ' <strong>Progress: </strong>' + vsINProgress + '</p></br>'
-					$('#show-indicators').append(allIndicators);
-				});			
-			});
-		}
-	}
+	
 	if (whatIN === 0){
 		
 		console.log("vital if ran")
@@ -115,14 +96,14 @@ $(document).ready(function () {
 			});
 
 			//highlights
-			var vsHighlights = (dataVS['vitalSign']['highlights']);
-			var vsHighlightsBullit = bulletMaker(vsHighlights);
-			var vsHighlightsHtml = paragraphMaker(vsHighlightsBullit);
-			$('#show-highlight').html(vsHighlightsHtml);
+			//var vsHighlights = (dataVS['vitalSign']['highlights']);
+			//var vsHighlightsBullit = bulletMaker(vsHighlights);
+			//var vsHighlightsHtml = paragraphMaker(vsHighlightsBullit);
+		//	$('#show-highlight').html(vsHighlightsHtml);
 
 			//highlight photos
-			var vsHighlightPhoto = (dataVS['vitalSign']['highlight_photo']);
-			$('#show-highlight-photo').html(vsHighlightPhoto);
+		//	var vsHighlightPhoto = (dataVS['vitalSign']['highlight_photo']);
+		//	$('#show-highlight-photo').html(vsHighlightPhoto);
 
 			//links
 			$.each((dataVS['vitalSign']['links']), function(i, linkSet) {
@@ -132,55 +113,9 @@ $(document).ready(function () {
 					var vslinkShow  = '<p><a href=">' + vsLinkURL + '">' + vsLinkName + '</a></p>';
 					$('#show-links').append(vslinkShow);
 				});
-			//links
-		/*	$.each((dataVS['vitalSign']['links']), function(i, link) {
-				var allLinks = '<p>' + link + '</p>'
-				$('#show-links').append(allLinks);
-			});*/
 
 		};
-		// heading function removed - i added all the headings into the content include.
-		/*function vsHeadingsShow () {
-			var vsGoalHeading = $('<p>' + (headingsVS['vitalSign-headings']['goal-heading']) + '<p>');
-			$('#show-goal-heading').html(vsGoalHeading);
-
-			var vsNameHeading = $('<p>' + (headingsVS['vitalSign-headings']['name-heading']) + '<p>');
-			$('#show-name-heading').html(vsNameHeading);
-
-			var vsLeadHeading = $('<p>' + (headingsVS['vitalSign-headings']['lead-heading']) + '<p>');
-			$('#show-lead-heading').html(vsLeadHeading);
-
-			var vsContactHeading = $('<p>' + (headingsVS['vitalSign-headings']['contact-heading']) + '<p>');
-			$('#show-contact-heading').html(vsContactHeading);
-
-			var vsWhatHeading = $('<p>' + (headingsVS['vitalSign-headings']['what-heading']) + '<p>');
-			$('#show-what-heading').html(vsWhatHeading);
-
-			var vsKeyMessagesHeading = $('<p>' + (headingsVS['vitalSign-headings']['key-messages-heading']) + '<p>');
-			$('#show-key-messages-heading').html(vsKeyMessagesHeading);
-
-			var vsProgressRatingHeading = $('<p>' + (headingsVS['vitalSign-headings']['progress-rating-heading']) + '<p>');
-			$('#show-rating-heading').html(vsProgressRatingHeading);
-
-			var vsIndicatorsHeading = $('<p>' + (headingsVS['vitalSign-headings']['indicators-heading']) + '<p>');
-			$('#show-indicators-heading').html(vsIndicatorsHeading);
-
-			var vsHighlightsHeading = $('<p>' + (headingsVS['vitalSign-headings']['highlights-heading']) + '<p>');
-			$('#show-highlights-heading').html(vsHighlightsHeading);
-
-			var vsLinksHeading = $('<p>' + (headingsVS['vitalSign-headings']['links-heading']) + '<p>');
-			$('#show-links-heading').html(vsLinksHeading);
-
-			vsAddStyles ();
-		};
-
-
-
-
-		function vsAddStyles () {
-			$('#show-goal-heading > p').addClass('.heading');
-			$('#show-goal-heading > p').css("color", "#333");
-		};*/
+	
 		
 //--------------------------------INDICATOR------------------------------------------		
 		
@@ -270,10 +205,10 @@ $(document).ready(function () {
 			//data 
 			$.each((dataIN['indicator']['data']), function(i, dataSet) {
 				var inDataTitle = '<p>'+(dataSet['title'])+'</p>';
-				var inDataSubhead = '<p>'+(dataSet['subhead'])+'</p>';
-				var inDataFigure = '<img src="images/vitalsigns/' + (dataSet['figure-link']) + '" width="715" height="491" alt=""/>';
+				var inDataSubhead = '<p><em>'+(dataSet['subhead'])+'</em></p>';
+				var inDataFigure = '<img class="img-responsive" src="images/vitalsigns/' + (dataSet['figure-link']) + '"  alt=""/>';
 				var inDataCaption = '<p>'+(dataSet['caption'])+'</p>';
-				var inDataSource = '<p>'+(dataSet['source'])+'</p>';
+				var inDataSource = '<p class="caption"><em>'+(dataSet['source'])+'</em></p><br>';
 				var inDataDescription = (dataSet['description']);
 				var inDataDescriptionBullets = bulletMaker(inDataDescription);
 				var inDataDescriptionHtml = paragraphMaker(inDataDescriptionBullets);
@@ -295,8 +230,8 @@ $(document).ready(function () {
 			
 			//why happening
 			var inWhyHappen = (dataIN['indicator']['why-happening']);
-			var inWhyHappenFmt = inWhyHappen.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inWhyHappenHtml = '<p>' + inWhyHappenFmt + '</p>';
+			var inWhyBullets = bulletMaker(inWhyHappen);
+			var inWhyHappenHtml = paragraphMaker(inWhyBullets);
 			$('#show-in-why-happen').html(inWhyHappenHtml);
 
 			
@@ -314,8 +249,8 @@ $(document).ready(function () {
 
 			//interim target
 			var inInterimTarget = (dataIN['indicator']['interim-target']);
-			var inInterimTargetFmt = inInterimTarget.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inInterimTargetHtml = '<p>' + inInterimTargetFmt + '</p>';
+			var inInterimTargetBullets = bulletMaker(inInterimTarget);
+			var inInterimTargetHtml = paragraphMaker(inInterimTargetBullets);
 			$('#show-in-interim-target').html(inInterimTargetHtml);
 			
 			//interim target table title
@@ -325,9 +260,11 @@ $(document).ready(function () {
 			$('#show-in-interim-target-table-title').html(inInterimTargetTableTitleHtml);
 
 			//interim target table
-			var inInterimTargetTable = (dataIN['indicator']['interim-target-table']);
-			//this is a graphic link
-			//$('#show-in-data').html(inDataHtml);
+			var inInterimTargetTableLink = (dataIN['indicator']['interim-target-table']);
+			console.log(inInterimTargetTableLink);
+			var inInterimTargetTableHTML = '<img class="img-responsive" src="images/vitalsigns/' + inInterimTargetTableLink  + '"  alt=""/>';
+			console.log(inInterimTargetTableHTML);
+			$('#show-in-interim-target-table').html(inInterimTargetTableHTML);
 
 			//map
 			var inMap = (dataIN['indicator']['map-link']);

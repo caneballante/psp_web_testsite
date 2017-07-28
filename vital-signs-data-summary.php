@@ -26,7 +26,7 @@
 	<script> navSelected = 3;  subNavSelected = "non";
 	</script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js"></script>
+	
 	
 	<script> //setting the unused variable to 0 to flag the if statement to run either the VS or IN code.
 		var whatIN = "none"; 
@@ -70,7 +70,7 @@
 			</div>
 		</div>
 		 
-		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" --><div id="show-indicators"></div>content goes here<script src="js/vital.js"></script><!-- InstanceEndEditable --></div>
+		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" --><div id="show-indicators"></div>content goes here<script src="js/vital.js"></script><script src="js/datasummary.js"></script><!-- InstanceEndEditable --></div>
 		
 		</div>
 	<!--END OF ROW --> 
