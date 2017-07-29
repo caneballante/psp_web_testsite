@@ -11,81 +11,25 @@
 	"progress-icon": "insufficient or no data",
 	"progress-icon-tagline": "NONE",	  
     "progress-description": "No data currently are available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years.",
-	"what": "The Good Governance Index tells us how Puget Sound residents perceive the way decisions are made regarding management and use of the natural environment. The index is made up of 5 different indicators. The indicators offer insights for improving our overall decision-making processes, strengthening communication strategies, and strengthening the engagement of our partners and citizenry. An index is appropriate because the indicators are conceptually similar and often correlated.~B Indicator 1: Opportunity to influence decisions. Percent of residents who feel they have the opportunity to influence environmental decisions if desired.~B Indicator 2: Freedom to make decisions. Percent of residents who feel they have the rights and freedoms to make decisions about how the natural environment is managed.~B Indicator 3: Trust in local and regional government. Percent of residents who trust local and regional government to make the right decisions for protecting and recovering Puget Sound.  ~B Indicator 4: Representation in community and government leaders. Percent of residents who feel represented by community and government leaders.~B Indicator 5: Access to information: Percent of residents who obtain information about natural resource issues from pre-defined sources. ~P Data will be collected every 2 years via survey to Puget Sound residents. Results will be reported as a mean index value. All data will be analyzed for significant differences across demographic groups ",
+	"what": "The Good Governance Index tells us how Puget Sound residents perceive the way decisions are made regarding management and use of the natural environment. The index is made up of 5 different indicators. The indicators offer insights for improving our overall decision-making processes, strengthening communication strategies, and strengthening the engagement of our partners and citizenry. An index is appropriate because the indicators are conceptually similar and often correlated.~SL Indicator 1: Opportunity to influence decisions. Percent of residents who feel they have the opportunity to influence environmental decisions if desired.~B Indicator 2: Freedom to make decisions. Percent of residents who feel they have the rights and freedoms to make decisions about how the natural environment is managed.~B Indicator 3: Trust in local and regional government. Percent of residents who trust local and regional government to make the right decisions for protecting and recovering Puget Sound.  ~B Indicator 4: Representation in community and government leaders. Percent of residents who feel represented by community and government leaders.~B Indicator 5: Access to information: Percent of residents who obtain information about natural resource issues from pre-defined sources. ~EL~P Data will be collected every 2 years via survey to Puget Sound residents. Results will be reported as a mean index value. All data will be analyzed for significant differences across demographic groups ",
 	"data" : {
-		"figure-1" : {
-			"title" : "XFIGURE",
-			"subhead" : "X2000",
-			"figure-link" : "Xhttps:",
-			"caption" : "XEstimated",
-			"source" : "XSource:",
-			"description" : "No data are currently available for this indicator. The Puget Sound Partnership is seeking funding to support data collection."
-		},
-		"figure-2" : {
-			"title" : "XFIGURE",
-			"subhead" : "X2000",
-			"figure-link" : "Xhttps:",
-			"caption" : "XNumber",
-			"source" : "XSource:",
-			"description" : "XWhen"
-		},
-		"figure-3" : {
-			"title" : "Xtext",
-			"subhead" : "Xtext",
-			"figure-link" : "Xlink",
-			"caption" : "Xtext",
-			"source" : "Xtext",
-			"description" : "Xtext"
-		}
+		
 		
 	},
-	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
+	"more-description" : "",
 	"why-happening": "Analysis of data trends is not currently available.",
-	"references" : "X<H3>References</H3>~P Christiaen B.,",
+	"references" : "",
 	"target": "No targets are currently set for this indicator. ",
-	"interim-target": "XLink to interim targets http://www.psp.wa.gov/downloads/interimtargets/Shef",
-    "interim-target-title": "XPaste in the table number and table title",
-	"interim-target-table":"XGive Jon link to the Word file",
-    "map-link": "Xtell me where to find the map, or send it to me as a image file",
-	"map-link-text": "Xis there map text? if so it can go here",
+	"interim-target": "",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "",
+	"map-link-text": "",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}	
-		},
-	"comment":"Xinsert comment"
+			}
+		}
 	}	
 }

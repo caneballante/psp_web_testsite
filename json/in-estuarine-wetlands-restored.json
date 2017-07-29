@@ -30,8 +30,8 @@
 	"interim-target": "Link to <a href='http://www.psp.wa.gov/downloads/interimtargets/Estuaries%20Interim%20Targets%20-%20FINAL.pdf'>interim targets</a> ",
 	"interim-target-title": "TABLE 1. PROGRESS TOWARD 2016 INTERIM TARGET",
 	"interim-target-table": "estuary-restored-table1.jpg",
-    "map-link": "Xtell me where to find the map, or send it to me as a image file",
-	"map-link-text": "Xis there map text? if so it can go here",
+    "map-link": "",
+	"map-link-text": "",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",

@@ -6,55 +6,16 @@
 		"contact": "Contact goes here",
 		"what": "what",
 		"key-messages": "key messages",
-		"progress_rating": {
-			"mp": 0,
-			"msp": 70,
-			"nc": 15,
-			"gsw": 15,
-			"gw": 0
-		},
+		
 		"indicators": {
-			"indicator1_name": "indicator 1",
-			"indicator2_name": "indicator 2",
-			"indicator3_name": "indicator 3"
+			"indicator1_json": "in-engagement-in-stewardship-activities.json",
+			"indicator2_json": "in-sound-behavior.json"
 		},
 		"highlights": "highlights",
 		"highlight_photo": "image link",
 		 "links": {
 		"link0": {
 			"link-name" : "I am a link1",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		},
-		"link1": {
-			"link-name" : "I am a link2",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		},
-		"link2": {
-			"link-name" : "I am a link3",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		},
-		"link3": {
-			"link-name" : "I am a link4",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		},
-		"link4": {
-			"link-name" : "I am a link5",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		},
-		"link5": {
-			"link-name" : "I am a link6",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		},
-		"link6": {
-			"link-name" : "I am a link7",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		},
-		"link7": {
-			"link-name" : "I am a link8",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		},
-		"link8": {
-			"link-name" : "I am a link9",
 			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
 		}	
 	}

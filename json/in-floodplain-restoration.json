@@ -28,10 +28,10 @@
 	"references" : "NONE",
 	"target": "XThe 2020 target is a 20% increase in the area of eelgrass in Puget Sound relative to the 2000-2008 baseline reference by the year 2020.",
 	"interim-target": "XLink to interim targets http://www.psp.wa.gov/downloads/interimtargets/Shellfish%20Beds%20Interim%20Targets%20-%20FINAL.pdf",
-    "interim-target-title": "XPaste in the table number and table title",
-	"interim-target-table":"XGive Jon link to the Word file",
-    "map-link": "Xtell me where to find the map, or send it to me as a image file",
-	"map-link-text": "Xis there map text? if so it can go here",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "",
+	"map-link-text": "",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",

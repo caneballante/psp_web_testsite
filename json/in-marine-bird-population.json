@@ -16,23 +16,23 @@
          "figure-1":{  
             "title":"FIGURE 1. POPULATION DENSITY ESTIMATES AND TRENDS OF MARINE BIRD SPECIES IN PUGET SOUND",
             "subhead":"2001-2016",
-            "figure-link":"https://pspwa.app.box.com/file/69317960289",
+            "figure-link":"marine-birds-figure1.jpg",
             "caption":"Dots are population estimates. Black line shows the linear trend. Grey band is the 95% confidence interval of the trend.",
             "source":"Source: Washington Department of Fish & Wildlife",
-            "description":"XPuget Sound "
+            "description":""
          },
          "figure-2":{  
             "title":"Table 1. ESTIMATES OF AVERAGE ANNUAL RATE OF POPULATION CHANGE (LINEAR) FOR PUGET SOUND.",
             "subhead":"2001-2016",
-            "figure-link":"https://pspwa.app.box.com/file/69317960289",
-            "caption":"XNumber of sites with",
-            "source":"XSource: Washington ",
+            "figure-link":"marine-birds-table1.jpg",
+            "caption":"",
+            "source":"",
             "description":"Sound-wide, the density of pigeon guillemots and rhinoceros auklet has varied from year-to-year but with no overall trend over the past 16 years. In contrast, density of the marbled murrelet population has declined by nearly 5% per year over the past 16 years (95% CI = -7.7 to –2.1). The population size of marbled murrelets in Puget Sound and the Strait of Juan de Fuca in 2016 was estimated at 4,614 birds (95% confidence interval = 2,298 – 7,570 birds)."
          },
          "figure-3":{  
             "title":"FIGURE 2: RHINOCEROS AUKLET BURROW OCCUPANCY, HATCHING AND FLEDGING SUCCESS 2016 COMPARED TO THE 2006-2015 MEAN (±SD) ON PROTECTION ISLAND",
             "subhead":"NONE",
-            "figure-link":"https://pspwa.app.box.com/file/69317960289",
+            "figure-link":"marine-birds-figure2.jpg",
             "caption":"NONE",
             "source":"Source: Washington Department of Fish and Wildlife & University of Puget Sound",
             "description":"<em>Pigeon guillemot</em>~P Pigeon guillemots nest in crevices among boulders, under driftwood, or in man-made structures such as a wharf or pipe, or even on cliff faces. Ongoing citizen-science monitoring by local Whidbey Island residents from 2008 through 2016 [Provide link: http://pigeonguillemot.org/ ] and South Sound residents [Provide link: http://www.nisquallyestuary.org/research.html] indicates stable local populations. Local population results are consistent with the sound-wide trends in density trends obtained during the spring/summer boat-based surveys.~P The number of adult guillemots in the colonies nesting in the bluffs of Whidbey Island averaged 1,032 ± 33 birds. Occupied burrows, indicated by adults going into the burrow, averaged 244 ± 20 burrows. Burrows with chicks, indicated by prey delivery to the burrow, averaged 160 ± 12. These population and reproductive measures, like the sound-wide monitoring results above, suggest a stable and healthy guillemot population in the Puget Sound region."
@@ -40,7 +40,7 @@
          "figure-4":{  
             "title":"FIGURE 3: COUNTS OF ADULTS, OCCUPIED BURROWS AND BURROWS WITH CHICKS 2016 COMPARED TO THE 2008-2015 MEAN (±SD) ON WHIDBEY ISLAND",
             "subhead":"NONE",
-            "figure-link":"https://pspwa.app.box.com/file/69317960289",
+            "figure-link":"marine-birds-figure3.jpg",
             "caption":"NONE",
             "source":"Source: Pigeon Guillemot Research Group",
             "description":"<em>Scoters</em>~P Three scoter species (surf, black and white-winged) over-winter in the Salish Sea. They spend about eight months of the year, with some non-breeding individuals here year-round. They are foraging, replacing their feathers and putting on weight needed to successfully reproduce in high arctic lakes in the summer. Recently published research by Vilchis et al. (2015) [Provide link: http://onlinelibrary.wiley.com/doi/10.1111/cobi.12378/abstract] indicates that over-wintering species were three times more likely to exhibit population declines in the Salish Sea than local breeders; for scoter, between 1994 and 2010, they declined in 9% of the 67 depth/basin strata evaluted. In general, Vilchis et al (2015) found that alcids (species like the marbled murrelet and common murre) and sea ducks (species like the scoters) dominated the over-wintering bird community during the 1990s, whereas non-diving bird species and diving species with diverse diets dominated the wintering bird community in the 2000s."
@@ -53,43 +53,11 @@
       "interim-target":"There currently are no interim targets for this Vital Sign.",
       "interim-target-title":"none",
       "interim-target-table":"none",
-      "map-link":"Xmap",
-      "map-link-text":"X map text",
+      "map-link":"",
+      "map-link-text":"",
       "links":{  
          "link0":{  
             "link-name":"I am a link1",
-            "link-url":"https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-         },
-         "link1":{  
-            "link-name":"I am a link2",
-            "link-url":"https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-         },
-         "link2":{  
-            "link-name":"I am a link3",
-            "link-url":"https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-         },
-         "link3":{  
-            "link-name":"I am a link4",
-            "link-url":"https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-         },
-         "link4":{  
-            "link-name":"I am a link5",
-            "link-url":"https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-         },
-         "link5":{  
-            "link-name":"I am a link6",
-            "link-url":"https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-         },
-         "link6":{  
-            "link-name":"I am a link7",
-            "link-url":"https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-         },
-         "link7":{  
-            "link-name":"I am a link8",
-            "link-url":"https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-         },
-         "link8":{  
-            "link-name":"I am a link9",
             "link-url":"https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
          }
       }

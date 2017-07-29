@@ -39,15 +39,15 @@
 		}
 		
 	},
-	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
+	"more-description" : "",
 	"why-happening": "Implementation of effective pollution identification and correction (PIC) programs, agricultural best management practices, and on-site sewage system operation and maintenance programs have resulted in the correction of pollution sources. These corrections have led to improved water quality and upgraded shellfish acreage.~P Although the Sound-wide trend in improvement is positive, many factors affect the long-term ability to reach the target. Unless there are aggressive actions to improve farm management, wastewater treatment plant outfall locations, and to sustain on-site septic system operation and maintenance, and PIC the 2020 target may not be met.",
-	"references" : "X<H3>References</H3>~P Christiaen B.,",
+	"references" : "",
 	"target": "A net increase of 10,800 harvestable shellfish acres between 2007 and 2020, including 7,000 acres where harvest had been prohibited.",
 	"interim-target": "Link to interim targets http://www.psp.wa.gov/downloads/interimtargets/Shellfish%20Beds%20Interim%20Targets%20-%20FINAL.pdf",
     "interim-target-title": "TABLE 1. PROGRESS TOWARD 2014 INTERIM TARGET",
 	"interim-target-table":"https://pspwa.box.com/s/mveyftz99ni1kl1d5zrl8qtjr0jj06i4",
-    "map-link": "Xtell me where to find the map, or send it to me as a image file",
-	"map-link-text": "Xis there map text? if so it can go here",
+    "map-link": "",
+	"map-link-text": "",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",

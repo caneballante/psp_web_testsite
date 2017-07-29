@@ -15,15 +15,15 @@
 	"data" : {
 		
 	},
-	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
+	"more-description" : "",
 	"why-happening": "Analysis of data trends is not currently available.",
-	"references" : "X<H3>References</H3>~P Christiaen B.,",
+	"references" : "",
 	"target": "No targets are currently set for this indicator. ",
 	"interim-target": "XLink to interim targets http://www.psp.wa.gov/downloads/interimtargets/Shef",
-    "interim-target-title": "XPaste in the table number and table title",
-	"interim-target-table":"XGive Jon link to the Word file",
-    "map-link": "Xtell me where to find the map, or send it to me as a image file",
-	"map-link-text": "Xis there map text? if so it can go here",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "",
+	"map-link-text": "",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",

@@ -39,15 +39,15 @@
 		}
 		
 	},
-	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
+	"more-description" : "",
 	"why-happening": "NONE",
-	"references" : "X<H3>References</H3>~P Christiaen B.,",
+	"references" : "",
 	"target": "By 2020, achieve an end-of-year census of 95 individual Southern Resident Killer Whales, which would represent a 1 percent annual average growth rate from 2010 to 2020.",
 	"interim-target": "Link to interim targets http://www.psp.wa.gov/downloads/interimtargets/Orcas%20Interim%20Targets%20-%20FINAL.pdf",
     "interim-target-title": "TABLE 1. PROGRESS TOWARD 2016 INTERIM TARGET",
 	"interim-target-table":"https://pspwa.box.com/s/3cw25ehwkimbha95pl8o39s8khs8iffi",
-    "map-link": "Xtell me where to find the map, or send it to me as a image file",
-	"map-link-text": "Xis there map text? if so it can go here",
+    "map-link": "",
+	"map-link-text": "",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",

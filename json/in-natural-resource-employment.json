@@ -16,7 +16,7 @@
 		"figure-1" : {
 			"title" : "FIGURE 1. NATURAL RESOURCE EMPLOYMENT IN PUGET SOUND, INCLUDING TIMBER, FISHING, AGRICULTURE, RECREATION AND TOURISM",
 			"subhead" : "2005-2014",
-			"figure-link" : "https://pspwa.box.com/s/38z18rqdubygeenfazpcs8ddhpggf6t5",
+			"figure-link" : "natural-resource-employment-figure1.jpg",
 			"caption" : "NONE",
 			"source" : "Sources: Bureau of Economic Analysis (BEA), Washington State Department of Agriculture (WSDA), Washington State Department of Natural Resources (WADNR), National Oceanic and Atmospheric Administration (NOAA), Bureau of Labor Statistics (BLS), and US Census Bureau.",
 			"description" : "NONE"
@@ -24,22 +24,22 @@
 		"figure-2" : {
 			"title" : "FIGURE 2. EMPLOYMENT (Number of Jobs) BY INDUSTRY IN PUGET SOUND",
 			"subhead" : "2005-2014",
-			"figure-link" : "https://pspwa.box.com/s/38z18rqdubygeenfazpcs8ddhpggf6t5",
+			"figure-link" : "natural-resource-employment-figure2.jpg",
 			"caption" : "NONE",
 			"source" : "Sources: Bureau of Economic Analysis (BEA), Washington State Department of Agriculture (WSDA), Washington State Department of Natural Resources (WADNR), National Oceanic and Atmospheric Administration (NOAA), Bureau of Labor Statistics (BLS), and US Census Bureau.",
 			"description" : "NONE"
 		}
 		
 	},
-	"more-description" : "X<H3>Notes about the methods and the data:</H3>~P Timber and agricultural employment is provided by Headwaters Economics Economic Profiling System (EPS), derived from the Bureau of Economic Analysis (BEA), and reported by county.~P The geographical scope of the Puget Sound Partnership includes all counties adjoining the Puget Sound basin. The outer coast of the state is not included. To restrict timber and agricultural employment estimates accordingly, Washington State Department of Natural Resources (WADNR) forest practice and Washington State Department of Agriculture (WSDA) agricultural land use maps were intersected with county and Puget Sound Partnership boundaries. The percentage of timber or agricultural land use that fell within the Puget Sound Area was used to draw a proportion of total county employment. <strong>Timber and agriculture employment represents actual harvest and farming activities, and does not include mills, manufacturing or other farm support services.</strong>~P Fishing and Aquaculture employment is provided by NOAA’s Economics: National Ocean Watch program (ENOW), derived from the BLS Quarterly Census of Employment and Wages (QCEW), and reported by region. Fishing is defined as all finfish and shellfish fishing, while Aquaculture employment includes finfish farming, fish hatcheries, and shellfish farming. ENOW’s west region includes all counties in the Puget Sound Management Area, as well as the coastal counties of Greys Harbor, Pacific and Wahkiakum. To accurately reflect management area employment, QCEW employment for the outlying counties was collected and subtracted from the larger west region. U.S. Census Bureau non-employer statistics for the fishing industry were also added to the time series to reflect a large amount of self-employed people in the fishing industry. <strong>Fishing and Aquaculture employment includes harvest activities but does not include value added  seafood processing or markets, such as retail and wholesale distribution. Due to the mobility of the fishing fleet, place of work data may only partially capture Puget Sound employment.  Because of these two limitations the numbers report in the indicator assessment are probably under estimates of true employment in these two industries.</strong>  For example NEI (2013) reports employment in shellfish aquaculture to have been 2,710 jobs in 2010. ~P Recreation and tourism employment is reported by ENOW and includes boat dealers, eating and drinking places, hotels and lodging, marinas, recreational parks and campsites, scenic water tours, sporting goods, amusement and recreation services, and zoos and aquaria. <strong>Employment in this sector is reported only for zip codes that are adjacent to the coastal areas.</strong>~P Recreation and tourism employment in Jefferson and Clallam counties accounted for 3,328 jobs on average annually from 2005-2014. However, those counties are not included in the figures above because the indicator is focused on Puget Sound economic activity and we could not accurately remove Pacific coastal tourism and recreation employment from the total. Additionally, employment in Thurston County is not estimated by ENOW because the portion of coastal tourism and recreation that can be attributed to the Puget Sound versus the professional and political activity at the state’s capital is unclear. For these reasons, recreation and tourism estimates above should be considered conservative.",
+	"more-description" : "",
 	"why-happening": "~SL Ex vessel value from PACfin confirms slack years in commercial fisheries.  In addition, droughts and low runs of salmon may have led to loss of jobs in this sector between 2012 and 2014. ~B While employment in timber and agriculture sectors has shown moderate declines, output has remained the same or risen.  This trend could be the result of technological advances.~B Increases in employment in tourism and recreation may be attributable to greater consumer demand for farm to table destination dining, cruise ship and tribal casino visitation, accessible shore based recreation (kayaking, stand up paddle boarding, and etc.), and development of tourism infrastructure such as hotels and VRBO accomodations. Some aspects of this increased demand suggest that there is a consumer willingness to pay for the nonmarket attributes of the coastal ecosystem (such as recreation, aesthetics, and culture).~EL",
 	"references" : "NONE,",
 	"target": "No targets are currently set for this indicator. ",
 	"interim-target": "XLink to interim targets ",
-    "interim-target-title": "XPaste in the table number and table title",
-	"interim-target-table":"XGive Jon link to the Word file",
-    "map-link": "Xtell me where to find the map, or send it to me as a image file",
-	"map-link-text": "Xis there map text? if so it can go here",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "",
+	"map-link-text": "",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",

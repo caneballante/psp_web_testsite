@@ -29,8 +29,8 @@
 	"interim-target": "There currently are no interim targets for this Vital Sign.",
     "interim-target-title": "NONE",
 	"interim-target-table":"NONE",
-    "map-link": "Xtell me where to find the map, or send it to me as a image file",
-	"map-link-text": "Xis there map text? if so it can go here",
+    "map-link": "",
+	"map-link-text": "",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",

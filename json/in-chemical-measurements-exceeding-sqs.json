@@ -16,22 +16,22 @@
 		"figure-1" : {
 			"title" : "FIGURE 1. PERCENT OF CHEMICALS EXCEEDING SEDIMENT QUALITY STANDARDS",
 			"subhead" : "1997 – 2015, time period varies",
-			"figure-link" : "https://pspwa.box.com/s/agttnuz4hr5ffclj0gv7fiasdctbhj08",
+			"figure-link" : "sqs-figure1.jpg",
 			"caption" : "Top panel: Values for eight Puget Sound regions; Bottom panel: Values for six Puget Sound urban bays",
 			"source" : "Source: Washington State Department of Ecology, Marine Sediment Monitoring Team",
 			"description" : "Note:  ~P Ecology’s Marine Sediment Monitoring Team (MSMT) is redesigning the PSEMP Sediment Component monitoring program.  We have made the decision to not complete a third round of regional sampling which would have commenced in 2015.  Therefore, there are no further additions to SQS regional graphics after 2014."
 		}
 		
 	},
-	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
+	"more-description" : "",
 	"why-happening": "NONE",
-	"references" : "X<H3>References</H3>~P Christiaen B.,",
+	"references" : "",
 	"target": "All Puget Sound regions and bays, as characterized by ambient monitoring, will have no measurements exceeding the Sediment Quality Standards (SQS) chemical criteria set for Washington State. ",
-	"interim-target": "Link to interim targets http://www.psp.wa.gov/downloads/interimtargets/Marine%20Sediment%20Quality%20Interim%20Targets%20-FINAL.pdf",
+	"interim-target": "<a href='http://www.psp.wa.gov/downloads/interimtargets/Marine%20Sediment%20Quality%20Interim%20Targets%20-FINAL.pdf'>Link to interim targets</a>",
     "interim-target-title": "Target conditions remained unchanged, and were not met in Bainbridge Basin in 2015.",
-	"interim-target-table":"https://pspwa.box.com/s/agttnuz4hr5ffclj0gv7fiasdctbhj08",
-    "map-link": "Xtell me where to find the map, or send it to me as a image file",
-	"map-link-text": "Xis there map text? if so it can go here",
+	"interim-target-table":"",
+    "map-link": "",
+	"map-link-text": "",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",

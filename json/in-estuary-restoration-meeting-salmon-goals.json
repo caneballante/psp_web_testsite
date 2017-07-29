@@ -17,14 +17,14 @@
 		
 	},
 	"more-description" : "NONE",
-	"why-happening": "XText goes here",
+	"why-happening": "",
 	"references" : "NONE",
 	"target": "By 2020, all Chinook natal river deltas meet 10-year salmon recovery goals (or 10% of restoration need as proxy for river deltas lacking quantitative acreage goals in salmon recovery plans).",
 	"interim-target": "Link to <a href='http://www.psp.wa.gov/downloads/interimtargets/Estuaries Interim Targets - FINAL.pdf'>interim targets</a> ",
     "interim-target-title": "NONE",
 	"interim-target-table":"https://pspwa.box.com/s/shrf8o7x1b6wv59p49glglt0s4wpv64l",
-    "map-link": "Xtell me where to find the map, or send it to me as a image file",
-	"map-link-text": "Xis there map text? if so it can go here",
+    "map-link": "",
+	"map-link-text": "",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",

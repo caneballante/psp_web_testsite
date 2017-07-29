@@ -16,7 +16,7 @@
 		"figure-1" : {
 			"title" : "FIGURE 1. MARINE SEDIMENT QUALITY TRIAD INDEX VALUES FOR EIGHT PUGET SOUND REGIONS",
 			"subhead" : "1997 to 2014, time period varies",
-			"figure-link" : "https://pspwa.app.box.com/file/49136915065",
+			"figure-link" : "sqti-figure1.jpg",
 			"caption" : "NONE",
 			"source" : "Source: Washington State Department of Ecology, Marine Sediment Monitoring Team",
 			"description" : "NONE"
@@ -24,22 +24,22 @@
 		"figure-2" : {
 			"title" : "FIGURE 2. MARINE SEDIMENT QUALITY TRIAD INDEX VALUES FOR SIX PUGET SOUND URBAN BAYS",
 			"subhead" : "1997 to 2015, time period varies",
-			"figure-link" : "https://pspwa.app.box.com/file/49136915065",
+			"figure-link" : "sqti-figure2.jpg",
 			"caption" : "NONE",
 			"source" : "Source: Washington State Department of Ecology, Marine Sediment Monitoring Team",
 			"description" : "Note:~SL Ecology’s Marine Sediment Monitoring Team (MSMT) is redesigning the PSEMP Sediment Component monitoring program.  We have made the decision to not complete a third round of regional sampling which would have commenced in 2015.  Therefore, there are no further additions to SQTI regional graphics after 2014.~B Ecology’s MSMT has also made the decision to discontinue toxicity testing during annual urban bay work, therefore the SQTI cannot be calculated after 2015, when the last round of toxicity testing was conducted for Bainbridge Basin sediments.~EL"
 		}
 		
 	},
-	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
+	"more-description" : "",
 	"why-happening": "NONE",
 	"references" : "Dutch, M.E., E.R. Long, S. Weakland, V. Partridge, and K. Welch. 2014. Sediment Quality Indicators for Puget Sound. Indicator definitions, derivations, and graphic displays. Washington State Department of Ecology. Unpublished document. 8 pp.",
 	"target": "All Puget Sound regions and bays, as characterized by ambient monitoring, will achieve Sediment Quality Triad Index (SQTI) scores reflecting “unimpacted” conditions (i.e., SQTI values >81).",
-	"interim-target": "http://www.psp.wa.gov/downloads/interimtargets/Marine%20Sediment%20Quality%20Interim%20Targets%20-FINAL.pdf",
+	"interim-target": "<a href='http://www.psp.wa.gov/downloads/interimtargets/Marine%20Sediment%20Quality%20Interim%20Targets%20-FINAL.pdf'>Link to interim targets</a>",
     "interim-target-title": "TABLE 2. PROGRESS TOWARD 2016 INTERIM TARGETS",
-	"interim-target-table":"https://pspwa.app.box.com/file/49136915065",
-    "map-link": "Xtell me where to find the map, or send it to me as a image file",
-	"map-link-text": "Xis there map text? if so it can go here",
+	"interim-target-table":"sqti-table1.jpg",
+    "map-link": "",
+	"map-link-text": "",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",

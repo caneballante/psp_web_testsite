@@ -16,7 +16,7 @@
 		"figure-1" : {
 			"title" : "FIGURE 1. PUGET SOUND SWIMMING BEACHES MEETING EPA STANDARDS FOR ENTEROCOCCI, A TYPE OF FECAL BACTERIA",
 			"subhead" : "2004 – 2016",
-			"figure-link" : "https://pspwa.box.com/s/5j2j1vm3lv3leu7ouvt37rg5286frrp2",
+			"figure-link" : "swimming-beaches-figure1.jpg",
 			"caption" : "Core beaches are a subset of all monitored beaches that are sampled every year. Core beaches have been used to assess the trend in the condition of swimming beaches since 2004. There are about 43 core beaches (range is 36 to 48) and 63 total beaches sampled every year (range is 46 to 76). The 2020 target applies to all monitored beaches.",
 			"source" : "Source: Washington State Department of Ecology, BEACH program",
 			"description" : "In 2016, 92% of the beaches monitored met EPA’s swimming criteria. This is higher than the 2004 baseline of 85%; and higher than the 2004-2016 average of 83% passing. "
@@ -24,30 +24,22 @@
 		"figure-2" : {
 			"title" : "TABLE 2. MONITORING RESULTS FOR CONDITIONS AT ALL MONITORED SWIMMING BEACHES IN PUGET SOUND ",
 			"subhead" : "2004-2016",
-			"figure-link" : "https://pspwa.box.com/s/5j2j1vm3lv3leu7ouvt37rg5286frrp2",
+			"figure-link" : "swimming-beaches-table2.jpg",
 			"caption" : "XNumber of sites with",
-			"source" : "XSource: Washington Depart",
-			"description" : "From 2015 to 2016, efforts by the Skagit County Pollution Identification and Correction (PIC) program to correct pollution sources resulted in a significant improvement in water quality at Bay View State Park.~P During the 2016 swim season (Memorial Day through Labor Day), 5 of 61 of monitored beaches (8%) did not meet our recreational water quality criteria. The five beaches that had more than one exceedance of the swimming standard during the swimming season were: ~B Edmonds Underwater Park in Snohomish County~B Freeland County Park in Island County~B Pomeroy Park-Manchester Beach in Kitsap County~B Saltwater State Park in King County~B Sunnyside Beach Park in Pierce County ~P In previous years Edmonds Underwater Park beach has had good water quality. In 2016 this beach had two weeks when bacteria levels were high, in the swimming closure range. Beach staff conducted an investigation at this beach and met with Snohomish County Health and City of Edmonds to discuss the beach closures.~P The beach at Freeland County Park continues to have closures due to high bacteria levels. The source of the bacteria is likely decaying seaweed (beach wrack) that collects during summer months. Summer winds cause buildup of beach wrack up to two feet deep on this north facing beach. ~P Pomeroy Park-Manchester Beach, Saltwater State Park and Sunnyside Beach generally have good water quality.  These beaches had two weeks of high levels of bacteria, but there was no conclusive reason for the high levels.~P Considering the same core beaches over time, no clear trend emerges in water quality at swimming beaches. Rather, results fluctuate from year-to-year. Some beaches have chronic bacteria problems that are difficult to solve. However, problems at other beaches are often temporary and quickly resolved and reflect localized problems rather than trends over all in Puget Sound water quality."
-		},
-		"figure-3" : {
-			"title" : "Xtext",
-			"subhead" : "Xtext",
-			"figure-link" : "Xlink",
-			"caption" : "Xtext",
-			"source" : "Xtext",
-			"description" : "Xtext"
+			"source" : "",
+			"description" : "From 2015 to 2016, efforts by the Skagit County Pollution Identification and Correction (PIC) program to correct pollution sources resulted in a significant improvement in water quality at Bay View State Park.~P During the 2016 swim season (Memorial Day through Labor Day), 5 of 61 of monitored beaches (8%) did not meet our recreational water quality criteria. The five beaches that had more than one exceedance of the swimming standard during the swimming season were: ~SL Edmonds Underwater Park in Snohomish County~B Freeland County Park in Island County~B Pomeroy Park-Manchester Beach in Kitsap County~B Saltwater State Park in King County~B Sunnyside Beach Park in Pierce County ~EL ~P In previous years Edmonds Underwater Park beach has had good water quality. In 2016 this beach had two weeks when bacteria levels were high, in the swimming closure range. Beach staff conducted an investigation at this beach and met with Snohomish County Health and City of Edmonds to discuss the beach closures.~P The beach at Freeland County Park continues to have closures due to high bacteria levels. The source of the bacteria is likely decaying seaweed (beach wrack) that collects during summer months. Summer winds cause buildup of beach wrack up to two feet deep on this north facing beach. ~P Pomeroy Park-Manchester Beach, Saltwater State Park and Sunnyside Beach generally have good water quality.  These beaches had two weeks of high levels of bacteria, but there was no conclusive reason for the high levels.~P Considering the same core beaches over time, no clear trend emerges in water quality at swimming beaches. Rather, results fluctuate from year-to-year. Some beaches have chronic bacteria problems that are difficult to solve. However, problems at other beaches are often temporary and quickly resolved and reflect localized problems rather than trends over all in Puget Sound water quality."
 		}
 		
 	},
-	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
+	"more-description" : "",
 	"why-happening": "Most swimming beaches in Puget Sound have good water quality. Bacteria problems arise from faulty septic tanks, sewage spills, stormwater, and animal waste, including pet waste, farm animals, and wildlife. The source of contamination is different from beach to beach and is not always obvious.  ~P Fortunately, water quality problems at some beaches have been corrected. Sometimes progress is not made because local government lacks funding to conduct Pollution Identification and Correction (PIC) programs. Often times it is very difficult to determine the source of bacterial contamination to a beach. Even when sources of pollution are identified they can be difficult to manage or solve.~P Bacteria sources can impact beaches without us knowing there is a problem.  For example when on-site sewage system serving households fail that are located near beaches. ",
-	"references" : "X<H3>References</H3>~P Christiaen B.,",
+	"references" : "",
 	"target": "To have all monitored beaches in Puget Sound meet EPA standards for what is called enterococcus, a type of fecal bacteria.",
-	"interim-target": "Link to interim targets http://www.psp.wa.gov/downloads/interimtargets/Swimming%20Beaches%20Interim%20Targets%20-%20FINAL.pdf",
+	"interim-target": "<a href='http://www.psp.wa.gov/downloads/interimtargets/Swimming%20Beaches%20Interim%20Targets%20-%20FINAL.pdf'>Link to interim targets </a>",
     "interim-target-title": "TABLE 1. PROGRESS TOWARD 2016 INTERIM TARGET",
-	"interim-target-table":"https://pspwa.box.com/s/5j2j1vm3lv3leu7ouvt37rg5286frrp2",
-    "map-link": "Xtell me where to find the map, or send it to me as a image file",
-	"map-link-text": "Xis there map text? if so it can go here",
+	"interim-target-table":"swimming-beaches-table1.jpg",
+    "map-link": "",
+	"map-link-text": "",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",

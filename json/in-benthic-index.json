@@ -16,22 +16,22 @@
 		"figure-1" : {
 			"title" : "FIGURE 1. CHANGE IN THE BIOLOGICAL CONDITION OF STREAMS IN PUGET SOUND, BASED ON THE BENTHIC INDEX OF BIOTIC INTEGRITY",
 			"subhead" : "2006 – 2009 vs 2013 – 2016",
-			"figure-link" : "https://pspwa.box.com/s/cbzcbw5n3rvmnlhzjwnm28s1fivlafsf",
+			"figure-link" : "benthic-figure1.jpg",
 			"caption" : "Top panel: results address Part 1 of the target; i.e., retain all streams ranked as excellent as excellent. ~P Bottom panel: results address Part 2 of the target; i.e., improve fair streams.",
 			"source" : "Source: Puget Sound Stream Benthos",
 			"description" : "Of the 18 Puget Sound stream sites that scored “excellent” between 2006 and 2009, only 8 (44 percent) maintained their excellent ranking (Part 1 of the target). However, 17 streams that had previously been ranked as fair or good have improved to excellent. Therefore, although fewer than half of the sites that had previously been excellent remained excellent, there are some other sites that appear to be improving and are now excellent. ~P Of the 100 stream sites that scored “fair” between 2006 and 2009, more stream sites improved (31 sites) than declined between in 2013-2016 (19 sites) (Part 2 of the target). It is unclear why there has been a net increase in scores at some sites when no restoration has been done, but the trend indicates some general trends in improvement at previously impacted sites."
 		}
 		
 	},
-	"more-description" : "X<H3>Long-term</H3>~P A recent analysis.",
-	"why-happening": "XText goes here",
-	"references" : "X<H3>References</H3>~P Christiaen B.,",
+	"more-description" : "",
+	"why-happening": "",
+	"references" : "",
 	"target": "1. Protect:100 percent of Puget Sound lowland stream drainage areas ranked as excellent retain excellent scores for the Benthic Index of Biotic Integrity for biological condition~P 2. Restore: Improve and restore at least 30 streams ranked fair so their scores become good.",
 	"interim-target": "Interim targets have not been set for these indicators",
-    "interim-target-title": "XPaste in the table number and table title",
-	"interim-target-table":"XGive Jon link to the Word file",
-    "map-link": "Xtell me where to find the map, or send it to me as a image file",
-	"map-link-text": "Xis there map text? if so it can go here",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "",
+	"map-link-text": "",
    	"links": {
 			"link0": {
 				"link-name" : "I am a link1",

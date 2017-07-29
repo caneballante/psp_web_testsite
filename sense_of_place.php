@@ -26,7 +26,7 @@
 	<script> navSelected = 6;  subNavSelected = 24;
 	</script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js"></script>
+	
 	
 	<script> //setting the unused variable to 0 to flag the if statement to run either the VS or IN code.
 		var whatIN = 0; 
