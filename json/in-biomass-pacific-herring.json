@@ -16,26 +16,10 @@
 		"figure-1" : {
 			"title" : "FIGURE 1. SPAWNING BIOMASS OF PACIFIC HERRING STOCKS IN PUGET SOUND",
 			"subhead" : "1973 – 2016",
-			"figure-link" : "https://pspwa.app.box.com/file/79106916865",
+			"figure-link" : "pacific-herring-figure1.jpg",
 			"caption" : "Annual spawner abundance estimates for each stock are shown with solid lines; each color corresponds to a different stock. The dotted lines represent the 25-year mean from 1986 to 2010 for the corresponding stock. The 2020 target is shown with a dot for each stock.",
 			"source" : "Source: Washington Department of Fish & Wildlife, Marine Fish Program",
 			"description" : "The biomass of herring in Central and Southern Puget Sound, while variable, has shown only a slight negative trend over the past 40+ years. The Puget Sound herring data are characterized by broad year-to-year fluctuations, which is typical of Pacific herring and other forage fish populations, and likely reflects natural environmental and demographic variability.~P Indeed, in Puget Sound, the bulk of the biomass of the “all other stocks” grouping is contributed by different stocks in different years, further implicating the role of site-specific variability.  In recent years the biomass of the Quilcene Bay stock has substantially bolstered the overall estimate for the other stocks complex. Quilcene Bay biomass is currently at an all-time high (more than double its ten year average) and, along with the two other Hood canal populations, made up over half of the spawn biomass for Puget Sound as a whole in 2016."
-		},
-		"figure-2" : {
-			"title" : "NONE",
-			"subhead" : "X2000 – 2015 (medium-term) and 2010-2015 (recent)",
-			"figure-link" : "Xhttps://pspwa.box.com/s/jl8s",
-			"caption" : "XNumber of sites with",
-			"source" : "XSource: Washington Depart",
-			"description" : "XWhen looking at change on a site by site basis"
-		},
-		"figure-3" : {
-			"title" : "Xtext",
-			"subhead" : "Xtext",
-			"figure-link" : "Xlink",
-			"caption" : "Xtext",
-			"source" : "Xtext",
-			"description" : "Xtext"
 		}
 		
 	},
@@ -52,40 +36,7 @@
 			"link0": {
 				"link-name" : "I am a link1",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}	
-		},
-	"comment":"Xinsert comment"
+			}
+		}
 	}	
 }
