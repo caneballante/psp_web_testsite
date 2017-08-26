@@ -4,38 +4,38 @@
     "vitalsign": "Drinking Water",
     "indicator-name": "Specific indicator to be determined in 2016",
     "lead": "TBD",
-    "contact": "Xbart.c",
-    "logo-link": "TBD",
+    "contact": "",
+    "logo-link": "",
 	"last-updated": "June 29, 2017",
 	"status-icon": "no 2020 target",
 	"progress-icon": "insufficient or no data",
-	"progress-icon-tagline": "XThere",	  
+	"progress-icon-tagline": "",	  
     "progress-description": "No data are currently available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
 	"what": "This indicator is currently in development. It will track drinking water source contamination in public and private water systems. ",
 	"data" : {
 		"figure-1" : {
-			"title" : "XFIGURE",
-			"subhead" : "X2000",
-			"figure-link" : "Xhttps:",
-			"caption" : "XEstimated",
-			"source" : "XSource:",
+			"title" : "",
+			"subhead" : "",
+			"figure-link" : "",
+			"caption" : "",
+			"source" : "",
 			"description" : "No data are currently available for this indicator. The Puget Sound Partnership is seeking funding to support data collection."
 		},
 		"figure-2" : {
-			"title" : "XFIGURE",
-			"subhead" : "X2000",
-			"figure-link" : "Xhttps:",
-			"caption" : "XNumber",
-			"source" : "XSource:",
-			"description" : "XWhen"
+			"title" : "",
+			"subhead" : "",
+			"figure-link" : "",
+			"caption" : "",
+			"source" : "",
+			"description" : ""
 		},
 		"figure-3" : {
-			"title" : "Xtext",
-			"subhead" : "Xtext",
-			"figure-link" : "Xlink",
-			"caption" : "Xtext",
-			"source" : "Xtext",
-			"description" : "Xtext"
+			"title" : "",
+			"subhead" : "",
+			"figure-link" : "",
+			"caption" : "",
+			"source" : "",
+			"description" : ""
 		}
 		
 	},
@@ -43,49 +43,16 @@
 	"why-happening": "Analysis of data trends is not currently available. We have not yet identified the specific indicator and metric, which is necessary to determine which data are needed to assess trends. ",
 	"references" : "",
 	"target": "No targets are currently set for this indicator. ",
-	"interim-target": "XLink to interim targets http://www.psp.wa.gov/downloads/interimtargets/Shef",
+	"interim-target": "",
     "interim-target-title": "",
 	"interim-target-table":"",
     "map-link": "",
 	"map-link-text": "",
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}	
-		},
+				"link-name" : "",
+				"link-url" : ""
+			}
 	"comment":"Xinsert comment"
 	}	
 }

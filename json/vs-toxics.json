@@ -11,7 +11,8 @@
 		"indicators": {
 			"indicator1_json": "in-english-sole-contaminants.json",
 			"indicator2_json": "in-pacific-herring-contaminants.json",
-			"indicator3_json": "in-salmon-contaminants.json"
+			"indicator3_json": "in-juvenile-salmon-contaminants.json",
+			"indicator4.json": "in-adult-salmon-contaminants.json"
 			
 		},
 		"highlights": "highlights",

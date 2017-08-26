@@ -3,7 +3,7 @@
     "goal": "Healthy Water Quality",
     "vitalsign": "Marine Water Quality",
     "indicator-name": "Dissolved oxygen in marine waters",
-    "lead": "Jessica Carlson",
+    "lead": "Jennifer Carlson",
     "contact": "jenc461@ECY.WA.GOV",
     "logo-link": "ECY",
 	"last-updated": "June 28, 2017",
@@ -15,7 +15,7 @@
 	"what": "This indicator is the amount of dissolved oxygen in marine waters influenced by human impacts.~P Low dissolved oxygen in marine waters can create significant problems, such as extensive fish kills. The addition of excessive nutrients from human activities can create or exacerbate the conditions that lead to low oxygen in Puget Sound. Nitrogen can fuel algae blooms, which decompose and draw down oxygen. The human sources of nutrients include wastewater treatment plants, failed septic systems, and fertilizers that reach Puget Sound. ~P Processes leading to low oxygen can also create other problems such as high carbon dioxide in the water and more acidic waters.~P To reduce the frequency and severity of low dissolved oxygen and associated problems in Puget Sound, the Leadership Council adopted a target intended to minimize local human contributions that worsen low dissolved oxygen in Puget Sound. However, the issue is complicated by the fact that dissolved oxygen naturally exhibits a high degree of variability in marine waters, changing almost continuously with time of day, location, season, tidal cycle, depth, the mixing and movement of different water sources, and many other factors. Also, there are several main sources of nitrogen entering Puget Sound, including the ocean (generally the largest overall source), watershed sources (some of which are natural, and some of which are human), groundwater, and the atmosphere. Watershed sources include natural nitrogen inputs from forested land areas as well as increased nitrogen from developed land areas.~P Consequently, determining precisely the degree to which human inputs are responsible for a decline in dissolved oxygen, relative to the normal range of variability, is a complex issue. Addressing the issue requires a combination of good monitoring data, information on the sources of nitrogen, and sophisticated mathematical models.~P The Department of Ecology monitors oxygen throughout Puget Sound as part of the ambient monitoring program (http://www.ecy.wa.gov/programs/eap/mar_wat/data.html). The program includes monthly profiles of oxygen and related parameters, continuous monitoring at select moorings, and ferry-based monitoring of near-surface conditions. Oxygen data are also part of the Marine Water Condition Index (http://www.ecy.wa.gov/programs/eap/mar_wat/mwci.html), the other indicator under the Marine Water Quality Vital Sign.~P The target established by the Leadership Council focuses on how much human contributions worsen dissolved oxygen. Since this cannot be monitored directly, the Department of Ecology uses computer models to tease apart different influences. Many processes influence dissolved oxygen, including Pacific Ocean conditions, climate patterns, seasonal light and temperature, stratification and mixing, river and wastewater inputs, sediment processes, and biological processes. This Department of Ecology web site (http://www.ecy.wa.gov/programs/eap/Nitrogen/Index.html) summarizes what we know about nitrogen throughout the Puget Sound ecosystem.",
 	"data" : {
 		"figure-1" : {
-			"title" : "Figure 1. Modeled duration of oxygen depletion in Puget Sound",
+			"title" : "Figure 1. MODELED DURATION OF OXYGEN DEPLETION IN PUGET SOUND",
 			"subhead" : "2006",
 			"figure-link" : "dissolved-oxygen-figure1.jpg",
 			"caption" : "Figure 1 shows Salish Sea model results for the impacts from local human nutrient sources (2006) from wastewater treatment plants and watersheds. Results are based on the number of days that oxygen depletion is greater than 0.2 mg/L.",
@@ -23,7 +23,7 @@
 			"description" : "The Department of Ecology evaluated human impacts on oxygen in Puget Sound and the Salish Sea. Using modeling tools developed with Pacific Northwest National Laboratory and recently updated to include simulation of sediment/water fluxes, Ecology determined that human sources from wastewater treatment plants and watersheds can cause more than 0.2 mg/L of dissolved oxygen depletion in widespread areas of Puget Sound (Figure 1). Human-related oxygen depletion of more than 0.2 mg/L occur for extended periods of time and persist in areas of Hood Canal, Carr Inlet, Budd Inlet, Port Susan, Skagit Bay and South Puget Sound for more than 250 days. Areas with limited flushing generally are most sensitive to inputs of nutrients, such as nitrogen, by humans. ~P Ecology also evaluated the magnitude of dissolved oxygen depletion caused by human sources from wastewater treatment plants and watersheds throughout Puget Sound. Human-related oxygen depletion of more than 0.2 mg/L (Figure 2) occur in Hood Canal, Port Susan and several inlets in South Puget Sound. In the eastern portion of Skagit Bay, human contributions of nutrients can cause dissolved oxygen to decline as much as 2 mg/L. "
 		},
 		"figure-2" : {
-			"title" : "Figure 2. Modeled oxygen depletion in Puget Sound ",
+			"title" : "Figure 2. MODELED OXYGEN DEPLETION IN PUGET SOUND",
 			"subhead" : "2006",
 			"figure-link" : "dissolved-oxygen-figure2.jpg",
 			"caption" : "Figure 2 shows Salish Sea model results for the impacts from current local human nutrient sources (2006) from wastewater treatment plants and watersheds. Results are expressed as the depletion of dissolved oxygen concentrations due to human inputs of nutrients.",
@@ -31,7 +31,7 @@
 			"description" : "Ecology also evaluated future conditions within Puget Sound in the face of increasing population, changes in the Pacific Ocean, climate shifts, and air temperature increases (Figure 3). By 2070, the population will likely double, oxygen could decline significantly in the Pacific Ocean, changes in snowpack will alter how much freshwater reaches Puget Sound, and the temperature will increase. Future population growth would worsen oxygen impacts, primarily in South and Central Puget Sound, at levels that would not meet the targets. Changes in river flows may offset impacts in some regions, but they could add to impacts in other regions of Puget Sound."
 		},
 		"figure-3" : {
-			"title" : "Figure 3. Salish Sea Model Results for Potential Future Impacts",
+			"title" : "Figure 3. SALISH SEA MODEL RESULTS FOR POTENTIAL FUTURE IMPACTS",
 			"subhead" : "2070",
 			"figure-link" : "dissolved-oxygen-figure3.jpg",
 			"caption" : "Figure 3 shows Salish Sea model results for the potential impacts from (a) 2070 human nutrient sources, (b) plus future river flows and changes in circulation, (c) plus Pacific Ocean trends extrapolated to 2070, (d) plus increased air temperature projected by the UW Climate Impacts Group. Results are expressed as the average oxygen depletion in September and October in the deep waters of the Salish Sea.",
@@ -50,8 +50,12 @@
 	"map-link-text": "",
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "Washington Department of Ecology Dissolved Oxygen in Puget Sound",
+				"link-url" : "http://www.ecy.wa.gov/puget_sound/dissolvedO2_index.html"
+			},
+			"link1": {
+				"link-name" : "Hood Canal Dissolved Oxygen Program",
+				"link-url" : "http://www.hoodcanal.washington.edu/index.jsp"
 			}
 		}
 	}	

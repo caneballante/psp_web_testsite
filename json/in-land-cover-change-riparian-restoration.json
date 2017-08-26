@@ -18,25 +18,28 @@
 			"subhead" : "2009 – 2020",
 			"figure-link" : "landcover_riparian.jpg",
 			"caption" : "The numbers over the bars show the number of projects that reported activities to restore vegetation in riparian corridors, for a total of 48 completed projects between 2009 and 2014. Years represent Federal Fiscal Year (2009 refers to Oct. 1, 2008, to Sep. 30, 2009). Cumulative length is the total be- tween 2009 and 2014.",
-			"source" : "Source: National Estuary Program On-Line Report (NEPORT). Most projects in NEPORT were derived from the Project Information System (PRISM).",
-			"description" : "NONE"
+			"source" : "Source: Environmental Protection Agency National Estuary Program On-Line Report (NEPORT).",
+			"description" : ""
 		}
 		
 	},
-	"more-description" : "X",
-	"why-happening": "X",
-	"references" : "X",
-	"target": "X",
+	"more-description" : "",
+	"why-happening": "",
+	"references" : "",
+	"target": "",
 	"interim-target": "There currently are no interim targets for this Vital Sign.",
-    "interim-target-title": "X",
-	"interim-target-table":"X",
-    "map-link": "X",
-	"map-link-text": "X",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "",
+	"map-link-text": "",
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}
-		}
+				"link-name" : "Environmental Protection Agency National Estuary Program On-Line Report (NEPORT)",
+				"link-url" : "https://gispub2.epa.gov/NEPmap/index.html"
+			},
+				"link1": {
+				"link-name" : "Washington State Department of Ecology Floodplain Management Program",
+				"link-url" : "http://www.ecy.wa.gov/programs/sea/floods/index.html"}
+		},
 	}	
 }

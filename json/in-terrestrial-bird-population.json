@@ -17,7 +17,7 @@
 		
 	},
 	"more-description" : "",
-	"why-happening": "NONE",
+	"why-happening": "",
 	"references" : "",
 	"target": "There are no targets for this Vital Sign.",
 	"interim-target": "There currently are no interim targets for this Vital Sign.",
@@ -27,8 +27,8 @@
 	"map-link-text": "",
    	"links": {
 		"link0": {
-			"link-name" : "I am a link1",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			"link-name" : "About the Breeding Bird Survey",
+			"link-url" : "https://www.pwrc.usgs.gov/bbs/about/"
 		}	
 	}
 }	

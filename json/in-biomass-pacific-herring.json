@@ -3,8 +3,8 @@
     "goal": "Thriving Species and Food Web",
     "vitalsign": "Pacific Herring",
     "indicator-name": "Biomass of spawning Pacific herring",
-    "lead": "Dayv Lowry",
-    "contact": "Dayv.Lowry@dfw.wa.gov",
+    "lead": "Phillip Dionne and Todd Sandell",
+    "contact": "Phillip.Dionne@dfw.wa.gov; Todd.Sandell@dfw.wa.gov",
     "logo-link": "WDFW",
 	"last-updated": "June 27, 2017",
 	"status-icon": "below 2020 target",
@@ -30,13 +30,23 @@
 	"interim-target": "Interim targets have not been set yet.",
     "interim-target-title": "",
 	"interim-target-table":"",
-    "map-link": "",
-	"map-link-text": "",
+    "map-link": "https://pspwa.box.com/s/hbwwmy6qzcnv7u1fr23b3rcg2qs0eu51",
+	"map-link-text": "FIGURE 2. DISTRIBUTION OF PACIFIC HERRING SPAWNING GROUNDS IN PUGET SOUND (2016)",
+	"map-link2": "http://wdfw.maps.arcgis.com/home/webmap/viewer.html?webmap=19b8f74e2d41470cbd80b1af8dedd6b3&extent",
+	"map-link2-text": "Washington State Department of Fish and Wildlife Forage Fish Spawning Map (Interactive)",
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}
+				"link-name" : "Washington State Department of Fish and Wildlife Pacific Herring Population",
+				"link-url" : "http://wdfw.wa.gov/conservation/research/projects/marine_fish_monitoring/herring_population_assessment/"
+			},
+			"link1": {
+				"link-name" : "National Oceanic and Atmospheric Administration (NOAA) – Status Review of Pacific Herring in Puget Sound",
+				"link-url" : "https://www.nwfsc.noaa.gov/publications/scipubs/techmemos/tm45/tm45.htm"
+			},
+			"link2": {
+				"link-name" : "United State Geological Survey (USGS) Puget Sound Forage Fish3",
+				"link-url" : "https://wfrc.usgs.gov/fieldstations/marrowstone/ps_forage.html"
+			},
 		}
 	}	
 }

@@ -17,57 +17,35 @@
 			"title" : "FIGURE 1. NEW, REMOVED AND CUMULATIVE NET ARMOR IN PUGET SOUND ",
 			"subhead" : "2005 – 2015",
 			"figure-link" : "amount-permitted-shoreline-armoring-figure1.jpg",
-			"caption" : "NONE",
+			"caption" : "",
 			"source" : "Source: Data compiled from Hydraulic Project Approvals issued by Washington Department of Fish & Wildlife, Habitat Program.",
-			"description" : "NONE"
+			"description" : ""
 		}
 	},
-	"more-description" : "NONE",
+	"more-description" : "",
 	"why-happening": "The trend in the amount of new armor permitted between 2005 and 2016 decreased, while the amount of armor removed increased. A continued positive trend in removals is likely associated with both: 1) an increased awareness of the impacts to shoreline functions caused by armor, and 2) the efforts by restoration groups to address the problem by seeking potential removal opportunities.~P New armor, however, continues to be constructed at the rate of about 0.66 miles per year. This apparent contradiction is in part because the situations where new armoring is occurring are quite different than those where it is being removed.  New armoring is driven by a perception of risk—sometimes a very real risk—to property and safety. New armoring may occur following severe storms and landslides and may be done as an emergency measure, and therefore may not receive the scrutiny normally applied to such projects. Shorelines are inherently dynamic. Much new armoring is likely occurring on properties that were laid out or developed decades ago, without sufficient attention to erosion and flood hazards.~P On the positive side, restoration groups appear to have become increasingly successful at obtaining funding from restoration grant programs for armor removal projects as indicated by both the scale and number of removals in recent years. In addition, public facilities such as state and county parks have become a large component of the armor removal trend.~P Grant funds have also contributed to increased outreach to shoreline property owners, agency staff, contractors, and others who have an interest in the condition of Puget Sound shorelines. Recent studies have provided demographic information on shoreline property owners to facilitate outreach activities that resonate with these owners who have considerable influence on shoreline activities. In addition, local governments on Puget Sound are in the process of updating Shoreline Master Programs in accordance with the new state guidelines.  We expect these to reduce the amount of armoring in the future, but our current data do not reflect the potential effect of these new SMPs.  We will be looking at the data over the next few years to see if we can detect a change in armoring trends in jurisdictions with updated SMPs.",
-	"references" : "NONE",
+	"references" : "",
 	"target": "From 2011 to 2020, the total amount of armoring removed should be greater than the total amount of new armoring in Puget Sound (total miles removed is greater than the total miles added).",
 	"interim-target": "There currently are no interim targets for this Vital Sign.",
-    "interim-target-title": "NONE",
-	"interim-target-table":"NONE",
+    "interim-target-title": "",
+	"interim-target-table":"",
     "map-link": "",
 	"map-link-text": "",
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "Washington State Department of Fish and Wildlife Aquatic Protection Permitting System. ",
+				"link-url" : "https://www.govonlinesaas.com/WA/WDFW/Public/Client/WA_WDFW/Shared/Pages/Main/Login.aspx"
 			},
-			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
+			
 			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "Shore Friendly Program",
+				"link-url" : "http://www.shorefriendly.org"
 			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
+			
 			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "Washington Department of Fish and Wildlife Marine Shoreline Design Guidelines. ",
+				"link-url" : "http://wdfw.wa.gov/publications/01583/"
 			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}	
 		}
   }
 }

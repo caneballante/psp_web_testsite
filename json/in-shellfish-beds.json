@@ -17,25 +17,25 @@
 			"title" : "FIGURE 1. ACRES OF UPGRADED AND DOWNGRADED SHELLFISH BEDS IN PUGET SOUND",
 			"subhead" : "2007 through December 2016",
 			"figure-link" : "https://pspwa.box.com/s/mveyftz99ni1kl1d5zrl8qtjr0jj06i4",
-			"caption" : "NONE",
+			"caption" : "",
 			"source" : "Source: Washington State Department of Health, Office of Environmental Health and Safety:",
 			"description" : "Since 2007, the baseline reference year, sanitary conditions in some shellfish harvest areas improved enough to change their classifications for the better, and they were upgraded (cumulative total was 10,372 acres as of December 30, 2016). However, others changed for the worse and were downgraded (cumulative total of 5,569 acres, the majority of which was in Samish Bay). The net result was an increase of 4,803 acres reopened for harvest for all of Puget Sound, which is about 44% of the 2020 target of 10,800 acres. "
 		},
 		"figure-2" : {
 			"title" : "TABLE 2. CLASSIFICATION AND ACREAGE OF SHELLFISH GROWING AREAS IN PUGET SOUND",
-			"subhead" : "NONE",
+			"subhead" : "As of December 2016",
 			"figure-link" : "https://pspwa.box.com/s/mveyftz99ni1kl1d5zrl8qtjr0jj06i4",
-			"caption" : "NONE",
+			"caption" : "",
 			"source" : "Source: Washington State Department of Health, Office of Environmental Health and Safety:",
 			"description" : "More than 36,000 acres (16%) of shellfish harvest areas were classified as “prohibited” due to the proximity of pollution sources or poor water quality. More than 60% of this acreage is prohibited because of a nearby wastewater treatment plant outfall, 29% because of nonpoint pollution sources, 8% because of marinas, and 2% because of other factors that could impact public health.~P The most recent Department of Health prediction indicates that 10,285 acres could potentially be upgraded between 2016 and 2020. This analysis incorporates information about the known or suspected causes of harvest restrictions and an area-by-area evaluation of the current activities and water quality trends. These projections, coupled with the current 2007 through December 2016 net acreage increase, results in a potential increase of 13,980 acres by 2020, above the 10,800 acres target value. Downgrades will occur during the same timeframe, counteracting the projected upgrades and potentially impacting the ability to meet the target value. "
 		},
 		"figure-3" : {
-			"title" : "Xtext",
-			"subhead" : "Xtext",
-			"figure-link" : "Xlink",
-			"caption" : "Xtext",
-			"source" : "Xtext",
-			"description" : "Xtext"
+			"title" : "",
+			"subhead" : "",
+			"figure-link" : "",
+			"caption" : "",
+			"source" : "",
+			"description" : ""
 		}
 		
 	},
@@ -46,46 +46,33 @@
 	"interim-target": "Link to interim targets http://www.psp.wa.gov/downloads/interimtargets/Shellfish%20Beds%20Interim%20Targets%20-%20FINAL.pdf",
     "interim-target-title": "TABLE 1. PROGRESS TOWARD 2014 INTERIM TARGET",
 	"interim-target-table":"https://pspwa.box.com/s/mveyftz99ni1kl1d5zrl8qtjr0jj06i4",
-    "map-link": "",
-	"map-link-text": "",
+    "map-link0": "https://fortress.wa.gov/doh/eh/maps/OSWPViewer/index.html",
+	"map-link0-text": "Commercial Shellfish Interactive Map",
+	"map-link1": "https://fortress.wa.gov/doh/eh/maps/biotoxin/biotoxin.html",
+	"map-link1-text": "Recreational Shellfish Interactive Map",
+	"map-link2": "http://www.doh.wa.gov/Portals/1/Documents/4400/ai-map.pdf",
+	"map-link2-text": "Commercial and Recreational Shellfish Growing Areas Static map",
+	  
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "Washington State Department of Health Shellfish Monitoring Program",
+				"link-url" : "http://www.doh.wa.gov/CommunityandEnvironment/Shellfish/GrowingAreas"
 			},
 			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "Washington State Department of Health Shellfish Beach Closures",
+				"link-url" : "http://www.doh.wa.gov/CommunityandEnvironment/Shellfish/BeachClosures"
 			},
 			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "Quality assurance: National Shellfish Sanitation Program (NSSP) Guide for the Control of Molluscan Shellfish: 2011 Revision",
+				"link-url" : "https://pspwa.box.com/s/ng0r0s0s93pjhnhoau5r08ubpiw4fde6"
 			},
 			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "Results Washington Shellfish results",
+				"link-url" : "https://data.results.wa.gov/en/stat/goals/jwmx-2eqx/hgd9-k63q/8yqv-xwqv/view"
 			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			
 			}	
 		},
-	"comment":"Xinsert comment"
+	"comment":""
 	}	
 }

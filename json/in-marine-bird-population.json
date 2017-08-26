@@ -39,27 +39,35 @@
          },
          "figure-4":{  
             "title":"FIGURE 3: COUNTS OF ADULTS, OCCUPIED BURROWS AND BURROWS WITH CHICKS 2016 COMPARED TO THE 2008-2015 MEAN (±SD) ON WHIDBEY ISLAND",
-            "subhead":"NONE",
+            "subhead":"",
             "figure-link":"marine-birds-figure3.jpg",
-            "caption":"NONE",
+            "caption":"",
             "source":"Source: Pigeon Guillemot Research Group",
             "description":"<em>Scoters</em>~P Three scoter species (surf, black and white-winged) over-winter in the Salish Sea. They spend about eight months of the year, with some non-breeding individuals here year-round. They are foraging, replacing their feathers and putting on weight needed to successfully reproduce in high arctic lakes in the summer. Recently published research by Vilchis et al. (2015) [Provide link: http://onlinelibrary.wiley.com/doi/10.1111/cobi.12378/abstract] indicates that over-wintering species were three times more likely to exhibit population declines in the Salish Sea than local breeders; for scoter, between 1994 and 2010, they declined in 9% of the 67 depth/basin strata evaluted. In general, Vilchis et al (2015) found that alcids (species like the marbled murrelet and common murre) and sea ducks (species like the scoters) dominated the over-wintering bird community during the 1990s, whereas non-diving bird species and diving species with diverse diets dominated the wintering bird community in the 2000s."
          }
       },
-      "more-description":"none",
-      "why-happening":"none",
-      "references":"none",
+      "more-description":"",
+      "why-happening":"",
+      "references":"",
       "target":"There are no targets for this Vital Sign.",
       "interim-target":"There currently are no interim targets for this Vital Sign.",
-      "interim-target-title":"none",
-      "interim-target-table":"none",
+      "interim-target-title":"",
+      "interim-target-table":"",
       "map-link":"",
       "map-link-text":"",
       "links":{  
          "link0":{  
-            "link-name":"I am a link1",
-            "link-url":"https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-         }
+            "link-name":"Washington Department of Fish and Wildlife Seabird Ecology program",
+            "link-url":"http://wdfw.wa.gov/conservation/research/projects/seabird/"
+         },
+		  "link1": {
+				"link-name" : "Washington Department of Fish and Wildlife Waterfowl Ecology program",
+				"link-url" : "http://wdfw.wa.gov/conservation/research/projects/waterfowl/"
+			},
+			"link2": {
+				"link-name" : "Washington Department of Fish and Wildlife Wildlife Management",
+				"link-url" : "http://wdfw.wa.gov/hunting/waterfowl/wildlife_management.html"
+			}
       }
    }
 }

@@ -25,7 +25,7 @@
 			"title" : "TABLE 2. MONITORING RESULTS FOR CONDITIONS AT ALL MONITORED SWIMMING BEACHES IN PUGET SOUND ",
 			"subhead" : "2004-2016",
 			"figure-link" : "swimming-beaches-table2.jpg",
-			"caption" : "XNumber of sites with",
+			"caption" : "",
 			"source" : "",
 			"description" : "From 2015 to 2016, efforts by the Skagit County Pollution Identification and Correction (PIC) program to correct pollution sources resulted in a significant improvement in water quality at Bay View State Park.~P During the 2016 swim season (Memorial Day through Labor Day), 5 of 61 of monitored beaches (8%) did not meet our recreational water quality criteria. The five beaches that had more than one exceedance of the swimming standard during the swimming season were: ~SL Edmonds Underwater Park in Snohomish County~B Freeland County Park in Island County~B Pomeroy Park-Manchester Beach in Kitsap County~B Saltwater State Park in King County~B Sunnyside Beach Park in Pierce County ~EL ~P In previous years Edmonds Underwater Park beach has had good water quality. In 2016 this beach had two weeks when bacteria levels were high, in the swimming closure range. Beach staff conducted an investigation at this beach and met with Snohomish County Health and City of Edmonds to discuss the beach closures.~P The beach at Freeland County Park continues to have closures due to high bacteria levels. The source of the bacteria is likely decaying seaweed (beach wrack) that collects during summer months. Summer winds cause buildup of beach wrack up to two feet deep on this north facing beach. ~P Pomeroy Park-Manchester Beach, Saltwater State Park and Sunnyside Beach generally have good water quality.  These beaches had two weeks of high levels of bacteria, but there was no conclusive reason for the high levels.~P Considering the same core beaches over time, no clear trend emerges in water quality at swimming beaches. Rather, results fluctuate from year-to-year. Some beaches have chronic bacteria problems that are difficult to solve. However, problems at other beaches are often temporary and quickly resolved and reflect localized problems rather than trends over all in Puget Sound water quality."
 		}
@@ -38,46 +38,19 @@
 	"interim-target": "<a href='http://www.psp.wa.gov/downloads/interimtargets/Swimming%20Beaches%20Interim%20Targets%20-%20FINAL.pdf'>Link to interim targets </a>",
     "interim-target-title": "TABLE 1. PROGRESS TOWARD 2016 INTERIM TARGET",
 	"interim-target-table":"swimming-beaches-table1.jpg",
-    "map-link": "",
-	"map-link-text": "",
+    "map-link": "https://fortress.wa.gov/ecy/coastalatlas/Tools/BeachClosure.aspx",
+	"map-link-text": "FIGURE 2. SWIMMING BEACHES, WASHINGTON STATE COASTAL ATLAS",
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "Washington State Department of Ecology BEACH Program",
+				"link-url" : "http://www.ecy.wa.gov/programs/eap/beach/"
 			},
 			"link1": {
-				"link-name" : "I am a link2",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "Results Washington Swimming Beaches Results",
+				"link-url" : "https://data.results.wa.gov/reports/G3-3-2-b-Saltwater-Swimming-Beaches"
 			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link4": {
-				"link-name" : "I am a link5",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link5": {
-				"link-name" : "I am a link6",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link6": {
-				"link-name" : "I am a link7",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link7": {
-				"link-name" : "I am a link8",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link8": {
-				"link-name" : "I am a link9",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}	
+			
 		},
-	"comment":"Xinsert comment"
+	"comment":""
 	}	
 }

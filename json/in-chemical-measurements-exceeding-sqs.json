@@ -24,19 +24,31 @@
 		
 	},
 	"more-description" : "",
-	"why-happening": "NONE",
+	"why-happening": "",
 	"references" : "",
 	"target": "All Puget Sound regions and bays, as characterized by ambient monitoring, will have no measurements exceeding the Sediment Quality Standards (SQS) chemical criteria set for Washington State. ",
 	"interim-target": "<a href='http://www.psp.wa.gov/downloads/interimtargets/Marine%20Sediment%20Quality%20Interim%20Targets%20-FINAL.pdf'>Link to interim targets</a>",
     "interim-target-title": "Target conditions remained unchanged, and were not met in Bainbridge Basin in 2015.",
 	"interim-target-table":"",
-    "map-link": "",
-	"map-link-text": "",
-   	"links": {
+    "map-link": "See Word Doc to know which map",
+	"map-link-text": "FIGURE 2. MARINE SEDIMENT MONITORING REGIONS AND URBAN BAYS",
+   		"links": {
 			"link0": {
-				"link-name" : "I am a link1",
+				"link-name" : "Washington State Department of Ecology Marine Sediment Indicators in Puget Sound",
+				"link-url" : "http://www.ecy.wa.gov/programs/eap/psamp/PSindicators/Index.html"
+			},
+			"link1": {
+				"link-name" : "Quality Assurance Project Plan: The Puget Sound Assessment and Monitoring Program Sediment Monitoring Component",
+				"link-url" : "https://fortress.wa.gov/ecy/publications/SummaryPages/0903121.html"
+			},
+			"link2": {
+				"link-name" : "I am a link3",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}
+			},
+			"link3": {
+				"link-name" : "I am a link4",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
 		}
 	}	
 }

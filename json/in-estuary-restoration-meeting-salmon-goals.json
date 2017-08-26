@@ -11,24 +11,23 @@
 	"progress-icon": "no data",
 	"progress-icon-tagline": "No data are available yet to assess progress.",	  
     "progress-description": "Currently, not all of the salmon recovery watersheds have quantitative 10-year or long-term goals for river deltas, and for those that do, some are in need of updating based on new science and information. In addition, salmon recovery watersheds are monitoring river delta health in different ways and reporting on different metrics. For example:~SL The Chinook salmon recovery plan for the Elwha River watershed includes a goal to protect and restore estuary and nearshore habitats. The indicator to track progress toward this goal is the amount of submerged aquatic vegetation in the estuary that requires protection.~B The Chinook salmon recovery plan for the Snohomish River watershed includes a goal to preserve the estuary. The indicator to track progress toward this goal is the area of blind tidal channels.~P The Puget Sound Partnership and Recovery Implementation Technical Team, in collaboration with watershed groups, have begun the process of developing monitoring and adaptive management frameworks for watershed chapters in the Puget Sound Salmon Recovery Plan. This process will include defining and quantifying restoration goals. Development of goals will ultimately refine how the Partnership reports progress toward implementation of the recovery plan.~EL ~P Some watersheds have already taken steps to quantify restoration goals. For instance, the Skagit and Snohomish deltas have tidal wetland restoration goals tied to estimated fish rearing capacity.~P To track this target for all watersheds, 2015 goals for Chinook natal river estuary wetland restoration must be enumerated in a way that can be reported at a regional level. For Chinook natal rivers lacking 10-year quantified goals, proxies of need must be translated into named restoration.",
-	"what": "This indicator is the number of Chinook salmon natal river deltas where 10-year salmon recovery goals have been met.~P The Puget Sound Partnership, as the regional organization for salmon recovery in Puget Sound, is working with the local salmon recovery community at the watershed scale to develop quantitative habitat goals and report out on a common set of indicators that reflect the highest priority monitoring needs across Puget Sound for Chinook salmon habitat.~P The shared goal for the salmon recovery community is to report on the following question: What is the historic, current, and desired amount of river delta area? Two indicators were identified to answer the question: functional estuary surface area and extent of shoreline armoring. ~P While the objective of the salmon recovery community is to be able to report progress consistently relative Vital Sign targets, watershed groups will continue to track indicators that measure different aspects of the ecosystem that are important for their locally relevant goals.",
+	"what": "This indicator is the number of Chinook salmon natal river deltas where 10-year salmon recovery goals have been met. The Puget Sound Partnership, as the regional organization for salmon recovery in Puget Sound, is working with regional partners and the local salmon recovery community at the watershed scale to develop quantitative habitat goals and report out on a common set of indicators that reflect the highest priority monitoring needs across Puget Sound for Chinook salmon habitat. As of 2017, a few watersheds have developed related goals and started monitoring, but information is not yet sufficient to report out at the regional scale.~P The shared goal for the salmon recovery community is to report on the following question: What is the historic, current, and desired amount of river delta area? Two indicators were identified to answer the question: functional estuary surface area and extent of shoreline armoring. Work continues in 2017 to further develop these indicators for widespread application.~P While the objective of the salmon recovery community is to be able to report progress consistently for relative Vital Sign targets starting in 2020, watershed groups will continue to track indicators that measure different aspects of the ecosystem that are important for their locally relevant goals.",
 	"data" : {
-		
-		
+				
 	},
-	"more-description" : "NONE",
+	"more-description" : "",
 	"why-happening": "",
-	"references" : "NONE",
+	"references" : "",
 	"target": "By 2020, all Chinook natal river deltas meet 10-year salmon recovery goals (or 10% of restoration need as proxy for river deltas lacking quantitative acreage goals in salmon recovery plans).",
 	"interim-target": "Link to <a href='http://www.psp.wa.gov/downloads/interimtargets/Estuaries Interim Targets - FINAL.pdf'>interim targets</a> ",
-    "interim-target-title": "NONE",
-	"interim-target-table":"https://pspwa.box.com/s/shrf8o7x1b6wv59p49glglt0s4wpv64l",
+    "interim-target-title": "",
+	"interim-target-table":"",
     "map-link": "",
 	"map-link-text": "",
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "Puget Sound Partnership Salmon Recovery Program",
+				"link-url" : "http://www.psp.wa.gov/salmon-recovery-overview.php"
 			}
 		}
   }

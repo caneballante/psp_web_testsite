@@ -23,7 +23,7 @@
 		},
 		"figure-2" : {
 			"title" : "TABLE 1. LAND COVER FROM VEGETATED TO DEVELOPED COVER, BY LAND BASE TYPES, IN 12 PUGET SOUND COUNTIES.",
-			"subhead" : "2006 ¬– 2011",
+			"subhead" : "2006-2011",
 			"figure-link" : "landdev-conversion-table1.jpg",
 			"caption" : "*This is the metric that is tracked for the conversion of ecologically important lands indicator~P ** This value represents the current status of indicator; the baseline is 0.28% and the 2020 target is 0.15%",
 			"source" : "Source: Washington Department of Fish &Wildlife, Habitat Program. Analysis based on many federal, state, and local data sources. ",
@@ -31,20 +31,27 @@
 		}
 		
 	},
-	"more-description" : "X",
-	"why-happening": "NONE",
-	"references" : "X",
+	"more-description" : "",
+	"why-happening": "",
+	"references" : "",
 	"target": "Basin-wide loss of vegetation cover on ecologically important lands under high pressure from development does not exceed 0.15 percent of the total 2011 baseline land area over a five-year period.",
 	"interim-target": "There currently are no interim targets for this Vital Sign.",
-    "interim-target-title": "X",
-	"interim-target-table":"X",
-    "map-link": "X",
-	"map-link-text": "X",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "https://pspwa.box.com/s/bt712j0wx5k0oxsz38hhnb6o5slvjj5i",
+	"map-link-text": "FIGURE 2. DISTRIBUTION OF LAND BASE TYPES IN PUGET SOUND",
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}
+				"link-name" : "Coastal Change Analysis Program",
+				"link-url" : "https://catalog.data.gov/dataset/coastal-change-analysis-program-c-cap-regional-land-cover-data-and-change-data7103c"
+			},
+			"link1": {
+				"link-name" : "Technical memorandum on setting targets for Land Cover and Land Development",
+				"link-url" : "https://pspwa.box.com/s/n6ikgcj8kmex2fpjikrb6oa55hvov7xk"
+			},
+			"link2": {
+				"link-name" : "Washington State Department of Fish and Wildlife High-Resolution Aerial Imagery Change Detection",
+				"link-url" : "http://wdfw.wa.gov/conservation/research/projects/aerial_imagery/"
 		}
 	}	
 }

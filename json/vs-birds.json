@@ -12,10 +12,10 @@
 			"indicator1_json": "in-marine-bird-population.json",
 			"indicator2_json": "in-terrestrial-bird-population.json"
 		},
-		"highlights": "highlights",
-		"highlight_photo": "image link",
+		"highlights": "",
+		"highlight_photo": "",
 		 "links": {
-		"link0": {
+			"link0": {
 			"link-name" : "I am a link1",
 			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
 		}

@@ -3,8 +3,8 @@
     "goal": "Thriving Species and Food Web",
     "vitalsign": "Chinook Salmon",
     "indicator-name": "Chinook salmon population abundance as measured by the number of natural origin adult fish returning to spawn",
-    "lead": "Neala Kendall",
-    "contact": "Neala.Kendall@dfw.wa.gov",
+    "lead": "Neala Kendall and Anne Marshall",
+    "contact": "Neala.Kendall@dfw.wa.gov; Anne.Marshall@dfw.wa.gov",
     "logo-link": "WDFW",
 	"last-updated": "June 23, 2017",
 	"status-icon": "below 2020 target",
@@ -23,9 +23,9 @@
 		}
 		
 	},
-	"more-description" : "NONE",
-	"why-happening": "NONE",
-	"references" : "NONE",
+	"more-description" : "",
+	"why-happening": "",
+	"references" : "",
 	"target": "Stop the overall decline and start seeing improvements in wild Chinook abundance in two to four populations in each biogeographic region.",
 	"interim-target": "<a href='http://www.psp.wa.gov/downloads/interimtargets/Chinook%20Interim%20Targets%20-%20FINAL.pdf'>Link to interim targets</a>",
     "interim-target-title": "TABLE 1. PROGRESS TOWARD 2016 INTERIM TARGETS",
@@ -34,7 +34,39 @@
 	"map-link-text": "",
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
+				"link-name" : "WDFW's Salmonid Stock Inventory (SaSI)",
+				"link-url" : "http://wdfw.wa.gov/conservation/fisheries/sasi/"
+			},
+			"link1": {
+				"link-name" : "Results Washington Wild Chinook Salmon results",
+				"link-url" : "https://data.results.wa.gov/reports/G3-2-2-a-Puget-Sound-Chinook"
+			},
+			"link2": {
+				"link-name" : "Puget Sound Partnership's Salmon Recovery Program",
+				"link-url" : "http://www.psp.wa.gov/salmon-recovery-overview.php"
+			},
+			"link3": {
+				"link-name" : "Recreation and Conservation Office's 'State of Salmon in Watersheds Report'",
+				"link-url" : "http://stateofsalmon.wa.gov/puget-sound/regional-overview/"
+			},
+			"link4": {
+				"link-name" : "Northwest Indian Fisheries Commission 'State of Our Watersheds' Report ",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link5": {
+				"link-name" : "NOAA's Puget Sound Chinook Salmon Recovery Program",
+				"link-url" : "http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/puget_sound_salmon_recovery_domain.html"
+			},
+			"link6": {
+				"link-name" : "I am a link7",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link7": {
+				"link-name" : "I am a link8",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link8": {
+				"link-name" : "I am a link9",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
 			}	
 		}

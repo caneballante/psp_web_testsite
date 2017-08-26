@@ -15,27 +15,27 @@
 	"data" : {
 		"figure-1" : {
 			"title" : "TABLE 1. NUMBER OF PEOPLE WITHIN AND OUTSIDE URBAN GROWTH AREAS (UGAs) BY COUNTY AND BASIN-WIDE",
-			"subhead" : "NONE",
+			"subhead" : "",
 			"figure-link" : "landdev-UGA-table1.jpg",
 			"caption" : "* This number reflects new growth occurring within UGAs and migration of some existing population into UGAs",
 			"source" : "Source: Washington Department of Fish and Wildlife, Habitat Program, and the U.S. Census:",
-			"description" : "Washington population data, based on 2010 U.S. Census data, was used for the baseline analysis of population growth distribution for urban growth areas and rural areas between 2000 and 2010 (Table 1). Basin-wide, 83 percent of new population growth from 2000 to 2010 occurred within urban growth areas. For individual counties, the proportion of growth occurring within urban growth areas ranged from a low of 28 percent for Mason and Jefferson counties to highs of 92 percent and 101 percent for Snohomish and King counties, respectively. ~P Data are not currently available to complete a trend analysis of population distribution patterns over the past 10 years. However, the Washington State Department of Commerce has been collecting data on the distribution of permits for new development and a preliminary analysis suggests that growth is increasingly occurring within urban growth areas. For five central Puget Sound counties, the proportion of permits for new development within urban growth areas increased at an average rate of 0.85 percent per year from 2003 to 2010. Carried out over 10 years, these permit data suggest an almost 10 percent increase in the proportion of growth going into urban growth areas in central Puget Sound. While permit activity does not correlate exactly to population increase, these reports provide an indication of progress (in a five-county area) toward the 2020 recovery goal of an increasing proportion of population growth with urban growth areas. "
+			"description" : "Washington population data, based on 2010 U.S. Census data, was used for the baseline analysis of population growth distribution for urban growth areas and rural areas between 2000 and 2010 (Table 1). Basin-wide, 83 percent of new population growth from 2000 to 2010 occurred within urban growth areas. For individual counties, the proportion of growth occurring within urban growth areas ranged from a low of 28 percent for Mason and Jefferson counties to highs of 92 percent and 101 percent for Snohomish and King counties, respectively. ~P Data are not currently available to complete a trend analysis of population distribution patterns over the past 10 years. However, the Washington State Department of Commerce has been collecting data on the distribution of permits for new development and a preliminary analysis suggests that growth is increasingly occurring within urban growth areas. For five central Puget Sound counties, the proportion of permits for new development within urban growth areas increased at an average rate of 0.85 percent per year from 2003 to 2010. Carried out over 10 years, these permit data suggest an almost 10 percent increase in the proportion of growth going into urban growth areas in central Puget Sound. While permit activity does not correlate exactly to population increase, these reports provide an indication of progress (in a five-county area) toward the 2020 recovery goal of an increasing proportion of population growth with urban growth areas."
 		}
 		
 	},
-	"more-description" : "X",
-	"why-happening": "X",
-	"references" : "X",
+	"more-description" : "",
+	"why-happening": "",
+	"references" : "",
 	"target": "The proportion of basin-wide growth occurring within urban growth areas is at least 86.5 percent (equivalent to all counties exceeding their population growth goals by 3 percent), with all counties showing an increase over their 2000−2010 percentage.",
 	"interim-target": "There currently are no interim targets for this Vital Sign.",
-    "interim-target-title": "X",
-	"interim-target-table":"X",
-    "map-link": "X",
-	"map-link-text": "X",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "",
+	"map-link-text": "",
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "",
+				"link-url" : ""
 			}	
 		}
 	

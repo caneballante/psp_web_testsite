@@ -2,15 +2,15 @@
   "indicator": {
     "goal": "Vibrant Quality of Life",
     "vitalsign": "Sense of Place",
-    "indicator-name": "Sense of Place Index: 1a. Positive connections to region, 1b. Sense of stewardship for watershed, 1c. Pride of place for Puget Sound",
+    "indicator-name": "Sense of Place Index",
     "lead": "Kelly Biedenweg",
     "contact": "Kelly.Biedenweg@oregonstate.edu",
     "logo-link": "OSU",
 	"last-updated": "June 28, 2017",
 	"status-icon": "no 2020 target",
 	"progress-icon": "insufficient or no data",
-	"progress-icon-tagline": "NONE",	  
-    "progress-description": "No data are available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
+	"progress-icon-tagline": "",	  
+    "progress-description": "No data are available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years.",
 	"what": "The Sense of Place Index will inform us about peoples’ emotional connection to Puget Sound. Understanding trends and variations in sense of place allows us to evaluate the human effects of restoration strategies. It also informs communication and marketing campaigns, opportunities for public engagement in restoration activities, and overall predictors of engaging in the Puget Sound natural environment. The Sense of Place Index is made up of three separate indicators. An index is appropriate because each indicator metric is related, but is a unique aspect of the concept. ~B Indicator 1a: Positive connections. Percent of residents who express a positive connection to the region ~B Indicator 1b: Sense of stewardship. Percent of residents who feel a strong sense of stewardship for the watershed ~B Indicator 1c: Pride of Place. Percent of residents who express a sense of pride about being from Puget Sound ~P Data for the three indicators will be collected every 2 years via survey to Puget Sound residents. Results will be reported as a mean index value for Puget Sound residents. The data will be analyzed for significant differences across demographic groups.",
 	"data" : {
 		
@@ -27,8 +27,8 @@
 	"map-link-text": "",
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "",
+				"link-url" : ""
 			}	
 		}
 	}	

@@ -38,13 +38,25 @@
 	"interim-target": "<strong>Did the indicator meet its 2016 interim target?</strong>~SL Sediment Chemistry Index scores for all regions, and most bays continue to meet or exceed the target value.  Since 1997, all of the eight sampled regions and five of six urban bays met the SCI target value, and index values in most areas changed little since the late 1990s.~B SCI scores have improved incrementally and significantly in Elliott Bay since 1998, but not enough to reach the target value.  ~B Commencement Bay SCI scores have increased over time and are above the target value.~B SCI scores for Bainbridge Basin increased slightly between 2009 and 2015, and the target value continues to be met.~B Sampling in 2016 in Bellingham Bay was delayed until 2017, so 2016 SCI target conditions cannot be evaluated until 2018.  ~P Given that sediment contamination generally changes very slowly, we expect most areas currently meeting the target to continue to do so through 2020 unless contaminant inputs to the areas increase. It is possible that the target may eventually be reached in Elliott Bay if conditions there continue to improve.~EL",
     "interim-target-title": "TABLE 2. PROGRESS TOWARD 2016 INTERIM TARGET",
 	"interim-target-table":"sqi-table2.jpg",
-    "map-link": "",
-	"map-link-text": "",
+    "map-link": "See Word Doc to know which map",
+	"map-link-text": "FIGURE 3. MARINE SEDIMENT MONITORING REGIONS AND URBAN BAYS",
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
+				"link-name" : "Washington State Department of Ecology Marine Sediment Indicators in Puget Sound",
+				"link-url" : "http://www.ecy.wa.gov/programs/eap/psamp/PSindicators/Index.html"
+			},
+			"link1": {
+				"link-name" : "Quality Assurance Project Plan: The Puget Sound Assessment and Monitoring Program Sediment Monitoring Component",
+				"link-url" : "https://fortress.wa.gov/ecy/publications/SummaryPages/0903121.html"
+			},
+			"link2": {
+				"link-name" : "I am a link3",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}	
+			},
+			"link3": {
+				"link-name" : "I am a link4",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
 		}
 	}	
 }

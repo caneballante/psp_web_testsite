@@ -9,7 +9,7 @@
 	"last-updated": "June 28, 2017",
 	"status-icon": "no 2020 target",
 	"progress-icon": "insufficient or no data",
-	"progress-icon-tagline": "NONE",	  
+	"progress-icon-tagline": "",	  
     "progress-description": "No data are available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
 	"what": "This indicator tracks participation in nature-based occupations in the Puget Sound, such as logging, fishing, agriculture, aquaculture, interpretative work, and nature guiding. ~P We are not yet collecting data on this indicator, but when we do, data will be collected every 2 years via survey to Puget Sound residents about their annual nature-based work activities. ~P The results will be reported as the average time Puget Sound residents spend per week engaging in nature-based work. All data will be analyzed for significant differences across demographic groups.",
 	"data" : {
@@ -20,15 +20,15 @@
 	"why-happening": "Analysis of data trends is not currently available. ",
 	"references" : "",
 	"target": "No targets are currently set for this indicator. ",
-	"interim-target": "XLink to interim targets http://www.psp.wa.gov/downloads/interimtargets/Shef",
+	"interim-target": "",
     "interim-target-title": "",
 	"interim-target-table":"",
     "map-link": "",
 	"map-link-text": "",
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "",
+				"link-url" : ""
 			}
 		}
 	}	

@@ -15,28 +15,44 @@
 	"data" : {
 		"figure-1" : {
 			"title" : "FIGURE 1. NUMBER OF SOUTHERN RESIDENT KILLER WHALES IN PUGET SOUND",
-			"subhead" : "1972 ¬– 2016",
+			"subhead" : "1972-2016",
 			"figure-link" : "orca-figure1.jpg",
-			"caption" : "NONE",
+			"caption" : "",
 			"source" : "Source: Center for Whale Research.",
 			"description" : "The census of the Southern Resident Killer Whale population, conducted annually by the Center for Whale Research, is an important method by which to assess the status and trends of this endangered population. The entire population is counted with a high degree of certainty using photo-identification techniques. Sighting networks throughout Puget Sound support the census.~P Other populations of whales, such as Transients and Northern Resident Killer Whales, also frequent the Salish Sea, but their numbers are not reported here because the indicator and target focus only on Southern Resident Killer Whales.~P The population size of Southern Resident Killer Whales changes temporarily throughout the year as whales are born and die. For example, by the end of 2011 there were 88 Southern Resident Killer Whales in total, with 26 in J pod, 20 in K pod and 42 in L pod (Figure 1). By August 2012, four whales had gone missing (J30, K40, L5, L12) and were presumed dead. A fifth missing whale (L112), drifted ashore dead in February 2012 on the outer coast of Washington. However, two new calves (J49, L119) were seen since in 2012.~PIn 2014, a newborn calf, L-120 was first seen in October. However, the calf subsequently disappeared and is now presumed dead. Another whale, J-32 Rhapsody, was found dead on December 4, 2014, near Courtenay, BC. The cause of her death is under investigation and a preliminary necropsy report is available. ~P In January 2015, a new calf was spotted in the Salish Sea. She is called J50. Since January, seven more calves were observed. Five babies are J pod members, while the other five are L pod. 1977 is the only previous year in the past forty years in which as many baby killer whales were born into this community of whales, and there were nine in that year. More details at Center for Whale Research and Orca Network.~P Researchers from the Northwest Fisheries Science Center have deployed satellite-linked transmitters on individuals of J, K and L pods between 2013 and 2015. The data from satellite tags addresses a data gap in winter distribution and habitat use. More details here.~P <strong>Historic Trends</strong>~P Since data became available in 1973, the Southern Resident Killer Whale population has by turns declined and grown. Despite year-to-year variability, total population size grew over the past four decades by about 1% per year: there were fewer than 70 whales in the early 1970s, and an annual average of 85 whales in the 2000s (Figure 1). Yet, compared to the Northern Resident Killer Whale population living in the Strait of Georgia, the Southern Resident Killer Whale population is smaller and has been growing more slowly overall.~P At the pod level, the long-term population growth rate (from 1979 and 2010) is slightly lower for J and K pods combined (~2%) than for L pod (~1%). L pod is the largest of all pods. However, this pod has been in decline since the early 1990s.~P The other two pods, J and K, are roughly the same size. Both J and K pods are growing, with J pod increasing more rapidly than K pod. This is likely due to the limited reproductive potential in K and L pods. Indeed, the sex ratio of K and L pods is skewed toward males. The lack of reproductive females, poor survival of calves, and factors associated with small population sizes such as inbreeding, along with human-caused threats, are a concern for the viability of this population.~P J pod is also the pod that spends the most time in Puget Sound compared to the other two. The fact that Southern Resident Killer Whales only spend part of their lives in Puget Sound, and that the pod that spends the least time in Puget Sound has the steepest decline, suggests that the whales are impacted by conditions outside of Puget Sound.~P Although the Southern Resident Killer Whale population’s long-term trend for population growth meets the growth rate target, the 2014 interim target was not met, and the population growth rate does not meet the legal recovery criteria to delist the Southern Resident Killer Whales from the Endangered list (i.e., meeting an average growth rate of 2.3% per year for 28 years).~P Restoration of this population of long-lived, slow-reproducing killer whales is a long-term effort that requires cooperation and coordination of West Coast communities from California to British Columbia. It will take many years to fill key data gaps and assess the effectiveness of ongoing recovery actions for the whales, salmon, and their habitat, and to observe significant increases in the Southern Resident population."
 		}
 		
 	},
 	"more-description" : "",
-	"why-happening": "NONE",
+	"why-happening": "",
 	"references" : "",
 	"target": "By 2020, achieve an end-of-year census of 95 individual Southern Resident Killer Whales, which would represent a 1 percent annual average growth rate from 2010 to 2020.",
 	"interim-target": "<a href='http://www.psp.wa.gov/downloads/interimtargets/Orcas%20Interim%20Targets%20-%20FINAL.pdf'>Link to interim targets</a> ",
     "interim-target-title": "TABLE 1. PROGRESS TOWARD 2016 INTERIM TARGET",
 	"interim-target-table":"orca-table1.jpg",
     "map-link": "",
-	"map-link-text": "",
+	"map-link-text": "", 
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
+				"link-name" : "Center for Whale Research",
+				"link-url" : "https://www.whaleresearch.com/orca-population"
+			},
+			"link1": {
+				"link-name" : "National Oceanic and Atmospheric Administration Fisheries West Coast Region Killer Whale program",
+				"link-url" : "http://www.westcoast.fisheries.noaa.gov/protected_species/marine_mammals/killer_whale"
+			},
+			"link2": {
+				"link-name" : "National Oceanic and Atmospheric Administration Fisheries Species in the Spotlight: Southern Resident Killer Whale",
+				"link-url" : "http://www.nmfs.noaa.gov/stories/2015/06/spotlight_srkw.html"
+			},
+			"link3": {
+				"link-name" : "Northwest Fisheries Science Center Satellite Tagging Project ",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			}
+			},
+			"link4": {
+				"link-name" : "Orca Network",
+				"link-url" : "http://www.orcanetwork.org/Main/"
+			},
 		}
 	}	
 }

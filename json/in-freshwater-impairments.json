@@ -17,7 +17,7 @@
 			"title" : "FIGURE 1. FATE OF LISTINGS FOR PUGET SOUND RIVERS, STREAMS AND LAKES, BASED ON THE WATER QUALITY ASSESSMENT 303(d) LISTS",
 			"subhead" : "2004 assessment vs 2014 assessment",
 			"figure-link" : "freshwater-impairments-figure1.jpg",
-			"caption" : "NONE",
+			"caption" : "",
 			"source" : "Source: Washington State Department of Ecology, Water Quality Program",
 			"description" : ""
 		}
@@ -34,8 +34,8 @@
 	"map-link-text": "",
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "Washington State Department of Ecology Water Quality Assessment (303[d]) & Water Quality Improvement",
+				"link-url" : "http://www.ecy.wa.gov/programs/wq/links/wq_assessments.html"
 			}	
 		}
 	}	
