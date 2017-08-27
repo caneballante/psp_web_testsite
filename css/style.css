@@ -70,7 +70,9 @@ hr {
 
 
 .heading {
-    font-size: .8em;
-    font-weight: 600;
-	margin-top:20px;
+	font-size: 17px;
+	line-height: 1.9;
+	font-family: prenton, san-serif;
+	font-weight:100;
 }
+

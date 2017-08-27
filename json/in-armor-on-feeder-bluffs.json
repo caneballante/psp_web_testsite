@@ -20,7 +20,7 @@
 			"caption" : "",
 			"source" : "Source: Modified from Coastal Geologic Services, Inc. 2017b",
 			"description" : ""
-		},
+		}
 				
 	},
 	"more-description" : "",
@@ -60,8 +60,7 @@
 			"link6": {
 				"link-name" : "Coming soon! Beach Strategies Phase 1 Summary Report. Identifying Target Beaches to Restore and Protect. Estuary and Salmon Restoration Program Learning Project #14-2308. Prepared by Coastal Geologic Services, Inc.",
 				"link-url" : ""
-			},
-		},
-	"comment":""
+			}
+		}
 	}	
 }

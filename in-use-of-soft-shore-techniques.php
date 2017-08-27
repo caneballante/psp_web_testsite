@@ -29,7 +29,7 @@
 	<script> 
 		// set to zero to indicate this isn't that kind of page. Used for if statement to run either VS or IN code
 		var whatVS = 0; 
-		var whatIN = "in-use-of-soft-shore-techniques.json";
+		var whatIN = "in-armor-soft-shore-techniques.json";
 	</script>
 	<link href="css/style.css" rel="stylesheet" type="text/css">
 

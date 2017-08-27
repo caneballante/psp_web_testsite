@@ -29,6 +29,7 @@
 			"source" : "Source: Environmental Protection Agency National Estuary Program On-Line Report (NEPORT). ",
 			"description" : "An estimated 4,060 acres of degraded floodplain area have been restored since federal fiscal year 2011. The restoration gain estimated to date represents about 9 percent of the total number of acres (43,557 acres) needed to reach the 15 percent restoration target."
 		
+		}
 	},
 	"more-description" : "",
 	"why-happening": "<strong>Improving the baseline and tracking the target</strong>~P More information is needed to define the function and degradation of floodplains and to evaluate the impact of floodplain restoration projects.~P The data and the analysis for floodplain restoration are currently being assessed as part of a collaboration between the Puget Sound Partnership, the Department of Ecology and other agencies and organizations to improve upon the intermediate datasets and analyses.",
@@ -47,7 +48,7 @@
 			"link1": {
 				"link-name" : "Washington State Department of Ecology Floodplain Management Program",
 				"link-url" : "http://www.ecy.wa.gov/programs/sea/floods/index.html"
-			},
+			}
 			
 		}
   }

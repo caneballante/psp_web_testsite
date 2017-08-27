@@ -1,36 +1,35 @@
 ﻿{
-  "indicator": {
-    "goal": "Vibrant Quality of Life",
-    "vitalsign": "Economic Vitality",
-    "indicator-name": "Percent of GDP in natural resource-based industries to total GDP indicator",
-    "lead": "Katherine Wellman",
-    "contact": "katharine.wellman@norecon.com",
-    "logo-link": "NorthernEconomics",
-	"last-updated": "June 29, 2017",
-	"status-icon": "no 2020 target",
-	"progress-icon": "insufficient or no data",
-	"progress-icon-tagline": "",	  
-    "progress-description": "No data are available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
-	"what": "This indicator compares the output of natural resource industries to the total economic output of the region, helping us to understand the trends in natural resource industries across the region. Industries such as technology, aerospace, and finance also contribute significantly to the regional economy, but a decline in natural resource industries may indicate a displacement of employment opportunities, as well as dissociation from connection to the natural environment and sense of place. ",
-	"data" : {
-		
-		
-	},
-	"more-description" : "",
-	"why-happening": "Analysis of data trends is not currently available.",
-	"references" : "",
-	"target": "No targets are currently set for this indicator. ",
-	"interim-target": "",
-    "interim-target-title": "",
-	"interim-target-table":"",
-    "map-link": "",
-	"map-link-text": "",
-   	"links": {
+	"indicator": {
+		"goal": "Vibrant Quality of Life",
+		"vitalsign": "Economic Vitality",
+		"indicator-name": "Percent of GDP in natural resource-based industries to total GDP indicator",
+		"lead": "Katherine Wellman",
+		"contact": "katharine.wellman@norecon.com",
+		"logo-link": "NorthernEconomics",
+		"last-updated": "June 29, 2017",
+		"status-icon": "no 2020 target",
+		"progress-icon": "insufficient or no data",
+		"progress-icon-tagline": "",
+		"progress-description": "No data are available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
+		"what": "This indicator compares the output of natural resource industries to the total economic output of the region, helping us to understand the trends in natural resource industries across the region. Industries such as technology, aerospace, and finance also contribute significantly to the regional economy, but a decline in natural resource industries may indicate a displacement of employment opportunities, as well as dissociation from connection to the natural environment and sense of place. ",
+		"data": {
+
+
+		},
+		"more-description": "",
+		"why-happening": "Analysis of data trends is not currently available.",
+		"references": "",
+		"target": "No targets are currently set for this indicator. ",
+		"interim-target": "",
+		"interim-target-title": "",
+		"interim-target-table": "",
+		"map-link": "",
+		"map-link-text": "",
+		"links": {
 			"link0": {
-				"link-name" : "",
-				"link-url" : ""
+				"link-name": "",
+				"link-url": ""
 			}
 		}
-
-	}	
+	}
 }

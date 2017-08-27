@@ -28,7 +28,7 @@
 			"caption" : "Bars show average Water Quality Index scores. Site interannual variation is indicated by the error bars. Trend in overall Water Quality Index scores is indicated by the black solid line. Values below 40 (red dotted line) have poor water quality. Values at or above 80 (blue dotted line) have good water quality and meet expectations.",
 			"source" : "Statewide Water Quality Monitoring Network, Washington Department of Ecology; Stream and River Water Quality Monitoring, King County.",
 			"description" : "In the longer-term, results from the trend analysis of 14 major rivers at their most downstream sites since 1996 suggest that there has been very little change in water quality at the vast majority of sites.~P The earliest projection for meeting the target value for these 14 rivers would be 2025. When adjusted for differences in seasonal flows, the trend is much slower: average flow-adjusted scores of 80 are projected for 2060. Flow-adjusting accounts for the effect of flow on the parameters underlying the index.~P Our projection to and beyond 2020 is a best guess. Predictions are difficult due to fluctuations in drivers like the rate of population growth, global warming, and effectiveness of management activities, as well as possible long-term cycles not visible in the current 15-year dataset. For example, management tends to address the easier and more egregious problems first. As those problems get fixed, remaining problems become more difficult to correct with less effect on the water body for a given level of effort. Consequently, the rate of improvement in the index could be less, perhaps much less, than predicted by simply extending current trends."
-		},
+		}
 	},
 	"more-description" : "",
 	"why-happening": "In addition to some improvements in the overall score since 1995 for major rivers in Puget Sound, fecal coliform bacteria and total nitrogen index scores also improved (p<0.05). Furthermore, there are some slight reductions in mean annual stream temperature and total suspended sediment concentration on a few systems. However, Puget Sound-wide trends for other measures were not significant. ",
@@ -55,7 +55,7 @@
 			"link3": {
 				"link-name" : "I am a link4",
 				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
+			}
 		}
 	}	
 }

@@ -224,22 +224,42 @@ $(document).ready(function () {
 			
 			//more description
 			var inMoreDescription = (dataIN['indicator']['more-description']);
-			var inMoreDescriptionFmt = inMoreDescription.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inMoreDescriptionHtml = '<p>' + inMoreDescriptionFmt + '</p>';
-			$('#show-in-more-description').html(inMoreDescriptionHtml);
+			//check if field is empty
+			if (inMoreDescription === ""){
+				$('#show-in-more-description-header').hide();
+				$('#show-in-more-description').hide();
+			} else {
+				var inMoreDescriptionFmt = inMoreDescription.replace(new RegExp('~P', 'g'), '</p><p>');
+				var inMoreDescriptionHtml = '<p>' + inMoreDescriptionFmt + '</p>';
+				$('#show-in-more-description').html(inMoreDescriptionHtml);
+			};
+			
 			
 			//why happening
 			var inWhyHappen = (dataIN['indicator']['why-happening']);
-			var inWhyBullets = bulletMaker(inWhyHappen);
-			var inWhyHappenHtml = paragraphMaker(inWhyBullets);
-			$('#show-in-why-happen').html(inWhyHappenHtml);
-
+			//check if field is empty
+			if (inWhyHappen === ""){
+				$('#show-in-why-happen').hide();
+				$('#show-in-why-happen-header').hide();
+			} else {
+				var inWhyBullets = bulletMaker(inWhyHappen);
+				var inWhyHappenHtml = paragraphMaker(inWhyBullets);
+				$('#show-in-why-happen').html(inWhyHappenHtml);
+			};
+				
+			
 			
 			//references
 			var inReferences = (dataIN['indicator']['references']);
-			var inReferencesFmt = inReferences.replace(new RegExp('~P', 'g'), '</p><p>');
-			var inReferencesHtml = '<p>' + inReferencesFmt + '</p>';
-			$('#show-in-references').html(inReferencesHtml);
+			//check if field is empty
+			if (inReferences === ""){
+				$('#show-in-references').hide();
+				$('#show-in-references-header').hide();	
+			} else {
+				var inReferencesFmt = inReferences.replace(new RegExp('~P', 'g'), '</p><p>');
+				var inReferencesHtml = '<p>' + inReferencesFmt + '</p>';
+				$('#show-in-references').html(inReferencesHtml);
+			};	
 			
 			//target
 			var inTarget = (dataIN['indicator']['target']);

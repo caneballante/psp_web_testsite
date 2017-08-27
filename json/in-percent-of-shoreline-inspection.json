@@ -1,51 +1,50 @@
 ﻿{
-  "indicator": {
-    "goal": "Healthy Human Population",
-    "vitalsign": "Onsite Sewage Systems",
-    "indicator-name": "Percent of unsewered shoreline that has inspection program",
-    "lead": "Jeremy Simmons",
-    "contact": "jeremy.simmons@doh.wa.gov",
-    "logo-link": "DOH",
-	"last-updated": "June 29, 2017",
-	"status-icon": "insufficient or no data",
-	"progress-icon": "insufficient or no data",
-	"progress-icon-tagline": "",	  
-    "progress-description": "There has been no progress toward the target of expanding Marine Recovery Areas and sensitive area designations to 90 percent of Puget Sound's unsewered shoreline. The Department of Health estimates that the existing designated areas cover approximately 450 miles of unsewered Puget Sound shorelines. ~P This represents about 20 percent of Puget Sound’s unsewered shorelines, only a fraction of the target for 2020 (90 percent).~P The law can only be applied in areas with documented water quality impacts associated with existing onsite septics, and there may be additional legal and administrative issues limiting the expansion of MRAs to meet this target.~P DOH and LHJs have asked the Partnership to revisit and reconsider this part of the target due to concerns with its feasibility.",
-	"what": "Areas adjacent to Puget Sound that have pollution problems linked to on-site sewage systems (OSS) are called Marine Recovery Areas. ~P State rules, Chapter 70.118A RCW, requires local health jurisdictions have enhanced OSS management programs for these areas to protect public health and Puget Sound water quality. As part of the enhanced program they must:~B Inventory and inspect all OSS in Marine Recovery Areas.~B Identify failing systems and ensure they are either repaired or replaced.~B Develop and maintain electronic data systems capable of sharing OSS information with other regulators.~P (Modified from the Washington Department of Health webpage on Management Areas)",
-	"data" : {
-		"figure-1" : {
-			"title" : "",
-			"subhead" : "",
-			"figure-link" : "",
-			"caption" : "",
-			"source" : "",
-			"description" : ""
-		}
-		
-	"more-description" : "",
-	"why-happening": "",
-	"references" : "",
-	"target": "~P 2. Phase in an expansion of Marine Recovery Areas and other specially designated areas to cover 90% of Puget Sound's unsewered marine shorelines.",
-		"interim-target": "<a href='http://www.psp.wa.gov/downloads/interimtargets/On-site%20Sewage%20Systems%20Interim%20Targets%20-%20FINAL.pdf'>Link to interim targets</a> ",
-    "interim-target-title": "",
-	"interim-target-table":"",
-    "map-link": "http://www.doh.wa.gov/Portals/1/Documents/4450/MRA-Map.pdf",
-	"map-link-text": "FIGURE 2. DESIGNATED AREAS OF PUBET SOUND WITH ENHANCED INSPECTION REPORTING REQUIREMENTS FOR ONSITE SEWAGE SYSTEMS",
-   	"links": {
-			"link0": {
-				"link-name" : "Washington State Department of Health's On-site Sewage Systems program",
-				"link-url" : "http://www.doh.wa.gov/CommunityandEnvironment/WastewaterManagement/OnsiteSewageSystemsOSS"
+	"indicator": {
+		"goal": "Healthy Human Population",
+		"vitalsign": "Onsite Sewage Systems",
+		"indicator-name": "Percent of unsewered shoreline that has inspection program",
+		"lead": "Jeremy Simmons",
+		"contact": "jeremy.simmons@doh.wa.gov",
+		"logo-link": "DOH",
+		"last-updated": "June 29, 2017",
+		"status-icon": "insufficient or no data",
+		"progress-icon": "insufficient or no data",
+		"progress-icon-tagline": "",
+		"progress-description": "There has been no progress toward the target of expanding Marine Recovery Areas and sensitive area designations to 90 percent of Puget Sound's unsewered shoreline. The Department of Health estimates that the existing designated areas cover approximately 450 miles of unsewered Puget Sound shorelines. ~P This represents about 20 percent of Puget Sound’s unsewered shorelines, only a fraction of the target for 2020 (90 percent).~P The law can only be applied in areas with documented water quality impacts associated with existing onsite septics, and there may be additional legal and administrative issues limiting the expansion of MRAs to meet this target.~P DOH and LHJs have asked the Partnership to revisit and reconsider this part of the target due to concerns with its feasibility.",
+		"what": "Areas adjacent to Puget Sound that have pollution problems linked to on-site sewage systems (OSS) are called Marine Recovery Areas. ~P State rules, Chapter 70.118A RCW, requires local health jurisdictions have enhanced OSS management programs for these areas to protect public health and Puget Sound water quality. As part of the enhanced program they must:~B Inventory and inspect all OSS in Marine Recovery Areas.~B Identify failing systems and ensure they are either repaired or replaced.~B Develop and maintain electronic data systems capable of sharing OSS information with other regulators.~P (Modified from the Washington Department of Health webpage on Management Areas)",
+		"data": {
+			"figure-1": {
+				"title": "",
+				"subhead": "",
+				"figure-link": "",
+				"caption": "",
+				"source": "",
+				"description": ""
 			},
-			"link1": {
-				"link-name" : "Washington State Department of Health's Wastewater Management Program",
-				"link-url" : "http://www.doh.wa.gov/CommunityandEnvironment/WastewaterManagement"
-			},
-			"link2": {
-				"link-name" : "Results Washington Onsite Sewage Results",
-				"link-url" : "https://data.results.wa.gov/reports/G3-2-1-a-On-Site-Sewage-Systems"
-			}			}	
-		},
-	"comment":"Xinsert comment"
-	}	
-}
 
+			"more-description": "",
+			"why-happening": "",
+			"references": "",
+			"target": "~P 2. Phase in an expansion of Marine Recovery Areas and other specially designated areas to cover 90% of Puget Sound's unsewered marine shorelines.",
+			"interim-target": "<a href='http://www.psp.wa.gov/downloads/interimtargets/On-site%20Sewage%20Systems%20Interim%20Targets%20-%20FINAL.pdf'>Link to interim targets</a> ",
+			"interim-target-title": "",
+			"interim-target-table": "",
+			"map-link": "http://www.doh.wa.gov/Portals/1/Documents/4450/MRA-Map.pdf",
+			"map-link-text": "FIGURE 2. DESIGNATED AREAS OF PUBET SOUND WITH ENHANCED INSPECTION REPORTING REQUIREMENTS FOR ONSITE SEWAGE SYSTEMS",
+			"links": {
+				"link0": {
+					"link-name": "Washington State Department of Health's On-site Sewage Systems program",
+					"link-url": "http://www.doh.wa.gov/CommunityandEnvironment/WastewaterManagement/OnsiteSewageSystemsOSS"
+				},
+				"link1": {
+					"link-name": "Washington State Department of Health's Wastewater Management Program",
+					"link-url": "http://www.doh.wa.gov/CommunityandEnvironment/WastewaterManagement"
+				},
+				"link2": {
+					"link-name": "Results Washington Onsite Sewage Results",
+					"link-url": "https://data.results.wa.gov/reports/G3-2-1-a-On-Site-Sewage-Systems"
+				}
+			}
+		}
+	}
+}

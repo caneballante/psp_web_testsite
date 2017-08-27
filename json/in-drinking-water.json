@@ -13,29 +13,6 @@
     "progress-description": "No data are currently available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
 	"what": "This indicator is currently in development. It will track drinking water source contamination in public and private water systems. ",
 	"data" : {
-		"figure-1" : {
-			"title" : "",
-			"subhead" : "",
-			"figure-link" : "",
-			"caption" : "",
-			"source" : "",
-			"description" : "No data are currently available for this indicator. The Puget Sound Partnership is seeking funding to support data collection."
-		},
-		"figure-2" : {
-			"title" : "",
-			"subhead" : "",
-			"figure-link" : "",
-			"caption" : "",
-			"source" : "",
-			"description" : ""
-		},
-		"figure-3" : {
-			"title" : "",
-			"subhead" : "",
-			"figure-link" : "",
-			"caption" : "",
-			"source" : "",
-			"description" : ""
 		}
 		
 	},
@@ -53,6 +30,5 @@
 				"link-name" : "",
 				"link-url" : ""
 			}
-	"comment":"Xinsert comment"
 	}	
 }

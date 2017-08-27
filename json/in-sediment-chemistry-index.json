@@ -48,15 +48,7 @@
 			"link1": {
 				"link-name" : "Quality Assurance Project Plan: The Puget Sound Assessment and Monitoring Program Sediment Monitoring Component",
 				"link-url" : "https://fortress.wa.gov/ecy/publications/SummaryPages/0903121.html"
-			},
-			"link2": {
-				"link-name" : "I am a link3",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
-			"link3": {
-				"link-name" : "I am a link4",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-			},
+			}
 		}
 	}	
 }

@@ -30,8 +30,7 @@
 	"interim-target": "<a href='http://www.psp.wa.gov/downloads/interimtargets/Summer%20Stream%20Flows%20Interim%20Targets%20-%20FINAL.pdf'>Link to interim targets</a>",
     "interim-target-title": "PROGRESS TOWARD 2016 INTERIM TARGET",
 	"interim-target-table":"summer-flow-table2.jpg",
-    "map-link": " <div><iframe width="500px" title="State Map: Percent low flow trend 1975-2016" height="425px" src="https://data.wa.gov/w/5myx-tu78/mncn-zj8q?cur=aJ0AE2pCCel&from=root" frameborder="0"scrolling="no"><a href="https://data.wa.gov/Natural-Resources-Environment/State-Map-Percent-low-flow-trend-1975-2016/5myx-tu78" title="State Map: Percent low flow trend 1975-2016" target="_blank">State Map: Percent low flow trend 1975-2016</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
-    ",
+    "map-link": " <div><iframe width='500px' title='State Map: Percent low flow trend 1975-2016' height='425px' src='https://data.wa.gov/w/5myx-tu78/mncn-zj8q?cur=aJ0AE2pCCel&from=root' frameborder='0'scrolling='no'><a href='https://data.wa.gov/Natural-Resources-Environment/State-Map-Percent-low-flow-trend-1975-2016/5myx-tu78' title='State Map: Percent low flow trend 1975-2016' target='_blank'>State Map: Percent low flow trend 1975-2016</a></iframe><p><a href='http://www.socrata.com/' target='_blank'>Powered by Socrata</a></p></div>",
 	"map-link-text": "",
    	"links": {
 			"link0": {
