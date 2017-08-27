@@ -49,7 +49,7 @@
 	<div class="col-sm-12 orange"></div>
 </div>
 <!-- InstanceEndEditable -->
-<div class="container page-content padding-50-bottom">
+<div class="container-fluid  page-content padding-50-bottom">
 	<div class="row"> 
 		<div class="col-sm-3">
 			<div class="nav-leftside-custom">
@@ -65,16 +65,16 @@
 				</ul>
 			</div>
 		</div>
+		 
 		
-		
-		
-		  
-		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
+		<div class="col-sm-10 padding-20-top padding-0-left content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 			<p>The Puget Sound Partnership is developing a strategic science program to support the science-based recovery of the Puget Sound ecosystem by 2020. </p>
 			<h2>STATE OF THE SOUND</h2>
 			<p>The Partnership is required to produce a State of the Sound report every two yeauo funding, programs, or policies that might accelerate the regional progress towards ecosystem recovery, including more efficient use of resources. LEARN MORE</p>
 			<p>Additional information about science programs and activities are available from our page on science resources.</p>
 			<!-- InstanceEndEditable --> </div>
+		
+		
 		</div>
 	<!--END OF ROW --> 
 </div>

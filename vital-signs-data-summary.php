@@ -51,7 +51,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  
-<div class="container page-content padding-50-bottom">
+<div class="container-fluid  page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
 			<h1>Data Summary</h1>

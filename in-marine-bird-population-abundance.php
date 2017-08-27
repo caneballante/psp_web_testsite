@@ -49,7 +49,7 @@
 <?php include 'includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  
-<div class="container page-content padding-50-bottom">
+<div class="container-fluid  page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
 			<h1>&nbsp;</h1>
@@ -68,7 +68,7 @@
 			</div>
 		</div>
 		 
-		<div class="col-sm-7 padding-20-top content-column"><!-- InstanceBeginEditable name="6col_content" --> 
+		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" --> 
 		<?php include 'includes/in-content.html';?>
 		<script src="js/vital.js"></script>
 		
