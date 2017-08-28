@@ -177,11 +177,11 @@ $(document).ready(function () {
 			$('#show-in-last-updated').html(inLastUpdated);
 
 			//status icon
-			var inStatusIcon = (dataIN['indicator']['status-icon']);
+			var inStatusIcon = ('<p>' +dataIN['indicator']['status-icon']+ '</p>');
 			$('#show-in-status-icon').html(inStatusIcon);
 
 			//progress icon
-			var inProgressIcon = (dataIN['indicator']['progress-icon']);
+			var inProgressIcon = ('<p>' +dataIN['indicator']['progress-icon']+ '</p>');
 			$('#show-in-progress-icon').html(inProgressIcon);
 
 			//progress icon tagline

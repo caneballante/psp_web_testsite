@@ -69,7 +69,18 @@
 			</div>
 		</div>
 		 
-		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" -->Goals<!-- InstanceEndEditable --></div>
+		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" -->
+			<h2>WHAT ARE THE ECOSYSTEM RECOVERY GOALS?</h2>
+			<p>The Washington State Legislature, in the 2007 legislation creating the Puget Sound Partnership, identified six ecosystem recovery goals for Puget Sound: </p>
+			<ul>
+				<li><strong>Healthy Human Population:</strong> A healthy population supported by a healthy Puget Sound that is not threatened by changes in the ecosystem</li>
+				<li><strong>Vibrant Quality of Life:</strong> A quality of human life that is sustained by a functioning Puget Sound ecosystem.</li>
+				<li><strong>Thriving Species and Food Web:</strong> Healthy and sustaining populations of native species in Puget Sound, including a robust food web.</li>
+				<li><strong>Protected and Restored Habitat:</strong> A healthy Puget Sound where freshwater, estuary, nearshore, marine, and upland habitats are protected, restored, and sustained.</li>
+				<li><strong>Abundant Water Quantity:</strong> An ecosystem that is supported by groundwater levels, as well as by river and stream flows sufficient to sustain people, fish, wildlife, and the natural functions of the environment.</li>
+				<li><strong>Healthy Water Quality:</strong> Fresh and marine waters and sediments of a sufficient quality to support water that is safe for drinking, swimming, and other human uses and enjoyment, and are not harmful to the native marine mammals, fish, birds, and shellfish in the region.</li>
+			</ul>
+		<!-- InstanceEndEditable --></div>
 		
 		</div>
 	<!--END OF ROW --> 
