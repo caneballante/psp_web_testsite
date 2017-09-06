@@ -4,22 +4,38 @@
 		"name": "Birds",
 		"lead": " PSEMP Marine Bird Workgroup",
 		"contact": "todd.hass@psp.wa.gov",
-		"last-updated" : "last updated date",
+		"last-updated": "last updated date",
 		"what": "The Bird Vital Sign tells us about the health of populations of native resident and migratory bird species associated with Puget Sound. Each winter, thousands of seabirds, seaducks, and waterfowl migrate from all directions to converge in the relatively calm and food-rich waters of Puget Sound. In summer, colonies of seabirds are busy attending their young. In spring and fall, the shorelines are full of shorebirds that stop to feed and rest during migration. During the non-breeding season, large flocks of marine waterfowl and seabirds aggregate in nearshore waters. Puget Sound supports over a dozen Important Bird Areas and offers ample birdwatching opportunities.~P The Bird Vital Sign is measured with two indicators: marine population abundance and terrestrial population abundance. Each indicator integrates population information from multiple species that represent different prey bases and habitats. As it stands, only the marine indicator species is being tracked: breeding season at-sea densities of marbled murrelet, rhinoceros auklet, and pigeon guillemot, and non-breeding season at-sea abundance trends for surf, white-winged and black scoters.",
 		"key-messages": " ~SL Progress is mixed (either not changing or getting somewhat worse) as population trends vary among the Vital Sign indicator species. Summer at-sea surveys in Puget Sound show that marbled murrelets have declined by nearly 5% per year since surveys began in 2000, whereas pigeon guillemots and rhinoceros auklets have been stable. Marbled murrelet declines in Washington state stand in contrast to range-wide trends.~B At-sea winter abundance trends for scoter species appear to about the same or increasing in recent years (2014-2016) following steep declines in the 1990’s.~B Changes in marine bird abundance and distribution in Puget Sound may result from a number of factors, including habitat alteration/degradation, changes in fish prey populations, disease and contamination from toxic chemicals. Human and environmental pressures in other parts of species’ ranges can also lead to changes in the number of birds we see locally in Puget Sound.~I Marbled murrelet declines are associated with both marine and terrestrial factors in Puget Sound, including the availability of large trees in mature forests for nesting and the presence of boat traffic and fishing pressure in the Sound.~I Marine birds that are the greatest risk for decline in the Salish Sea are those that eat forage fish like herring and sandlance.~I Organochloride contaminant burdens for rhinoceros auklet chicks are much higher in Puget Sound compared to the outer coast.~P More broadly, over 70 species of marine birds commonly occur in Puget Sound. The status of marine birds who rely on Puget Sound ranges from healthy to imperiled. The marbled murrelet is federally threatened, but the other Vital Sign indicator bird species do not have any kind of conservation status.~B An unusual mortality event in 2016, where 100s of rhinoceros auklets were found dead on the shores of the Salish Sea, coincided with unusually high water temperatures. Auklet chicks were also found dead and moribund on the Protection Island breeding colony. Bacterial infection and/or starvation were evidenced in bird carcasses.~B Changing ocean and climate conditions associated with climate change have the potential to disrupt historical patterns of prey abundance and diversity in Puget Sound, resulting in inadequate food or changes to the quality of food available to marine birds. Such an occurrence, sustained for multiple years, would have impacts of unknown severity on local marine bird populations. Increases in sea surface temperatures associated with climate change could also increase the prevalence of disease in seabird breeding colonies.~B More broadly, over 70 species of marine birds commonly occur in Puget Sound. The status of marine birds who rely on Puget Sound ranges from healthy to imperiled. The marbled murrelet is federally threatened, but the other Vital Sign indicator bird species do not have any kind of conservation status.~B An unusual mortality event in 2016, where 100s of rhinoceros auklets were found dead on the shores of the Salish Sea, coincided with unusually high water temperatures. Auklet chicks were also found dead and moribund on the Protection Island breeding colony. Bacterial infection and/or starvation were evidenced in bird carcasses.~B Changing ocean and climate conditions associated with climate change have the potential to disrupt historical patterns of prey abundance and diversity in Puget Sound, resulting in inadequate food or changes to the quality of food available to marine birds. Such an occurrence, sustained for multiple years, would have impacts of unknown severity on local marine bird populations. Increases in sea surface temperatures associated with climate change could also increase the prevalence of disease in seabird breeding colonies.~EL",
-		
+
 		"indicators": {
 			"indicator1_json": "in-marine-bird-population.json",
 			"indicator2_json": "in-terrestrial-bird-population.json"
 		},
 		"highlights": "",
 		"highlight_photo": "",
-		 "links": {
-			"link0": {
-			"link-name" : "I am a link1",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+		"links": {
+			"section1": {
+				"category": "Puget Sound Partnership",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSBirds.html'Actions Proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSBird'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>Whats working to restore Puget Sound? Answers from effectiveness evaluations</a>"
+			},
+			"section2": {
+				"category": "Background documents for adopting indicator and ecosystem recovery targets",
+				"link1": "<a href='https://pspwa.box.com/s/dva5c0d0gyezghrbwmype9wru1oh2ftu'>Leadership Council Resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/xdulsrtcs5qnj5cdbj9sdr2ldignk9x2'>Marine and Terrestrial Bird Indicators for Puget Sound </a>",
+				"link3": "<a href='https://pspwa.box.com/s/rai17mglgrap8io0sj969i1riubeqcyu'>Bird Indicator Supplementary Material</a>",
+				"link4": "Implementation Strategy for this Vital Sign"
+			},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "State of our Watersheds Report by the Northwest Indian Fisheries Commission",
+				"link2": "<a href='https://www.eopugetsound.org/terms/42'>Encyclopedia for Puget Sound",
+				"link3": "State of the Salmon"
+			}
 		}
-	}
 	}
 
 }
