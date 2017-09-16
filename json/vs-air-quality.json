@@ -4,19 +4,30 @@
 		"name": "Air Quality",
 		"lead": "TBD",
 		"contact": "TBD",
-		"what": "TBD",
-		"key-messages": "TBD",
+		"what": "The Air Quality Vital Sign addresses the status of air quality across Puget Sound. A foundation of human wellbeing is breathing fresh air.  In the Puget Sound, sources of air quality degradation include vehicle emissions, industrial emissions, and burning wood and debris. Air quality status varies by physical location and across an urban-rural gradient due to weather patterns, topography and pollution sources.  Degraded air disproportionately affects young children and elderly as well as those who have respiratory diseases and asthma. Further, vulnerable communities are often disproportionately exposed to degraded air quality.  An estimated 1,100 people die annually in the Puget Sound due to outdoor air pollution.",
+		"key-messages": "Coming soon!",
 		"indicators": {
 			"indicator1_json": "in-tobedetermined.json"
 		},
 		"highlights": "none",
 		"highlight_photo": "none",
-		 "links": {
-		"link0": {
-			"link-name" : "I am a link1",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		}
-	}
-	}
-
+		"links": {
+			"section1": {
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://linkReportCard'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://linkRecoveryAtlas'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
+			},
+			"section2": {
+				"category": "Background documents",
+				"link1": "<a href='https://pspwa.box.com/s/h2aanpjn7d3u9g3cw42993bvhcbvtigp'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/d2vbgz1nracbrlcoaxxglwybk1jbxnpz'>Human Wellbeing Vital Signs and Indicators for Puget Sound Recovery</a>"
+			},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "<a href='https://www.eopugetsound.org/terms/15'>Encyclopedia Of Puget Sound</a>"
+			}
+				}
+				}
 }

@@ -1,11 +1,11 @@
 {
 	"vitalSign": {
-		"goal": "goal",
+		"goal": "Healthy Water Quality",
 		"name": "Freshwater Quality",
-		"lead": "lead",
-		"contact": "Contact goes here",
-		"what": "what",
-		"key-messages": "key messages",
+		"lead": "PSEMP Freshwater Workgroup",
+		"contact": "leska.fore@psp.wa.gov",
+		"what": "This Vital Sign tells us about the condition of the fresh water that is vital to people, fish and wildlife populations and whether or not we are keeping pollutants, toxic contaminants, and excessive sediments and nutrients out of our rivers and streams.",
+		"key-messages": "~SL The Stormwater Work Group, an independent stakeholder group, formed the Stormwater Action Monitoring program to answer questions about stormwater management. Status and trends of freshwater streams draining to Puget Sound were studied in 2015. Results are being analyzed and reviewed in Fall 2017, with publication of results for water quality, stream sediment, and biological condition expected in January 2018. ~B Water bodies are considered impaired when they fail to meet water quality standards for defined uses. Of the 2,071 sites that were assessed in both 2004 and 2014, 68 (3%) improved from impaired to non-impaired (healthy), mostly due to reductions in fecal bacteria. Unfortunately, a greater number, 392 (19%) changed status to impaired during the same time. The remaining 852 (41%) remain unchanged either due to a lack of change in condition or a lack of new data to determine their status. ~BResults indicate that water quality for rivers and streams has not changed for the past 10 years at the 31 locations where data are collected. About one-third of the stations meet the target value indicating good stream health, and that number has not changed over time. ~BThe Benthic Index of Biotic Integrity, or the “bug index”, measures the health of invertebrates in streams. Over the last 8 years, 8 out of 18 sites stayed in excellent condition, but an additional 17 sites improved to excellent condition.  During that same time, for stream sites rated as fair, more sites have improved than declined. Unfortunately, we don’t know what are the natural or management changes that caused the index to change. ~EL",
 		"indicators": {
 			"indicator1_json": "in-benthic-index.json",
 			"indicator2_json": "in-freshwater-impairments.json",
@@ -13,12 +13,30 @@
 		},
 		"highlights": "highlights",
 		"highlight_photo": "image link",
-		 "links": {
-		"link0": {
-			"link-name" : "I am a link1",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		}	
-	}
+		"links": {
+			"section1": {
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSFreshwaterQuality.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSFreshwaterQuality'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
+			},
+			"section2": {
+				"category": "Background documents",
+				"link1": "<a href='https://pspwa.box.com/s/b1npg5p8462p52ege4vaq3uvsmdnno2s'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/9t6ohicsl3htxghp3g6is0rg1a08t4s3'>Runoff</a>",
+				"link3": "<a href='https://pspwa.box.com/s/tmiggg1b57cb3g0ebs4xdvf6pf2zj2pm'>Water quality</a>",
+				"link4": "<a href='https://pspwa.box.com/s/90tbto8ty534a38fyd2dcymlkl8ryh6k'>Water quality target summary</a>",
+				"link5": "<a href='https://pspwa.box.com/v/BIBI-IS-Public'>Implementation Strategy for this Vital Sign</a>"
+			},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "<a href='https://nwifc.org/publications/state-of-our-watersheds'>State of our Watersheds Report by the Northwest Indian Fisheries Commission</a>",
+				"link2": "<a href='https://www.eopugetsound.org/terms/367'>Encyclopedia Of Puget Sound Stormwater</a>",
+				"link3": "<a href='http://stateofsalmon.wa.gov'>State of the Salmon</a>"
+			}
+		}
+
 	}
 
 }

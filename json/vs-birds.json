@@ -16,26 +16,25 @@
 		"highlight_photo": "",
 		"links": {
 			"section1": {
-				"category": "Puget Sound Partnership",
-				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSBirds.html'Actions Proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSBirds.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
 				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSBird'>Restoration and protection projects related to this Vital Sign</a>",
-				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>Whats working to restore Puget Sound? Answers from effectiveness evaluations</a>"
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
 			},
 			"section2": {
-				"category": "Background documents for adopting indicator and ecosystem recovery targets",
-				"link1": "<a href='https://pspwa.box.com/s/dva5c0d0gyezghrbwmype9wru1oh2ftu'>Leadership Council Resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"category": "Background documents",
+				"link1": "<a href='https://pspwa.box.com/s/dva5c0d0gyezghrbwmype9wru1oh2ftu'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
 				"sub-category1": "Technical reports (PDF)",
-				"link2": "<a href='https://pspwa.box.com/s/xdulsrtcs5qnj5cdbj9sdr2ldignk9x2'>Marine and Terrestrial Bird Indicators for Puget Sound </a>",
+				"link2": "<a href='https://pspwa.box.com/s/xdulsrtcs5qnj5cdbj9sdr2ldignk9x2'>Marine and Terrestrial Bird Indicators for Puget Sound</a>",
 				"link3": "<a href='https://pspwa.box.com/s/rai17mglgrap8io0sj969i1riubeqcyu'>Bird Indicator Supplementary Material</a>",
-				"link4": "Implementation Strategy for this Vital Sign"
+				"link4": ""
 			},
 			"section3": {
 				"category": "Other Resources",
-				"link1": "State of our Watersheds Report by the Northwest Indian Fisheries Commission",
-				"link2": "<a href='https://www.eopugetsound.org/terms/42'>Encyclopedia for Puget Sound",
-				"link3": "State of the Salmon"
+				"link1": "",
+				"link2": "<a href='https://www.eopugetsound.org/terms/42'>Encyclopedia Of Puget Sound</a>",
+				"link3": ""
 			}
 		}
 	}
-
 }

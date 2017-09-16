@@ -6,19 +6,34 @@
 		"contact": "tristan.peter-contesse@psp.wa.gov",
 		"last-updated" : "June 29, 2017",
 		"what": "Chinook salmon are a cultural icon of the Pacific Northwest and are listed as “Threatened” under the federal Endangered Species Act; currently they are about one-third as abundant as they were in the early 1900s. Returning Chinook are highly prized by anglers and commercial fisherman; are guaranteed to be available to Indian Tribes by treaties signed with the federal government; and are a favorite food of orca whales. Throughout their lifecycle, Chinook salmon depend on a wide variety of freshwater, estuary, nearshore and marine habitats.~P This Vital Sign tells us about the health of salmon population, particularly Puget Sound Chinook populations, and whether efforts to improve salmon habitat and coordinated management of harvest and hatcheries are having the desired effect of improving salmon populations. Although the indicator focuses on Chinook salmon populations specifically, it is intended to serve as an indicator of the health of all salmon and steelhead species in Puget Sound.",
-		"key-messages": "~SL Puget Sound Chinook salmon show very few signs of recovery. Comparing the latest 5 year period to the first five years after listing, natural-origin spawner abundance of the majority of populations has remained about the same. A different analysis covering all years since listing in 1999, suggests that over half of the populations declined and the remaining essentially did not change.~B None of the populations of Puget Sound Chinook salmon are currently meeting recovery goals for abundance of natural-origin spawners. Furthermore, productivity remains low for most populations.~B Individual restoration and protection projects are accomplishing their goals: they improve prey fish habitat; fish quickly colonize newly restore habitat where young salmon rear, feed and rest; and they improve water quality. However, these project-level successes, which occur over tens to hundreds of meters, are not yet translating into population level improvements, when populations need thousands of kilometers of good habitat.~B The population size of Chinook salmon is not exact, and the uncertainty in the estimates and sources of variation are not well documented. Population size is even less well known for other species like steelhead.~B Forest and riparian habitat loss persists, and shoreline armoring and impervious surfaces construction continues. These forces are potentially counteracting the beneficial effects of restoration actions. ~B The recovery of Puget Sound Chinook salmon and other species is complicated by a number of factors over which Puget Sound recovery efforts have little control, including ocean conditions and drivers of climate change.~B Both listed and non-listed salmonids that play a critical role in supporting Tribal treaty rights in Puget Sound face a similar suite of risks to Chinook.EL",
+		"key-messages": "~SL Puget Sound Chinook salmon show very few signs of recovery. Comparing the latest 5 year period to the first five years after listing, natural-origin spawner abundance of the majority of populations has remained about the same. ~B None of the populations of Puget Sound Chinook salmon are currently meeting recovery goals for abundance of natural-origin spawners. Furthermore, productivity remains low for most populations.~B Individual restoration and protection projects are accomplishing their goals: they improve prey fish habitat; fish quickly colonize newly restore habitat where young salmon rear, feed and rest; and they improve water quality. However, these project-level successes, which occur over tens to hundreds of meters, are not yet translating into population level improvements, when populations need thousands of kilometers of good habitat.~B The population size of Chinook salmon is not exact, and the uncertainty in the estimates and sources of variation are not well documented. Population size is even less well known for other species like steelhead.~B Forest and riparian habitat loss persists, and shoreline armoring and impervious surfaces construction continues. These forces are potentially counteracting the beneficial effects of restoration actions. ~B The recovery of Puget Sound Chinook salmon and other species is complicated by a number of factors over which Puget Sound recovery efforts have little control, including ocean conditions and drivers of climate change.~B Both listed and non-listed salmonids that play a critical role in supporting Tribal treaty rights in Puget Sound face a similar suite of risks to Chinook.~EL",
 		
 		"indicators": {
 			"indicator1_name": "in-chinook-salmon-population.json"
 		},
 		"highlights": "highlights",
 		"highlight_photo": "image link",
-		 "links": {
-		"link0": {
-			"link-name" : "I am a link1",
-			"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
-		}
-	}
+		"links": {
+			"section1": {
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSChinook.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSChinook'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
+			},
+			"section2": {
+				"category": "Background documents",
+				"link1": "<a href='https://https://pspwa.box.com/s/esy5dvqxv4roopabp9uevds1q47ea0fg'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/oppbahlx9gxr4fkhsaddk55ynbfhf0rq'>Target briefsheet</a>",
+				"link3": "<a href='https://pspwa.box.com/v/PublicIS-Chinook'>Implementation Strategy for this Vital Sign"
+			},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "<a href='https://nwifc.org/publications/state-of-our-watersheds'>State of our Watersheds Report by the Northwest Indian Fisheries Commission</a>",
+				"link2": "<a href='https://www.eopugetsound.org/terms/363'>Encyclopedia Of Puget Sound</a>",
+				"link3": "<a href='http://stateofsalmon.wa.gov'>State of the Salmon</a>"
+			}
 	}
 
+	}
 }
