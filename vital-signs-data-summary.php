@@ -48,7 +48,7 @@
 <!-- InstanceParam name="OptionalRegion10" type="boolean" value="true" -->
 </head>
 <body>
-<?php include 'includes/modal-inc.html';?>
+<?php include '../includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  
 <div class="container-fluid  page-content padding-50-bottom">
