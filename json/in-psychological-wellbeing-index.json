@@ -1,0 +1,41 @@
+﻿{
+  "indicator": {
+    "goal": "Vibrant Quality of Life",
+    "vitalsign": "Sense of Place",
+    "indicator-name": "Psychological Wellbeing Index",
+    "lead": "Kelly Biedenweg",
+    "contact": "kelly.biedenweg@oregonstate.edu",
+    "logo-link": "OSU",
+	"last-updated": "September 15, 2017",
+	"status-icon": "NO 2020 TARGET",
+	"progress-icon": "INSUFFICIENT OR NO DATA",
+	"progress-icon-tagline": "",	  
+    "progress-description": "No data are currently available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
+	"what": "The Psychological Wellbeing Index will help us understand whether Puget Sound residents experience inspiration and stress reduction while in nature. These are critical measures of whether the natural environment contributes to human wellbeing. The Psychological Wellbeing Index is measured by using two survey questions to determine the degree to which engagement with the natural environment contributes to psychological wellbeing. An index is appropriate because each question measures a related, yet unique, aspect of the concept.~P Inspiration: Percent of residents who experience inspiration from being in nature~P Stress Reduction: Average number of residents who experience reduced stress from being in nature ~P We have just begun collecting data for this indicator. Further data will be collected every 2 years via a survey of Puget Sound residents about their psychological wellbeing. Results will be reported as a mean index value for Puget Sound residents. The data will be analyzed for significant differences across demographic groups.",
+	"data" : {
+		"figure-1" : {
+			"title" : "",
+			"subhead" : "",
+			"figure-link" : "",
+			"caption" : "",
+			"source" : "",
+			"description" : "Pilot data show that over 30% of residents have felt inspired by nature and have spent time in nature to reduce stress in the past year. We anticipate more data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years."
+		},
+	"more-description" : "",
+	"why-happening": "Analysis of data trends is not currently available. ",
+	"references" : "",
+	"target": "No targets are currently set for this indicator. ",
+	"interim-target": "",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "",
+	"map-link-text": "",
+   	"links": {
+			"link0": {
+				"link-name" : "",
+				"link-url" : ""
+				}
+			}
+		}
+	}	
+}

@@ -1,0 +1,37 @@
+﻿{
+	"vitalSign": {
+		"goal": "Vibrant Human Quality of Life",
+		"name": "Cultural Wellbeing",
+		"lead": "Economic Indicators Work Group (Subset of the Puget Sound Partnership Science Panel’s Social Science Advisory Committee)",
+		"contact": "leah.kintner@psp.wa.gov",
+		"last-updated": "September 20, 2017",
+		"what": "The Cultural Wellbeing Vital Sign addresses the extent to which people feel able to maintain their cultural traditions. The Puget Sound region is home to human populations from diverse cultures, some with long-held connections to place and others who have more recently arrived.  Cultural practices and knowledge systems are shaped by ecosystems and are critical to human wellbeing because they provide a sense of belonging, create the foundation for moral development, and define rules for social interaction.  There is no question that many of the cultural traditions held by Puget Sound residents are dependent on the health of Puget Sound ecosystems.  ",
+		"key-messages": "Key messages coming soon",
+
+		"indicators": {
+			"indicator1-json": "in-participation-in-cultural-practices.json"
+		},
+		"highlights": "highlights",
+		"highlight_photo": "image link",
+		"links": {
+			"section1": {
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
+			},
+			"section2": {
+				"category": "Background documents",
+				"link1": "<a href='https://pspwa.box.com/s/h2aanpjn7d3u9g3cw42993bvhcbvtigp'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/d2vbgz1nracbrlcoaxxglwybk1jbxnpz'>Human Wellbeing Vital Signs Technical Memorandum</a>"
+			},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "<a href='https://www.eopugetsound.org/terms/16'>Encyclopedia Of Puget Sound</a>"
+			}
+		}
+
+	}
+
+}

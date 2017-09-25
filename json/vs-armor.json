@@ -1,0 +1,42 @@
+﻿{
+	"vitalSign": {
+		"goal": "Protected and Restored Habitat",
+		"name": "Shoreline Armoring",
+		"lead": "PSEMP Nearshore workgroup",
+		"contact": "tofty@u.washington.edu",
+		"last-updated": "September 20, 2017",	
+		"what": "A functioning, resilient Puget Sound ecosystem is defined to include dynamic shorelines maintained by coastal processes such as shoreline erosion and ecological exchange between terrestrial and aquatic systems. Shorelines are among the most valuable and fragile of our natural resources. More than 25% of the shoreline has been armored to protect public and private property, ports and marinas, roads and railways, and other uses. Shoreline armoring, the practice of constructing bulkheads (seawalls) and rock revetments, disrupts the natural process of erosion, which supplies much of the sand and gravel that forms and maintains our beaches and creates habitat for many other species. The indicator for this Vital Sign indicates our progress in protecting intact shorelines and restoring armored shorelines. The targets emphasize the importance of feeder bluffs and the need to increase the use of soft shore techniques.",
+		"key-messages": " ~SL Some progress has been made to reduce the impact of armor as the removal of armor appears to be increasing and the pace of permitting construction is slowing.~B The length of armor along Puget Sound shores increased between 2011 and 2015, with a net addition of 1.3 miles (6864 feet). In 2014 and 2015, however, more was removed than added.~B New armoring continues to be constructed at an average pace of 0.66 miles (3,483 feet) per year (mean of 2011 – 2015), but the pace has slowed since 2012.~B In contrast, shoreline armoring is removed at an average rate of 0.4 miles (2,105 feet) per year—not enough to balance out new armoring.~B Feeder bluffs and soft shorelines are getting significant attention, but quantifying their extent remains difficult. Current work is addressing limitations in location data, mapping criteria, and definitions.~B An emerging Implementation Strategy for shoreline armoring has identified that the greatest near-term opportunities for armoring removal and natural shoreline protection are on residential shorelines, however initiating efforts now on non-residential shorelines is crucial for long-term gains. Public lands continue to provide opportunities to demonstrate successes with removing armor or using soft shore protection methods.~EL",
+
+		"indicators": {
+			"indicator1_json": "in-amount-permitted-shoreline-armoring.json",
+			"indicator2_json": "in-armor-on-feeder-bluffs.json",
+			"indicator3_json": "in-armor-soft-shore-techniques.json"
+		},
+		"highlights": "highlights",
+		"highlight_photo": "image link",
+		"links": {
+			"section1": {
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSShorelineArmoring.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSShorelineArmoring'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>",
+				"link4": "<a href='https://pspwa.box.com/v/ShorelineArmoringIS-Public'>Implementation Strategy for this Vital Sign</a>"
+			},
+			"section2": {
+				"category": "Background documents",
+				"link1": "<a href='https://pspwa.box.com/s/mq37zmxx4jr0n8ng5qkav1hrv40r8t2c'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/z4brvrdcwxof4cfbomk0u2rns22k5zot'>Target briefsheet</a>"
+			},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "<a href='https://nwifc.org/publications/state-of-our-watersheds'>State of our Watersheds Report by the Northwest Indian Fisheries Commission</a>",
+				"link2": "<a href='https://www.eopugetsound.org/terms/125'>Encyclopedia Of Puget Sound</a>",
+				"link3": "<a href='http://stateofsalmon.wa.gov'>State of the Salmon</a>"
+			}
+		}
+
+	}
+
+}

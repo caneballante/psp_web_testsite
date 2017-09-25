@@ -1,0 +1,66 @@
+﻿{
+  "indicator": {
+    "goal": "Protected and Restored Habitat",
+    "vitalsign": "Shoreline Armoring",
+    "indicator-name": "Armor on feeder bluffs",
+    "lead": "Hugh Shipman",
+    "contact": "HSHI461@ECY.WA.GOV",
+    "logo-link": "ECY",
+	"last-updated": "August 16, 2017",
+	"status-icon": "NEAR OR ON 2020 TARGET",
+	"progress-icon": "GETTING BETTER",
+	"progress-icon-tagline": "This indicator made gains relative to the baseline reference",	  
+    "progress-description": "Recently completed mapping indicates that 223 miles (34%) of Puget Sound’s original 657 miles of feeder bluffs have been armored. The proportion varies significantly among counties – the relative length of armored feeder bluff is much higher in the more developed areas of King, Pierce, and Kitsap Counties; lower in northern and western areas such as Whatcom and Clallam Counties.~P The importance of feeder bluffs on Puget Sound has been recognized since the 1970s, but interest in protecting them has increased in recent years as awareness of their environmental role has grown. ~SL As a result, feeder bluffs receive attention in state and local regulations, in outreach and education programs, among the scientific community, and in restoration programs.~B Examination of 2015 HPA data suggests that about 1000’ of new armor was approved on feeder bluffs during that year, (compared to about a mile of total new armor approved). ~B The existing 223 miles of armored feeder bluffs, had it been constructed evenly over the past 100 years, would indicate a rate of more than 2 miles per year, so the current numbers represent a significant reduction in the amount of armor constructed – on feeder bluffs and overall.~B Replacement of existing armor on feeder bluffs is more common, although it doesn’t impact the net change in the indicator.~B Armor is allowed on feeder bluffs where a serious risk to upland development can be demonstrated, but currently we do not have information to confirm whether new projects are meeting this standard.~B Removal of armor on feeder bluffs remains difficult due to concerns about erosion risks.~B Current work by the Estuaries and Salmon Restoration Program called the Beach Strategies project, is expected to provide additional basis for identifying critical bluffs for protection and restoration.",
+	"what": "Feeder bluffs are eroding coastal bluffs that deliver the sand and gravel that maintains Puget Sound’s beaches and spits and helps shape shoreline ecosystems. Armoring of these bluffs to reduce erosion has the unintended consequence of reducing this natural supply of sediment and can lead to the loss of beaches and degradation of nearshore habitat.~P Currently, it is estimated that approximately 657 miles of the shoreline in Puget Sound are backed by feeder bluffs, amounting to ~26% or Puget Sound’s shoreline.~P Comprehensive mapping of feeder bluffs has been recently completed by the Coastal Geological Services (Coastal Geologic Services, Inc. 2017a).~P The Aquatic Protection Permitting System (APPS) managed by the Washington Department of Fish and Wildlife to document and track Hydraulic Project Approval permits provides our best information about the location and nature of armor-related projects across the region. The data gleaned from APPS for year 2015 was coupled with feeder bluff (intact and armored) maps to get a sense of how much armoring activity is occurring on the shoreline in Puget Sound.",
+	"data" : {
+		"figure-1" : {
+			"title" : "FIGURE 1. STATUS OF FEEDER BLUFFS ON PUGET SOUND, EMPHASIZING REGIONAL DIFFERENCES AMONG COUNTIES",
+			"subhead" : "The datasets used to map and asssess feeder bluffs are derived from field surveys and remotely-mapped data collected between 2003 to 2016",
+			"figure-link" : "https://pspwa.box.com/s/zw800dks5f8a837254zney605awjpmhj",
+			"caption" : "",
+			"source" : "Source: Modified from Coastal Geologic Services, Inc. 2017b",
+			"description" : ""
+		}
+				
+	},
+	"more-description" : "",
+	"why-happening": "While we don’t have sufficient data to evaluate variation in recent trends, we observe that the rate of armoring generally, and on feeder bluffs specifically, is well below historic rates. This reflects a broad awareness of the impacts of armor on Puget Sound beaches and of the important role of feeder bluffs. Feeder bluffs are called out for protection in regulatory programs, applications get significant scrutiny, and a geotechnical study needs to demonstrate that there is a significant risk to an upland structure.~P Feeder bluffs are also emphasized in outreach and education efforts aimed at communities and property owners (note recent articles by the Puget Sound Institute (https://www.eopugetsound.org/terms/125) and successful programs such as Shore Friendly (http://www.shorefriendly.org/). Feeder bluffs have now been mapped throughout Puget Sound, improving understanding of their location and distribution. Restoration and acquisition programs have prioritized feeder bluffs, removing armor on numerous sites and protecting several notable feeder bluffs from future development. Research is being funded to investigate rates and mechanisms of erosion of feeder bluffs.~P New armor still occurs on feeder bluffs, and old armor is regularly replaced. Some of this may include projects that do not receive appropriate review, but it also reflects the fact that many feeder bluffs are inherently hazardous locations and geotechnical studies may have demonstrated that there is a significant risk and that no viable alternatives exist.~P For more information, please consult Shipman 2017. https://pspwa.box.com/s/bz896h6qdbu2xg0aijpwl05w5pvmh7n2",
+	"references" : "Coastal Geologic Services, Inc. 2017a. In preparation. Beach Strategies Phase 1 Summary Report — DRAFT. Identifying Target Beaches to Restore and Protect. Estuary and Salmon Restoration Program Learning Project #14-2308. 34 pp.~P Coastal Geologic Services, Inc. 2017b. Secondary Assessment of Historical Puget Sound Feeder Bluffs: Final Results Summary. Prepared for the Puget Sound Partnership. 12 pp.~P Shipman, H. 2017. Armoring on Puget Sound Feeder Bluffs: Implications for the Vital Sign. Prepared for the Puget Sound Partnership. 33 pp.",
+	"target": "Feeder bluffs receive strategic attention for removal of existing armoring and avoidance of new armoring.",
+	"interim-target": "There are no interim targets for this indicator",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "",
+	"map-link-text": "",
+   	"links": {
+			"link0": {
+				"link-name" : "Washington State Department of Fish and Wildlife Aquatic Protection Permitting System. ",
+				"link-url" : "https://www.govonlinesaas.com/WA/WDFW/Public/Client/WA_WDFW/Shared/Pages/Main/Login.aspx"
+			},
+			"link1": {
+				"link-name" : "Armoring on Puget Sound Feeder Bluffs: Implications for the Vital Sign. 2017. Prepared by H. Shipman.",
+				"link-url" : "https://pspwa.box.com/s/bz896h6qdbu2xg0aijpwl05w5pvmh7n2"
+			},
+			"link2": {
+				"link-name" : "Secondary Assessment of Historical Puget Sound Feeder Bluffs: Final Results Summary. 2017. Prepared by Coastal Geologic Services, Inc. ",
+				"link-url" : "https://pspwa.box.com/s/6jfh67l4fk78zyclrkjadvjgnxx7ft7h"
+			},
+			"link3": {
+				"link-name" : "Shore Friendly Program",
+				"link-url" : "http://www.shorefriendly.org"
+			},
+			"link4": {
+				"link-name" : "Feeder Bluff Mapping Report. 2013. Prepared by Coastal Geologic Services, Inc. ",
+				"link-url" : "https://pspwa.box.com/s/qfjf2wezzqh80wzti66x78a5ykmpdbqu"
+			},
+			"link5": {
+				"link-name" : "Washington Department of Fish and Wildlife Marine Shoreline Design Guidelines. ",
+				"link-url" : "http://wdfw.wa.gov/publications/01583/"
+			},
+			"link6": {
+				"link-name" : "Coming soon! Beach Strategies Phase 1 Summary Report. Identifying Target Beaches to Restore and Protect. Estuary and Salmon Restoration Program Learning Project #14-2308. Prepared by Coastal Geologic Services, Inc.",
+				"link-url" : ""
+			}
+		}
+	}	
+}

@@ -1,0 +1,34 @@
+﻿{
+	"vitalSign": {
+		"goal": "Vibrant Human Quality of Life",
+		"name": "Good Governance",
+		"lead": "Human Wellbeing Work Group (Subset of the Puget Sound Partnership Science Panel’s Social Science Advisory Committee)",
+		"contact": "leah.kintner@psp.wa.gov",
+		"last-updated": "September 20, 2017",
+		"what": "The Good Governance Vital Sign provides information on the health of our management process and the degree to which we are effectively engaging the Puget Sound community in the recovery effort. Measures of governance go beyond the basic functions of government to inform us about the broader formal and informal mechanisms for decision-making and policy implementation.  These measures are the adjectives describing the decision-making process.  According to the United Nations, “Good governance has eight major characteristics.  It is participatory, consensus oriented, accountable, transparent, responsive, effective and efficient, equitable, and inclusive and follows the rule of law.  It assures that corruption is minimized, accounts for the views of minorities and assures that the voices of the most vulnerable in society are heard in decision-making.  It is also responsive to the present and future needs of society.”  Engagement with local residents through the pilot projects revealed that some of the primary sources of individual stress revolve around not feeling empowered to access and make decisions about natural resources, particularly for those in rural areas.",
+		"key-messages": "Coming soon!",
+		"indicators": {
+			"indicator1_json": "in-good-governance-index.json"
+		},
+		"highlights": "highlights",
+		"highlight_photo": "image link",
+		"links": {
+			"section1": {
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
+			},
+			"section2": {
+				"category": "Background documents",
+				"link1": "<a href='https://pspwa.box.com/s/h2aanpjn7d3u9g3cw42993bvhcbvtigp'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/d2vbgz1nracbrlcoaxxglwybk1jbxnpz'>Human Wellbeing Vital Signs Technical Memorandum</a>"
+				},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "<a href='https://www.eopugetsound.org/terms/16'>Encyclopedia Of Puget Sound</a>"
+			}
+				}
+				}
+}

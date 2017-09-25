@@ -1,0 +1,41 @@
+{
+	"vitalSign": {
+		"goal": "Protected and Restored Habitat",
+		"name": "Estuaries",
+		"lead": "PSEMP Nearshore work group",
+		"contact": "tofty@u.washington.edu",
+		"last-updated": "September 20, 2017",
+		"what": "A functioning, resilient Puget Sound ecosystem is defined to include tidally-influenced wetland habitats at the estuaries of Puget Sound’s major rivers that provide ecosystem functions, goods, and services. 75% of river delta tidal wetlands have been lost or degraded in Puget Sound. River delta estuaries, a unique environment where freshwater mixes with salt water and sediments collect, provide important feeding and resting habitat for young salmon, migratory birds, and many other species that cannot find these unique benefits in any other place in our landscape. These areas are also highly valuable for people: they have been heavily developed and they provide some of the most fertile agricultural lands in the region. The estuary Vital Sign tracks protection, loss, and restoration of large and small estuaries.",
+		"key-messages": "~SL Some progress is being made for this Vital Sign, as investments in restoring estuary habitat incrementally improves habitat for salmon in large river deltas. Approximately 2,791 acres, or about 38 percent of the 2020 target, of estuarine wetlands at 28 projects in the 16 major river deltas were restored to tidal flooding between 2006 and 2016.~B Since 2014, 522 acres, or almost seven percent of the 2020 target, were restored in the Skagit (Fir Island Farms), Snohomish (Qwuloolt), and Skokomish river deltas.~B Large acreage has been gained on the Dungeness, Quilcene, Skokomish, Skagit, Nooksack, Stillaguamish, and Nisqually deltas. In particular, work in the Quilcene, Skokomish, and Nisqually has restored almost the full extent of historical tidal flows.~B Roughly 1,144 acres of restoration are anticipated over the next five years. At this rate, the indicator is not likely to reach the 2020 target.~B The number of large-scale estuary restoration projects implemented between now and 2020 will depend on a successful combination of funding, available land, politics, knowledge, project development, and permitting.~EL",
+
+		"indicators": {
+			"indicator1_json": "in-estuarine-wetlands-restored.json",
+			"indicator2_json": "in-estuary-restoration-meeting-salmon-goals.json"
+		},
+		"highlights": "highlights",
+		"highlight_photo": "image link",
+		"links": {
+			"section1": {
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSEstuaries.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSEstuaries'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>",
+				"link4": "<a href='https://pspwa.box.com/s/3wj9psa1dk140aae5k52gto6kmxpegfn'>Implementation Strategy for this Vital Sign</a>"
+			},
+			"section2": {
+				"category": "Background documents",
+				"link1": "<a href='https://pspwa.box.com/s/s2epc8b71k4qvocxbm7m57r6cz7coop0'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/9co1qv8y9022gc6iqe6e35p9hr1vidzz'>Target briefsheet</a>"
+			},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "<a href='https://nwifc.org/publications/state-of-our-watersheds'>State of our Watersheds Report by the Northwest Indian Fisheries Commission</a>",
+				"link2": "<a href='https://www.eopugetsound.org/terms/390'>Encyclopedia Of Puget Sound</a>",
+				"link3": "<a href='http://stateofsalmon.wa.gov'>State of the Salmon</a>"
+			}
+		}
+
+	}
+
+}

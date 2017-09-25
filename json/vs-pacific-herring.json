@@ -1,0 +1,38 @@
+{
+	"vitalSign": {
+		"goal": "Thriving Species and Food Webs",
+		"name": "Pacific Herring",
+		"lead": "Dayv Lowry and Phillip Dionne, Washington Department of Fish and Wildlife and Co-chairs of the PSEMP Forage Fish and Food Web Workgroup",
+		"contact": "jselleck@nrccorp.com",
+		"last-updated": "September 20, 2017",
+		"what": "Together with a few other small schooling fish species, herring play a unique role in the food web: they are an essential source of food for larger fish, seabirds, and marine mammals. They require clean water and natural shorelines, so their continued survival depends on maintaining links between nearshore and open-water habitats. This Vital Sign is an indicator of the health of forage fish (also known as bait fish) in Puget Sound, with a specific focus on Pacific herring as one of the most abundant and well-studied forage fish species.",
+		"key-messages": "~SL Despite seeing minor increases in Pacific herring spawn biomass in 2015-16 compared to the ten-year average, the current spawning biomass of all stocks is below both their respective 25-year mean reference and their 2020 target values.~B The biomass of herring in Central and Southern Puget Sound, while variable, has shown a slight negative trend over the past 40+ years. However, this decline has become more pronounced since 2012 and is being closely monitored.~B In recent years the biomass of the Quilcene Bay herring stock has substantially bolstered the overall estimate for the Other Stocks Complex. Quilcene Bay biomass is currently at an all-time high and increased 59% from 2015 to 2016.~B The Cherry Point herring stock has declined by over 95% since the earliest sampling date in 1973 and shows little sign of recovery. However, sampling in 2016-17 showed that older, larger fish are still present, which is critical for the stock’s survival.~B While no estimate of abundance is available, Northern Anchovy, another important forage fish species, was widely reported throughout Puget Sound in 2016, which may signal an increase in their local abundance.~B While herring biomass is used as an indicator of forage fish health on a Sound-wide basis, there are several forage species for which detailed abundance and distribution data are lacking, and which have substantially different life history and life cycle drivers than herring.~EL",
+
+		"indicators": {
+			"indicator1_name": "Biomass of spawning Pacific herring"
+		},
+		"highlights": "highlights",
+		"highlight_photo": "image link",
+		"links": {
+			"section1": {
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSPacificHerring.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSPacificHerring'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
+			},
+			"section2": {
+				"category": "Background documents",
+				"link1": "<a href='https://pspwa.box.com/s/oazazplkvzwwy1nkye3ob57q5k8l5n8e'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/j3k7s3q90ojf001ijnikrj7wfe5iw431'>Target brief sheet </a>"
+			},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "<a href='https://nwifc.org/publications/state-of-our-watersheds'>State of our Watersheds Report by the Northwest Indian Fisheries Commission</a>",
+				"link2": "<a href='https://www.eopugetsound.org/terms/351'>Encyclopedia Of Puget Sound</a>",
+				"link3": "<a href='http://stateofsalmon.wa.gov'>State of the Salmon</a>"
+			}
+		}
+	}
+
+}

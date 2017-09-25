@@ -1,0 +1,35 @@
+﻿{
+  "indicator": {
+    "goal": "Healthy Human Population",
+    "vitalsign": "Locally Harvestable Foods",
+    "indicator-name": "Recreational shellfish indicator TBD",
+	"indicator-link":"http://www.psp.wa.gov/vitalsigns-beta/in-recreational-shellfish.php",
+    "lead": "To be determined",
+    "contact": "",
+    "logo-link": "",
+	"last-updated": "June 30, 2017",
+	"status-icon": "NO 2020 TARGET",
+	"progress-icon": "INSUFFICIENT OR NO DATA",
+    "progress-description": "No data are currently available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
+	"what": "This indicator is currently under development. It will use existing data to provide an objective measure of the ability of Puget Sound residents to access recreational shellfish beds, based on the health of the natural resource. ",
+	"data" : {
+		
+	},
+	"more-description" : "",
+	"why-happening": "Analysis of data trends is not currently available. ",
+	"references" : "",
+	"target": "No targets are currently set for this indicator. ",
+	"interim-target": "",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "",
+	"map-link-text": "",
+   	"links": {
+			"link0": {
+				"link-name" : "",
+				"link-url" : ""
+			}
+		}
+	
+	}	
+}

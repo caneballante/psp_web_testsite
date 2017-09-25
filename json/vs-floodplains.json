@@ -1,0 +1,40 @@
+{
+	"vitalSign": {
+		"goal": "Protected and Restored Habitat",
+		"name": "Floodplains",
+		"lead": "TBD",
+		"contact": "nathalie.hamel@psp.wa.gov",
+		"last-updated": "September 20, 2017",
+		"what": "A functioning, resilient Puget Sound ecosystem is defined to include tidally-influenced wetland habitats at the estuaries of Puget Sound’s major rivers that provide ecosystem functions, goods, and services. 75% of river delta tidal wetlands have been lost or degraded in Puget Sound. River delta estuaries, a unique environment where freshwater mixes with salt water and sediments collect, provide important feeding and resting habitat for young salmon, migratory birds, and many other species that cannot find these unique benefits in any other place in our landscape. These areas are also highly valuable for people: they have been heavily developed and they provide some of the most fertile agricultural lands in the region. The estuary Vital Sign tracks protection, loss, and restoration of large and small estuaries.",
+		"key-messages": "~SL Floodplains work like giant sponges. As rains increase with fall storms and snowpack melts in the mountains in spring and early summer, waters in the rivers around Puget Sound rise and flood low-lying land along the rivers and streams. In addition to absorbing this overflow, floodplains provide functions and services like refuge, food, and fresh water for a variety of species, good agricultural land through soil and habitat formation, and flat land that supports a variety of human uses. ~B Unfortunately, the functions and services in large areas of floodplains in Puget Sound have been lost through a combination of shoreline armoring and levees, as well as residential, commercial, industrial, and agricultural development. Improving riverside and floodplain habitat is a key part of virtually all recovery plans for endangered salmon. Restoration and better management of floodplains are essential for both recovering salmon and Puget Sound.~EL",
+
+		"indicators": {
+			"indicator1_json": "in-floodplain-function.json",
+			"indicator2_json": "in-floodplain-restoration.json"
+		},
+		"highlights": "highlights",
+		"highlight_photo": "image link",
+		"links": {
+			"section1": {
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSFloodplains.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSFloodplains'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>",
+				"link4": "<a href='https://pspwa.box.com/s/x4y58p5epo6hzo347nvu4z7ujdzbb0fz'>Implementation Strategy for this Vital Sign</a>"
+			},
+			"section2": {
+				"category": "Background documents",
+				"link1": "<a href='https://pspwa.box.com/s/8pigyd2wf6gf09fwgcmrv5f11vz6l5ks'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/evhu6l3fycbfc7s54duvzxlhcjovvzaf'>Target briefsheet</a>"
+			},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "<a href='https://nwifc.org/publications/state-of-our-watersheds'>State of our Watersheds Report by the Northwest Indian Fisheries Commission</a>",
+				"link2": "<a href='https://www.eopugetsound.org/terms/350'>Encyclopedia Of Puget Sound</a>"
+			}
+		}
+
+	}
+
+}

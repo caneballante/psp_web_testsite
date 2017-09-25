@@ -1,0 +1,37 @@
+{
+	"vitalSign": {
+		"goal": "Healthy Human Population",
+		"name": "Onsite Sewage Systems",
+		"lead": "TBD",
+		"contact": "nathalie.hamel@psp.wa.gov",
+		"last-updated": "September 20, 2017",
+		"what": "This Vital Sign helps us track progress on management of onsite sewage systems (OSS) and the protection measures put in place to protect nearshore areas. OSS, commonly known as septic systems, are widely used around Puget Sound to treat sewage from properties not served by sewers. Leakage of sewage from OSS into Puget Sound water, both freshwater and marine, causes poor water quality and can lead to public health risks. ",
+		"key-messages": "~SL Onsite sewage systems, commonly known as septic systems, are widely used around Puget Sound to treat sewage from properties not served by sewers. When septic systems leak or malfunction, raw sewage can surface or move through the soil to groundwater, streams, lakes, rivers, and Puget Sound. ~B All homeowners are responsible for taking care of their systems. The twelve Puget Sound local health jurisdictions oversee management plans to help homeowners maintain their systems, and the Department of Health provides additional technical and financial support.~B In Marine Recovery Areas and other designated areas, local health jurisdictions engage more directly with homeowners to help ensure systems are inventoried, inspected, and maintained to reduce public health risks. Marine Recovery Areas, defined by state statute, are designated where septic systems are associated with the degradation of shellfish growing areas, marine waters are listed as polluted for low dissolved oxygen levels or fecal coliform, or marine waters where nitrogen has been identified as a contaminant of concern.~EL",
+		
+		"indicators": {
+			"indicator1_name": "in-onsite-sewage.json",
+			"indicator2_name": "in-percent-of-shoreline-inspection.json"
+			
+		},
+		"highlights": "highlights",
+		"highlight_photo": "image link",
+		"links": {
+			"section1": {
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSOnSiteSewage.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSOnSiteSewage'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
+			},
+			"section2": {
+				"category": "Background documents",
+				"link1": "<a href='https://pspwa.box.com/s/1p7g6pk7h8a5qdagm5iq5frw87z8c53h'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/wjqs9z3t0op8otvfogoa7r89uwsl1vio'>Technical Memorandum</a>"
+				},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "<a href='https://www.eopugetsound.org/terms/380'>Encyclopedia Of Puget Sound</a>"
+				}
+		}
+	}		
+}

@@ -1,0 +1,63 @@
+﻿{
+  "indicator": {
+    "goal": "Thriving Species and Food Web",
+    "vitalsign": "Chinook Salmon",
+    "indicator-name": "Chinook salmon population abundance",
+    "lead": "Neala Kendall and Anne Marshall",
+    "contact": "Neala.Kendall@dfw.wa.gov; Anne.Marshall@dfw.wa.gov",
+    "logo-link": "WDFW",
+	"last-updated": "September 15, 2017",
+	"status-icon": "BELOW 2020 TARGET",
+	"progress-icon": "NOT IMPROVING",
+	"progress-icon-tagline": "There was no significant change for this indicator.",	  
+    "progress-description": "There is little sign of recovery of Puget Sound Chinook populations in each biogeographic region, and most populations remain far below their recovery planning targets adopted by the National Marine Fisheries Service. On the other hand, the majority of populations have not decreased significantly in abundance when comparing the time period around listing to the last five years.~SL Estimates of spawning abundance of the 22 Puget Sound Chinook populations are not changing appreciably. Two populations declined and two increased between the most recent 5-year period (2012-2016) and the baseline reference period (1999-2003). The increases were for the Elwha (Strait of Juan de Fuca region) and Upper Sauk (Whidbey) populations and declines were for the Snoqualmie (Whidbey) and Sammamish (Central/South) populations.~B The 2016 interim targets have not been met.~B In all regions, population abundance has changed very little since the baseline reference period, and these values remain far below their recovery planning targets.~EL",
+	"what": "This indicator is Chinook salmon population abundance as measured by the number of natural origin adult fish returning to spawn.~P Chinook salmon population spawner abundance is reported here as the number of natural-origin fish returning to rivers to spawn naturally, for all populations except for the Skagit River basin. Total spawner abundance is normally estimated each year by counting the number of redds (gravel nests) in a river. Redds are counted by walking the stream and/or from boats or aircraft. In many populations, some hatchery-origin salmon are present on the spawning grounds along with natural-origin salmon, complicating the estimates of natural-origin salmon returns. The proportions of spawners that were of natural versus hatchery origin are typically estimated based on the composition of carcasses. These values are applied to the total spawning population to estimate the number of natural-origin versus hatchery-origin spawners.~P Natural-origin, naturally-spawning abundance data are not currently available in WDFW's SaSI database for the Suiattle, Cascade, Upper Sauk, Lower Sauk, Upper Skagit, and Lower Skagit populations.  However, the proportion of hatchery-origin, naturally-spawning fish in these populations is expected to have been relatively low (e.g., < 5%) consistently since 1999 based on information and estimated values in the Marblemount Hatchery Spring Chinook Hatchery and Genetic Management Plan (HGMP) and that hatchery's Summer Chinook HGMP (http://wdfw.wa.gov/hatcheries/hgmp/2012_puget_sound.html).  Thus, we chose to use the available data for total number of naturally-spawning Chinook salmon in these analyses.  We will continue to try to gather natural-origin, naturally-spawning Chinook salmon abundance data from these populations for future analyses.~P In our latest evaluation of abundance change over time, the mean (annual) abundance of spawning Chinook salmon for the 5-year period 2012 – 2016 was compared to the 5-year baseline period 1999 – 2003 (after ESA listing occurred). It should be noted that the 1999-2003 period was one of relatively favorable ocean conditions (i.e., a “cool” PDO phase) for Puget Sound Chinook salmon. If data were not available during these periods for a given population, data from the first or last years with available data were used.",
+	"data" : {
+		"figure-1" : {
+			"title" : "FIGURE 1. MEAN CHINOOK SALMON SPAWNER ABUNDANCE IN EACH POPULATION IN PUGET SOUND, SHOWN BY GEOGRAPHIC REGION",
+			"subhead" : "1999-2003 vs 2012-2016",
+			"figure-link" : "chinook-figure1.jpg",
+			"caption" : "The gray vertical lines show the recovery target ranges from National Marine Fisheries Service’s Final Supplement to the Shared Strategy's Puget Sound Recovery Plan (2006). There are no targets available for Skokomish, White, and Green rivers. The +* and -* symbols indicate that the population statistically significantly increased or declined, respectively, over the time period.",
+			"source" : "Source: Washington Department of Fish and Wildlife, SaSI database",
+			"description" : "All Puget Sound Chinook populations are currently well below abundance levels (recovery goals) needed for populations to recover and to reduce their risk of extinction (Figure 1). Spawner abundance values often fluctuates from year to year, often with no clear linear trends. To visualize the year–to-year adult abundance estimates and the data underlying our results, please consult the “Fish Abundance” compiled by the Washington Department of Fish and Wildlife and report in the State of the Salmon: http://stateofsalmon.wa.gov/puget-sound/fish-populations/.~P The National Oceanic and Atmospheric Administration’s National Marine Fisheries Service is the federal agency responsible for the recovery of ESA-listed salmonid species. They report trends as part of their status reviews every 5 years. In their latest status review, they analyze the 15-year trend over a continuous time period from 1999 to 2014 using linear regression models. This is a different analytical method than what we use for Figure 1 as their method is not currently technically feasible for us. We chose to use a more accessible and reproducible method.~P NOAA NMFS found that the natural spawner abundance of 4 Chinook salmon populations increased, 6 had no trends, and 12 decreased (statistically significant changes) over the 1999 to 2014 time period. ~P NOAA’s 2015 status review is found here: http://www.westcoast.fisheries.noaa.gov/publications/status_reviews/salmon_steelhead/2016/2016_nwfsc.pdf"
+		}
+		
+	},
+	"more-description" : "",
+	"why-happening": "",
+	"references" : "",
+	"target": "Stop the overall decline and start seeing improvements in wild Chinook abundance in two to four populations in each biogeographic region.",
+	"interim-target": "<a href='http://www.psp.wa.gov/downloads/interimtargets/Chinook%20Interim%20Targets%20-%20FINAL.pdf'>Link to interim targets</a>",
+    "interim-target-title": "TABLE 1. PROGRESS TOWARD 2016 INTERIM TARGETS",
+	"interim-target-table":"chinook-table1.jpg",
+    "map-link": "",
+	"map-link-text": "",
+   	"links": {
+			"link0": {
+				"link-name" : "WDFW's Salmonid Stock Inventory (SaSI)",
+				"link-url" : "http://wdfw.wa.gov/conservation/fisheries/sasi/"
+			},
+			"link1": {
+				"link-name" : "Results Washington Wild Chinook Salmon results",
+				"link-url" : "https://data.results.wa.gov/reports/G3-2-2-a-Puget-Sound-Chinook"
+			},
+			"link2": {
+				"link-name" : "Puget Sound Partnership's Salmon Recovery Program",
+				"link-url" : "http://www.psp.wa.gov/salmon-recovery-overview.php"
+			},
+			"link3": {
+				"link-name" : "Recreation and Conservation Office's 'State of Salmon in Watersheds Report'",
+				"link-url" : "http://stateofsalmon.wa.gov/puget-sound/regional-overview/"
+			},
+			"link4": {
+				"link-name" : "Northwest Indian Fisheries Commission 'State of Our Watersheds' Report ",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link5": {
+				"link-name" : "NOAA's Puget Sound Chinook Salmon Recovery Program",
+				"link-url" : "http://www.westcoast.fisheries.noaa.gov/protected_species/salmon_steelhead/recovery_planning_and_implementation/puget_sound/puget_sound_salmon_recovery_domain.html"
+			}
+		
+		}	
+	}
+  }

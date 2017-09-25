@@ -1,0 +1,36 @@
+{
+	"vitalSign": {
+		"goal": "Healthy Human Population",
+		"name": "Local Foods",
+		"lead": "Human Wellbeing Work Group (Subset of the Puget Sound Partnership Science Panel’s Social Science Advisory Committee)",
+		"contact": "leah.kintner@psp.wa.gov",
+		"last-updated": "September 20, 2017",
+		"what": "The Local Foods Vital Sign broadly addresses the quality and availability of Puget Sound food resources for traditional, sustenance, and recreational uses. Eating local foods provides a suite of human wellbeing benefits. High quality local foods often contain fewer or no chemical fertilizers and pesticides and tend to be higher in nutrition, thus contributing to physical health. The act of collecting, preparing and sharing such foods maintains cultural knowledge and practices and often builds social relationships. The Puget Sound region provides an abundance of locally harvestable foods, including finfish and shellfish, animals and birds, and plant-based greens, roots, nuts and fruits.",
+		"key-messages": "Key messages coming soon!",
+		"indicators": {
+			"indicator1_json": "in-locally-harvested-foods.json",
+			"indicator2_json": "in-recreational-shellfish.json"
+		},
+		"highlights": "highlights",
+		"highlight_photo": "image link",
+		"highlight_photo": "image link",
+		"links": {
+			"section1": {
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
+			},
+			"section2": {
+				"category": "Background documents",
+				"link1": "<a href='https://pspwa.box.com/s/h2aanpjn7d3u9g3cw42993bvhcbvtigp'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/d2vbgz1nracbrlcoaxxglwybk1jbxnpz'>Human Wellbeing Vital Signs Technical Memorandum</a>"
+				},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "<a href='https://www.eopugetsound.org/terms/15'>Encyclopedia Of Puget Sound</a>"
+			}
+				}
+				}
+}

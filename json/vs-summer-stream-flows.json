@@ -1,0 +1,35 @@
+{
+	"vitalSign": {
+		"goal": "Abundant Water",
+		"name": "Summer Stream Flows",
+		"lead": "PSEMP Freshwater Workgroup",
+		"contact": "leska.fore@psp.wa.gov",
+		"last-updated": "September 20, 2017",
+		"what": "Some seasonal variation is normal, but exceptionally low flows exacerbated by development that draws water away from streams in the summer can cause problems for salmon and people. This Vital Sign helps us track the effects of climate change and variability on flows and whether or not management actions intended to reduce withdrawals and increase recharge in developed areas are working to restore summer flows.",
+		"key-messages": "During 2016, of the 29 stations measured, 16 had stable or increasing summer low flows while 13 had decreasing flows.",
+		"indicators": {
+			"indicator1_json": "in-stream-summer-flow.json"
+		},
+	"links": {
+			"section1": {
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSSummerStreamFlows.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSSummerStreamFlows'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
+			},
+			"section2": {
+				"category": "Background documents",
+				"link1": "<a href='https://pspwa.box.com/s/m0ts01tk96gsqa1fwjyvhpg3568rgfhi'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/kronecso6qyl1iajmxc3mg6nkey9av1s'>Brief Sheet</a>"
+				},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "<a href='https://nwifc.org/publications/state-of-our-watersheds'>State of our Watersheds Report by the Northwest Indian Fisheries Commission</a>",
+				"link2": "<a href='https://www.eopugetsound.org/terms/47'>Encyclopedia Of Puget Sound</a>",
+				"link3": "<a href='http://stateofsalmon.wa.gov'>State of the Salmon</a>"
+			}
+		}
+	}
+
+}

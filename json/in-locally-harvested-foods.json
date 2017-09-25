@@ -1,0 +1,41 @@
+﻿{
+	"indicator": {
+		"goal": "Healthy Human Population",
+		"vitalsign": "Local Foods",
+		"indicator-name": "Locally harvestable foods",
+		"lead": "Kelly Biedenweg",
+		"contact": "kelly.biedenweg@oregonstate.edu",
+		"logo-link": "OSU",
+		"last-updated": "September 15, 2017",
+		"status-icon": "NO 2020 TARGET",
+		"progress-icon": "INSUFFICIENT OR NO DATA",
+		"progress-icon-tagline": "",
+		"progress-description": "No data are available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
+		"what": "The Local Foods Vital Sign is intended to track the perceived access to Puget Sound wild food resources for traditional, sustenance, and recreational use. These will include four specific categories of foods: fish, shellfish, mushrooms/plants, and animal meat. Data will be collected every 2 years via survey to Puget Sound residents. Results will be reported as the percentage of Puget Sound residents who perceive different levels of access either due to physical access or quality of available foods. The data will be analyzed for significant differences across demographic groups.",
+		"data" : {
+		"figure-1" : {
+			"title" : "",
+			"subhead" : "",
+			"figure-link" : "",
+			"caption" : "",
+			"source" : "",
+			"description" : "Pilot data show that more than 50% of residents like to gather or hunt wild foods. More than 90% of those who like to gather or hunt did so in the past year. Over 70% were able to harvest as much as they wanted. Over 60% of those who were not able to harvest as much as they wanted reported that personal time limitation prevented them from that harvest. We anticipate more data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years."
+		},
+		"more-description": "",
+		"why-happening": "Analysis of data trends is not currently available.",
+		"references": "",
+		"target": "No targets are currently set for this indicator. ",
+		"interim-target": "",
+		"interim-target-title": "",
+		"interim-target-table": "",
+		"map-link": "",
+		"map-link-text": "",
+		"links": {
+			"link0": {
+				"link-name": "",
+				"link-url": ""
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"vitalSign": {
+		"goal": "Vibrant Quality of Life",
+		"name": "Sense of Place",
+		"lead": "Human Wellbeing Work Group (Subset of the Puget Sound Partnership Science Panel’s Social Science Advisory Committee)",
+		"contact": "leah.kintner@psp.wa.gov",
+		"last-updated": "September 20, 2017",
+		"what": "The Sense of Place Vital Sign is a composite of two separate indices and a baseline measure of satisfaction derived from existing national survey data.  Sense of place is defined as the extent to which people identify with and feel positively attached to a specific place.  Several studies have demonstrated that not only does a strong sense of place contribute to human wellbeing, but that it can also contribute to a desire to protect the natural environment.  Sense of place is clearly linked to other human wellbeing measures, particularly cultural and psychological measures, and is thus an informative, all-encompassing measure of wellbeing. The measure of overall life satisfaction will be used as a baseline against which to assess changes in status of most of the other Human Wellbeing indicators.  ",
+		"key-messages": "Key messages coming soon!",
+
+		"indicators": {
+			"indicator1_name": "in-overall-life-satisfaction.json",
+			"indicator2_name": "in-psychological-wellbeing-index.json",
+			"indicator3_name": "in-sense-of-place-index.json"
+		},
+		"highlights": "highlights",
+		"highlight_photo": "image link",
+		"links": {
+			"section1": {
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
+			},
+			"section2": {
+				"category": "Background documents",
+				"link1": "<a href='https://pspwa.box.com/s/h2aanpjn7d3u9g3cw42993bvhcbvtigp'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/d2vbgz1nracbrlcoaxxglwybk1jbxnpz'>Human Wellbeing Vital Signs Technical Memorandum</a>"
+			},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "<a href='https://www.eopugetsound.org/terms/16'>Encyclopedia Of Puget Sound</a>"
+			}
+		}
+	}
+}

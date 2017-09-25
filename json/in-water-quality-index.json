@@ -1,0 +1,61 @@
+﻿{
+  "indicator": {
+    "goal": "Healthy Water Quality",
+    "vitalsign": "Freshwater Quality",
+    "indicator-name": "Water Quality Index",
+    "lead": "Markus Von Prause",
+    "contact": "mvon461@ecy.wa.gov",
+    "logo-link": "ECY",
+	"last-updated": "June 28, 2017",
+	"status-icon": "BELOW 2020 TARGET",
+	"progress-icon": "NOT IMPROVING",
+	"progress-icon-tagline": "There was no significant trend for this indicator",
+	 "progress-description": "Results suggest that the water quality for rivers and streams throughout Puget Sound has essentially remained unchanged for at least the past 10 years.~B The baseline is the percentage of stations (31 in total) where the average Water Quality Index scores was at or above the target value of 80 from 2007-2011 (32%).~B There has been no progress toward the 2020 target for the Water Quality Index. Only 29% of monitored stations were at or above the target value of 80, on average, from 2012 to 2016. This percentage is a few percentage points lower compared to the baseline reference established for the period 2007-2011 (32%), but the difference is not significant.",
+	"what": "This indicator is the Water Quality Index.~P Clean freshwater is vital to people and to fish and wildlife populations. When rivers and streams pick up pollutants, toxic contaminants, or excessive sediments and nutrients, the health of watersheds, marine waters, swimming beaches, and shellfish beds are adversely affected.~P The Water Quality Index for rivers and streams combines eight measures of water quality. Four of the component measures (dissolved oxygen, pH, temperature, and fecal coliform bacteria) are tied to the State’s Water Quality Standards for protecting aquatic life and contact recreation. The other four measures (nitrogen, phosphorus, suspended sediment, and turbidity) do not have numeric standards, although they are related to general ecosystem function. A higher number is indicative of better water quality.~P Index values are based on monthly monitoring at individual stations. The index values range from 1 to 100; a higher number is indicative of better water quality. However, a particular station may receive a good Water Quality Index score, and yet have water quality impaired by parameters not included in the index. Similarly, some locations may have poor Water Quality Index scores based on measures that do not have Water Quality Standards.~P In general, stations scoring 80 and above meet expectations for water quality according to Washington State Standards for surface water quality (Chapter 173-201A WAC), scores 40 to 80 indicate water quality is marginal, and water quality at stations with scores below 40 do not meet expectations. For measures without established criteria, a score of 80 indicates conditions were better than 20 percent of results collected during an historical benchmark period.~P The Washington State Department of Ecology, King County, and other jurisdictions monitor 31 long-term monitoring stations across Puget Sound watersheds, down from 55 due to budget cuts. These stations are located all along rivers and streams, from the mouth of the rivers to further upstream toward the headwaters. The Puget Sound Partnership’s target data come from these 31 stations. Of the original 55 long-term monitoring stations, 14 are located near the mouth of major rivers. They are used as useful measures that integrate water conditions in the upper watershed.",
+	"data" : {
+		"figure-1" : {
+			"title" : "TABLE 1. WATER QUALITY INDEX",
+			"subhead" : "2000-2016",
+			"figure-link" : "wqi-figure1.jpg",
+			"caption" : "Annual Water Quality Index scores for monitoring stations near the mouth of 14 major rivers. Scores are calculated for each water year from October 1st to September 30th. Higher numbers indicate better water quality.",
+			"source" : "Statewide Water Quality Monitoring Network, Washington State Department of Ecology; Stream and River Water Quality Monitoring, King County.",
+			"description" : "Freshwater quality index scores for major rivers in Puget Sound are in the mid-70s and show a slight improving trend in WQI scores of > 0.32 units per year (p<0.05) since 1996. Variability in WQI scores have also decreased since 1996 at a rate of > 5.0 units per year (p<0.01).~P In addition to some improvements in the overall mean annual scores since 1996 for major rivers in Puget Sound, fecal coliform bacteria ( .21 units  per year )and total nitrogen index scores (.31 units per year) also improved (p<0.05).  Furthermore, there are some slight reductions in mean annual stream temperature and total suspended sediment concentration on a few systems. However, Puget Sound-wide trends in index scores for other measures were not significant.~P In terms of classifying overall water quality on individual Puget Sound stream systems, two river systems show some improving trends that are significant. However, due to the slow rate of improvements in overall Puget Sound water quality trends, the Partnership’s recovery target is not likely to be reached by 2020."
+		},
+		"figure-2" : {
+			"title" : "FIGURE 2. AVERAGE ANNUAL WATER QUALITY INDEX SCORES FOR 14 LONG-TERM PUGET SOUND SITE",
+			"subhead" : "1996-2016",
+			"figure-link" : "wqi-figure2.jpg",
+			"caption" : "Bars show average Water Quality Index scores. Site interannual variation is indicated by the error bars. Trend in overall Water Quality Index scores is indicated by the black solid line. Values below 40 (red dotted line) have poor water quality. Values at or above 80 (blue dotted line) have good water quality and meet expectations.",
+			"source" : "Statewide Water Quality Monitoring Network, Washington Department of Ecology; Stream and River Water Quality Monitoring, King County.",
+			"description" : "In the longer-term, results from the trend analysis of 14 major rivers at their most downstream sites since 1996 suggest that there has been very little change in water quality at the vast majority of sites.~P The earliest projection for meeting the target value for these 14 rivers would be 2025. When adjusted for differences in seasonal flows, the trend is much slower: average flow-adjusted scores of 80 are projected for 2060. Flow-adjusting accounts for the effect of flow on the parameters underlying the index.~P Our projection to and beyond 2020 is a best guess. Predictions are difficult due to fluctuations in drivers like the rate of population growth, global warming, and effectiveness of management activities, as well as possible long-term cycles not visible in the current 15-year dataset. For example, management tends to address the easier and more egregious problems first. As those problems get fixed, remaining problems become more difficult to correct with less effect on the water body for a given level of effort. Consequently, the rate of improvement in the index could be less, perhaps much less, than predicted by simply extending current trends."
+		}
+	},
+	"more-description" : "",
+	"why-happening": "In addition to some improvements in the overall score since 1995 for major rivers in Puget Sound, fecal coliform bacteria and total nitrogen index scores also improved (p<0.05). Furthermore, there are some slight reductions in mean annual stream temperature and total suspended sediment concentration on a few systems. However, Puget Sound-wide trends for other measures were not significant. ",
+	"references" : "",
+	"target": "At least half of all monitored stations should score 80 or above on the Water Quality Index.",
+	"interim-target": "Interim targets have not been set for these indicators ",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "",
+	"map-link-text": "",
+  	"links": {
+			"link0": {
+				"link-name" : "Washington State Department of Ecology River and Stream Water Quality Index",
+				"link-url" : "http://www.ecy.wa.gov/programs/eap/fw_riv/docs/WQIOverview.html"
+			},
+			"link1": {
+			"link-name" : "Washington State Department of Ecology Freshwater Quality Monitoring Methods",
+				"link-url" : "http://www.ecy.wa.gov/programs/eap/fw_riv/methods.html"
+			},
+			"link2": {
+				"link-name" : "Coordinated Tribal Water Quality Program",
+				"link-url" : "https://nwifc.org/about-us/habitat/coordinated-tribal-water-quality-program"
+			},
+			"link3": {
+				"link-name" : "I am a link4",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			}
+		}
+	}	
+}

@@ -1,0 +1,36 @@
+{
+	"vitalSign": {
+		"goal": "Vibrant Quality of Life",
+		"name": "Sound Stewarship",
+		"lead": "Human Wellbeing Work Group (Subset of the Puget Sound Partnership Science Panel’s Social Science Advisory Committee)",
+		"contact": "leah.kintner@psp.wa.gov",
+		"last-updated": "September 20, 2017",
+		"what": "The Sound Stewardship Vital Sign tells us 1) about the effectiveness of our management actions related to human behaviors that can affect the health of Puget Sound and 2) the degree to which engagement in stewardship contributes to people’s wellbeing. The myriad problems Puget Sound faces all have one common denominator: human practices and behaviors. Many common day-to-day household behaviors seem benign on their own, but when multiplied by 4.5 million residents their cumulative effect can significantly harm environmental health. Small behavioral changes, on the part of individuals, can negate those impacts. Likewise, when people participate collectively in actions to improve environmental health, their actions can be equally significant. Although people pose the greatest threats to the natural environment of Puget Sound, engagement of citizens in protection and restoration efforts offers the greatest opportunities for recovering Puget Sound.",
+		"key-messages": "Key messages coming soon!",
+
+		"indicators": {
+			"indicator1_json": "in-engagement-in-stewardship-activities.json",
+			"indicator2_json": "in-sound-behavior.json"
+		},
+		"highlights": "highlights",
+		"highlight_photo": "image link",
+		"links": {
+			"section1": {
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
+			},
+			"section2": {
+				"category": "Background documents",
+				"link1": "<a href='https://pspwa.box.com/s/h2aanpjn7d3u9g3cw42993bvhcbvtigp'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/d2vbgz1nracbrlcoaxxglwybk1jbxnpz'>Human Wellbeing Vital Signs Technical Memorandum</a>"
+			},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "<a href='https://www.eopugetsound.org/search/site/stewardship'>Encyclopedia Of Puget Sound</a>"
+			}
+		}
+	}
+}

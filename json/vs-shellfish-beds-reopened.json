@@ -1,0 +1,35 @@
+{
+	"vitalSign": {
+		"goal": "Healthy Human Population",
+		"name": "Shellfish",
+		"lead": "TBD",
+		"contact": "nathalie.hamel@psp.wa.gov",
+		"last-updated": "September 20, 2017",
+		"what": "This Vital Sign tells us about the status of harvestable shellfish beds. The closure or reopening of a shellfish bed depends on water quality. The Puget Sound nearshore is home to an amazing abundance of oysters, clams, mussels, and other shellfish that provide opportunities for recreational shellfish harvest and form the basis for a multi-million dollar industry that supports thousands of jobs. However, shoreline pollution sources, including wastewater treatment plants, individual on-site sewage systems, marinas, farms, and other activities can negatively impact the shellfish areas and lead to human health risks. ",
+		"key-messages": "Key messages coming soon!",
+		"indicators": {
+			"indicator1_json": "in-acres-harvestable-shellfish.json"
+		},
+		"highlights": "highlights",
+		"highlight_photo": "image link",
+		"links": {
+			"section1": {
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSShellfishBeds.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSShellfishBeds'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>",
+				"link4": "<a href='https://https://pspwa.box.com/s/1re990d2v8hzq553bjkh2nfyjkm8xulz'>Implementation Strategy for this Vital Sign</a>"
+			},
+			"section2": {
+				"category": "Background documents",
+				"link1": "<a href='https://pspwa.box.com/s/pvw1b9qs8h3nvktpd4e69o9n37x2sfks'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/lnvfm2fkf4xv0mc1hwp1ozfyo4yynjot'>Brief Sheet</a>"
+			},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "<a href='https://www.eopugetsound.org/terms/356'>Encyclopedia Of Puget Sound</a>"
+			}
+		}
+	}
+}

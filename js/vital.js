@@ -66,10 +66,16 @@ $(document).ready(function () {
 			//contact
 			var vsContact = ('<p>' + dataVS['vitalSign']['contact'] + '</p>');
 			$('#show-contact').html(vsContact);
+			
+			//last updated
+			var vsLastUpdated = ('<p>' + dataVS['vitalSign']['last-updated'] + '</p>');
+			$('#show-vs-last-updated').html(vsLastUpdated);
 
 			//what
 			var vsWhat = ('<p>' + dataVS['vitalSign']['what'] + '</p>');
-			$('#show-what').html(vsWhat);
+			var vsWhatBullit = bulletMaker(vsWhat);
+			var vsWhatBullitHtml = paragraphMaker(vsWhatBullit);
+			$('#show-what').html(vsWhatBullitHtml);
 
 			//assessment
 			var vsKeyMessages = (dataVS['vitalSign']['key-messages']);
@@ -90,7 +96,7 @@ $(document).ready(function () {
 					var vsINName= (dataIN['indicator']['indicator-name']);
 					var vsINProgress= (dataIN['indicator']['progress-icon']);
 					var vsINStatus= (dataIN['indicator']['status-icon']);
-					var allIndicators = '<p> <strong>Indicator name:</strong> ' + vsINName + ' <strong>Status:</strong> ' + vsINStatus + ' <strong>Progress: </strong>' + vsINProgress + '</p>'
+					var allIndicators = '<p> <strong>Indicator name:</strong> ' + vsINName + ' <strong>Status:</strong> ' + vsINStatus + ' <strong>Progress: </strong>' + vsINProgress + '</p>';
 					$('#show-indicators').append(allIndicators);
 				});			
 			});
@@ -106,13 +112,21 @@ $(document).ready(function () {
 		//	$('#show-highlight-photo').html(vsHighlightPhoto);
 
 			//links
-			$.each((dataVS['vitalSign']['links']), function(i, linkSet) {
-					var vsLinkURL = (linkSet['link-name']);
-					var vsLinkName = (linkSet['link-url']);
-				//	var vslinkShow  = '<a href=' + vsLinkURL + '>' + vsLinkName '</a>';
-					var vslinkShow  = '<p><a href=">' + vsLinkURL + '">' + vsLinkName + '</a></p>';
-					$('#show-links').append(vslinkShow);
-				});
+			$.each((dataVS['vitalSign']['links']['section1']), function(i, thelink) {
+				//	var vsLinkURL = (linkSet['link-name']);
+					var vslinkShow  = '<p>' + thelink + '<p>';
+					$('#show-links-sec1').append(vslinkShow);
+			});
+				$.each((dataVS['vitalSign']['links']['section2']), function(i, thelink) {
+				//	var vsLinkURL = (linkSet['link-name']);
+					var vslinkShow  = '<p>' + thelink + '<p>';
+					$('#show-links-sec2').append(vslinkShow);
+			});
+				$.each((dataVS['vitalSign']['links']['section3']), function(i, thelink) {
+				//	var vsLinkURL = (linkSet['link-name']);
+					var vslinkShow  = '<p>' + thelink + '<p>';
+					$('#show-links-sec3').append(vslinkShow);
+			});
 
 		};
 	

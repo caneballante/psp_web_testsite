@@ -1,0 +1,62 @@
+﻿{
+	"indicator": {
+		"goal": "Vibrant Quality of Life",
+		"vitalsign": "Economic Vitality",
+		"indicator-name": "Natural resource industry output (gross domestic product, GDP)",
+		"lead": "Katherine Wellman",
+		"contact": "katharine.wellman@norecon.com",
+		"logo-link": "NorthernEconomics",
+		"last-updated": "June 23, 2017",
+		"status-icon": "NO 2020 TARGET",
+		"progress-icon": "MIXED RESULTS",
+		"progress-icon-tagline": "",
+		"progress-description": "~SL Shellfish aquaculture and fishing production or landed values declined between 2012 and 2014.  Agriculture production values have remained stable while timber values have increased over the same time period. Tourism and recreation has shown significant increases in Gross Domestic Product between 2012 and 2014.~B Combined product value, or prices paid to producers for unprocessed timber, fish, shellfish, produce and livestock, provided an annual average of $1.6 billion from 2005 to 2014. However, trends are mixed.~B The value of both shellfish aquaculture and fish production trended upward overall between 2005 and 2014, but showed some weakness in recent years. ~B Timber production values show a sharp downward swing between 2007 and 2010 with a recovery in  in more recent years.~B With the exception of a decline from 2005 to 2007, the value of agricultural product has remained relatively flat.~B Gross Domestic Product (GDP) from Puget Sound-related tourism and recreation activities (FIGURE 4) has shown a significant upward trend since 2009 reaching an estimated $3.7 billion in 2014.~EL",
+		"what": "This indicator tracks the output of Puget Sound’s natural resource industries, such as fishing, shellfish aquaculture, agriculture, timber, and tourism and recreation.~P The data collected will help us understand the viability of natural resource industries in the Puget Sound region over time. A precipitous decline in output for these industries may indicate displacement of opportunities for employment in these sectors, a removal of wage earners from the natural environment, and negative impacts to those for whom these industries contribute to or determine a sense of place.",
+		"data": {
+			"figure-1": {
+				"title": "FIGURE 1. COMBINED RESOURCE PRODUCT VALUE",
+				"subhead": "2005-2014",
+				"figure-link": "natural-resource-output-figure1.jpg",
+				"caption": "Industries include aquaculture, timber, fishing and agriculture. Values are in 2016 constant dollars.",
+				"source": "Sources: Pacific Fisheries Information Network (PacFIN), Washington State Department of Revenue (WADOR), US Department of Agriculture (USDA).",
+				"description": ""
+			},
+			"figure-2": {
+				"title": "FIGURE 2. RESOURCE PRODUCT VALUE BY INDUSTRY",
+				"subhead": "2005-2014",
+				"figure-link": "natural-resource-output-figure2.jpg",
+				"caption": "Values are in 2016 constant dollars.",
+				"source": "Sources: Pacific Fisheries Information Network (PacFIN), Washington State Department of Revenue (WADOR), US Department of Agriculture (USDA).",
+				"description": "<strong>Notes about the methods and the data:</strong>~P The annual value of timber is derived from the Washington State Department of Revenue (WADOR) forest excise tax distributions. The 5% WADOR tax is assessed on the stumpage value at the time of harvest, and captures activity on state, federal, and private lands. The value of agricultural products is reported by the U.S. Department of Agriculture (USDA) census of agriculture every five years. FIGURE 2 provides a trend between 1992, 2007 and 2012. <strong>Agriculture includes crop and livestock sales.</strong>~P  The geographical scope of the Puget Sound Partnership includes all counties adjoining the Puget Sound basin. The outer coast of the state is not included. To restrict annual timber and agricultural value estimates appropriately, WADNR forest practice and WSDA agricultural land use maps were intersected with county and Puget Sound Partnership boundaries. The percentage of timber or agricultural land use that fell within the Puget Sound Area was used to draw a proportion of total county sales.~P The value of fishing and aquaculture products is provided through Pacific Fisheries Information Network or PacFIN. PacFIN data reported here is the “ex-vessel” value received by fisherman for fish and shellfish caught in the Puget Sound catch areas (Figure 4), and landed in Puget Sound counties. Because of sensitivity in data reporting, fish and shellfish value includes both tribal and non-tribal fishing activity. <strong>Aquaculture value consists of farmed shellfish, while fishing value includes wild caught shellfish including crab and shrimp, as well as finfish.</strong>"
+			},
+			"figure-3": {
+				"title": "FIGURE 3. ESTIMATED GDP OF RECREATION AND TOURISM",
+				"subhead": "2005-2014",
+				"figure-link": "natural-resource-output-figure3.jpg",
+				"caption": "Values are in 2016 constant dollars. Industries include boat dealers, restaurants, hotels and lodging, marinas, RV parks and campsites, water tours, sporting goods, recreational services, zoos, and aquariums. Lewis and Thurston Counties are not included in the data because Lewis is not adjacent to the Puget Sound, and coastal activity in Thurston cannot be confidently attributed to the Puget Sound vs. the professional and political activity at the state’s capital.",
+				"source": "Sources: National Oceanic and Atmospheric Administration (NOAA), using BLS data. ",
+				"description": "Figure 3 shows estimated recreation and tourism GDP for coastal zip codes in the Puget Sound Management Area. With the exception of 2008 to 2010, estimated recreation and tourism GDP in Puget Sound-adjacent zip codes have shown strong overall growth, averaging $3.2 billion annually from 2005 to 2014, and  $3.6 billion in 2014.~P <strong>Notes about the data:</strong>~P Coastal recreation and tourism is made up of many sectors including boat dealers, restaurants, hotels and lodging, marinas, RV parks and campsites, water tours, sporting goods, recreational services, zoos, and aquaria. Many of these subsectors provide services whose production value cannot be measured as precisely at the local level as a single commodity like timber or fish.~P GDP, a measure of all goods and services associated within an industry, was estimated for coastal tourism at the zip code level by NOAA Office for Coastal Management’s Economics: National Ocean Watch program (ENOW) using ratios of state level sector GDP, state level sector wages, and zip code level sector wages.~P Recreation and tourism GDP in Jefferson and Clallam counties accounted for $148 million on average annually from 2005 to 2014. However, those counties are not included in the figures above because their recreational activity cannot be accurately divided between the Puget Sound and Pacific coast.  Additionally, GDP in Thurston County is not estimated by ENOW because the portion of coastal tourism and recreation that can be attributed to the Puget Sound versus the professional and political activity at the state’s capital is unclear. For these reasons, recreation and tourism estimates above should be considered conservative."
+			}
+
+		},
+		"more-description": "",
+		"why-happening": "~SL Recent declines in shellfish aquaculture production value can be mainly attributed to the 2013 ban from China on Puget Sound geoduck imports. ~B The downward swing in timber production value may not only be due to the great recession and decline in housing starts but to the amount of land in timber production, growth and mortality, management costs including taxes and regulatory compliance, perceived risks due to markets and regulation, strength of domestic and international markets for forest products, and varying management objectives of very diverse types of timber ownership. These factors may also be in part what are driving increases in production value since 2010.~B Decline in employment in commercial fishing also confirms the decrease in production values since 2011. There is some suggestion that the decline in production values is due in part to drought and low runs during those years. ~B Increases in tourism and recreational GDP may be a result of increased consumer demand for farm to table destination dining, cruises ship and tribal casinos, increased outdoor recreation access (kayaking, stand up paddle boarding, etc.), and development of tourism infrastructure such as hotels and VRBO accommodations. Some part of this increased demand suggest that there is a consumer willingness to pay for the nonmarket attributes of the Puget Sound ecosystem such as recreation, aesthetics, and culture.~EL",
+		"references": "",
+		"target": "No targets are currently set for this indicator. ",
+		"interim-target": "",
+		"interim-target-title": "",
+		"interim-target-table": "",
+		"map-link": "https://pspwa.box.com/s/mc9aac23k6cryimm0td27j5q5acd1agk",
+		"map-link-text": "FIGURE 4. FISH AND SHELLFISH REPORTING AREAS",
+		"links": {
+			"link0": {
+				"link-name": "Economic Impact of Shellfish Aquaculture in Washington, Oregon, and California",
+				"link-url": "http://www.pacshell.org/pdf/Economic_Impact_of_Shellfish_Aquaculture_2013.pdf"
+			},
+			"link1": {
+				"link-name": "Economic analysis of outdoor recreation",
+				"link-url": "http://www.rco.wa.gov/documents/ORTF/EconomicAnalysisOutdoorRec.pdf"
+			}
+		}
+	}
+}

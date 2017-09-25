@@ -1,0 +1,34 @@
+{
+	"vitalSign": {
+		"goal": "Healthy human population",
+		"name": "Drinking Water",
+		"lead": "TBD",
+		"contact": "TBD",
+		"last-updated": "September 20, 2017",
+		"what": "The Drinking Water Vital Sign addresses the quality of all drinking water systems, including large and small public and private drinking water systems. Access to safe drinking water is a critical determinant of human wellbeing.  In urban areas, cities provide treated drinking water to Puget Sound residents.  In more rural areas, small public water systems and wells are harder to track, but can be threatened by ground and surface water infiltration; the use of pesticides, herbicides and fertilizers; and issues with water storage and distribution systems. ",
+		"key-messages": "Key messages coming soon!",
+		"indicators": {
+			"indicator1_json": "in-tobedetermined.json"
+		},
+		"highlights": "none",
+		"highlight_photo": "none",
+		"links": {
+			"section1": {
+				"category": "Actions, projects and effectiveness",
+				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
+				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas'>Restoration and protection projects related to this Vital Sign</a>",
+				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
+			},
+			"section2": {
+				"category": "Background documents",
+				"link1": "<a href='https://pspwa.box.com/s/h2aanpjn7d3u9g3cw42993bvhcbvtigp'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
+				"sub-category1": "Technical reports (PDF)",
+				"link2": "<a href='https://pspwa.box.com/s/d2vbgz1nracbrlcoaxxglwybk1jbxnpz'>Human Wellbeing Vital Signs Technical Memorandum</a>"
+				},
+			"section3": {
+				"category": "Other Resources",
+				"link1": "<a href='https://www.eopugetsound.org/terms/15'>Encyclopedia Of Puget Sound</a>"
+			}
+				}
+				}
+}

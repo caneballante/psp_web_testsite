@@ -1,0 +1,52 @@
+﻿{
+  "indicator": {
+    "goal": "Thriving Species and Food Web",
+    "vitalsign": "Pacific Herring",
+    "indicator-name": "Biomass of spawning Pacific herring",
+    "lead": "Phillip Dionne and Todd Sandell",
+    "contact": "Phillip.Dionne@dfw.wa.gov; Todd.Sandell@dfw.wa.gov",
+    "logo-link": "WDFW",
+	"last-updated": "June 27, 2017",
+	"status-icon": "BELOW 2020 TARGET",
+	"progress-icon": "GETTING WORSE",
+	"progress-icon-tagline": "No, this indicator lost ground relative to a baseline reference.",	  
+    "progress-description": "Despite seeing minor increases in overall spawn biomass compared to the ten year average in 2015-16, none of the 2020 target values for individual Pacific herring stocks or groups of stocks are met. Overall, the current spawning biomass of all stocks is below both their respective 25-year mean reference and their 2020 target values.~P The Cherry Point herring stock in North Puget Sound, once the largest stock in the Sound, has declined by over 90 percent since the earliest sampling date in 1973 and shows little sign of recovery.~P The Squaxin Pass and other combined Puget Sound stocks do not exhibit the sharp decline seen in the Cherry Point stock. Although these stocks show broad annual fluctuations, they are relatively closer to their 2020 target values than the Cherry Point stock. In fact, in some years, these stocks have gone above their target values. ~P Predicting the future condition of herring spawning biomass is difficult. Owing simply to natural fluctuations in abundance as a consequence of oceanographic and climatic parameters, the Squaxin and other Puget Sound stocks in Central and South Puget Sound may reach their respective target values again over the next five years. However, there is no evidence to suggest that herring spawning biomass at Cherry Point will increase in the near future and reach its target value by 2020, or that the biomass of all other stocks will be sustained at or above their target values. Although potential threats have been identified, there is no consensus on which threats limit the stocks or how best to manage these stocks to achieve the 2020 target.",
+	"what": "This indicator is the biomass of spawning Pacific Herring.~P The spawning biomass of Pacific herring is the estimated annual tonnage of spawning herring in Puget Sound. Based on former genetic studies that have identified three separate groupings of Puget Sound herring stocks (see map in the maps section), the Partnership has established three separate targets for Cherry Point, Squaxin Pass, and all other stocks combined. ~P Herring spawning biomass is currently based on spawn deposition surveys conducted by the Washington State Department of Fish and Wildlife to estimate the quantity of eggs deposited by herring on marine vegetation. Egg abundance is then converted to the estimated biomass of spawning herring, making assumptions about sex ratios in spawning aggregations, average female fecundity, and the area of the spawning grounds. As measured, the indicator only reflects the status of reproductive fish rather than the status of the entire population because younger, immature age classes do not spawn.~P Estimates of spawning biomass have been attempted for all known Puget Sound herring stocks by the Department of Fish and Wildlife annually since 1996, and for Cherry Point herring since the early 1970s. The baseline references, the 25-year mean biomass for each stock (1987 – 2011), are intended to provide perspective for the current status of each stock (the two-year mean of 2013 and 2014) and the targets. It should be noted that the baseline reference, evaluation of current stock status reported here, and the targets are not based on a conventional fishery stock assessment, which takes into account growth, maturity, fecundity and mortalities.",
+	"data" : {
+		"figure-1" : {
+			"title" : "FIGURE 1. SPAWNING BIOMASS OF PACIFIC HERRING STOCKS IN PUGET SOUND",
+			"subhead" : "1973 – 2016",
+			"figure-link" : "pacific-herring-figure1.jpg",
+			"caption" : "Annual spawner abundance estimates for each stock are shown with solid lines; each color corresponds to a different stock. The dotted lines represent the 25-year mean from 1986 to 2010 for the corresponding stock. The 2020 target is shown with a dot for each stock.",
+			"source" : "Source: Washington Department of Fish & Wildlife, Marine Fish Program",
+			"description" : "The biomass of herring in Central and Southern Puget Sound, while variable, has shown only a slight negative trend over the past 40+ years. The Puget Sound herring data are characterized by broad year-to-year fluctuations, which is typical of Pacific herring and other forage fish populations, and likely reflects natural environmental and demographic variability.~P Indeed, in Puget Sound, the bulk of the biomass of the “all other stocks” grouping is contributed by different stocks in different years, further implicating the role of site-specific variability.  In recent years the biomass of the Quilcene Bay stock has substantially bolstered the overall estimate for the other stocks complex. Quilcene Bay biomass is currently at an all-time high (more than double its ten year average) and, along with the two other Hood canal populations, made up over half of the spawn biomass for Puget Sound as a whole in 2016."
+		}
+		
+	},
+	"more-description" : "",
+	"why-happening": "The exact causes of the Cherry Point herring decline are unknown, but it has been variously attributed to many potential factors such as chronic pollution (e.g., PCB and PAH contaminants), oil spills, overfishing, parasites, disease, and changes in abundance of predators or prey. Changes to the natural shoreline, including nearby industrial construction and operation, may also play a role. Finally, the extent to which food-web interactions may limit herring populations, and how such interactions are mediated by the effects of climate change, are not well understood. Further studies are needed to elucidate the effect of these possible pressures.~P Several factors contribute to difficulties in understanding Cherry Point herring stock declines and in the trends of other herring stocks, including survey methods and exploitation rate analysis.~P Since 1973 at Cherry Point and 1986 for the rest of the stocks, the Department of Fish & Wildlife conducted a combination of Spawn Deposition surveys and Acoustic-Trawl surveys to estimate herring spawning biomass. Until 1996, the spawning biomass of the larger Puget Sound stocks typically was assessed by both methods each year, while the smaller stocks were surveyed by spawn deposition surveys every three years. Since 1996, duplicate assessment coverage was reduced and assessment for all known herring stocks was attempted each year by at least one survey method. Acoustic-Trawl surveys were discontinued in 2009 due to budget reductions, but spawn deposition surveys have been conducted annually for each stock since that time.~P In addition to spawning biomass, biological samples used to estimate growth, mortality, and recruitment were obtained from the Acoustic-Trawl surveys. These data, which are not currently being collected, are useful for assessing the stocks’ population dynamics and capacity to meet the targets, and to understand the mechanisms driving these trends. ~P For example, for the Cherry Point and most other Puget Sound stocks, there has been a shift in the age structure of the population since the late 1970s and early 1980s toward younger fish, which probably affected their productivity and slowed recovery. ~P As mentioned above, not all spawning grounds/stocks have been surveyed every year, especially in the 70s and 80s. To complete the time series depicted in Figure 1, data gaps were filled in with the long-term average for the stocks with missing data. Given the importance of this indicator to the recovery of the Sound, monitoring methods and analysis should be reviewed and improved to more completely and accurately report status and trends.~P Commercial exploitation of Puget Sound herring is limited to a bait fishery, which is allowed to take up to 10% of the cumulative Puget Sound spawning biomass of Central and South Puget Sound stocks. These fisheries do not occur on the spawning grounds and target immature fish deriving from various stocks.  Landings in the past 10 years have ranged from 3% to 5% of this total and are not expected to increase significantly in the near future. This is a conservative exploitation rate, compared to a typical global exploitation rate of 20%. Although a 10% exploitation rate is precautionary, a more rigorous analysis of an appropriate exploitation rate, that accounts for current population dynamics (including age composition) and ecosystem needs (e.g., the extent of predator dependency on forage fish), is desirable to ensure sustainability of the Puget Sound herring population at large.",
+	"references" : "",
+	"target": "Increase the overall amount of spawning herring throughout Puget Sound to 19,380 tons. For each stock, the targets are: ~B Cherry Point: 5000 tons~B Squaxin Pass: 880 tons~B All other stocks: 13,500 tons.",
+	"interim-target": "Interim targets have not been set yet.",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "https://pspwa.box.com/s/hbwwmy6qzcnv7u1fr23b3rcg2qs0eu51",
+	"map-link-text": "FIGURE 2. DISTRIBUTION OF PACIFIC HERRING SPAWNING GROUNDS IN PUGET SOUND (2016)",
+	"map-link2": "http://wdfw.maps.arcgis.com/home/webmap/viewer.html?webmap=19b8f74e2d41470cbd80b1af8dedd6b3&extent",
+	"map-link2-text": "Washington State Department of Fish and Wildlife Forage Fish Spawning Map (Interactive)",
+   	"links": {
+			"link0": {
+				"link-name" : "Washington State Department of Fish and Wildlife Pacific Herring Population",
+				"link-url" : "http://wdfw.wa.gov/conservation/research/projects/marine_fish_monitoring/herring_population_assessment/"
+			},
+			"link1": {
+				"link-name" : "National Oceanic and Atmospheric Administration (NOAA) – Status Review of Pacific Herring in Puget Sound",
+				"link-url" : "https://www.nwfsc.noaa.gov/publications/scipubs/techmemos/tm45/tm45.htm"
+			},
+			"link2": {
+				"link-name" : "United State Geological Survey (USGS) Puget Sound Forage Fish3",
+				"link-url" : "https://wfrc.usgs.gov/fieldstations/marrowstone/ps_forage.html"
+			}
+		}
+	}	
+}

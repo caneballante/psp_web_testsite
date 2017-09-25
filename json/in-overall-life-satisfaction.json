@@ -1,0 +1,41 @@
+﻿{
+  "indicator": {
+    "goal": "Vibrant Quality of Life",
+    "vitalsign": "Sense of Place",
+    "indicator-name": "Overall life satisfaction",
+    "lead": "Kelly Biedenweg",
+    "contact": "kelly.biedenweg@oregonstate.edu",
+    "logo-link": "OSU",
+	"last-updated": "September 15, 2017",
+	"status-icon": "NO 2020 TARGET",
+	"progress-icon": "INSUFFICIENT OR NO DATA",
+	"progress-icon-tagline": "",	  
+    "progress-description": "",
+	"what": "This indicator will be used as a baseline from which to assess changes in status for most of the other human wellbeing Vital Sign indicators. The overall life satisfaction indicator will also enable better understanding of how trends in environmental health or recovery efforts are affecting overall human wellbeing. ~PWe have just begun collecting data for this indicator. Further data will be collected every 2 years via a survey of Puget Sound residents. Results will be reported as percent of Puget Sound residents that perceive different levels of life satisfaction. The data will be analyzed for significant differences across demographic groups.",
+	"data" : {
+		"figure-1" : {
+			"title" : "",
+			"subhead" : "",
+			"figure-link" : "",
+			"caption" : "",
+			"source" : "",
+			"description" : "Pilot data show that over 70% of Puget Sound residents are somewhat or extremely satisfied with their lives and all adopted Vital Signs have been shown to predict this life satisfaction.  Independent of their gender, economic status, or geographic location, the happiness of Puget Sound residents depends on their ability to interact with the natural environment and a management process that is perceived as just.  We anticipate more data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years."
+		},
+	"more-description" : "",
+	"why-happening": "",
+	"references" : "",
+	"target": "",
+	"interim-target": "",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "",
+	"map-link-text": "",
+   	"links": {
+			"link0": {
+				"link-name" : "",
+				"link-url" : ""
+				}
+			}
+		}
+	}	
+}

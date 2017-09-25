@@ -1,0 +1,41 @@
+﻿{
+  "indicator": {
+    "goal": "Vibrant Quality of Life",
+    "vitalsign": "Sense of Place",
+    "indicator-name": "Sense of Place Index",
+    "lead": "Kelly Biedenweg",
+    "contact": "kelly.biedenweg@oregonstate.edu",
+    "logo-link": "OSU",
+	"last-updated": "September 15, 2017",
+	"status-icon": "NO 2020 TARGET",
+	"progress-icon": "INSUFFICIENT OR NO DATA",
+	"progress-icon-tagline": "",	  
+    "progress-description": "No data are available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years.",
+	"what": "The Sense of Place Index will inform us about peoples’ emotional connection to Puget Sound. Understanding trends and variations in sense of place allows us to evaluate the human effects of restoration strategies. It also informs communication and marketing campaigns, opportunities for public engagement in restoration activities, and overall predictors of engaging in the Puget Sound natural environment. The Sense of Place Index is made up of three separate indicators. An index is appropriate because each indicator metric is related, but is a unique aspect of the concept. ~B Positive connections: Percent of residents who express a positive connection to the region ~B Sense of stewardship: Percent of residents who feel a strong sense of stewardship for the watershed ~B Pride of Place: Percent of residents who express a sense of pride about being from Puget Sound ~P We have just begun collecting data for this indicator. Further data will be collected every 2 years via a survey of Puget Sound residents about their sense of place. Results will be reported as a mean index value for Puget Sound residents. The data will be analyzed for significant differences across demographic groups.",
+	"data" : {
+		"figure-1" : {
+			"title" : "",
+			"subhead" : "",
+			"figure-link" : "",
+			"caption" : "",
+			"source" : "",
+			"description" : "Based on pilot data, over 90% of residents feel attached to the Puget Sound region, expressing pride and identity associated with being from the region."
+		},
+	"more-description" : "",
+	"why-happening": "Analysis of data trends is not currently available. No targets are currently set for this indicator. ",
+	"references" : "",
+	"target": "No targets are currently set for this indicator. ",
+	"interim-target": "",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "",
+	"map-link-text": "",
+   	"links": {
+			"link0": {
+				"link-name" : "",
+				"link-url" : ""
+			}
+			}	
+		}
+	}	
+}

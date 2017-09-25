@@ -1,0 +1,41 @@
+﻿{
+  "indicator": {
+    "goal": "Healthy Water Quality",
+    "vitalsign": "Toxics in Fish",
+    "indicator-name": "Contaminants in Pacific herring",
+    "lead": "James West",
+    "contact": "James.West@dfw.wa.gov",
+    "logo-link": "WDFW",
+	"last-updated": "September 15, 2017",
+	"status-icon": "BELOW 2020 TARGET",
+	"progress-icon": "MIXED RESULTS",
+	"progress-icon-tagline": "",	  
+    "progress-description": "We have mixed results. PCBs and PBDEs have declined in two herring stocks from the northern Puget Sound basin at annual rates of 2% and 4% (PCBs) and 4% to 8% (PBDEs) over the past 15 years to levels that met the PCB recovery goal in 2014 (95% of samples below CTL) .  PBDEs also declined in two herring stocks from southern and central Puget sound at annual rates of 5% and 7% to levels that met the PBDE recovery goal in 2014. However, PCBs remained high and showed no significant declining trend over the past 15 years in two abundant herring stocks from central and southern Puget Sound.  Eighty percent of those central and southern herring failed to meet the PCB recovery goal.~P Results for PAH analyses are not available yet. Development of an appropriate CTL is in progress.~P EDCs are not reported for this species.",
+	"what": "Pacific herring are a small, schooling fish species that serves as an indicator for toxic contaminants in Puget Sound's pelagic (open water) food web. They not only show us whether our open water species are healthy, they also give us an indication of the degree to which predators may be exposed to chemicals as a result of consuming herring. This is especially important because it is difficult or impossible to measure contaminants directly in many predators including seals, dolphins, killer whales, and fish-eating seabirds. It is easier to measure contaminants in their more abundant prey.~P PCBs and PBDEs are measured in the herring's whole body, as a direct indication of the levels of chemicals a predator may be exposed to when they consume herring.  PAHs are measured differently, because unlike PCBs and PBDEs which build up in fish tissues over time, PAHs are metabolized, or chemically broken down by the herring. Because of this, we measure the break-down products of PAHs (metabolites) in the herring.",
+	"data" : {
+		"figure-1" : {
+			"title" : "FIGURE 1. CURRENT STATUS OF PCBS AND PBDES IN HERRING FROM MORE URBANIZED WATERS (TWO STOCKS FROM SOUTHERN AND CENTRAL PUGET SOUND BASINS) AND LESS URBANIZED WATERS (TWO STOCKS FROM NORTHERN PUGET SOUND). ",
+			"subhead" : "",
+			"figure-link" : "https://pspwa.box.com/s/vuy616nywkitjtnk108z28nyp7x2ll5j",
+			"caption" : "Box plots indicate median PCB and PBDE concentration (ng/g lipid) as a horizontal line.  Box ends indicate 25th and 75th percentile and diamonds indicate 5th and 95th percentiles.   Horizontal dashed lines indicate critical body thresholds, above which health impairments would be predicted. ",
+			"source" : "Calculated from West et al. (2017)",
+			"description" : "The latest data indicate that conditions are improving in Pacific herring for PBDEs.  Levels have declined in all samples (except one) from all stocks to below the critical tissue level. PCBs have also declined to below the PCB critical tissue level in the less urbanized northern basin of Puget Sound, however they remain high in the southern/central basins, where approximately 80% of samples were above the CTL in 2014."
+		},
+	"more-description" : "",
+	"why-happening": "The consistent decline in PBDEs in all herring stocks from both urbanized and less urbanized basins likely resulted from successful statutory and voluntary PBDE controls on both production and use of these chemicals in Washington state. The lack of decline in PCBs from the central and southern basin highlight the persistent nature of these chemicals, as well as a likelihood that we have not yet fully controlled the PCBs still entering Puget Sound waters from land sources.",
+	"references" : "West, J.E., O’Neill, S.M. & Ylitalo, G.M. Arch Environ Contam Toxicol (2017) 73: 207. https://doi.org/10.1007/s00244-017-0383-z.",
+	"target": "PCBs:  95% of samples are below a critical tissue level (CTL) of 2,400 ng Total PCBs/g fish.~P PBDEs:  95% of samples are below CTL of 1,400 ng Total PBDEs/g fish. ~P PAHs:  A Critical Tissue Level is currently being developed for PAH metabolites in herring bile. ",
+	"interim-target": "<a href='https://app.smartsheet.com/b/publish?EQBCT=b530ea3abea348be892a41e2669ba9ad'>Link to interim target</a>",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "https://pspwa.box.com/s/vuy616nywkitjtnk108z28nyp7x2ll5j",
+	"map-link-text": "FIGURE 1. LOCATION OF HERRING SAMPLING AREAS.",
+   	"links": {
+			"link0": {
+				"link-name" : "Toxics-focused Biological Observing System (T-BiOS) at Washington Department of Fish and Wildlife",
+				"link-url" : "http://wdfw.wa.gov/conservation/research/projects/marine_toxics/"
+			}
+		}
+	}	
+}
+}

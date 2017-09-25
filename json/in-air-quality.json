@@ -1,0 +1,91 @@
+﻿{
+  "indicator": {
+    "goal": "Healthy Human Population",
+    "vitalsign": "Air Quality",
+    "indicator-name": "Air quality indicator TBD",
+    "lead": "TBD",
+    "contact": "",
+    "logo-link": "TBD",
+	"last-updated": "September 15, 2017",
+	"status-icon": "NO 2020 TARGET",
+	"progress-icon": "INSUFFICIENT OR NO DATA",
+	"progress-icon-tagline": "There is not sufficient data to evaluate trends or progress relative to the baseline reference",	  
+    "progress-description": "No data are currently available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
+	"what": "The Air Quality Vital Sign will track the annual status of air quality across Puget Sound counties and will attempt to identify whether specific demographic groups are more exposed to poor air quality than others, as well as the sources of poor quality in different areas. We have not yet identified the type of data that will be reported. ",
+	"data" : {
+		"figure-1" : {
+			"title" : "",
+			"subhead" : "",
+			"figure-link" : "",
+			"caption" : "",
+			"source" : "",
+			"description" : "No data are currently available for this indicator. The Puget Sound Partnership is seeking funding to support data collection."
+		},
+		"figure-2" : {
+			"title" : "",
+			"subhead" : "",
+			"figure-link" : "",
+			"caption" : "",
+			"source" : "",
+			"description" : ""
+		},
+		"figure-3" : {
+			"title" : "",
+			"subhead" : "",
+			"figure-link" : "",
+			"caption" : "",
+			"source" : "",
+			"description" : ""
+		}
+		
+	},
+	"more-description" : "",
+	"why-happening": "Analysis of data trends is not currently available. ",
+	"references" : "",
+	"target": "No targets are currently set for this indicator. ",
+	"interim-target": "",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "",
+	"map-link-text": "",
+   	"links": {
+			"link0": {
+				"link-name" : "I am a link1",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link1": {
+				"link-name" : "I am a link2",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link2": {
+				"link-name" : "I am a link3",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link3": {
+				"link-name" : "I am a link4",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link4": {
+				"link-name" : "I am a link5",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link5": {
+				"link-name" : "I am a link6",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link6": {
+				"link-name" : "I am a link7",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link7": {
+				"link-name" : "I am a link8",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			},
+			"link8": {
+				"link-name" : "I am a link9",
+				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+			}	
+		},
+	"comment":""
+	}	
+}

@@ -1,0 +1,41 @@
+﻿{
+  "indicator": {
+    "goal": "Healthy Human Population",
+    "vitalsign": "Outdoor Activity",
+    "indicator-name": "Nature-based work",
+    "lead": "Kelly Biedenweg",
+    "contact": "kelly.biedenweg@oregonstate.edu",
+    "logo-link": "OSU",
+	"last-updated": "September 15, 2017",
+	"status-icon": "NO 2020 TARGET",
+	"progress-icon": "INSUFFICIENT OR NO DATA",
+	"progress-icon-tagline": "",	  
+    "progress-description": "No data are available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
+	"what": "This indicator tracks participation in nature-based occupations in the Puget Sound, such as logging, fishing, agriculture, aquaculture, interpretative work, and nature guiding. ~P We have just begun collecting data for this indicator. Further data will be collected every 2 years via a survey of Puget Sound residents about their annual nature-based work activities. The results will be reported as the average time Puget Sound residents spend per week engaging in nature-based work. All data will be analyzed for significant differences across demographic groups.",
+	"data" : {
+		"figure-1" : {
+			"title" : "",
+			"subhead" : "",
+			"figure-link" : "",
+			"caption" : "",
+			"source" : "",
+			"description" : "Pilot data show less than 10% of the population is employed in nature-based work, such as commercial fishing, habitat restoration, and outdoor recreation. Less than half of those who do work outdoors work full time in these jobs. We anticipate more data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years."
+		},
+	"more-description" : "",
+	"why-happening": "Analysis of data trends is not currently available. ",
+	"references" : "",
+	"target": "No targets are currently set for this indicator. ",
+	"interim-target": "",
+    "interim-target-title": "",
+	"interim-target-table":"",
+    "map-link": "",
+	"map-link-text": "",
+   	"links": {
+			"link0": {
+				"link-name" : "",
+				"link-url" : ""
+				}
+			}
+		}	
+  }
+}
