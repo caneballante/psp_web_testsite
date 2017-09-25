@@ -2,11 +2,11 @@
   "indicator": {
     "goal": "Healthy Water Quality",
     "vitalsign": "Toxics in Fish",
-    "indicator-name": "adult Salmon contaminants - PCBs, PBDES",
+    "indicator-name": "Contaminants in adult salmon",
     "lead": "James West",
     "contact": "James.West@dfw.wa.gov",
     "logo-link": "WDFW",
-	"last-updated": "June 29, 2017",
+	"last-updated": "September 25, 2017",
 	"status-icon": "BELOW 2020 TARGET",
 	"progress-icon": "INSUFFICIENT OR NO DATA",
 	"progress-icon-tagline": "",	  

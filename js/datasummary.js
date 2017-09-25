@@ -8,8 +8,8 @@ $(document).ready(function () {
 				
 			});			
 		function rollUpMaker (dataINList){
-			$('#show-indicators').append("<table>");
-			$('#show-indicators table').css('.table-striped');
+			$('#show-indicators').append("<table class='table'><tr><td>INDICATOR</td><td colspan='2'>STATUS<strong></strong></td><td colspan='2'>PROGRESS</td></tr>");
+
 			$.each((dataINList['indicators']), function(i, indicator) {
 				$.getJSON("json/" + indicator, function (data4) {
 					dataIN = data4;
@@ -57,7 +57,7 @@ $(document).ready(function () {
 					
 					
 					/*var allIndicators = '<tr><td><span class="indicator-list"> <strong>' + vsINName + ' </strong></span> </td><td> <span class="indicator-list"> ' + vsINProgress + " " + vsINProgressIcon  + " </span></td><td><span class="indicator-list">  " + vsINStatus + " " + vsINStatusIcon + '</span></td></tr>';*/
-					var allIndicators = '<tr><td width="500px"><span class="indicator-list">' + vsINName +'</span></td><td> ' + vsINProgressIcon  + '</td><td><span class="indicator-list">' + vsINProgress + ' </span></td><td> ' + vsINStatusIcon  + '</td><td><span class="indicator-list">' + vsINStatus + ' </span></td></tr>';
+					var allIndicators = '<tr><td width="500px"><span class="indicator-list">' + vsINName +'</span></td><td> ' + vsINStatusIcon  + '</td><td><span class="indicator-list">' + vsINStatus + ' </span></td><td> ' + vsINProgressIcon  + '</td><td><span class="indicator-list">' + vsINProgress + ' </span></td></tr>';
 				
 					$('#show-indicators table').append(allIndicators);
 				});			

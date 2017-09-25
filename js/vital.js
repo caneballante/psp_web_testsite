@@ -191,16 +191,48 @@ $(document).ready(function () {
 			$('#show-in-last-updated').html(inLastUpdated);
 
 			//status icon
-			var inStatusIcon = ('<p>' +dataIN['indicator']['status-icon']+ '</p>');
+			var inStatusIcon = (dataIN['indicator']['status-icon']);
+			if (inStatusIcon==="BELOW 2020 TARGET"){
+				inStatusIcon='<img src="images/vitalsigns/icons/belowtarget-lg.png" />';
+			};
+			if (inStatusIcon==="NEAR OR ON 2020 TARGET"){
+				inStatusIcon='<img src="images/vitalsigns/icons/attarget-lg.png" />';
+			};
+			if (inStatusIcon==="NO 2020 TARGET"){
+				inStatusIcon='<img src="images/vitalsigns/icons/nodata-lg.png" />';
+			};
 			$('#show-in-status-icon').html(inStatusIcon);
-
+			
 			//progress icon
-			var inProgressIcon = ('<p>' +dataIN['indicator']['progress-icon']+ '</p>');
-			$('#show-in-progress-icon').html(inProgressIcon);
+			var inProgressIcon = (dataIN['indicator']['progress-icon']);
+			if (inProgressIcon==="GETTING WORSE"){
+				inProgressIcon='<img src="images/vitalsigns/icons/gettingworse-lg.png" />';
+			};
+			if (inProgressIcon==="NOT IMPROVING"){
+				inProgressIcon='<img src="images/vitalsigns/icons/notimproving-lg.png" />';
+	
+			};
+			if (inProgressIcon==="MIXED RESULTS"){
+				inProgressIcon='<img src="images/vitalsigns/icons/mixedresults-lg.png" />';
+	
+			};
+			if (inProgressIcon==="INSUFFICIENT OR NO DATA"){
+				inProgressIcon='<img src="images/vitalsigns/icons/notarget-lg.png" />';
 
-			//progress icon tagline
+			};
+			if (inProgressIcon==="GETTING BETTER"){
+				inProgressIcon='<img src="images/vitalsigns/icons/gettingbetter-lg.png" />';
+	
+			};
+			$('#show-in-progress-icon').html(inProgressIcon);		
+					
+				
+			
+			
+			
+			/*//progress icon tagline
 			var inProgressIconTag = ('<p>' + dataIN['indicator']['progress-icon-tagline'] + '</p>');
-			$('#show-in-progress-icon-tag').html(inProgressIconTag);
+			$('#show-in-progress-icon-tag').html(inProgressIconTag);*/
 
 			//Progress Description
 			var inProgressDesc = (dataIN['indicator']['progress-description']);

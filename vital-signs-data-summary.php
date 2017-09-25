@@ -71,7 +71,7 @@
 			<div><img src="images/vitalsigns/logos/PSEMP.jpg" width="125" height="147" alt=""/></div>
 		</div>
 		 
-		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" --><div id="show-indicators"></div>content goes here<script src="js/vital.js"></script><script src="js/datasummary.js"></script><!-- InstanceEndEditable --></div>
+		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" --><div id="show-indicators"></div><script src="js/vital.js"></script><script src="js/datasummary.js"></script><!-- InstanceEndEditable --></div>
 		
 		</div>
 	<!--END OF ROW --> 

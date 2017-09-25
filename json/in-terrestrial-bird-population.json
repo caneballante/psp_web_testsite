@@ -2,14 +2,14 @@
   "indicator": {
     "goal": "Thriving Species and Food Web",
     "vitalsign": "Birds",
-    "indicator-name": "Terrestrial bird population abundance: 1a) associated with interior conifer forests: brown creeper, varied thrush, golden-crowned kinglets. 1b) Associated with human development: American crow, rock pigeon, house sparrow, house finch, and European starling.",
+    "indicator-name": "Terrestrial bird population abundance",
     "lead": "Scott Pearson",
     "contact": "Scott.Pearson@dfw.wa.gov",
     "logo-link": "WDFW",
-	"last-updated": "June 26, 2017",
+	"last-updated": "September 25, 2017",
 	"status-icon": "NO 2020 TARGET",
-	"progress-icon": "no data",
-	"progress-icon-tagline": "No data are available yet to assess progress.",	  
+	"progress-icon": "INSUFFICIENT OR NO DATA",
+	 
     "progress-description": "There are no data for terrestrial birds.",
 	"what": "The bird indicators serve as measures of population abundance of marine and terrestrial species.~P Terrestrial bird indicators:~P 1.Breeding abundance trends of resident species associated with interior conifer forests, namely golden-crowned kinglet, varied thrush and brown creeper.~P 2. Breeding abundance trends of resident synanthropic (human-associated) species, namely American crow, rock pigeon, house sparrow, house finch, and European starling.~P The indicator was chosen because it serves as measures of the size of terrestrial bird populations that reside most, if not all, of the year in Puget Sound. In addition, the indicator provides an integrative view of the health of Puget Sound, in contrast to being indicators of something specific like habitat, contaminants or prey. ~P The Washington State Department of Fish and Wildlife, the USGS Patuxent Wildlife Research Center and the Puget Sound Partnership are collaborating to compile and analyze existing data. Initial results are expected in 2014.~P The terrestrial bird indicator for the Bird Vital Sign was officially endorsed by the Science Panel at their April 9, 2014 meeting. The endorsement was based on a peer-reviewed report written jointly by the Washington State Department of Fish and Wildlife and the Puget Sound Partnership. The report, titled “<a href='http://www.psp.wa.gov/vitalsigns/documents/Pearson%20and%20Hamel%20Bird%20Indicators%202013_Final.pdf'>Marine and Terrestrial Bird Indicators for Puget Sound</a>, develops, presents and uses a transparent process to identify and evaluate potential indicators and ultimately recommends terrestrial birds. The peer-review process was coordinated by the Puget Sound Partnership Science Panel in 2013. The report was finalized in April of 2014. The indicators were also endorsed by the Leadership Council in January 2014. Supplemental material to the report is linked here.",
 	"data" : {

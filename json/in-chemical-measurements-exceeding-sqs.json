@@ -2,7 +2,7 @@
 	"indicator": {
 		"goal": "Healthy Water Quality",
 		"vitalsign": "Marine Sediment Quality",
-		"indicator-name": "Percent of chemical measurements exceeding SQS",
+		"indicator-name": "Chemicals exceeding Sediment Quality Standards",
 		"lead": "Margaret Dutch",
 		"contact": "mdut461@ECY.WA.GOV",
 		"logo-link": "ECY",
