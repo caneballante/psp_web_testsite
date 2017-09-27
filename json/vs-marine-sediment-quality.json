@@ -11,7 +11,7 @@
 		"indicators": {
 			"indicator1_name": "Sediment Quality Triad Index",
 			"indicator2_name": "Sediment Chemistry Index",
-			"indicator3_name": "Percent of chemical measurements exceeding SQS"
+			"indicator3_name": "Chemicals exceeding Sediment Quality Standards"
 		},
 		"highlights": "highlights",
 		"highlight_photo": "image link",

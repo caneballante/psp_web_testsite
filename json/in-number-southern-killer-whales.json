@@ -1,58 +1,58 @@
 ﻿{
-  "indicator": {
-    "goal": "Thriving Species and Food Web",
-    "vitalsign": "Orcas",
-    "indicator-name": "Number of Southern Resident killer whales",
-    "lead": "Ken Balcomb",
-    "contact": "kenbalcomb@gmail.com",
-    "logo-link": "CFWR",
-	"last-updated": "June 27, 2017",
-	"status-icon": "BELOW 2020 TARGET",
-	"progress-icon": "GETTING WORSE",
-	"progress-icon-tagline": "No, this indicator lost ground relative to a baseline reference.",	  
-    "progress-description": "Although this orca population experienced an uptick in births in 2015, the number of individuals has decreased since 2010, mainly driven by losses of individuals in L pod. The status of the population remains fragile. The 2016 interim target of 91 whales was not met.~SL The July 2016 census led by the Center for Whale Research reported 83 whales. Between 1 July 2015 and 1 July 2016, five southern resident killer whales were born and three have died.~B Granny, a 105 year old female known as the oldest southern resident, passed away sometime since the 2016 census.~B In 2010, the census reported 86 individuals, and every year since then the population size was smaller, except in 2011.~B Although population size has declined since 2010, the population grew, albeit slowly at about 1% per year, between 1979 to 2010. This population growth trend is consistent with the 2020 target. ~B However, trends could easily be reversed, as the Southern Resident Killer Whale population is very vulnerable to a variety of factors, making progress toward the 2020 target tenuous at best.~EL",
-	"what": "This indicator is the number of Southern Resident Killer Whales.~P Killer whales, also called orcas, are among Puget Sound’s most distinctive and charismatic inhabitants. They occupy an important niche at the top of the food web and support a multi-million dollar whale-watching industry. ~P Southern Resident Killer Whales are a unique population of orcas that ranges in the Salish Sea and the West Coast. These whales eat fish and depend heavily on Chinook salmon for food. In the late-1990s, Southern Resident Killer Whales experienced a dramatic decline. The combination of a precarious food supply and threats from pollution, vessel traffic, and noise continues to jeopardize their survival. As a result, they are federally listed as endangered. ~P The Southern Resident Killer Whale population in Puget Sound is actually a large extended family, or clan, comprised of three pods: J, K, and L pods. Although they can be seen throughout the year in Puget Sound, they are most often seen during the summer, especially in Haro Strait west of San Juan Island, the Strait of Juan de Fuca, and in the Strait of Georgia near the Fraser River.~P Threats to Southern Resident Killer Whales include contaminants, prey availability, vessels, and noise pollution. Additional human activities, such as underwater military activities, have been identified as a potential concern for killer whales, particularly on the outer coast. This issue has not been fully evaluated. Their small population size and social structure put them at risk for a catastrophic event, such as an oil spill, or a disease outbreak, that could impact the entire population.~P Resident orcas were chosen as an indicator because they are top-level predators, spend a portion of the year in Puget Sound to feed and socialize, and are threatened by some of the pressures on the Sound, such as pollution and declining salmon and herring runs. Although a robust orca population is an important recovery goal both at the state and federal levels, there may be limits to how much the orca indicator can tell us about the overall health of Puget Sound. The Southern Resident Killer Whale population migrates in and out of the area, and thus is not entirely dependent on Puget Sound and its resources.",
-	"data" : {
-		"figure-1" : {
-			"title" : "FIGURE 1. NUMBER OF SOUTHERN RESIDENT KILLER WHALES IN PUGET SOUND",
-			"subhead" : "1972-2016",
-			"figure-link" : "orca-figure1.jpg",
-			"caption" : "",
-			"source" : "Source: Center for Whale Research.",
-			"description" : "The census of the Southern Resident Killer Whale population, conducted annually by the Center for Whale Research, is an important method by which to assess the status and trends of this endangered population. The entire population is counted with a high degree of certainty using photo-identification techniques. Sighting networks throughout Puget Sound support the census.~P Other populations of whales, such as Transients and Northern Resident Killer Whales, also frequent the Salish Sea, but their numbers are not reported here because the indicator and target focus only on Southern Resident Killer Whales.~P The population size of Southern Resident Killer Whales changes temporarily throughout the year as whales are born and die. For example, by the end of 2011 there were 88 Southern Resident Killer Whales in total, with 26 in J pod, 20 in K pod and 42 in L pod (Figure 1). By August 2012, four whales had gone missing (J30, K40, L5, L12) and were presumed dead. A fifth missing whale (L112), drifted ashore dead in February 2012 on the outer coast of Washington. However, two new calves (J49, L119) were seen since in 2012.~PIn 2014, a newborn calf, L-120 was first seen in October. However, the calf subsequently disappeared and is now presumed dead. Another whale, J-32 Rhapsody, was found dead on December 4, 2014, near Courtenay, BC. The cause of her death is under investigation and a preliminary necropsy report is available. ~P In January 2015, a new calf was spotted in the Salish Sea. She is called J50. Since January, seven more calves were observed. Five babies are J pod members, while the other five are L pod. 1977 is the only previous year in the past forty years in which as many baby killer whales were born into this community of whales, and there were nine in that year. More details at Center for Whale Research and Orca Network.~P Researchers from the Northwest Fisheries Science Center have deployed satellite-linked transmitters on individuals of J, K and L pods between 2013 and 2015. The data from satellite tags addresses a data gap in winter distribution and habitat use. More details here.~P <strong>Historic Trends</strong>~P Since data became available in 1973, the Southern Resident Killer Whale population has by turns declined and grown. Despite year-to-year variability, total population size grew over the past four decades by about 1% per year: there were fewer than 70 whales in the early 1970s, and an annual average of 85 whales in the 2000s (Figure 1). Yet, compared to the Northern Resident Killer Whale population living in the Strait of Georgia, the Southern Resident Killer Whale population is smaller and has been growing more slowly overall.~P At the pod level, the long-term population growth rate (from 1979 and 2010) is slightly lower for J and K pods combined (~2%) than for L pod (~1%). L pod is the largest of all pods. However, this pod has been in decline since the early 1990s.~P The other two pods, J and K, are roughly the same size. Both J and K pods are growing, with J pod increasing more rapidly than K pod. This is likely due to the limited reproductive potential in K and L pods. Indeed, the sex ratio of K and L pods is skewed toward males. The lack of reproductive females, poor survival of calves, and factors associated with small population sizes such as inbreeding, along with human-caused threats, are a concern for the viability of this population.~P J pod is also the pod that spends the most time in Puget Sound compared to the other two. The fact that Southern Resident Killer Whales only spend part of their lives in Puget Sound, and that the pod that spends the least time in Puget Sound has the steepest decline, suggests that the whales are impacted by conditions outside of Puget Sound.~P Although the Southern Resident Killer Whale population’s long-term trend for population growth meets the growth rate target, the 2014 interim target was not met, and the population growth rate does not meet the legal recovery criteria to delist the Southern Resident Killer Whales from the Endangered list (i.e., meeting an average growth rate of 2.3% per year for 28 years).~P Restoration of this population of long-lived, slow-reproducing killer whales is a long-term effort that requires cooperation and coordination of West Coast communities from California to British Columbia. It will take many years to fill key data gaps and assess the effectiveness of ongoing recovery actions for the whales, salmon, and their habitat, and to observe significant increases in the Southern Resident population."
-		}
-		
-	},
-	"more-description" : "",
-	"why-happening": "",
-	"references" : "",
-	"target": "By 2020, achieve an end-of-year census of 95 individual Southern Resident Killer Whales, which would represent a 1 percent annual average growth rate from 2010 to 2020.",
-	"interim-target": "<a href='http://www.psp.wa.gov/downloads/interimtargets/Orcas%20Interim%20Targets%20-%20FINAL.pdf'>Link to interim targets</a> ",
-    "interim-target-title": "TABLE 1. PROGRESS TOWARD 2016 INTERIM TARGET",
-	"interim-target-table":"orca-table1.jpg",
-    "map-link": "",
-	"map-link-text": "", 
-   	"links": {
+	"indicator": {
+		"goal": "Thriving Species and Food Web",
+		"vitalsign": "Orcas",
+		"indicator-name": "Number of Southern Resident killer whales",
+		"lead": "Ken Balcomb",
+		"contact": "kenbalcomb@gmail.com",
+		"logo-link": "CFWR",
+		"last-updated": "September 26, 2017",
+		"status-icon": "BELOW 2020 TARGET",
+		"progress-icon": "GETTING WORSE",
+
+		"progress-description": "The status of the Southern Resident killer whale population remains fragile. In 2010, the Partnership’s baseline reference, the census reported 86 individuals, and every year since then the population size has been smaller, except in 2011. ~SL The July 2017 census led by the Center for Whale Research reported 77 whales, down from 83 in 2016. The population is well below the interim target of 91 whales. ~BBetween July 2016 and July 2017, no new whales were born alive. Six whales died. ~BGranny, a 105 year old female known as the oldest southern resident, passed away. ~BAs of September 2017, with the loss of J52, a two-and-a-half-year-old male, the Southern Resident killer whale population has dipped to 76 individuals. ~BRecovery of the population depends on increasing its main prey—Chinook salmon stocks in the Salish Sea and along the West Coast.~EL",
+		"what": "Killer whales, also called orcas, are among Puget Sound’s most distinctive and charismatic inhabitants. They occupy an important niche at the top of the food web and support a multi-million dollar whale-watching industry. ~PSouthern Resident killer whales are a unique population of orcas that ranges in the Salish Sea and the West Coast. These whales eat fish and depend heavily on Chinook salmon for food. In the late-1990s, Southern Resident killer whales experienced a dramatic decline. The combination of a precarious food supply and threats from pollution, vessel traffic, and noise continues to jeopardize their survival. As a result, they are federally listed as endangered. ~PThe Southern Resident Killer Whale population in Puget Sound is actually a large extended family, or clan, comprised of three pods: J, K, and L pods. Although they can be seen throughout the year in Puget Sound, they are most often seen during the summer, especially in Haro Strait west of San Juan Island, the Strait of Juan de Fuca, and in the Strait of Georgia near the Fraser River. ~PThreats to Southern Resident killer whales include contaminants, prey availability, vessels, and noise pollution. Additional human activities, such as underwater military activities, have been identified as a potential concern for killer whales, particularly on the outer coast. This issue has not been fully evaluated. Their small population size and social structure put them at risk for a catastrophic event, such as an oil spill, or a disease outbreak, that could impact the entire population. ~PResident orcas were chosen as an indicator because they are top-level predators, spend a portion of the year in Puget Sound to feed and socialize, and are threatened by some of the pressures on the Sound, such as pollution and declining salmon and herring runs. Although a robust orca population is an important recovery goal both at the state and federal levels, there may be limits to how much the orca indicator can tell us about the overall health of Puget Sound. The Southern Resident Killer Whale population migrates in and out of the area, and thus is not entirely dependent on Puget Sound and its resources. ~PThe census of the Southern Resident killer whale population, conducted annually by the Center for Whale Research, is an important method by which to assess the status and trends of this endangered population. The entire population is counted with a high degree of certainty using photo-identification techniques. Sighting networks throughout Puget Sound support the census. ~POther populations of whales, such as Transients and Northern Resident killer whales, also frequent the Salish Sea, but their numbers are not reported here because the indicator and target focus only on Southern Resident killer whales.",
+		"data": {
+			"figure-1": {
+				"title": "FIGURE 1. NUMBER OF SOUTHERN RESIDENT KILLER WHALES IN PUGET SOUND",
+				"subhead": "1972-2017",
+				"figure-link": "orca-figure1.jpg",
+				"caption": "",
+				"source": "Source: Center for Whale Research.",
+				"description": ""
+			}
+
+		},
+		"more-description": "",
+		"why-happening": "",
+		"references": "",
+		"target": "By 2020, achieve an end-of-year census of 95 individual Southern Resident Killer Whales, which would represent a 1 percent annual average growth rate from 2010 to 2020.",
+		"interim-target": "<a href='http://www.psp.wa.gov/downloads/interimtargets/Orcas%20Interim%20Targets%20-%20FINAL.pdf'>Link to interim targets</a> ",
+		"interim-target-title": "TABLE 1. PROGRESS TOWARD 2016 INTERIM TARGET",
+		"interim-target-table": "orca-table1.jpg",
+		"map-link": "",
+		"map-link-text": "",
+		"links": {
 			"link0": {
-				"link-name" : "Center for Whale Research",
-				"link-url" : "https://www.whaleresearch.com/orca-population"
+				"link-name": "Center for Whale Research",
+				"link-url": "https://www.whaleresearch.com/orca-population"
 			},
 			"link1": {
-				"link-name" : "National Oceanic and Atmospheric Administration Fisheries West Coast Region Killer Whale program",
-				"link-url" : "http://www.westcoast.fisheries.noaa.gov/protected_species/marine_mammals/killer_whale"
+				"link-name": "National Oceanic and Atmospheric Administration Fisheries West Coast Region Killer Whale program",
+				"link-url": "http://www.westcoast.fisheries.noaa.gov/protected_species/marine_mammals/killer_whale"
 			},
 			"link2": {
-				"link-name" : "National Oceanic and Atmospheric Administration Fisheries Species in the Spotlight: Southern Resident Killer Whale",
-				"link-url" : "http://www.nmfs.noaa.gov/stories/2015/06/spotlight_srkw.html"
+				"link-name": "National Oceanic and Atmospheric Administration Fisheries Species in the Spotlight: Southern Resident Killer Whale",
+				"link-url": "http://www.nmfs.noaa.gov/stories/2015/06/spotlight_srkw.html"
 			},
 			"link3": {
-				"link-name" : "Northwest Fisheries Science Center Satellite Tagging Project ",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name": "Northwest Fisheries Science Center Satellite Tagging Project ",
+				"link-url": "https://www.nwfsc.noaa.gov/research/divisions/cb/ecosystem/marinemammal/satellite_tagging/index.cfm"
 			},
 			"link4": {
-				"link-name" : "Orca Network",
-				"link-url" : "http://www.orcanetwork.org/Main/"
+				"link-name": "Orca Network",
+				"link-url": "http://www.orcanetwork.org/Main/"
 			}
 		}
-	}	
+	}
 }

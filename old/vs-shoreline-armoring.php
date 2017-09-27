@@ -8,9 +8,8 @@
 <title>2017 Vital Signs</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/custom.css" rel="stylesheet" type="text/css">
-<link href="css/custom-erika.css" rel="stylesheet" type="text/css">
+<link href="http://www/psp.wa.gov/css/bootstrap.css" rel="stylesheet">
+<link href="http://www/psp.wa.gov/css/custom.css" rel="stylesheet" type="text/css">
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -48,7 +47,7 @@
 <!-- InstanceParam name="OptionalRegion10" type="boolean" value="true" -->
 </head>
 <body>
-<?php include 'includes/modal-inc.html';?>
+<?php include '../includes/modal-inc.html';?>
 <!-- START IMAGE HEADER --> 
  
 <div class="container-fluid  page-content padding-50-bottom">
@@ -68,6 +67,7 @@
 					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
+			<div><img src="../images/vitalsigns/logos/PSEMP.jpg" width="125" height="147" alt=""/></div>
 		</div>
 		 
 		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" --><?php include 'includes/vs-content.html';?>
@@ -81,12 +81,12 @@
 <?php include 'includes/footer-inc.html';?>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
-<script src="js/jquery-1.11.2.min.js"></script> 
+<script src="../js/jquery-1.11.2.min.js"></script> 
 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
-<script src="js/bootstrap.js"></script> 
+<script src="../js/bootstrap.js"></script> 
 <!-- custom js --> 
-<script src="js/custom.js"></script> 
+<script src="../js/custom.js"></script> 
 <!-- Google Tracking  --> 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

@@ -8,9 +8,8 @@
 <title>Vital Sign</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/custom.css" rel="stylesheet" type="text/css">
-<link href="css/custom-erika.css" rel="stylesheet" type="text/css">
+<link href="http://www/psp.wa.gov/css/bootstrap.css" rel="stylesheet">
+<link href="http://www/psp.wa.gov/css/custom.css" rel="stylesheet" type="text/css">
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -29,8 +28,8 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js"></script>
 	
 	<script> //setting the unused variable to 0 to flag the if statement to run either the VS or IN code.
-		var whatIN = 0; 
-		var whatVS = "vs-summer-stream-flows.json";
+		var whatIN = "non"; 
+		var whatVS = "non";
 	</script>
 	<link href="css/style.css" rel="stylesheet" type="text/css">
 

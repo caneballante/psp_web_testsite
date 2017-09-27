@@ -36,11 +36,40 @@ $(document).ready(function () {
 		return(wrapParagraph);
 	};
 	
+	function colorMaker (colorify){
+		if (colorify === "Healthy Human Population"){
+			colorify = "green-header";
+			return(colorify);
+		}
+		if (colorify === "Vibrant Quality of Life"){
+			colorify = "orange-header";
+			return(colorify);
+		}
+		if (colorify === "Thriving Species and Food Web"){
+			colorify = "pink-header";
+			return(colorify);
+		}
+		if (colorify === "Protected and Restored Habitat"){
+			colorify = "purp-header";
+			return(colorify);
+		}
+		if (colorify === "Abundant Water Quantity"){
+			colorify = "blue-header";
+			return(colorify);
+		}
+		if (colorify === "Healthy Water Quality"){
+			colorify = "aqua-header";
+			return(colorify);
+		}
+		
+		
+	}
+	//VITAL SIGNS 
 	
 	if (whatIN === 0){
 		
 		console.log("vital if ran")
-		//VITAL SIGNS 
+		
 	
 		//load vital sign data
 		$.getJSON("json/" + whatVS, function (data2) {
@@ -94,8 +123,48 @@ $(document).ready(function () {
 				$.getJSON("json/" + indicator, function (data4) {
 					dataIN = data4;
 					var vsINName= (dataIN['indicator']['indicator-name']);
+					
+					
 					var vsINProgress= (dataIN['indicator']['progress-icon']);
+					if (vsINProgress==="GETTING WORSE"){
+					vsINProgress='<img src="images/vitalsigns/icons/gettingworse-lg.png" />';
+					};
+					if (vsINProgress==="NOT IMPROVING"){
+					vsINProgress='<img src="images/vitalsigns/icons/notimproving-lg.png" />';
+	
+					};
+					if (vsINProgress==="MIXED RESULTS"){
+					vsINProgress='<img src="images/vitalsigns/icons/mixedresults-lg.png" />';
+	
+					};
+					if (vsINProgress==="INSUFFICIENT OR NO DATA"){
+					vsINProgress='<img src="images/vitalsigns/icons/nodata-lg.png" />';
+
+					};
+					if (vsINProgress==="GETTING BETTER"){
+					vsINProgress='<img src="images/vitalsigns/icons/gettingbetter-lg.png" />';
+					};
+					
+					
 					var vsINStatus= (dataIN['indicator']['status-icon']);
+					if (vsINStatus==="BELOW 2020 TARGET"){
+					vsINStatus='<img src="images/vitalsigns/icons/belowtarget-lg.png" />';
+					};
+					if (vsINStatus==="NEAR OR ON 2020 TARGET"){
+						vsINStatus='<img src="images/vitalsigns/icons/attarget-lg.png" />';
+					};
+					if (vsINStatus==="NO 2020 TARGET"){
+						vsINStatus='<img src="images/vitalsigns/icons/notarget-lg.png" />';
+					};
+					if (vsINStatus==="INSUFFICIENT OR NO DATA"){
+						vsINStatus='<img src="images/vitalsigns/icons/nodatastatus-lg.png" />';
+					};
+					
+					
+					
+					
+					
+					
 					var allIndicators = '<p> <strong>Indicator name:</strong> ' + vsINName + ' <strong>Status:</strong> ' + vsINStatus + ' <strong>Progress: </strong>' + vsINProgress + '</p>';
 					$('#show-indicators').append(allIndicators);
 				});			
@@ -158,28 +227,31 @@ $(document).ready(function () {
 
 			//goal
 			var inGoal = (dataIN['indicator']['goal']);
-			var inGoalHtml = paragraphMaker(inGoal);
-			$('#show-in-goal').html(inGoalHtml);
+		
+			//this is used anywhere I want to set the color
+			var inGoalColor = colorMaker(inGoal);
+			console.log(inGoalColor);
+			$('#show-in-goal').html(inGoal);
+			$('#show-in-goal').addClass(inGoalColor);
 
 			//vital sign
 			var inVitalSign = (dataIN['indicator']['vitalsign']);
-			var inVitalHtml = paragraphMaker(inVitalSign);
-			$('#show-in-vitalsign').html(inVitalHtml);
+		
+			$('#show-in-vitalsign').html(inVitalSign);
+			$('#show-in-vitalsign').addClass(inGoalColor);
 
 			//indicator
 			var inIndicator = (dataIN['indicator']['indicator-name']);
-			var inIndicatorHtml = paragraphMaker(inIndicator);
-			$('#show-in-name').html(inIndicatorHtml);
+			$('#show-in-name').html(inIndicator);
+			$('#show-in-name').addClass(inGoalColor);
 
 			//lead
 			var inLead = (dataIN['indicator']['lead']);
-			var inLeadHtml = paragraphMaker(inLead);
-			$('#show-in-lead').html(inLeadHtml);
+			$('#show-in-lead').html(inLead);
 
 			//contact
 			var inContact = (dataIN['indicator']['contact']);
-			var inContactHtml = paragraphMaker(inContact);
-			$('#show-in-contact').html(inContactHtml);
+			$('#show-in-contact').html(inContact);
 
 			//logo
 			var inLogo = (dataIN['indicator']['logo-link']);
@@ -187,7 +259,7 @@ $(document).ready(function () {
 			$('#show-in-logo').html(inlogoHtml);
 
 			//last updated
-			var inLastUpdated = ('<p>' + dataIN['indicator']['last-updated'] + '</p>');
+			var inLastUpdated = (dataIN['indicator']['last-updated']);
 			$('#show-in-last-updated').html(inLastUpdated);
 
 			//status icon
@@ -199,7 +271,10 @@ $(document).ready(function () {
 				inStatusIcon='<img src="images/vitalsigns/icons/attarget-lg.png" />';
 			};
 			if (inStatusIcon==="NO 2020 TARGET"){
-				inStatusIcon='<img src="images/vitalsigns/icons/nodata-lg.png" />';
+				inStatusIcon='<img src="images/vitalsigns/icons/notarget-lg.png" />';
+			};
+			if (inStatusIcon==="INSUFFICIENT OR NO DATA"){
+				inStatusIcon='<img src="images/vitalsigns/icons/nodatastatus-lg.png" />';
 			};
 			$('#show-in-status-icon').html(inStatusIcon);
 			
@@ -217,7 +292,7 @@ $(document).ready(function () {
 	
 			};
 			if (inProgressIcon==="INSUFFICIENT OR NO DATA"){
-				inProgressIcon='<img src="images/vitalsigns/icons/notarget-lg.png" />';
+				inProgressIcon='<img src="images/vitalsigns/icons/nodata-lg.png" />';
 
 			};
 			if (inProgressIcon==="GETTING BETTER"){

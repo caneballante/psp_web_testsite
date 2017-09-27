@@ -5,12 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>2017 Vital Signs - Land cover change: rate of forest loss</title>
+<title>2017 Vital Signs - Chinook population abundance</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/custom.css" rel="stylesheet" type="text/css">
-<link href="css/custom-erika.css" rel="stylesheet" type="text/css">
+<link href="http://www/psp.wa.gov/css/bootstrap.css" rel="stylesheet">
+<link href="http://www/psp.wa.gov/css/custom.css" rel="stylesheet" type="text/css">
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->

@@ -29,8 +29,8 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js"></script>
 	
 	<script> //setting the unused variable to 0 to flag the if statement to run either the VS or IN code.
-		var whatIN = 0; 
-		var whatVS = "vs-summer-stream-flows.json";
+		var whatIN = "non"; 
+		var whatVS = "non";
 	</script>
 	<link href="css/style.css" rel="stylesheet" type="text/css">
 
@@ -81,6 +81,7 @@
 				<li><strong>Abundant Water Quantity:</strong> An ecosystem that is supported by groundwater levels, as well as by river and stream flows sufficient to sustain people, fish, wildlife, and the natural functions of the environment.</li>
 				<li><strong>Healthy Water Quality:</strong> Fresh and marine waters and sediments of a sufficient quality to support water that is safe for drinking, swimming, and other human uses and enjoyment, and are not harmful to the native marine mammals, fish, birds, and shellfish in the region.</li>
 			</ul>
+			<script src="js/vital.js">
 		<!-- InstanceEndEditable --></div>
 		
 		</div>

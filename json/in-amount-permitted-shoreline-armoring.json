@@ -1,106 +1,106 @@
 ﻿{
-  "indicator": {
-    "goal": "Protected and Restored Habitat",
-    "vitalsign": "Shoreline Armoring",
-    "indicator-name": "Net change in permitted shoreline armor",
-    "lead": "Doris Small",
-    "contact": "doris.small@dfw.wa.gov",
-    "logo-link": "WDFW",
-	"last-updated": "September 18, 2017",
-	"status-icon": "BELOW 2020 TARGET",
-	"progress-icon": "GETTING BETTER",
-	"progress-description": "Because the rate of new armor permitted through Hydraulic Project Approvals (HPAs) has slowed and more armor was permitted for removal than added in 2014 and 2016, this indicator appears to make progress toward the 2020 target. ~SLMore permitted armor was gained than lost cumulatively since 2011, resulting in a net cumulative length of 0.8 miles (4357 feet) of new armor. In 2014 and 2016, more permitted armor was removed than was added, a ratio that aligns well with the 2020 target. ~B New armor continues to be permitted for construction at an average pace of 0.63 miles (3,330 feet) per year (2011 – 2016), but the pace has slowed progressively since 2013. ~BIn contrast, during the same time period, removal of shoreline armor was permitted at an average rate of 0.49 miles (2604 feet) per year—not enough to balance out new permitted armor. ~BReplacement of existing shoreline armor remains the most common armor project. Work with landowners on replacement armor methods and placement may be an opportunity to gain shoreline function.~EL",
-	"what": "This indicator is the net change of shoreline armor (new minus removed). We measure the change using shoreline armor permit data. ~PShoreline armor is the most common type of shoreline modification on Puget Sound. The term includes structures like bulkheads, seawalls, and rip rap. Shoreline armor directly alters geologic processes that supply sediment to build and maintain beaches and spits. Armor also impact erosion patterns on nearby beaches, alter beach substrate and hydrology, and reduce the availability of large wood. ~PThese physical changes to beaches can diminish the availability and condition of key shoreline habitats. Shoreline armor can also directly impact organisms and ecological processes by burying or displacing upper beach habitat and altering the natural transition between terrestrial and aquatic ecosystems. Impacts of armor differ from one coastal setting to another, but have been demonstrated both on Puget Sound and elsewhere to impact habitat for fish, birds, and invertebrates. On the other hand, removing shoreline armor increases food and shelter for juvenile salmon, forage fish spawning habitat, and provides habitat for invertebrates that many species of birds eat. ~PBecause of these adverse impacts on coastal processes and nearshore habitat and the positive results of removing armor, the goal is to decrease the amount of new shoreline armor that occurs on Puget Sound, while also seeking opportunities to remove armor where feasible. As our understanding of techniques to avoid impacts and consider alternatives related to armor increases, the amount, type and location of new armor is changing too. ~PAs new shoreline armor is being constructed, concurrent efforts are deployed to remove shoreline armor primarily for habitat restoration. Thus, it is the difference between new and removed armor that is of interest to address the Partnership’s target for 2020 specifically. This indicator is also important to communicate the need for habitat restoration projects, including salmon recovery efforts. ~PThe Puget Sound Nearshore Ecosystem Restoration Project (PSNERP) compiled and reported on changes to shorelines in Puget Sound over the past several decades in a change analysis in 2011 (map section at the end of the report). Data reported in the map on the total length of shoreline and the overall amount of existing shoreline armor in Puget Sound is from PSNERP and does not include more recent data. In 2011, PSNERP identified 666 miles of Puget Sound shoreline as armored, or 27% of the total shoreline length. King and Pierce Counties were highest for extent of armor at 73% and 51%, partially due to 50 miles of railroad corridor located at the shoreline between Nisqually and Pt. Defiance and Shilshole/Golden Gardens and Everett. Shoreline armor extent was lowest in San Juan County (4%) and Jefferson County (11%). ~PAlterations to the shoreline are regulated primarily by two state laws, the Shoreline Management Act and the Hydraulic Code. Permits issued under the Hydraulic Code for in-water and shoreline construction activities include information on the length of added, replaced or removed armor. Washington Department of Fish and Wildlife has been tracking HPAs permits electronically since 2005. Thus, data reported here were compiled from HPAs issued from January 2005 through December 2016 by the Washington Department of Fish & Wildlife. While other data from local studies and shoreline permits under the Shoreline Management Act may have more detailed information at the local level, the HPA database is the most consistent and accessible for assessing all of Puget Sound. ~PDespite having the most accurate and comprehensive data available to track shoreline armoring, the HPA database has some shortcomings. The HPA database was developed to track permit applications and processing, and was not developed to track shoreline armor data specifically. Data are based on when a HPA permit was obtained for a project and does not indicate when or if a project was ultimately implemented. In addition, the database does not include projects for which a HPA was not required (e.g. some federal projects, projects on tribal lands, pollution remediation projects) or if a project was constructed in compliance with the permitted action or without obtaining permits. Additional information on current data collection and analysis is available in the data methods report associated with the indicator report. Efforts to improve methods to track the shoreline armor indicator are currently underway by the Puget Sound Partnership, Washington Department of Fish & Wildlife and other collaborators. ~PHPA projects were categorized by length of shoreline modified as: ~P1. New (previously unarmored shoreline). ~P2. Replacement (complete replacement of existing shoreline armor). ~P3. Removal (removal of existing shoreline armor without replacement). ~PRepairs to shoreline armor (minor replacement of existing armor in the same location) are common HPA projects, but are not reported in this analysis, as shoreline condition is unchanged.",
-	"data" : {
-		"figure-1" : {
-			"title" : "FIGURE 1. NEW, REMOVED AND CUMULATIVE NET ARMOR CHANGE PERMITTED IN PUGET SOUND",
-			"subhead" : "2005 – 2016",
-			"figure-link" : "amount-permitted-shoreline-armoring-figure1.jpg",
-			"caption" : "",
-			"source" : "Source: Data compiled from Hydraulic Project Approvals issued by Washington Department of Fish & Wildlife, Habitat Program.",
-			"description" : "The net length of shoreline armor in Puget Sound increased from 2011 – 2016 by 0.8 miles (4357 feet). However, projects involving removal of shoreline armor are on the increase, with 3.5 miles (18,446 feet) removed since 2005 and 1.2 miles (6,442 feet) in 2016. More armor was permitted for removal in 2014 and 2016 than permitted for new shoreline armor construction (Figure 1.)."
-		},
+	"indicator": {
+		"goal": "Protected and Restored Habitat",
+		"vitalsign": "Shoreline Armoring",
+		"indicator-name": "Net change in permitted shoreline armor",
+		"lead": "Doris Small",
+		"contact": "doris.small@dfw.wa.gov",
+		"logo-link": "WDFW",
+		"last-updated": "September 18, 2017",
+		"status-icon": "BELOW 2020 TARGET",
+		"progress-icon": "GETTING BETTER",
+		"progress-description": "Because the rate of new armor permitted through Hydraulic Project Approvals (HPAs) has slowed and more armor was permitted for removal than added in 2014 and 2016, this indicator appears to make progress toward the 2020 target. ~SLMore permitted armor was gained than lost cumulatively since 2011, resulting in a net cumulative length of 0.8 miles (4357 feet) of new armor. In 2014 and 2016, more permitted armor was removed than was added, a ratio that aligns well with the 2020 target. ~B New armor continues to be permitted for construction at an average pace of 0.63 miles (3,330 feet) per year (2011 – 2016), but the pace has slowed progressively since 2013. ~BIn contrast, during the same time period, removal of shoreline armor was permitted at an average rate of 0.49 miles (2604 feet) per year—not enough to balance out new permitted armor. ~BReplacement of existing shoreline armor remains the most common armor project. Work with landowners on replacement armor methods and placement may be an opportunity to gain shoreline function.~EL",
+		"what": "This indicator is the net change of shoreline armor (new minus removed). We measure the change using shoreline armor permit data. ~PShoreline armor is the most common type of shoreline modification on Puget Sound. The term includes structures like bulkheads, seawalls, and rip rap. Shoreline armor directly alters geologic processes that supply sediment to build and maintain beaches and spits. Armor also impact erosion patterns on nearby beaches, alter beach substrate and hydrology, and reduce the availability of large wood. ~PThese physical changes to beaches can diminish the availability and condition of key shoreline habitats. Shoreline armor can also directly impact organisms and ecological processes by burying or displacing upper beach habitat and altering the natural transition between terrestrial and aquatic ecosystems. Impacts of armor differ from one coastal setting to another, but have been demonstrated both on Puget Sound and elsewhere to impact habitat for fish, birds, and invertebrates. On the other hand, removing shoreline armor increases food and shelter for juvenile salmon, forage fish spawning habitat, and provides habitat for invertebrates that many species of birds eat. ~PBecause of these adverse impacts on coastal processes and nearshore habitat and the positive results of removing armor, the goal is to decrease the amount of new shoreline armor that occurs on Puget Sound, while also seeking opportunities to remove armor where feasible. As our understanding of techniques to avoid impacts and consider alternatives related to armor increases, the amount, type and location of new armor is changing too. ~PAs new shoreline armor is being constructed, concurrent efforts are deployed to remove shoreline armor primarily for habitat restoration. Thus, it is the difference between new and removed armor that is of interest to address the Partnership’s target for 2020 specifically. This indicator is also important to communicate the need for habitat restoration projects, including salmon recovery efforts. ~PThe Puget Sound Nearshore Ecosystem Restoration Project (PSNERP) compiled and reported on changes to shorelines in Puget Sound over the past several decades in a change analysis in 2011 (map section at the end of the report). Data reported in the map on the total length of shoreline and the overall amount of existing shoreline armor in Puget Sound is from PSNERP and does not include more recent data. In 2011, PSNERP identified 666 miles of Puget Sound shoreline as armored, or 27% of the total shoreline length. King and Pierce Counties were highest for extent of armor at 73% and 51%, partially due to 50 miles of railroad corridor located at the shoreline between Nisqually and Pt. Defiance and Shilshole/Golden Gardens and Everett. Shoreline armor extent was lowest in San Juan County (4%) and Jefferson County (11%). ~PAlterations to the shoreline are regulated primarily by two state laws, the Shoreline Management Act and the Hydraulic Code. Permits issued under the Hydraulic Code for in-water and shoreline construction activities include information on the length of added, replaced or removed armor. Washington Department of Fish and Wildlife has been tracking HPAs permits electronically since 2005. Thus, data reported here were compiled from HPAs issued from January 2005 through December 2016 by the Washington Department of Fish & Wildlife. While other data from local studies and shoreline permits under the Shoreline Management Act may have more detailed information at the local level, the HPA database is the most consistent and accessible for assessing all of Puget Sound. ~PDespite having the most accurate and comprehensive data available to track shoreline armoring, the HPA database has some shortcomings. The HPA database was developed to track permit applications and processing, and was not developed to track shoreline armor data specifically. Data are based on when a HPA permit was obtained for a project and does not indicate when or if a project was ultimately implemented. In addition, the database does not include projects for which a HPA was not required (e.g. some federal projects, projects on tribal lands, pollution remediation projects) or if a project was constructed in compliance with the permitted action or without obtaining permits. Additional information on current data collection and analysis is available in the data methods report associated with the indicator report. Efforts to improve methods to track the shoreline armor indicator are currently underway by the Puget Sound Partnership, Washington Department of Fish & Wildlife and other collaborators. ~PHPA projects were categorized by length of shoreline modified as: ~P1. New (previously unarmored shoreline). ~P2. Replacement (complete replacement of existing shoreline armor). ~P3. Removal (removal of existing shoreline armor without replacement). ~PRepairs to shoreline armor (minor replacement of existing armor in the same location) are common HPA projects, but are not reported in this analysis, as shoreline condition is unchanged.",
+		"data": {
+			"figure-1": {
+				"title": "FIGURE 1. NEW, REMOVED AND CUMULATIVE NET ARMOR CHANGE PERMITTED IN PUGET SOUND",
+				"subhead": "2005 – 2016",
+				"figure-link": "amount-permitted-shoreline-armoring-figure1.jpg",
+				"caption": "",
+				"source": "Source: Data compiled from Hydraulic Project Approvals issued by Washington Department of Fish & Wildlife, Habitat Program.",
+				"description": "The net length of shoreline armor in Puget Sound increased from 2011 – 2016 by 0.8 miles (4357 feet). However, projects involving removal of shoreline armor are on the increase, with 3.5 miles (18,446 feet) removed since 2005 and 1.2 miles (6,442 feet) in 2016. More armor was permitted for removal in 2014 and 2016 than permitted for new shoreline armor construction (Figure 1.)."
+			},
 			"figure-2": {
 				"title": "FIGURE 2. SHORELINE ARMOR REPLACEMENT ",
 				"subhead": "2005-2016",
-				"figure-link": "https://pspwa.box.com/s/yr6s7qg9rqz9u41kem5x75re0kafwqvh",
+				"figure-link": "SHORELINE-ARMOR-REPLACEMENT-figure2.jpg",
 				"caption": "",
 				"source": "",
 				"description": "Replacement of existing shoreline armor is the most common permitted project from 2005 – 2016. Additional projects to repair existing shoreline armor were also permitted but not included in the results as the projects were small and did not alter the footprint, type or length of armor. In contrast, projects categorized as replacement shoreline armor were larger than repair projects and could involve removal and/or replacement of existing armor that changed the length, types of materials involved or altered the alignment relative to the shoreline (i.e. landward or waterward of the existing structure). ~POver 12 miles (63,554 feet) of shoreline armor was replaced from 2011-2016, as compared to 3.8 miles (19,982 feet) of new armor or 3.0 miles (15,625 feet) of removed armor. In 2016, replacement shoreline armor projects accounted for 72% of the 125 shoreline armor projects permitted by HPA. Of those projects, 70% were replaced in the same location relative to tidal elevation, while 27% were replaced landward of the former armor location, uncovering upper beach. (Figure 2)."
-		},
+			},
 			"figure-3": {
 				"title": "FIGURE 3. MATERIAL TYPE FOR NEW, REMOVED AND REPLACED SHORELINE ARMOR",
 				"subhead": "2016",
-				"figure-link": "https://pspwa.box.com/s/yr6s7qg9rqz9u41kem5x75re0kafwqvh",
+				"figure-link": "MATERIAL-TYPE-figure3.jpg",
 				"caption": "NONE",
 				"source": "",
 				"description": "In 2016, the type of material installed during shoreline armor replacement projects was typically different than material removed, including removal of 0.55 miles of creosote treated wood from the shoreline. Shoreline armor for new and replacement armor (2.66 miles total) primarily used materials categorized in the HPA database as soft shore protection (0.56 miles) and large angular rock (1.26 miles) (Figure 3)."
-		},
+			},
 			"figure-4": {
 				"title": "FIGURE 4. PERMITS ISSUED FOR NEW, REMOVED AND REPLACED ARMOR BY COUNTY",
 				"subhead": "2016",
-				"figure-link": "https://pspwa.box.com/s/yr6s7qg9rqz9u41kem5x75re0kafwqvh",
+				"figure-link": "PERMITS-By_COUNTY-figure4.jpg",
 				"caption": "",
 				"source": "",
 				"description": "In 2016, 125 shoreline armor projects for new, removed or replaced armor were permitted (Figure 4). Projects within the geographic boundaries of four counties (Island, Kitsap, Mason and Pierce) accounted for 65% of the total projects in 2016 for new, removed or replaced armor (Figure 4). There were no permitted HPA projects within Whatcom County in 2016. Total shoreline length, shoreforms and length of previously constructed shoreline armor should be taken into account when reviewing new, replaced and removed permits for each year, as the shoreline varies within the geographic boundaries of each county."
-		},
+			},
 			"figure-5": {
 				"title": "FIGURE 5. NEW PERMITTED SHORELINE ARMOR BY COUNTY",
 				"subhead": "2011-2016",
-				"figure-link": "https://pspwa.box.com/s/yr6s7qg9rqz9u41kem5x75re0kafwqvh",
+				"figure-link": "NEW-BY-COUNTY_figure5.jpg",
 				"caption": "",
 				"source": "",
 				"description": "New armor was permitted for construction in all twelve counties around Puget Sound in 2011 – 16 (Figure 5). Nearly 85% of the new shoreline armor by length was permitted for construction in six counties (Pierce, Mason, Skagit, Island, Kitsap, San Juan)."
-		},
+			},
 			"figure-6": {
 				"title": "FIGURE 6. REMOVED PERMITTED SHORELINE ARMOR BY COUNTY",
 				"subhead": "2011-2016",
-				"figure-link": "https://pspwa.box.com/s/yr6s7qg9rqz9u41kem5x75re0kafwqvh",
+				"figure-link": "REMOVED-BY-COUNTY-figure6.jpg",
 				"caption": "",
 				"source": "",
 				"description": "The same dataset indicates that armor was also removed from all twelve counties in 2011-2016 (Figure 6). More armor was removed in Kitsap County from 2011-16 than in any other county, totaling 0.72 miles (3780 feet). Recent large scale shoreline habitat restoration projects in Clallam and Jefferson counties increased armor removal in these counties to account for 27% of the total length of removed armor. Pierce and Island Counties also included projects contributing 22% of the total armor removal. Prior to 2011, shoreline armor removal projects were uncommon, but are present in every year since 2011 (Figure 2)."
-		},
+			},
 			"figure-7": {
 				"title": "FIGURE 7. NEW PERMITTED SHORELINE ARMOR LENGTH BY APPLICANT TYPE",
 				"subhead": "2011-2016",
-				"figure-link": "https://pspwa.box.com/s/yr6s7qg9rqz9u41kem5x75re0kafwqvh",
+				"figure-link": "NEW-BY-APPLICANT-figure7.jpg",
 				"caption": "",
 				"source": "",
 				"description": "We generalized “applicant type” for obtaining permits to remove or construct new shoreline armor, and compiled the data for 2011-2016. New armor is particularly extensive along residential shorelines for single-family residences, accounting for over half of the total new shoreline armor length. Government agencies applied for 31% of the permitted new armor, often associated with bank protection along road corridors. Commercial/industrial, multi-family residences, and non-profit agencies collectively accounted for 15% of the total length of new shoreline armor permits from 2011-2016. (Figure 7)."
-		},
+			},
 			"figure-8": {
 				"title": "FIGURE 8. REMOVED PERMITTED SHORELINE ARMOR LENGTH BY APPLICANT TYPE",
 				"subhead": "2011-2016",
-				"figure-link": "https://pspwa.box.com/s/yr6s7qg9rqz9u41kem5x75re0kafwqvh",
+				"figure-link": "REMOVED-BY-APPLICANT-figure8.jpg",
 				"caption": "",
 				"source": "",
 				"description": "In contrast, shoreline armor removal applicants were typically non-profit and government agencies. Together, these applicant categories accounted for 82% of the total length of shoreline armor removal. Single family residence applicants comprised only 15% of the total, although non-profit and government agencies are often working in partnership with residential landowners on armor removal projects. Agriculture or multi-family use categories did not account for projects in 2016 (Figure 8)."
 			}
-	},
-	"more-description" : "",
-	"why-happening": "While the rate of new shoreline armor construction permitted between 2011 and 2016 has slowed from previous years, the amount of armor removed increased substantially. A continued positive trend in removals, which has occurred since 2005 albeit at a smaller level, is likely associated with both: 1) an increased awareness of the impacts to shoreline functions caused by armor and 2) the efforts by restoration groups to address the problem by seeking potential removal opportunities. ~PNew armor, however, continues to be constructed at the rate of about 0.63 miles per year. This apparent contradiction is in part because the situations where new armor is occurring are quite different than those where it is being removed. New armor construction is driven by a perception of risk—sometimes a very real risk—to property and safety. New armor may occur following severe storms and landslides and may be done as an emergency measure, and therefore may not receive the scrutiny normally applied to such projects. Shorelines are inherently dynamic. Much new armor is likely occurring on properties that were laid out or developed decades ago, without sufficient attention to erosion and flood hazards. The increase in property owners seeking alternative solutions, such as soft shore protection, is worth further investigation to define the motivation to consider alternatives to traditional hard armor practices. ~POn the positive side, restoration groups appear to have become increasingly successful at obtaining funding from restoration grant programs for armor removal projects as indicated by both the scale and number of removals in recent years. In addition, public facilities such as state and county parks have become a large component of the armor removal trend. In addition, almost half of the new construction projects permitted include elements of soft shore protection (i.e. use of natural materials such as logs, gravels), as opposed to traditional hard armor with large rock, rip rap or concrete. ~PGrant funds have also contributed to increased outreach to shoreline property owners, agency staff, contractors, and others who have an interest in the condition of Puget Sound shorelines. Recent studies have provided demographic information on shoreline property owners to facilitate outreach activities that resonate with these owners who have considerable influence on shoreline activities. In addition, most of the local governments on Puget Sound have recently updated Shoreline Master Programs in accordance with the new state guidelines. We expect these to reduce the amount of armor in the future, but our current data do not reflect the potential effect of these new SMPs. The combination of increased awareness, landowner assistance, technical guidance and improved regulatory guidance may allow continued improvement in this indicator.",
-	"references" : "",
-	"target": "From 2011 to 2020, the total amount of armoring removed should be greater than the total amount of new armoring in Puget Sound (total miles removed is greater than the total miles added).",
-	"interim-target": "There currently are no interim targets for this Vital Sign.",
-    "interim-target-title": "",
-	"interim-target-table":"",
-    "map-link": "https://pspwa.box.com/s/yr6s7qg9rqz9u41kem5x75re0kafwqvh",
-	"map-link-text": "FIGURE 9. PUGET SOUND SHORELINE ARMOR LOCATION IN 2011",
-   	"links": {
+		},
+		"more-description": "",
+		"why-happening": "While the rate of new shoreline armor construction permitted between 2011 and 2016 has slowed from previous years, the amount of armor removed increased substantially. A continued positive trend in removals, which has occurred since 2005 albeit at a smaller level, is likely associated with both: 1) an increased awareness of the impacts to shoreline functions caused by armor and 2) the efforts by restoration groups to address the problem by seeking potential removal opportunities. ~PNew armor, however, continues to be constructed at the rate of about 0.63 miles per year. This apparent contradiction is in part because the situations where new armor is occurring are quite different than those where it is being removed. New armor construction is driven by a perception of risk—sometimes a very real risk—to property and safety. New armor may occur following severe storms and landslides and may be done as an emergency measure, and therefore may not receive the scrutiny normally applied to such projects. Shorelines are inherently dynamic. Much new armor is likely occurring on properties that were laid out or developed decades ago, without sufficient attention to erosion and flood hazards. The increase in property owners seeking alternative solutions, such as soft shore protection, is worth further investigation to define the motivation to consider alternatives to traditional hard armor practices. ~POn the positive side, restoration groups appear to have become increasingly successful at obtaining funding from restoration grant programs for armor removal projects as indicated by both the scale and number of removals in recent years. In addition, public facilities such as state and county parks have become a large component of the armor removal trend. In addition, almost half of the new construction projects permitted include elements of soft shore protection (i.e. use of natural materials such as logs, gravels), as opposed to traditional hard armor with large rock, rip rap or concrete. ~PGrant funds have also contributed to increased outreach to shoreline property owners, agency staff, contractors, and others who have an interest in the condition of Puget Sound shorelines. Recent studies have provided demographic information on shoreline property owners to facilitate outreach activities that resonate with these owners who have considerable influence on shoreline activities. In addition, most of the local governments on Puget Sound have recently updated Shoreline Master Programs in accordance with the new state guidelines. We expect these to reduce the amount of armor in the future, but our current data do not reflect the potential effect of these new SMPs. The combination of increased awareness, landowner assistance, technical guidance and improved regulatory guidance may allow continued improvement in this indicator.",
+		"references": "",
+		"target": "From 2011 to 2020, the total amount of armoring removed should be greater than the total amount of new armoring in Puget Sound (total miles removed is greater than the total miles added).",
+		"interim-target": "There currently are no interim targets for this Vital Sign.",
+		"interim-target-title": "",
+		"interim-target-table": "",
+		"map-link": "MAP-ARMOR-figure9.jpg",
+		"map-link-text": "FIGURE 9. PUGET SOUND SHORELINE ARMOR LOCATION IN 2011",
+		"links": {
 			"link0": {
-				"link-name" : "Washington State Department of Fish and Wildlife Aquatic Protection Permitting System. ",
-				"link-url" : "https://www.govonlinesaas.com/WA/WDFW/Public/Client/WA_WDFW/Shared/Pages/Main/Login.aspx"
+				"link-name": "Washington State Department of Fish and Wildlife Aquatic Protection Permitting System. ",
+				"link-url": "https://www.govonlinesaas.com/WA/WDFW/Public/Client/WA_WDFW/Shared/Pages/Main/Login.aspx"
 			},
-			
+
 			"link1": {
-				"link-name" : "Shore Friendly Program",
-				"link-url" : "http://www.shorefriendly.org"
+				"link-name": "Shore Friendly Program",
+				"link-url": "http://www.shorefriendly.org"
 			},
-			
+
 			"link2": {
-				"link-name" : "Washington Department of Fish and Wildlife Marine Shoreline Design Guidelines. ",
-				"link-url" : "http://wdfw.wa.gov/publications/01583/"
+				"link-name": "Washington Department of Fish and Wildlife Marine Shoreline Design Guidelines. ",
+				"link-url": "http://wdfw.wa.gov/publications/01583/"
 			}
 		}
-  }
+	}
 }
