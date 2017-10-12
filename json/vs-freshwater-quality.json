@@ -16,14 +16,14 @@
 		"highlight_photo": "image link",
 		"links": {
 			"section1": {
-				"category": "Actions, projects and effectiveness",
+				
 				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSFreshwaterQuality.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
 				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSFreshwaterQuality'>Restoration and protection projects related to this Vital Sign</a>",
 				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>",
 				"link4": "<a href='https://pspwa.box.com/v/BIBI-IS-Public'>Implementation Strategy for this Vital Sign</a>"
 			},
 			"section2": {
-				"category": "Background documents",
+				
 				"link1": "<a href='https://pspwa.box.com/s/b1npg5p8462p52ege4vaq3uvsmdnno2s'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
 				"sub-category1": "Technical reports (PDF)",
 				"link2": "<a href='https://pspwa.box.com/s/9t6ohicsl3htxghp3g6is0rg1a08t4s3'>Runoff</a>",
@@ -31,7 +31,7 @@
 				"link4": "<a href='https://pspwa.box.com/s/90tbto8ty534a38fyd2dcymlkl8ryh6k'>Water quality target summary</a>"
 			},
 			"section3": {
-				"category": "Other Resources",
+				
 				"link1": "<a href='https://nwifc.org/publications/state-of-our-watersheds'>State of our Watersheds Report by the Northwest Indian Fisheries Commission</a>",
 				"link2": "<a href='https://www.eopugetsound.org/terms/367'>Encyclopedia Of Puget Sound Stormwater</a>",
 				"link3": "<a href='http://stateofsalmon.wa.gov'>State of the Salmon</a>"

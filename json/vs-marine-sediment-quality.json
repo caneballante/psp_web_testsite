@@ -9,28 +9,28 @@
 		"key-messages": "~B Progress is mixed, with more certainty that the status of the Vital Sign is getting somewhat worse. However, some aspects of the Vital Sign are rated as either not changing or making progress.~B Sediment chemistry - The majority of Puget Sound sediments sampled from 1997-2015 do not have elevated levels of measured chemical contaminants.  Highest concentrations were near population and industrial centers, with improvements seen in these areas over time.~B Sediment toxicity – 88% of Puget Sound sediments measured from 1997-2015 were non-toxic.  Sediments with low, moderate, or high toxicity were located near urban and non-urban terminal inlets and areas with poor circulation, low dissolved oxygen, and high sulfides.~B Benthic invertebrates – Significant declines in total abundance and taxa richness occurred in sediment-dwelling invertebrate assemblages in Puget Sound regions and bays sampled from 1997-2015.   Declines were also noted for these stations grouped by harbor, urban, passage, and rural characteristics.~B Little correspondence between measures – Statistical analyses revealed low correspondence between the sediment chemistry, toxicity, and invertebrate community characteristics measured in sediments throughout Puget Sound from 1997-2015.~B Alternative environmental pressures – Declines occurring in invertebrate community condition despite low and declining sediment contaminant levels point to stresses from other environmental pressures, for example climate change, ocean acidification, nutrient loading, which should now be examined.",
 
 		"indicators": {
-			"indicator1_name": "Sediment Quality Triad Index",
-			"indicator2_name": "Sediment Chemistry Index",
-			"indicator3_name": "Chemicals exceeding Sediment Quality Standards"
+			"indicator1_name": "in-sediment-quality-triad.json",
+			"indicator2_name": "in-sediment-chemistry-index.json",
+			"indicator3_name": "in-chemical-measurements-exceeding-sqs.json"
 		},
 		"highlights": "highlights",
 		"highlight_photo": "image link",
 		"links": {
 			"section1": {
-				"category": "Actions, projects and effectiveness",
+				
 				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSMarineSedimentQuality.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
 				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSMarineSedimentQuality'>Restoration and protection projects related to this Vital Sign</a>",
 				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
 			},
 			"section2": {
-				"category": "Background documents",
+				
 				"link1": "<a href='https://pspwa.box.com/s/lezr2u5wmckdy2zkgtok4frxjvvw7sss'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
 				"sub-category1": "Technical reports (PDF)",
 				"link2": "<a href='https://pspwa.box.com/s/4m235gvflo2ebujxl6tquurwen8946iq'>Target Options</a>",
 				"link3": "<a href='https://pspwa.box.com/s/3ufcax6c21yfvtebfxayj792znq5usrm'>Brief Sheet</a>"
 			},
 			"section3": {
-				"category": "Other Resources",
+				
 				"link1": "<a href='https://nwifc.org/publications/state-of-our-watersheds'>State of our Watersheds Report by the Northwest Indian Fisheries Commission</a>",
 				"link2": "<a href='https://www.eopugetsound.org/search/site/sediment'>Encyclopedia Of Puget Sound</a>"
 			}

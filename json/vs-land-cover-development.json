@@ -17,14 +17,14 @@
 		"highlight_photo": "image link",
 		"links": {
 			"section1": {
-				"category": "Actions, projects and effectiveness",
+				
 				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSLandDevelopmentandCover.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
 				"link2": "<a href=http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSLandDevelopmentandCover'>Restoration and protection projects related to this Vital Sign</a>",
 				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>",
 				"link4": "<a href='https://pspwa.box.com/v/LandDevEcoIS-Phase1-Public'>Implementation Strategy for this Vital Sign</a>"
 			},
 			"section2": {
-				"category": "Background documents",
+				
 				"link1": "<a href='https://pspwa.box.com/s/kjg5o8vw2m3u5y152hj9x74yw9rcn339'>Leadership Council resolution adopting indicators and ecosystem recovery targets - Forest Loss and riparian restoration (PDF)</a>",
 				"link2": "<a href=' https://pspwa.box.com/s/zlhlvin1s6ou07smptm208jxj0xeul2j'>Leadership Council resolution adopting indicators and ecosystem recovery targets - Ecologically Important Lands  (PDF)</a>",
 				"link3": "<a href='https://pspwa.box.com/s/xp2uzc79pamcum7ty37bs6zpn5887wz1'>Leadership Council resolution adopting indicators and ecosystem recovery targets - UGAs (PDF)</a>",
@@ -33,7 +33,7 @@
 				"link5": "<a href='https://pspwa.box.com/s/n6ikgcj8kmex2fpjikrb6oa55hvov7xk'>Technical Memorandum</a>"
 			},
 			"section3": {
-				"category": "Other Resources",
+				
 				"link1": "<a href='https://nwifc.org/publications/state-of-our-watersheds'>State of our Watersheds Report by the Northwest Indian Fisheries Commission</a>",
 				"link2": "<a href='https://www.eopugetsound.org/terms/83'>Encyclopedia Of Puget Sound</a>",
 				"link3": "<a href='http://stateofsalmon.wa.gov'>State of the Salmon</a>"

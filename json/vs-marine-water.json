@@ -17,19 +17,19 @@
 		"highlight_photo": "image link",
 		"links": {
 			"section1": {
-				"category": "Actions, projects and effectiveness",
+				
 				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSMarineWaterQuality.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
 				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSMarineWaterQuality'>Restoration and protection projects related to this Vital Sign</a>",
 				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
 			},
 			"section2": {
-				"category": "Background documents",
+				
 				"link1": "<a href='https://pspwa.box.com/s/x742fk7su4dlbag72xjcx6s0pg5x64es'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
 				"sub-category1": "Technical reports (PDF)",
 				"link2": "<a href='https://pspwa.box.com/s/1gmvzewrk972n3le6ru7z7ge5jbgr6ol'>Target brief sheet</a>"
 			},
 			"section3": {
-				"category": "Other Resources",
+				
 				"link1": "<a href='https://nwifc.org/publications/state-of-our-watersheds'>State of our Watersheds Report by the Northwest Indian Fisheries Commission</a>",
 				"link2": "<a href='https://www.eopugetsound.org/terms/14'>Encyclopedia Of Puget Sound Water Quality</a>",
 				"link3": "<a href='https://www.eopugetsound.org/terms/213'>Encyclopedia Of Puget Sound Dissolved Oxygen</a>"

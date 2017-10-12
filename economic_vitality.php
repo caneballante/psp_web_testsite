@@ -8,8 +8,8 @@
 <title>Economic Vitality Vital Sign</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
-<link href="http://www/psp.wa.gov/css/bootstrap.css" rel="stylesheet">
-<link href="http://www/psp.wa.gov/css/custom.css" rel="stylesheet" type="text/css">
+<link href="http://www.psp.wa.gov/css/bootstrap.css" rel="stylesheet">
+<link href="http://www.psp.wa.gov/css/custom.css" rel="stylesheet" type="text/css">
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -25,7 +25,7 @@
 	<script> navSelected = 6;  subNavSelected = 18;
 	</script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js"></script>
+
 	
 	<script> //setting the unused variable to 0 to flag the if statement to run either the VS or IN code.
 		var whatIN = 0; 

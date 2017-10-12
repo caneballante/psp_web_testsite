@@ -1,6 +1,6 @@
 {
 	"vitalSign": {
-		"goal": "Thriving Species and Food Webs",
+		"goal": "Thriving Species and Food Web",
 		"name": "Chinook Salmon",
 		"lead": "PSEMP Salmonid Workgroup",
 		"contact": "tristan.peter-contesse@psp.wa.gov",
@@ -15,20 +15,20 @@
 		"highlight_photo": "image link",
 		"links": {
 			"section1": {
-				"category": "Actions, projects and effectiveness",
+				
 				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSChinook.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
 				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSChinook'>Restoration and protection projects related to this Vital Sign</a>",
 				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>",
 				"link4": "<a href='https://pspwa.box.com/v/PublicIS-Chinook'>Implementation Strategy for this Vital Sign"
 			},
 			"section2": {
-				"category": "Background documents",
+				
 				"link1": "<a href='https://pspwa.box.com/s/esy5dvqxv4roopabp9uevds1q47ea0fg'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
 				"sub-category1": "Technical reports (PDF)",
 				"link2": "<a href='https://pspwa.box.com/s/oppbahlx9gxr4fkhsaddk55ynbfhf0rq'>Target briefsheet</a>"
 			},
 			"section3": {
-				"category": "Other Resources",
+				
 				"link1": "<a href='https://nwifc.org/publications/state-of-our-watersheds'>State of our Watersheds Report by the Northwest Indian Fisheries Commission</a>",
 				"link2": "<a href='https://www.eopugetsound.org/terms/363'>Encyclopedia Of Puget Sound</a>",
 				"link3": "<a href='http://stateofsalmon.wa.gov'>State of the Salmon</a>"

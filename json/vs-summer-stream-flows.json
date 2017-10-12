@@ -1,6 +1,6 @@
 {
 	"vitalSign": {
-		"goal": "Abundant Water",
+		"goal": "Abundant Water Quantity",
 		"name": "Summer Stream Flows",
 		"lead": "PSEMP Freshwater Workgroup",
 		"contact": "leska.fore@psp.wa.gov",
@@ -12,19 +12,19 @@
 		},
 	"links": {
 			"section1": {
-				"category": "Actions, projects and effectiveness",
+				
 				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSSummerStreamFlows.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
 				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSSummerStreamFlows'>Restoration and protection projects related to this Vital Sign</a>",
 				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
 			},
 			"section2": {
-				"category": "Background documents",
+				
 				"link1": "<a href='https://pspwa.box.com/s/m0ts01tk96gsqa1fwjyvhpg3568rgfhi'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
 				"sub-category1": "Technical reports (PDF)",
 				"link2": "<a href='https://pspwa.box.com/s/kronecso6qyl1iajmxc3mg6nkey9av1s'>Brief Sheet</a>"
 				},
 			"section3": {
-				"category": "Other Resources",
+				
 				"link1": "<a href='https://nwifc.org/publications/state-of-our-watersheds'>State of our Watersheds Report by the Northwest Indian Fisheries Commission</a>",
 				"link2": "<a href='https://www.eopugetsound.org/terms/47'>Encyclopedia Of Puget Sound</a>",
 				"link3": "<a href='http://stateofsalmon.wa.gov'>State of the Salmon</a>"

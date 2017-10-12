@@ -8,8 +8,8 @@
 <title>Vital Sign Data Summary</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
-<link href="http://www/psp.wa.gov/css/bootstrap.css" rel="stylesheet">
-<link href="http://www/psp.wa.gov/css/custom.css" rel="stylesheet" type="text/css">
+<link href="http://www.psp.wa.gov/css/bootstrap.css" rel="stylesheet">
+<link href="http://www.psp.wa.gov/css/custom.css" rel="stylesheet" type="text/css">
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
@@ -70,7 +70,7 @@
 			<div><img src="images/vitalsigns/logos/PSEMP.jpg" width="125" height="147" alt=""/></div>
 		</div>
 		 
-		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" --><div id="show-indicators"></div><script src="js/vital.js"></script><script src="js/datasummary.js"></script><!-- InstanceEndEditable --></div>
+		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" --><h2 class="margin-0-top">Vital Signs Data Summary</h2><div id="show-indicators"></div><script src="js/vital.js"></script><script src="js/datasummary.js"></script><!-- InstanceEndEditable --></div>
 		
 		</div>
 	<!--END OF ROW --> 

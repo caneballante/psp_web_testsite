@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>2017 Vital Signs - Sound behavior index</title>
+<title>2017 Vital Signs - Nature based work</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="http://www.psp.wa.gov/css/bootstrap.css" rel="stylesheet">
@@ -22,13 +22,13 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
-	<script>  navSelected = 6;  subNavSelected = 75;
+	<script>  navSelected = 5;  subNavSelected = 75;
 	</script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script> 
 		// set to zero to indicate this isn't that kind of page. Used for if statement to run either VS or IN code
 		var whatVS = 0; 
-		var whatIN = "in-sound-behavior.json";
+		var whatIN = "in-nature-based-work.json";
 	</script>
 	<link href="css/style.css" rel="stylesheet" type="text/css">
 

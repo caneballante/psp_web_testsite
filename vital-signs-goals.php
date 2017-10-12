@@ -71,7 +71,7 @@
 		</div>
 		 
 		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" -->
-			<h2>WHAT ARE THE ECOSYSTEM RECOVERY GOALS?</h2>
+			<h2 class="margin-0-top">WHAT ARE THE ECOSYSTEM RECOVERY GOALS?</h2>
 			<p>The Washington State Legislature, in the 2007 legislation creating the Puget Sound Partnership, identified six ecosystem recovery goals for Puget Sound: </p>
 			<ul>
 				<li><strong>Healthy Human Population:</strong> A healthy population supported by a healthy Puget Sound that is not threatened by changes in the ecosystem</li>

@@ -37,6 +37,7 @@ $(document).ready(function () {
 	};
 	
 	function colorMaker (colorify){
+		console.log("colormaker runs! and received ="+colorify);
 		if (colorify === "Healthy Human Population"){
 			colorify = "green-header";
 			return(colorify);
@@ -81,23 +82,27 @@ $(document).ready(function () {
 		function vsDataShow () {	
 
 			//goal
-			var vsGoal = ('<p>' + dataVS['vitalSign']['goal'] + '</p>');
+			var vsGoal = (dataVS['vitalSign']['goal']);
+			var vsGoalColor = colorMaker(vsGoal);
+			console.log("color = " +vsGoalColor);
 			$('#show-goal').html(vsGoal);
+			$('#show-goal').addClass(vsGoalColor);
 
 			//name
-			var vsName = ('<p>' + dataVS['vitalSign']['name'] + '</p>');
+			var vsName = (dataVS['vitalSign']['name']);
 			$('#show-name').html(vsName);
+			$('#show-name').addClass(vsGoalColor);
 
 			//lead
-			var vsLead = ('<p>' + dataVS['vitalSign']['lead'] + '</p>');
+			var vsLead = (dataVS['vitalSign']['lead']);
 			$('#show-lead').html(vsLead);
 
 			//contact
-			var vsContact = ('<p>' + dataVS['vitalSign']['contact'] + '</p>');
+			var vsContact = (dataVS['vitalSign']['contact']);
 			$('#show-contact').html(vsContact);
 			
 			//last updated
-			var vsLastUpdated = ('<p>' + dataVS['vitalSign']['last-updated'] + '</p>');
+			var vsLastUpdated = (dataVS['vitalSign']['last-updated']);
 			$('#show-vs-last-updated').html(vsLastUpdated);
 
 			//what
@@ -165,7 +170,7 @@ $(document).ready(function () {
 					
 					
 					
-					var allIndicators = '<p> <strong>Indicator name:</strong> ' + vsINName + ' <strong>Status:</strong> ' + vsINStatus + ' <strong>Progress: </strong>' + vsINProgress + '</p>';
+					var allIndicators = '<p>' + vsINName + ' = <strong>Status:</strong> ' + vsINStatus + ' <strong>Progress: </strong>' + vsINProgress + '</p>';
 					$('#show-indicators').append(allIndicators);
 				});			
 			});
@@ -328,7 +333,7 @@ $(document).ready(function () {
 				var inDataTitle = '<p>'+(dataSet['title'])+'</p>';
 				var inDataSubhead = '<p><em>'+(dataSet['subhead'])+'</em></p>';
 				var inDataFigure = '<img class="img-responsive" src="images/vitalsigns/' + (dataSet['figure-link']) + '"  alt=""/>';
-				var inDataCaption = '<p>'+(dataSet['caption'])+'</p>';
+				var inDataCaption = '<p><em>'+(dataSet['caption'])+'</em></p>';
 				var inDataSource = '<p class="caption"><em>'+(dataSet['source'])+'</em></p><br>';
 				var inDataDescription = (dataSet['description']);
 				var inDataDescriptionBullets = bulletMaker(inDataDescription);

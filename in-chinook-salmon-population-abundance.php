@@ -8,8 +8,8 @@
 <title>2017 Vital Signs - Chinook population abundance</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
-<link href="http://www/psp.wa.gov/css/bootstrap.css" rel="stylesheet">
-<link href="http://www/psp.wa.gov/css/custom.css" rel="stylesheet" type="text/css">
+<link href="http://www.psp.wa.gov/css/bootstrap.css" rel="stylesheet">
+<link href="http://www.psp.wa.gov/css/custom.css" rel="stylesheet" type="text/css">
 <!-- loads the wf-loading class right away to minimize FOUT -->
 <script>document.documentElement.className += ' wf-loading';</script>
 <!-- Font PRENTON TYPEKIT -->
