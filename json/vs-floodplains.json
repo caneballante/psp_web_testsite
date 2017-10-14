@@ -5,7 +5,7 @@
 		"lead": "TBD",
 		"contact": "nathalie.hamel@psp.wa.gov",
 		"last-updated": "September 20, 2017",
-		"what": "A functioning, resilient Puget Sound ecosystem is defined to include tidally-influenced wetland habitats at the estuaries of Puget Sound’s major rivers that provide ecosystem functions, goods, and services. 75% of river delta tidal wetlands have been lost or degraded in Puget Sound. River delta estuaries, a unique environment where freshwater mixes with salt water and sediments collect, provide important feeding and resting habitat for young salmon, migratory birds, and many other species that cannot find these unique benefits in any other place in our landscape. These areas are also highly valuable for people: they have been heavily developed and they provide some of the most fertile agricultural lands in the region. The estuary Vital Sign tracks protection, loss, and restoration of large and small estuaries.",
+		"what": "Floodplains provide critical functions and services like absorbing overflow from heavy rains, providing refuge, food, and fresh water for a variety of species as well as good agricultural land and flat land that supports a variety of human uses. This Vital Sign tracks protection, loss and progress toward recovering the function of our many floodplains that have been lost through a combination of shoreline armoring, levees and residential, commercial, industrial and agricultural development.",
 		"key-messages": "~SL Floodplains work like giant sponges. As rains increase with fall storms and snowpack melts in the mountains in spring and early summer, waters in the rivers around Puget Sound rise and flood low-lying land along the rivers and streams. In addition to absorbing this overflow, floodplains provide functions and services like refuge, food, and fresh water for a variety of species, good agricultural land through soil and habitat formation, and flat land that supports a variety of human uses. ~B Unfortunately, the functions and services in large areas of floodplains in Puget Sound have been lost through a combination of shoreline armoring and levees, as well as residential, commercial, industrial, and agricultural development. Improving riverside and floodplain habitat is a key part of virtually all recovery plans for endangered salmon. Restoration and better management of floodplains are essential for both recovering salmon and Puget Sound.~EL",
 
 		"indicators": {
@@ -31,7 +31,10 @@
 			"section3": {
 				
 				"link1": "<a href='https://nwifc.org/publications/state-of-our-watersheds'>State of our Watersheds Report by the Northwest Indian Fisheries Commission</a>",
-				"link2": "<a href='https://www.eopugetsound.org/terms/350'>Encyclopedia Of Puget Sound</a>"
+				"link2": "<a href='https://www.eopugetsound.org/terms/350'>Encyclopedia Of Puget Sound</a>",
+				"link3": "<a href='http://www.floodplainsbydesign.org/>Floodplain by Design</a>",
+				"link4": "<a href='http://www.ecy.wa.gov/programs/sea/floods/index.html>Washington State Department of Ecology Floodplain Management Program</a>"
+				
 			}
 		}
 

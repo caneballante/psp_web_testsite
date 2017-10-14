@@ -4,6 +4,7 @@ $(document).ready(function () {
 		console.log("data summary if ran")
 		$.getJSON("json/indicator-list.json", function (data6) {
 				dataINList = data6;
+				console.log(dataINList);
 				rollUpMaker(dataINList);
 				
 			});			
@@ -13,10 +14,15 @@ $(document).ready(function () {
 			$.each((dataINList['indicators']), function(i, indicator) {
 				$.getJSON("json/" + indicator, function (data4) {
 					dataIN = data4;
-					var vsINName = (dataIN['indicator']['indicator-name']);
 					
 					
-					var vsINProgress = (dataIN['indicator']['progress-icon']);
+					var vsINName = {
+						name: (dataIN['indicator']['indicator-name']),
+						vsINProgress: (dataIN['indicator']['progress-icon']),
+						vsINStatus : (dataIN['indicator']['status-icon'])
+					}
+					
+					/*var vsINProgress = (dataIN['indicator']['progress-icon']);
 					console.log ("*******" + vsINProgress + "*******" )
 					if (vsINProgress==="GETTING WORSE"){
 						vsINProgressIcon='<img src="images/vitalsigns/icons/gettingworse_sm.jpg" />';
@@ -37,10 +43,10 @@ $(document).ready(function () {
 					if (vsINProgress==="GETTING BETTER"){
 						vsINProgressIcon='<img src="images/vitalsigns/icons/gettingbetter_sm.jpg" />';
 						console.log(vsINName +"= getting better "  + vsINProgressIcon);
-					};
+					};*/
 					
 					
-					var vsINStatus= (dataIN['indicator']['status-icon']);
+				/*	var vsINStatus= (dataIN['indicator']['status-icon']);
 					console.log ("*******" + vsINStatus + "*******" )
 					if (vsINStatus==="BELOW 2020 TARGET"){
 						vsINStatusIcon='<img src="images/vitalsigns/icons/belowtarget-sm.jpg" />';
@@ -54,10 +60,10 @@ $(document).ready(function () {
 						vsINStatusIcon='<img src="images/vitalsigns/icons/insufficientornodata_sm.jpg" />';
 						console.log(vsINStatus +"= no "  + vsINStatusIcon);
 					};
+					*/
+					/*var allIndicators = '<tr><td width="500px"><span class="indicator-list">' + vsINName +'</span></td><td> ' + vsINStatusIcon  + '</td><td><span class="indicator-list">' + vsINStatus + ' </span></td><td> ' + vsINProgressIcon  + '</td><td><span class="indicator-list">' + vsINProgress + ' </span></td></tr>';*/
 					
-					
-					/*var allIndicators = '<tr><td><span class="indicator-list"> <strong>' + vsINName + ' </strong></span> </td><td> <span class="indicator-list"> ' + vsINProgress + " " + vsINProgressIcon  + " </span></td><td><span class="indicator-list">  " + vsINStatus + " " + vsINStatusIcon + '</span></td></tr>';*/
-					var allIndicators = '<tr><td width="500px"><span class="indicator-list">' + vsINName +'</span></td><td> ' + vsINStatusIcon  + '</td><td><span class="indicator-list">' + vsINStatus + ' </span></td><td> ' + vsINProgressIcon  + '</td><td><span class="indicator-list">' + vsINProgress + ' </span></td></tr>';
+					var allIndicators = '<tr><td width="500px"><span class="indicator-list">'+ i + ' : ' + [vsINName.name] +'</span></td><td> ' + "test"  + '</td><td><span class="indicator-list">' + "test" + ' </span></td><td> ' + "test"  + '</td><td><span class="indicator-list">' + "test" + ' </span></td></tr>';
 				
 					$('#show-indicators table').append(allIndicators);
 				});			
