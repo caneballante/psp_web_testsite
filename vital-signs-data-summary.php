@@ -70,7 +70,63 @@
 			<div><img src="images/vitalsigns/logos/PSEMP.jpg" width="125" height="147" alt=""/></div>
 		</div>
 		 
-		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" --><h2 class="margin-0-top">Vital Signs Data Summary</h2><div id="show-indicators"></div><script src="js/vital.js"></script><script src="js/datasummary.js"></script><!-- InstanceEndEditable --></div>
+		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" --><h2 class="margin-0-top">Vital Signs Data Summary</h2><div id="show-indicators"></div><script src="js/vital.js"></script><script src="js/datasummary1.js"></script>
+		<table class='table' id="summaryTable"><tr><td>INDICATOR</td><td colspan='2'>STATUS<strong></strong></td><td colspan='2'>PROGRESS</td></tr>
+		
+			<tr id="0"></tr>
+			<tr id="1"></tr>
+			<tr id="2"></tr>
+			<tr id="3"></tr>
+			<tr id="4"></tr>
+			<tr id="5"></tr>
+			<tr id="6"></tr>
+			<tr id="7"></tr>
+			<tr id="8"></tr>
+			<tr id="9"></tr>
+			<tr id="10"></tr>
+			<tr id="11"></tr>
+			<tr id="12"></tr>
+			<tr id="13"></tr>
+			<tr id="14"></tr>
+			<tr id="15"></tr>
+			<tr id="16"></tr>
+			<tr id="17"></tr>
+			<tr id="18"></tr>
+			<tr id="19"></tr>
+			<tr id="20"></tr>
+			<tr id="21"></tr>
+			<tr id="22"></tr>
+			<tr id="23"></tr>
+			<tr id="24"></tr>
+			<tr id="25"></tr>
+			<tr id="26"></tr>
+			<tr id="27"></tr>
+			<tr id="28"></tr>
+			<tr id="29"></tr>
+			<tr id="30"></tr>
+			<tr id="31"></tr>
+			<tr id="32"></tr>
+			<tr id="33"></tr>
+			<tr id="34"></tr>
+			<tr id="35"></tr>
+			<tr id="36"></tr>
+			<tr id="37"></tr>
+			<tr id="38"></tr>
+			<tr id="39"></tr>
+			<tr id="40"></tr>
+			<tr id="41"></tr>
+			<tr id="42"></tr>
+			<tr id="43"></tr>
+			<tr id="44"></tr>
+			<tr id="45"></tr>
+			<tr id="46"></tr>
+			<tr id="47"></tr>
+			<tr id="48"></tr>
+			<tr id="49"></tr>
+			
+		</table>
+		
+		<!-- InstanceEndEditable --></div>
 		
 		</div>
 	<!--END OF ROW --> 
