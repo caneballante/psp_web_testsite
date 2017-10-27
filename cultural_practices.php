@@ -65,7 +65,10 @@
 					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
-			<div><img src="images/vitalsigns/logos/PSEMP.jpg" width="125" height="147" alt=""/></div>
+			<div><br>
+<br>
+				<div class="no-icon"><a href="http://www.psp.wa.gov/evaluating-PSEMP.php"><img src="images/vitalsigns/logos/PSEMP.png" alt="" width="260" height="86" title="PSEMP logo"/></a><br><br></div>
+</div>
 		</div>
 		 
 		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" --><?php include 'includes/vs-content.html';?>

@@ -82,7 +82,10 @@
 					<!-- TemplateEndEditable -->
 				</ul>
 			</div>
-			<div><img src="../images/vitalsigns/logos/PSEMP.jpg" width="125" height="147" alt=""/></div>
+			<div><br>
+<br>
+				<div class="no-icon"><a href="http://www.psp.wa.gov/evaluating-PSEMP.php"><img src="../images/vitalsigns/logos/PSEMP.png" alt="" width="260" height="86" title="PSEMP logo"/></a><br><br></div>
+</div>
 		</div>
 		<!-- TemplateEndIf --> <!-- TemplateBeginIf cond="OptionalRegion6" -->
 		<div class="col-sm-7 padding-20-top content-column"> <!-- TemplateBeginEditable name="6col_content" -->
