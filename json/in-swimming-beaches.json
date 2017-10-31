@@ -9,8 +9,8 @@
 		"last-updated": "June 28, 2017",
 		"status-icon": "BELOW 2020 TARGET",
 		"progress-icon": "NOT IMPROVING",
-		"progress-icon-tagline": "There was no significant change in this indicator relative to a baseline reference.",
-		"progress-description": "Over the longer term, there was no upward or downward trend. ~P There has been no progress toward the 2020 target for swimming beaches. Although the majority of monitored swimming beaches have met EPA standards for enterococci fecal bacteria, the target of 100% has not been met to date.~P Since 2004, many local bacteria problems have been identified and corrected. Overall, there are year-to-year fluctuations in marine water quality at swimming beaches, but no clear trend in progress toward the goal. ",
+		
+		"progress-description": "Over the longer term, there was no upward or downward trend. ~P There has been no progress toward the 2020 target for swimming beaches. Although the majority of monitored swimming beaches have met EPA standards for enterococci fecal bacteria, the target of 100% has not been met to date.~P Since 2004, many local bacteria problems have been identified and corrected. Overall, there are year-to-year fluctuations in marine water quality at swimming beaches, but no clear trend in progress toward the goal.",
 		"what": "This indicator is the condition of swimming beaches.~P The condition of swimming beaches indicator reflects marine water quality conditions in areas heavily used for recreation. Swimming beaches not meeting water quality criteria indicate increased risk of people getting sick through gastrointestinal illnesses, respiratory illnesses, and skin infections. ~P Washington’s BEACH Program was launched in 2003 in response to the BEACH Act, which amended the U.S. Clean Water Act in 2000. A collaboration between the Department of Ecology, Department of Health and local health jurisdictions, and Tribes, the program monitors high-use/high-risk beaches throughout the Puget Sound and Washington’s coast. ~P The number of monitored beaches varies from year to year depending on availability of funding and where water quality issues arise. A subset of beaches are sampled every year and are called the “core” beaches.~P For this indicator, a beach that passes swimming standards means there is no more than one swimming advisory or closure during the summer. A swimming advisory is issued if bacteria levels are greater than 104 enterococcus/100mL, and a swimming closure is issued if bacteria levels are greater than 276 enterococcus/100mL.only one or less instance of a weekly result greater than or equal to 104 colony forming units per /100mL. ",
 		"data": {
 			"figure-1": {
@@ -22,9 +22,9 @@
 				"description": "In 2016, 92% of the beaches monitored met EPA’s swimming criteria. This is higher than the 2004 baseline of 85%; and higher than the 2004-2016 average of 83% passing. "
 			},
 			"figure-2": {
-				"title": "TABLE 2. MONITORING RESULTS FOR CONDITIONS AT ALL MONITORED SWIMMING BEACHES IN PUGET SOUND ",
+				"title": "TABLE 1. MONITORING RESULTS FOR CONDITIONS AT ALL MONITORED SWIMMING BEACHES IN PUGET SOUND ",
 				"subhead": "2004-2016",
-				"figure-link": "swimming-beaches-table2.jpg",
+				"figure-link": "swimming-beaches-table1.jpg",
 				"caption": "",
 				"source": "",
 				"description": "From 2015 to 2016, efforts by the Skagit County Pollution Identification and Correction (PIC) program to correct pollution sources resulted in a significant improvement in water quality at Bay View State Park.~P During the 2016 swim season (Memorial Day through Labor Day), 5 of 61 of monitored beaches (8%) did not meet our recreational water quality criteria. The five beaches that had more than one exceedance of the swimming standard during the swimming season were: ~SL Edmonds Underwater Park in Snohomish County~B Freeland County Park in Island County~B Pomeroy Park-Manchester Beach in Kitsap County~B Saltwater State Park in King County~B Sunnyside Beach Park in Pierce County ~EL ~P In previous years Edmonds Underwater Park beach has had good water quality. In 2016 this beach had two weeks when bacteria levels were high, in the swimming closure range. Beach staff conducted an investigation at this beach and met with Snohomish County Health and City of Edmonds to discuss the beach closures.~P The beach at Freeland County Park continues to have closures due to high bacteria levels. The source of the bacteria is likely decaying seaweed (beach wrack) that collects during summer months. Summer winds cause buildup of beach wrack up to two feet deep on this north facing beach. ~P Pomeroy Park-Manchester Beach, Saltwater State Park and Sunnyside Beach generally have good water quality.  These beaches had two weeks of high levels of bacteria, but there was no conclusive reason for the high levels.~P Considering the same core beaches over time, no clear trend emerges in water quality at swimming beaches. Rather, results fluctuate from year-to-year. Some beaches have chronic bacteria problems that are difficult to solve. However, problems at other beaches are often temporary and quickly resolved and reflect localized problems rather than trends over all in Puget Sound water quality."
@@ -36,8 +36,8 @@
 		"references": "",
 		"target": "To have all monitored beaches in Puget Sound meet EPA standards for what is called enterococcus, a type of fecal bacteria.",
 		"interim-target": "<a href='http://www.psp.wa.gov/downloads/interimtargets/Swimming%20Beaches%20Interim%20Targets%20-%20FINAL.pdf'>Link to interim targets </a>",
-		"interim-target-title": "TABLE 1. PROGRESS TOWARD 2016 INTERIM TARGET",
-		"interim-target-table": "swimming-beaches-table1.jpg",
+		"interim-target-title": "TABLE 2. PROGRESS TOWARD 2016 INTERIM TARGET",
+		"interim-target-table": "swimming-beaches-table2.jpg",
 		"map-link": "https://fortress.wa.gov/ecy/coastalatlas/Tools/BeachClosure.aspx",
 		"map-link-text": "FIGURE 2. SWIMMING BEACHES, WASHINGTON STATE COASTAL ATLAS",
 		"links": {

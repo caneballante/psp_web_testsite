@@ -2,11 +2,11 @@
 	"vitalSign": {
 		"goal": "Protected and Restored Habitat",
 		"name": "Floodplains",
-		"lead": "TBD",
+		"lead": "Jennifer Burke, Nathalie Hamel, and Leah Kintner at the Puget Sound Partnership",
 		"contact": "nathalie.hamel@psp.wa.gov",
-		"last-updated": "September 20, 2017",
-		"what": "Floodplains provide critical functions and services like absorbing overflow from heavy rains, providing refuge, food, and fresh water for a variety of species as well as good agricultural land and flat land that supports a variety of human uses. This Vital Sign tracks protection, loss and progress toward recovering the function of our many floodplains that have been lost through a combination of shoreline armoring, levees and residential, commercial, industrial and agricultural development.",
-		"key-messages": "~SL Floodplains work like giant sponges. As rains increase with fall storms and snowpack melts in the mountains in spring and early summer, waters in the rivers around Puget Sound rise and flood low-lying land along the rivers and streams. In addition to absorbing this overflow, floodplains provide functions and services like refuge, food, and fresh water for a variety of species, good agricultural land through soil and habitat formation, and flat land that supports a variety of human uses. ~B Unfortunately, the functions and services in large areas of floodplains in Puget Sound have been lost through a combination of shoreline armoring and levees, as well as residential, commercial, industrial, and agricultural development. Improving riverside and floodplain habitat is a key part of virtually all recovery plans for endangered salmon. Restoration and better management of floodplains are essential for both recovering salmon and Puget Sound.~EL",
+		"last-updated": "October 30th, 2017",
+		"what": "A floodplain is the low-lying area adjacent to a river channel or estuarine embayment that can be inundated by flood water or subject to channel migration.~P Floodplains are dynamic landscapes that provide irreplaceable ecosystem services including mitigating damage from floods, providing recreational opportunities for the public, and in many cases supporting resource lands such as agriculture.~P As population growth and associated development needs continue to modify floodplains, the ability of floodplains to provide ecosystem services is impaired, with potentially adverse consequences to people, property, habitats and other species they support.~P In the Puget Sound, intact, healthy floodplains:~SL Provide habitat for Endangered Species Act (ESA)-listed Salmon, important to generations of Tribes.~B Protect billions of dollars of development and infrastructure by providing flood storage and mitigating flood flows. ~B Provide some of Washington State’s most productive agricultural land and public recreational opportunities.~B Provide a variety of other ecosystem and resiliency functions such as water filtration.~EL ~P The Floodplain Vital Sign tracks protection, loss, and progress toward recovering the function of floodplains associated with major rivers in Puget Sound.",
+		"key-messages": "~SL The total footprint of floodplains along major rivers is currently estimated at 467,280 acres. Over half of the floodplain area is degraded to some extent, and the degradation ranges from some loss of function to high loss of function.~B Floodplains are important habitat for Puget Sound Chinook salmon.~B More than 100,000 Puget Sound homes and buildings, valued at $28 billion, are located within a floodplain. ~B Floodplain communities are now experiencing frequent “100 year floods” every few years, and climate models predict much the same for the future.~B What is the floodplain community doing? To date, over 4,000 acres of floodplain habitat have been restored. ~B How might the changes in climate affect floodplains? The effects of climate change on floodplains are complex. Reduced summer low flows are expected to diminish floodplain function, reduce connectivity to portions of the system, increase water temperatures, and impede salmon migration.  Well-functioning floodplain systems located in watershed with low imperviousness are likely to be more resilient to climate change impacts than compromised systems in urban watersheds.~B The Department of Ecology’s is working collaboratively with the Puget Sound Partnership to refine the floodplain recovery target baseline condition to more accurately map and quantify current conditions.~EL",
 
 		"indicators": {
 			"indicator1_json": "in-floodplain-function.json",
@@ -16,25 +16,25 @@
 		"highlight_photo": "image link",
 		"links": {
 			"section1": {
-				
+
 				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSFloodplains.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
 				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSFloodplains'>Restoration and protection projects related to this Vital Sign</a>",
 				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>",
 				"link4": "<a href='https://pspwa.box.com/s/x4y58p5epo6hzo347nvu4z7ujdzbb0fz'>Implementation Strategy for this Vital Sign</a>"
 			},
 			"section2": {
-				
+
 				"link1": "<a href='https://pspwa.box.com/s/8pigyd2wf6gf09fwgcmrv5f11vz6l5ks'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
 				"sub-category1": "Technical reports (PDF)",
 				"link2": "<a href='https://pspwa.box.com/s/evhu6l3fycbfc7s54duvzxlhcjovvzaf'>Target briefsheet</a>"
 			},
 			"section3": {
-				
+
 				"link1": "<a href='https://nwifc.org/publications/state-of-our-watersheds'>State of our Watersheds Report by the Northwest Indian Fisheries Commission</a>",
 				"link2": "<a href='https://www.eopugetsound.org/terms/350'>Encyclopedia Of Puget Sound</a>",
-				"link3": "<a href='http://www.floodplainsbydesign.org/>Floodplain by Design</a>",
-				"link4": "<a href='http://www.ecy.wa.gov/programs/sea/floods/index.html>Washington State Department of Ecology Floodplain Management Program</a>"
-				
+				"link3": "<a href='http://www.floodplainsbydesign.org/>Floodplains by Design</a>",
+				"link4": "<a href='http://www.ecy.wa.gov/programs/sea/floods/index.html>Washington State Department of Ecology Floodplain Management Program</a>",
+				"link5": "<a href='https://pspwa.box.com/s/4c8nelrc76n7snmt2jwkl5rwhq6qw9n1>National Wildlife Federation “Changing Course” 2013 Report</a>"
 			}
 		}
 

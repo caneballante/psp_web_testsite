@@ -5,8 +5,8 @@
 		"lead": "TBD",
 		"contact": "todd.hass@psp.wa.gov",
 		"last-updated": "September 20, 2017",
-		"what": "Killer whales occupy an important niche at the top of the food web and support a multi-million dollar whale-watching industry. The unique population of orcas living in and around the Salish Sea, the Southern Resident Killer Whales, once numbered around 200 whales but recently has declined to fewer than 90 individuals. This Vital Sign addresses the health of our local killer whale population. ",
-		"key-messages": "Key messages coming soon!",
+		"what": "Killer whales, also called orcas, are among Puget Sound’s most distinctive and charismatic inhabitants. They occupy an important niche at the top of the food web and support a multi-million dollar whale-watching industry in Puget Sound. ~P Southern Resident killer whales are a unique population of orcas that ranges in the Salish Sea and the West Coast. While other orca populations prey heavily on marine mammals, this population primarily eats fish, and depends heavily on Chinook salmon for food. ~P The Southern Resident killer whales once numbered around 200 whales but recently has declined to fewer than 80 individuals. ~P This Vital Sign addresses the health of the Southern Resident killer whale population.",
+		"key-messages": "~SL Year-round, Southern Resident killer whales depend heavily on Chinook salmon for food, thus linking orca recovery with that of Chinook salmon. Chinook salmon are a threatened species, whose numbers are designated in the Puget Sound Vital Signs as dangerously low and “not improving. ~B Southern Resident killer whales spend a considerable portion of the year outside the Salish Sea, where they eat Chinook salmon from Puget Sound and other regions of Washington—including the Columbia Basin—and from other areas, like the Fraser and Klamath rivers. Therefore, improving prey availability outside Puget Sound is also fundamental to the resident orca recovery. ~B In the Salish Sea, underwater noise and disturbance from commercial and recreational vessels force Southern Resident killer whales to forage longer for dwindling and smaller prey, compared to decades past. Recent studies show that reducing noise and improving access to prey are crucial for orca recovery. ~B When Southern Resident killer whales can’t find enough to eat, they must burn their own fat—releasing harmful pollutants picked up from the Salish Sea and elsewhere―into their tissues. Science suggests that poorer body condition increases the orcas’ vulnerability to disease and hinders reproduction.",
 
 		"indicators": {
 			"indicator1_json": "in-number-southern-killer-whales.json"
@@ -15,19 +15,19 @@
 		"highlight_photo": "image link",
 		"links": {
 			"section1": {
-				
+
 				"link1": "<a href='http://www.psp.wa.gov/gis/ReportCard/VitalSign/indexVSOrcas.html'>Actions proposed in the Action Agenda helping to advance this Vital Sign</a>",
 				"link2": "<a href='http://www.psp.wa.gov/gis/RecoveryAtlas/indexVSOrcas'>Restoration and protection projects related to this Vital Sign</a>",
 				"link3": "<a href='http://www.psp.wa.gov/evaluating-effective-action.php'>What's working to restore Puget Sound? Answers from effectiveness evaluations</a>"
 			},
 			"section2": {
-				
+
 				"link1": "<a href='https://pspwa.box.com/s/hmnnznwrp3hvhy0kyzlk4vvwie8exyc1'>Leadership Council resolution adopting indicators and ecosystem recovery targets (PDF)</a>",
 				"sub-category1": "Technical reports (PDF)",
 				"link2": "<a href='https://pspwa.box.com/s/d2022lvv5ocx7lfvpzhp14gpl4hacykq'>Brief Sheet</a>"
 			},
 			"section3": {
-				
+
 				"link1": "<a href='https://nwifc.org/publications/state-of-our-watersheds'>State of our Watersheds Report by the Northwest Indian Fisheries Commission</a>",
 				"link2": "<a href='https://www.eopugetsound.org/terms/384'>Encyclopedia Of Puget Sound</a>",
 				"link3": "<a href='http://stateofsalmon.wa.gov'>State of the Salmon</a>"

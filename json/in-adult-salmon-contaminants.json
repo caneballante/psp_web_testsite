@@ -1,33 +1,41 @@
 ﻿{
-  "indicator": {
-    "goal": "Healthy Water Quality",
-    "vitalsign": "Toxics in Fish",
-    "indicator-name": "Contaminants in adult salmon",
-    "lead": "James West",
-    "contact": "James.West@dfw.wa.gov",
-    "logo-link": "WDFW",
-	"last-updated": "September 25, 2017",
-	"status-icon": "BELOW 2020 TARGET",
-	"progress-icon": "MIXED RESULTS",
-	"progress-icon-tagline": "",	  
-    "progress-description": "",
-	"what": "",
-	"data" : {
-	},
-	"more-description" : "",
-	"why-happening": "",
-	"references" : "",
-	"target": "By 2020, toxics in fish are below threshold levels. Target is achieved if each of the following conditions is observed in monitoring results from 2019 or 2020:~P a. Bioaccumulative toxics – 95% of samples meet the following thresholds:~P~I i. Concentrations of PCBs and PBDEs in Puget Sound herring, English sole, and salmon and steelhead are below adverse effects thresholds (e.g., 2,400 ng PCB/g lipid and 1,400 ng PBDE/g lipid) ~P~I ii. Concentrations of PCBs and other biocumulative toxics in Puget Sound herring, English sole, and salmon and steelhead are below human health screening levels (e.g., Department of Health screening levels for recreational or subsistence consumption rates, currently 33 ng PCB/g and 10 ng PCB/g fish tissue, respectively for a non-cancer endpoint). ~P b. PAHs and EDCs – all samples meet the following thresholds: ~P~I i. English sole in Puget Sound exhibit no PAH-related liver disease ~P~I ii. English sole in Puget Sound exhibit no toxics-related reproductive impairment ~P~I iii. PAHs in herring are below an effects threshold.",
-	"interim-target": "<a href='https://app.smartsheet.com/b/publish?EQBCT=b530ea3abea348be892a41e2669ba9ad'>link to interim target</a> ",
-    "interim-target-title": "",
-	"interim-target-table":"",
-    "map-link": "",
-	"map-link-text": "",
-   	"links": {
+	"indicator": {
+		"goal": "Healthy Water Quality",
+		"vitalsign": "Toxics in Fish",
+		"indicator-name": "Contaminants in adult salmon",
+		"lead": "James West",
+		"contact": "james.West@dfw.wa.gov",
+		"logo-link": "WDFW",
+		"last-updated": "October 31, 2017",
+		"status-icon": "BELOW 2020 TARGET",
+		"progress-icon": "INSUFFICIENT OR NO DATA",
+
+		"progress-description": "",
+		"what": "Toxic chemical contaminants are monitored in adult salmon because they are important food for humans, and for the fish, birds and mammals who consume them. Moreover, contaminants can impair the health of the salmon themselves, potentially inhibiting recovery of a species at risk of extinction. The highly migratory nature of salmon makes it difficult to understand exactly where they pick up these chemicals, however WDFW's Toxics-focused Biological Observation System (TBiOS) monitoring has shown that marine waters, including Puget Sound, is one of the main sources of toxic chemicals in adult salmon (O'Neill et al. 2009). ~P Of the five species of salmon in Puget Sound, Chinook salmon were chosen as the indicator for the contaminant-risk to humans from consuming fish from Puget Sound's pelagic (open water) food web. Typically, Chinook salmon migrate to the ocean after leaving their natal rivers. However, about a third of Chinook salmon remain all year in Puget Sound instead of migrating to the ocean. These are called resident Chinook salmon, also known as blackmouth. Resident Chinook salmon are common in Puget Sound and support important recreational fisheries, especially in winter months. Resident Chinook salmon were selected for this indicator in part because their contaminant levels are driven mostly by Puget Sound conditions, rather than a mix of Puget Sound and ocean conditions. They also are a recreational fisheries species in Puget Sound and so pose a potential health risk to people who consume them. ~P The contaminants currently monitored in resident Puget Sound Chinook salmon are:~SL Polychlorinated biphenyls (PCBs), chemicals that were designed for various industrial uses, and which were banned in the US in 1979. ~B Polybrominated diphenylethers, (PBDEs), designed for use as flame-retardants in many products, and which were banned in 2011 in Washington State. ~EL ~P PCBs and PBDEs are measured in the salmon’s muscle tissue, as a direct indication of the levels of chemicals humans may be exposed to when they eat resident Chinook salmon from Puget Sound. The concentration of contaminants in resident Chinook salmon are compared to Washington Department of Health's (DOH) most current human-health screening values, which are used by DOH as a first step in evaluating whether fish may be safe to eat. These screening values also serve as recovery thresholds for the 2020 targets. ",
+		"data": {
+			"figure-1": {
+				"title": "FIGURE 1. CURRENT STATUS OF PCBs and PBDEs IN RESIDENT CHINOOK (BLACKMOUTH) SALMON FROM SEVEN SAMPLING LOCATIONS ACROSS PUGET SOUND’S MARINE BASINS.",
+				"subhead": "2016",
+				"figure-link": "TIFAdSalmon-figure1.jpg",
+				"caption": "Box plot representation of PCB and PBDE levels. Solid horizontal lines inside the boxes are the median concentration. Top and bottom of boxes indicate 25th and 75th percentile and diamonds indicate 5th (lower) and 95th (upper) percentile. The 2020 target is met (green color) if the upper diamond is below the DOH screening value for PCBs and PBDEs. Red indicates locations where the 95% percentile was above the screening value.  DOH screening values, illustrated by the dashed lines, represent a contaminant concentration above which concern would be raised for high-level (e.g., subsistence) consumers.",
+				"source": "Source: Washington Department of Fish and Wildlife, Toxics-focused Biological Observation System; in prep.",
+				"description": ""
+			}
+
+		},
+		"why-happening": "Long-term time trends of contaminants in Pacific herring, a primary prey of Chinook salmon, support the resident Puget Sound Chinook salmon results. PCBs remain high in herring (see the herring Indicator report), and their levels have not declined over the past 16 years, particularly in the waters where resident Puget Sound Chinook salmon feed. However, PBDEs in herring have been declining over the same time period, suggesting that transfer of these chemicals up the food chain has slowed.",
+		"references": "O'Neill SM, West JE. 2009. Marine distribution, life history traits, and the accumulation of polychlorinated biphenyls in chinook salmon from Puget Sound, Washington. Transactions of the American Fisheries Society 138:616-632. http://dx.doi.org/10.1577%2FT08-003.1",
+		"target": "PCBs: The PCB target is met if most Chinook salmon muscle tissue samples (calculated as the 95th percentile) contain total PCB concentrations below the Department of Health screening value for human health (currently 8 ng/g wet weight for subsistence fishers/high level consumers). ~P PBDEs: The PBDE reduction target is met if most Chinook salmon muscle tissue samples (calculated as the 95th percentile) contain PBDE concentrations below the Department of Health screening value for human health (currently 40 ng/g wet weight for subsistence fishers/high level consumers).",
+		"interim-target": "http://www.psp.wa.gov/downloads/interimtargets/Toxics%20in%20Fish%20Interim%20Targets%20-%20FINAL.pdf",
+		"interim-target-title": "",
+		"interim-target-table": "",
+		"map-link": "",
+		"map-link-text": "FIGURE 2. GEOGRAPHICAL REPRESENTATION OF LEVEL OF CAUTION FOR CONTAMINANTS IN RESIDENT CHINOOK (BLACKMOUTH) SALMON.",
+		"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name": "Toxics-focused Biological Observing System (T-BiOS) at the Washington Department of Fish and Wildlife",
+				"link-url": "http://wdfw.wa.gov/conservation/research/projects/marine_toxics/"
 			}
 		}
-	}	
+	}
 }

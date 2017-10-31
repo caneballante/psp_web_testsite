@@ -69,12 +69,43 @@
 			</div>
 			<div><br>
 <br>
-				<div class="no-icon"><a href="http://www.psp.wa.gov/evaluating-PSEMP.php"><img src="images/vitalsigns/logos/PSEMP.png" alt="" width="260" height="86" title="PSEMP logo"/></a><br><br></div>
+				<div class="no-icon"><a href="http://www.psp.wa.gov/evaluating-PSEMP.php"><img class="img-responsive" src="images/vitalsigns/logos/PSEMP.png" alt="" width="260" height="86" title="PSEMP logo"/></a><br><br></div>
 </div>
 		</div>
 		 
 		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" -->
-			<div><img class="img-responsive" src="images/vitalsigns/vital-sign-wheel.png" width="731" height="730" alt=""/></div>
+			<div><img src="images/vitalsigns/vital-sign-wheel.png" alt="" width="731" height="730" usemap="#Map" class="img-responsive"/>
+				<map name="Map">
+					<area shape="poly" coords="281,48,302,120,330,113,362,108,363,24,277,33,280,49" href="toxics_in_fish.php">
+					<area shape="poly" coords="337,75" href="#">
+					<area shape="poly" coords="443,34,422,122,367,112,368,25,444,34" href="air_quality.php">
+					<area shape="poly" coords="525,64,485,140,429,117,448,37,522,65" href="drinking_water.php">
+					<area shape="poly" coords="596,116,532,177,485,142,527,70,597,118" href="local_foods.php">
+					<area shape="poly" coords="531,125" href="#">
+					<area shape="poly" coords="571,224,536,179,600,120,648,179,571,224" href="onsite_sewage.php">
+					<area shape="poly" coords="682,257,602,282,572,225,650,184" href="#">
+					<area shape="poly" coords="680,258" href="outdoor_activities.php">
+					<area shape="poly" coords="614,340,690,334,680,260,603,287" href="shellfish_beds_reopened.php">
+					<area shape="poly" coords="684,414,687,337,614,342,611,408" href="cultural_practices.php">
+					<area shape="poly" coords="665,498,688,419,608,410,588,470" href="economic_vitality.php">
+					<area shape="poly" coords="556,514,586,470,660,501,618,565,558,514" href="good_governance.php">
+					<area shape="poly" coords="511,559,563,635,630,577,555,516,513,560" href="sense_of_place.php">
+					<area shape="poly" coords="459,592,511,562,563,638,491,673,455,591" href="sound_stewardship.php">
+					<area shape="poly" coords="399,606,454,591,488,675,409,691,399,590" href="birds.php">
+					<area shape="poly" coords="338,593,393,592,409,695,323,696,334,595" href="salmon.php">
+					<area shape="poly" coords="281,580,330,592,317,687,245,672,280,579" href="orcas.php">
+					<area shape="poly" coords="170,627,223,554,284,578,244,669,170,629" href="pacific_herring.php">
+					<area shape="poly" coords="109,575,180,510,231,551,165,629,110,576" href="eelgrass.php">
+					<area shape="poly" coords="147,464,65,504,105,576,179,511,149,463" href="estuaries.php">
+					<area shape="poly" coords="34,425,56,510,149,461,127,409,35,422" href="flood_plains.php">
+					<area shape="poly" coords="25,344,32,419,124,405,120,351,28,342" href="land_cover_and_development.php">
+					<area shape="poly" coords="44,258,26,335,122,352,133,282,47,258" href="shoreline_armoring.php">
+					<area shape="poly" coords="80,185,45,253,138,286,162,234,80,186" href="summer_stream_flows.php">
+					<area shape="poly" coords="130,117,199,186,165,231,85,185,128,121" href="fresh_water_quality.php">
+					<area shape="poly" coords="202,65,250,152,199,184,135,115,200,69" href="marine_sediment_quality.php">
+					<area shape="poly" coords="300,129,272,37,205,65,251,152" href="marine_water_quality.php">
+				</map>
+			</div>
 			
 			<h2>WHAT ARE THE VITAL SIGNS AND HOW ARE THEY USED?</h2>
 <p>To track progress toward recovery goals for Puget Sound, the Partnership chose a specific set of measures called the Puget Sound Vital Signs. The Vital Signs gauge the health of Puget Sound in a way that is scientifically valid and also resonates with the public. Tracking and reporting of Vital Signs is the foundation of the shared measurement system the Partnership relies on to show collective impact.</p>

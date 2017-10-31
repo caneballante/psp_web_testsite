@@ -67,7 +67,7 @@
 			</div>
 			<div><br>
 <br>
-				<div class="no-icon"><a href="http://www.psp.wa.gov/evaluating-PSEMP.php"><img src="images/vitalsigns/logos/PSEMP.png" alt="" width="260" height="86" title="PSEMP logo"/></a><br><br></div>
+				<div class="no-icon"><a href="http://www.psp.wa.gov/evaluating-PSEMP.php"><img class="img-responsive" src="images/vitalsigns/logos/PSEMP.png" alt="" width="260" height="86" title="PSEMP logo"/></a><br><br></div>
 </div>
 		</div>
 		 

@@ -1,33 +1,41 @@
 ﻿{
-  "indicator": {
-    "goal": "Healthy Water Quality",
-    "vitalsign": "Toxics in Fish",
-    "indicator-name": "Contaminants in juvenile salmon",
-    "lead": "James West",
-    "contact": "James.West@dfw.wa.gov",
-    "logo-link": "WDFW",
-	"last-updated": "June 29, 2017",
-	"status-icon": "BELOW 2020 TARGET",
-	"progress-icon": "MIXED RESULTS",
-	"progress-icon-tagline": "",	  
-    "progress-description": "",
-	"what": "",
-	"data" : {
-	},
-	"more-description" : "",
-	"why-happening": "",
-	"references" : "",
-	"target": "By 2020, toxics in fish are below threshold levels. Target is achieved if each of the following conditions is observed in monitoring results from 2019 or 2020:~P a. Bioaccumulative toxics – 95% of samples meet the following thresholds:~P~I i. Concentrations of PCBs and PBDEs in Puget Sound herring, English sole, and salmon and steelhead are below adverse effects thresholds (e.g., 2,400 ng PCB/g lipid and 1,400 ng PBDE/g lipid) ~P~I ii. Concentrations of PCBs and other biocumulative toxics in Puget Sound herring, English sole, and salmon and steelhead are below human health screening levels (e.g., Department of Health screening levels for recreational or subsistence consumption rates, currently 33 ng PCB/g and 10 ng PCB/g fish tissue, respectively for a non-cancer endpoint). ~P b. PAHs and EDCs – all samples meet the following thresholds: ~P~I i. English sole in Puget Sound exhibit no PAH-related liver disease ~P~I ii. English sole in Puget Sound exhibit no toxics-related reproductive impairment ~P~I iii. PAHs in herring are below an effects threshold.",
-	"interim-target": "<a href='https://app.smartsheet.com/b/publish?EQBCT=b530ea3abea348be892a41e2669ba9ad'>link to interim target</a> ",
-    "interim-target-title": "",
-	"interim-target-table":"",
-    "map-link": "",
-	"map-link-text": "",
-   	"links": {
+	"indicator": {
+		"goal": "Healthy Water Quality",
+		"vitalsign": "Toxics in Fish",
+		"indicator-name": "Contaminants in juvenile salmon",
+		"lead": "James West",
+		"contact": "james.west@dfw.wa.gov",
+		"logo-link": "WDFW",
+		"last-updated": "October 31, 2017",
+		"status-icon": "BELOW 2020 TARGET",
+		"progress-icon": "INSUFFICIENT OR NO DATA",
+
+		"progress-description": "The results for toxic chemical contaminants in juvenile Puget Sound Chinook salmon are mixed. For both PCBs and PBDEs, the amount of contaminants in fish in some river mouths are not meeting the 2020 target values. ~SL Overall, PCB concentrations in juvenile Chinook salmon failed to meet the 2020 target values in four of the 11 river systems as well as Lake Washington, indicating widespread contaminant-related health risks for this species in the urbanized rivers of Puget Sound. ~B Likeliest health effects from detected contaminant levels include reduced growth, increased disease susceptibility, and altered hormone production, all of which can reduce survival. The greatest risks occurred in three highly developed watersheds; the Duwamish River, Hylebos/Puyallup, and Snohomish systems. ~B The 2020 target for PBDEs was met in ten of the 12 locations, with fish from Snohomish and Puyallup rivers exceeding the Critical Tissue Level. Fish from two locations, Lake Washington and the Duwamish River, had PBDE concentrations just below the critical tissue level. Continued monitoring of contaminants at these locations is particularly important to determine whether the CTL is exceeded in the future. ~B Evaluation of progress towards the 2020 target relies on a comparison of current and previous results to identify trends in these indicators. Although some data from previous studies are available for a time-trend comparison, more work needs to be done to ensure methods used across time are compatible.",
+		"what": "Pacific salmon are exposed to thousands of toxic chemical contaminants in their environment throughout their life cycle. Of particular concern is their juvenile phase, when they are exposed to contaminants as they move through urbanized rivers, estuaries, and marine shorelines. The physiological challenge of moving from freshwater to saltwater makes them particularly susceptible to stressors such as contaminants, which are abundant in urbanized estuaries. ~P Pilot, exploratory sampling of toxic chemicals in juvenile Puget Sound Chinook salmon began in 2013 in five river systems representing a range of non-urban to urban landscapes: the Skagit, Snohomish, Green/Duwamish, Hylebos/Puyallup, and Nisqually rivers. Samples were also taken from sites deeper offshore in Puget Sound (O'Neill et al. 2015). The sampling area was expanded to 12 locations in 2016, across a wider range of urban to non-urban landscapes, covering all of the major river estuaries of Puget Sound and Hood Canal and also Lake Washington. Although the final sampling design for long-term monitoring of juvenile Chinook has not yet been determined, the next efforts are scheduled for 2018. Results presented in this update represent the most current status of toxics in juvenile Chinook salmon. ~P The contaminants currently monitored in juvenile Puget Sound Chinook salmon are: ~SL Polychlorinated biphenyls (PCBs), chemicals that were designed for various industrial uses, and which were banned in the US in 1979. ~B Polybrominated diphenylethers, (PBDEs), designed for use as flame-retardants in many products, and which were banned in 2011 in Washington State. ~EL ~P PCBs and PBDEs are measured in the whole bodies of juvenile Chinook salmon. Because PAHs can be metabolized during digestion, these contaminants are measured in the salmon's prey, which are taken from the fish's stomachs before digestion occurs. Contaminants in prey provide a measure of potential exposure to PAHs. Indicator metrics for endocrine disrupting compounds are still in development for juvenile Chinook salmon.",
+		"data": {
+			"figure-1": {
+				"title": "FIGURE 1. CURRENT STATUS OF TWO PCBs and PBDEs IN JUVENILE CHINOOK SALMON FROM 11 RIVER ESTUARIES AND LAKE WAHINGTON. ",
+				"subhead": "2016",
+				"figure-link": "TIFJuvSalmon-figure1.jpg",
+				"caption": "Median concentration indicated as a solid horizontal line within the box plot. Box ends indicate 25th and 75th percentile and diamonds indicate 5th (lower) and 95th (upper) percentiles. The recovery target is met if the upper diamond (95th percentile) is below the critical tissue level, which is indicated by the horizontal dashed line. Original, measured lipid-weight PCB concentrations were normalized to a lipid level of 1%, to compare potential PCB toxicity at a consistent, low lipid level that all juvenile Chinook would likely experience during their outmigration. Green indicates the target is being met and red indicates the fish failed to meet the recovery target. ",
+				"source": "Source: Washington Department of Fish and Wildlife, unpublished data",
+				"description": ""
+			}
+		},
+		"more-description": "",
+		"why-happening": "Results illustrate river-specific contamination of juvenile Puget Sound Chinook salmon. As fish move downriver and cross into marine waters, they likely either consume contaminated prey, or absorb dissolved contaminants across skin and gill membranes. Movement through contaminated estuaries is of particular concern for the health of juvenile Chinook salmon because they are adapting to the osmotic challenges of moving from fresh to salt water, and their fat, or lipids, are changing rapidly. The toxicity of contaminants is directly related to their levels of body fat because these chemicals tend to accumulate in lipids, where they cause less harm. However, as juveniles burn fat, these chemicals are re-released into the blood stream where they can cause more harm.",
+		"references": "Meador JP, Collier TK, Stein JE. 2002. Use of tissue and sediment-based threshold concentrations of polychlorinated biphenyls (PCBs) to protect juvenile salmonids listed under the U.S. endangered species act. Aquatic Conservation: Marine and Freshwater Ecosystems 12:493-516. http://onlinelibrary.wiley.com/doi/10.1002/aqc.523/abstract. ~P O'Neill SM, Carey AJ, Lanksbury JA, Niewolny LA, Ylitalo G, Johnson L, West, JE 2015. Toxic contaminants in juvenile chinook salmon (Oncorhynchus tshawytscha) migrating through estuary, nearshore and offshore habitats of Puget Sound. Olympia, WA. Washington Department of Fish and Wildlife. Technical Report FPT 16-02. 132 pp. http://wdfw.wa.gov/publications/01796/. ",
+		"target": "PCBs: The PCB target is met if most juvenile Chinook whole body samples (calculated as the 95th percentile) exhibit PCB concentrations below the Critical Tissue Level (2,400 ng/g lipid; adapted from Meador et al. 2002) for PCBs. ~P PBDEs: The PBDE target is met if most juvenile Chinook whole body samples (calculated as the 95th percentile) exhibit PBDE concentrations below the Critical Tissue Level (described in O'Neill et al. 2015) for PBDEs.",
+		"interim-target": "http://www.psp.wa.gov/downloads/interimtargets/Toxics%20in%20Fish%20Interim%20Targets%20-%20FINAL.pdf",
+		"interim-target-title": "",
+		"interim-target-table": "",
+		"map-link": "",
+		"map-link-text": "FIGURE 2. GEOGRAPHICAL REPRESENTATION OF LEVEL OF CAUTION FOR CONTAMINANTS IN JUVENILE CHINOOK SALMON  ",
+		"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name": "Toxics-focused Biological Observing System (T-BiOS) at the Washington Department of Fish and Wildlife",
+				"link-url": "http://wdfw.wa.gov/conservation/research/projects/marine_toxics/"
 			}
 		}
-	}	
+	}
 }

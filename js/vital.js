@@ -170,7 +170,7 @@ $(document).ready(function () {
 					
 					
 					
-					var allIndicators = '<p>' + vsINName + ' = <strong>Status:</strong> ' + vsINStatus + ' <strong>Progress: </strong>' + vsINProgress + '</p>';
+					var allIndicators = '<p>' + vsINName + ' &nbsp&nbsp&nbsp    <strong>Status:</strong> ' + vsINStatus + ' <strong>Progress: </strong>' + vsINProgress + '</p>';
 					$('#show-indicators').append(allIndicators);
 				});			
 			});

@@ -1,7 +1,7 @@
 $(document).ready(function () {	
 	//"use strict";
 
-	$.getJSON("json/indicator-list-test.json", function (indicators) {
+	$.getJSON("json/indicator-list.json", function (indicators) {
 		//buildIndicatorTable(indicators['indicators'].length);
 		$.each((indicators['indicators']), function(row, indicator) {
 			fetchIndicator(row, indicator);

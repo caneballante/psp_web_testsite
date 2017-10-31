@@ -52,8 +52,8 @@
 <div class="container-fluid  page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
-			<h1>Vital Signs home page</h1>
-			<!-- InstanceEndEditable --></div>
+			
+		<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -74,17 +74,26 @@
 		</div>
 		 
 		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" -->
-			<h2 class="margin-0-top">WHAT ARE THE ECOSYSTEM RECOVERY GOALS?</h2>
-			<p>The Washington State Legislature, in the 2007 legislation creating the Puget Sound Partnership, identified six ecosystem recovery goals for Puget Sound: </p>
-			<ul>
-				<li><strong>Healthy Human Population:</strong> A healthy population supported by a healthy Puget Sound that is not threatened by changes in the ecosystem</li>
-				<li><strong>Vibrant Quality of Life:</strong> A quality of human life that is sustained by a functioning Puget Sound ecosystem.</li>
-				<li><strong>Thriving Species and Food Web:</strong> Healthy and sustaining populations of native species in Puget Sound, including a robust food web.</li>
-				<li><strong>Protected and Restored Habitat:</strong> A healthy Puget Sound where freshwater, estuary, nearshore, marine, and upland habitats are protected, restored, and sustained.</li>
-				<li><strong>Abundant Water Quantity:</strong> An ecosystem that is supported by groundwater levels, as well as by river and stream flows sufficient to sustain people, fish, wildlife, and the natural functions of the environment.</li>
-				<li><strong>Healthy Water Quality:</strong> Fresh and marine waters and sediments of a sufficient quality to support water that is safe for drinking, swimming, and other human uses and enjoyment, and are not harmful to the native marine mammals, fish, birds, and shellfish in the region.</li>
-			</ul>
-			<script src="js/vital.js">
+			<h2 class="margin-0-top">ABOUT THE DATA</h2>
+			<h3>OVERVIEW</h3>
+<p>Tracking and reporting of the Puget Sound Vital Signs is the foundation of the shared measurement system the Partnership relies on to show collective impact. </p>
+			<p>The Vital Signs website presents the status and trends of indicators, and progress towards meeting the goals for recoveringPuget Sound. The website also provides connections to other pillars of Puget Sound recovery like the strategies, the Action Agenda Report Card, and effectiveness monitoring. </p>
+			<p>Our target audience includes the Puget Sound Partnership’s partners and boards, Strategic Initiative Leads, Lead Integrating Organizations, watershed groups, legislative staff, policy makers, nonprofit environmental organizations and scientists.</p>
+			<p>The responsibility for environmental monitoring in Puget Sound is distributed across many dozens of agencies, organizations, tribes, citizen groups, and others. Rather than creating and managing its own stream of data, the Puget Sound Partnership relies on existing monitoring programs and databases as sources of information.</p>
+<h3>Indicator reports and Vital Sign Reports</h3>
+			<p>Two types of reports make up most of the content on the Vital Sign website: indicator reports and Vital Sign reports.</p>
+			<p>The indicator reports present a summary of the status and trends of indicators, and whether ecosystem recovery targets are achieved. The Puget Sound Partnership staff work with scientists and monitoring program leads from a dozen organizations to compile, evaluate and report data for each indicator report. Data quality assurance and documentation remains the primary responsibility of the individual contributors.</p>
+			<p>In contrast to indicator reports, Vital Sign reports are a contribution from the Puget Sound Ecosystem Monitoring Program workgroups. Each workgroup prepares reports about the Vital Signs that are relevant to their topic. Reports consist of key messages about the Vital Signs, crafted primarily by synthesizing the information revealed by the indicator report. The reports are vetted by workgroup members. For more information about workgroups, please visit w<a href="www.psp.wa.gov/evaluating-PSEMP.php">ww.psp.wa.gov/evaluating-PSEMP.php</a></p>
+			<h3>The Puget Sound Ecosystem Monitoring Program</h3>
+			<p>The Puget Sound Ecosystem Monitoring Program (PSEMP) serves as the backbone organization for ecosystem monitoring in Puget Sound. It is an over-arching, voluntary body of representatives sharing a common goal to coordinate, improve, and focus these many independent efforts in support of the state’s goals to protect and recover Puget Sound. </p>
+			<p>The purpose of the Puget Sound Ecosystem Monitoring Program is to improve and coordinate the existing system of environmental data collection and evaluation in Puget Sound, including assessing the condition and changes over time of the Puget Sound ecosystem as well as the effectiveness of recovery actions, strategies, and programs. For more information about PSEMP, please visit www.psp.wa.gov/evaluating-PSEMP.php </p>
+			<h3>Contributors</h3>
+			<div><img class="img-responsive" src="images/vitalsigns/logos/all.jpg" width="616" height="643" alt=""/></div>
+			<h3>Editor</h3>
+			<p>Nathalie Hamel, Puget Sound Partnership</p>
+			<h3>Web design and production</h3>
+			<p>Jon Bridgman, Puget Sound Partnership</p>
+<script src="js/vital.js">
 
 		
 		<!-- InstanceEndEditable --></div>

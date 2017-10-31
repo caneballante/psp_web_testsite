@@ -2,33 +2,40 @@
   "indicator": {
     "goal": "Healthy Water Quality",
     "vitalsign": "Toxics in Fish",
-    "indicator-name": "Contaminants in English sole and disease",
+    "indicator-name": "Contaminants in English sole",
     "lead": "James West",
-    "contact": "James.West@dfw.wa.gov",
+    "contact": "james.west@dfw.wa.gov",
     "logo-link": "WDFW",
-	"last-updated": "June 29, 2017",
+	"last-updated": "October 31, 2017",
 	"status-icon": "BELOW 2020 TARGET",
 	"progress-icon": "MIXED RESULTS",
-	"progress-icon-tagline": "",	  
-    "progress-description": "",
-	"what": "",
-	"data" : {
-		
-		
-	},
+	  
+    "progress-description": "The results for the status and trends of toxic chemical contamination in English sole are mixed. For PCBs, the level of contaminants in most English sole populations are above the health screening values for human health, and none of the populations are improving. For PBDEs, all populations exhibit levels of contamination well below the health screening values for human health. PAH-caused liver disease was slightly elevated in half of the English sole locations, but the occurrence of disease is decreasing in all but one population. ~SL For PCBs, English sole from eight out of ten index sites failed to meet the 2020 target, and PCB levels did not improve over the past 16 years from those locations. ~B For PBDEs, the 2020 target values were met in 10 out of 10 index sites, and they are either holding the line or even decreasing. ~B Liver disease resulting from exposure to PAHs dropped significantly at the Seattle Waterfront, the Duwamish River and Tacoma City Waterway sites. Risk of disease was 40 times higher than the baseline in the 1990s, and went down to only three to five times higher than the baseline in 2015. The PAH 2020 target was reached in one urban bay (Everett), and liver disease remained slightly above the target, showing no change, in one urban bay (Bremerton). All other locations met the PAH 2020 target.",
+	"what": "English sole is one of Puget Sound's most common bottom-dwelling flatfishes. They feed on organisms that live in the sediments, and tend to reflect the overall sediment contaminant patterns. The abundance and wide distribution of English sole make them ideal indicators for toxic chemical contaminants in Puget Sound's benthic (seafloor) food web. The level of contaminants in this flatfish signals whether the health of the benthic community is at risk, while also indicating where contaminants may be building up in other organisms that live on or near the sediments. As a species that is fished by some anglers, English sole represent a food-web pathway through which contaminants can move from flatfish to humans.~P The contaminants currently monitored for English sole are: ~SL Polychlorinated biphenyls (PCBs), chemicals that were designed for various industrial uses, and which were banned in the US in 1979. ~B Polybrominated diphenylethers, (PBDEs), designed for use as flame-retardants in many products, and which were banned in 2011 in Washington State. ~B Polycyclic aromatic hydrocarbons (PAHs), produced primarily from burning fossil fuels and from oil spills. ~EL~P PCBs and PBDEs are measured in the sole's muscle tissue, as a direct indication of the levels of chemicals humans may be exposed to when they eat Puget Sound flatfish. Washington Department of Health (DOH) uses English sole fillet data to establish consumption advice regarding other flatfish in Puget Sound. ~P Exposure of English sole to a third chemical class, PAHs, is measured by the presence of particular liver tumors that are known to result from exposure to PAHs. The presence of tumors in fish reveals the effects of more long term exposure to PAHs. The ability to detect liver disease is a singular case where we can directly measure the disease resulting from contaminants in the fish. ~P Although the effects of endocrine disrupting chemicals (EDCs) on reproduction of English sole were first observed more than 15 years ago (Johnson et al. 2008), regular monitoring has only just begun. EDC results will be reported in a future Vital Sign update.",
+	"data": {
+			"figure-1": {
+				"title": "FIGURE 1. STATUS AND TRENDS OF PCBs, PBDEs and PAHs ENGLISH SOLE FROM PUGET SOUND",
+				"subhead": "1999 to 2015",
+				"figure-link": "TIFSole-figure1.jpg",
+				"caption": "Box plot representation of PCB and PBDE levels. Solid horizontal lines inside the boxes are the median concentration. Top and bottom of boxes indicate 25th and 75th percentile and diamonds indicate 5th (lower) and 95th (upper) percentile. The 2020 target is met if the upper diamond is below the DOH screening value for PCBs and PBDEs or the clean reference value for PAHs, which are illustrated by the dashed lines. The DOH screening value represents a contaminant concentration above which concern would be raised for high-level (e.g., subsistence) consumers. The clean reference value for PAHs represents the level of background liver disease exhibited by English sole from relatively uncontaminated areas. This clean reference value (dashed line) for PAHs is set to one, and the results for liver disease in all other English sole is calculated as the odds of developing liver disease, compared to the clean reference area. The red-yellow-green stoplight colors represent a scale of caution derived by integrating both status and trends data. Green indicates the 2020 target has been met and trends are not worsening. Yellow indicates either the 2020 target has not met but the trend is improving, or the target has been met but the trend is worsening. Red indicates that the 2020 target was not met and the trend is either worsening or not improving.",
+				"source": "Source: Calculated from West et al. (2017) for PCBs and PBDEs. Odds ratios for liver disease computed from Washington Department of Fish and Wildlife, Toxics-focused Biological Observation System unpublished data.",
+				"description": ""
+			}
+
+		},
 	"more-description" : "",
-	"why-happening": "",
-	"references" : "",
-	"target": "By 2020, toxics in fish are below threshold levels. Target is achieved if each of the following conditions is observed in monitoring results from 2019 or 2020:~P a. Bioaccumulative toxics – 95% of samples meet the following thresholds:~P~I i. Concentrations of PCBs and PBDEs in Puget Sound herring, English sole, and salmon and steelhead are below adverse effects thresholds (e.g., 2,400 ng PCB/g lipid and 1,400 ng PBDE/g lipid) ~P~I ii. Concentrations of PCBs and other biocumulative toxics in Puget Sound herring, English sole, and salmon and steelhead are below human health screening levels (e.g., Department of Health screening levels for recreational or subsistence consumption rates, currently 33 ng PCB/g and 10 ng PCB/g fish tissue, respectively for a non-cancer endpoint). ~P b. PAHs and EDCs – all samples meet the following thresholds: ~P~I i. English sole in Puget Sound exhibit no PAH-related liver disease ~P~I ii. English sole in Puget Sound exhibit no toxics-related reproductive impairment ~P~I iii. PAHs in herring are below an effects threshold.",
-	"interim-target": "<a href='https://app.smartsheet.com/b/publish?EQBCT=b530ea3abea348be892a41e2669ba9ad'>Link to interim target</a>",
+	"why-happening": "PCBs: PCBs in English sole have changed little over the past 16 years, with highest concentrations still measured in urban areas. This suggests that contamination continues in the sediments and the benthic food web, especially in urban bays. This continued contamination may result from sediments containing persistent loads of legacy PCBs from contamination over the past several decades, or new and ongoing contamination from external sources. ~P PBDEs: PBDEs occurred in English sole at approximately 1/30th the concentration of PCBs, on average, and there was no increasing trend in PBDEs at any location. Based on English sole time trends data and PSEMP sediments data (see the Toxics in Sediments Vital Sign) it is likely that benthic sediments never received high inputs of PBDEs and so benthic species may have never exceeded the PBDE threshold. However, trends data for PBDEs in English sole are only available from present back through 2005, so earlier conditions remain unknown. In any case, the lack of any increasing trend in English sole PBDEs from any location suggests PBDE control measures may have worked to prevent significant PBDE contamination of benthic food webs throughout Puget Sound. ~P PAHs: Much progress has been made in reducing the effects of PAHs on fish health in Puget Sound. Although only 60% of English sole index sites met the 2020 target value for PAHs, the status of 3 of the failing areas (Seattle Waterfront, Duwamish River, and Tacoma City Waterway) are showing a substantial declining trend in disease (shown as yellow in the Figure). These three, combined with a strongly declining trend in disease from Eagle Harbor (which currently meets the 2020 target value) have likely benefitted from a wide range of recovery actions including removal of creosote-treated pilings and contaminated sediments, targeted cleaning of stormwater drainpipes, and other upland source controls. Reduction of PAHs in Eagle Harbor English sole resulted from directed superfund cleanup and control activities. Only one location, Sinclair Inlet, failed to meet the PAH 2020 target and also did not exhibit a trend towards meeting the goal (shown as red). ~P EDCs: No new reporting.",
+	"references" : "Johnson LL, Lomax DP, Myers MS, Olson OP, Sol SY, O'Neill SM, et al. 2008. Xenoestrogen exposure and effects in English sole (Parophrys vetulus) from Puget Sound, WA. Aquatic Toxicology 88:29-38. http://www.sciencedirect.com/science/article/pii/S0166445X08000830. ~P West, JE, O’Neill, SM & Ylitalo, GM. 2017. Time Trends of Persistent Organic Pollutants in Benthic and Pelagic Indicator Fishes from Puget Sound, Washington, USA. Arch. Environ. Contam. Toxicol. 73: 207-229.  https://doi.org/10.1007/s00244-017-0383-z. ",
+	"target": "PCBs: The PCB reduction target is met if most English sole muscle tissue samples (calculated as the 95th percentile) contain total PCB concentrations below the Department of Health screening value for human health (currently 8 ng/g wet weight for subsistence fishers/high level consumers). ~P PBDEs: The PBDE reduction target is met if most English sole muscle tissue samples (calculated as the 95th percentile) contain PBDE concentrations below the Department of Health screening value for human health (currently 40 ng/g wet weight for subsistence fishers/high level consumers). ~P PAHs: The PAH reduction target is met if English sole show no elevated PAH-related liver disease. ~P EDC Reductions: The EDC reduction target is met if English sole exhibit no EDC-related reproductive impairment.",
+	"interim-target": "http://www.psp.wa.gov/downloads/interimtargets/Toxics%20in%20Fish%20Interim%20Targets%20-%20FINAL.pdf",
     "interim-target-title": "",
 	"interim-target-table":"",
     "map-link": "",
-	"map-link-text": "",
+	"map-link-text": "FIGURE 2. GEOGRAPHICAL REPRESENTATION OF LEVEL OF CAUTION FOR CONTAMINANTS IN ENGLISH SOLE",
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "Toxics-focused Biological Observing System (T-BiOS) at the Washington Department of Fish and Wildlife",
+				"link-url" : "http://wdfw.wa.gov/conservation/research/projects/marine_toxics/"
 			}	
 		}
 	}	

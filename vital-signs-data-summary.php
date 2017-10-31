@@ -69,11 +69,11 @@
 			</div>
 			<div><br>
 <br>
-				<div class="no-icon"><a href="http://www.psp.wa.gov/evaluating-PSEMP.php"><img src="images/vitalsigns/logos/PSEMP.png" alt="" width="260" height="86" title="PSEMP logo"/></a><br><br></div>
+				<div class="no-icon"><a href="http://www.psp.wa.gov/evaluating-PSEMP.php"><img class="img-responsive" src="images/vitalsigns/logos/PSEMP.png" alt="" width="260" height="86" title="PSEMP logo"/></a><br><br></div>
 </div>
 		</div>
 		 
-		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" --><h2 class="margin-0-top">Vital Signs Data Summary</h2><div id="show-indicators"></div><script src="js/vital.js"></script><script src="js/datasummary1.js"></script>
+		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" --><h2 class="margin-0-top">Vital Signs Data Summary</h2><div id="show-indicators"></div><script src="js/vital.js"></script><script src="js/datasummary.js"></script>
 		<table class='table' id="summaryTable"><tr><td>INDICATOR</td><td colspan='2'>STATUS<strong></strong></td><td colspan='2'>PROGRESS</td></tr>
 		
 			<tr id="0"></tr>
