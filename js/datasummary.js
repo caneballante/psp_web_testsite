@@ -43,7 +43,7 @@ $(document).ready(function () {
 			vsInStatusIcon='<img src="images/vitalsigns/icons/insufficientornodata_sm.jpg" />';
 		};
 
-		var nextIndicators = '<td width="500px"><span class="indicator-bold ">' + indicatorData['indicator']['indicator-name'] +'</span></td><td> ' + vsInStatusIcon  + '</td><td><span class="indicator-list">' + indicatorData['indicator']['status-icon'] + ' </span></td><td> ' + vsInProgressIcon  + '</td><td><span class="indicator-list">' + indicatorData['indicator']['progress-icon']  + ' </span></td>';
+		var nextIndicators = '<td width="500px"><span class="indicator-bold">' + indicatorData['indicator']['indicator-name'] +'</span></td><td> ' + vsInStatusIcon  + '</td><td><span class="indicator-list">' + indicatorData['indicator']['status-icon'] + ' </span></td><td> ' + vsInProgressIcon  + '</td><td><span class="indicator-list">' + indicatorData['indicator']['progress-icon']  + ' </span></td>';
 			//var row = $('#summaryTable #' + row);
 		console.log('updating indicator row: ' + indicatorData['indicator']['indicator-name']);
 		$('#summaryTable #' + row).html(nextIndicators);

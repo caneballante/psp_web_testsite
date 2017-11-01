@@ -165,13 +165,10 @@ $(document).ready(function () {
 						vsINStatus='<img src="images/vitalsigns/icons/nodatastatus-lg.png" />';
 					};
 					
-					
-					
-					
-					
-					
-					var allIndicators = '<p>' + vsINName + ' &nbsp&nbsp&nbsp    <strong>Status:</strong> ' + vsINStatus + ' <strong>Progress: </strong>' + vsINProgress + '</p>';
+					var allIndicators = '<tr class="border-top border-bottom" ><td class="padding-10-all"> <p class="heading">' + vsINName + '</p> </td><td>' + vsINStatus + ' </td><td>' + vsINProgress + '</td></tr>';
 					$('#show-indicators').append(allIndicators);
+				/*	var allIndicators = '<p>' + vsINName + ' &nbsp&nbsp&nbsp    <strong>Status:</strong> ' + vsINStatus + ' <strong>Progress: </strong>' + vsINProgress + '</p>';
+					$('#show-indicators').append(allIndicators);*/
 				});			
 			});
 
