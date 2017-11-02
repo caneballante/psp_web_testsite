@@ -23,6 +23,7 @@
 			}
 
 		},
+		"more-description": "",
 		"why-happening": "Long-term time trends of contaminants in Pacific herring, a primary prey of Chinook salmon, support the resident Puget Sound Chinook salmon results. PCBs remain high in herring (see the herring Indicator report), and their levels have not declined over the past 16 years, particularly in the waters where resident Puget Sound Chinook salmon feed. However, PBDEs in herring have been declining over the same time period, suggesting that transfer of these chemicals up the food chain has slowed.",
 		"references": "O'Neill SM, West JE. 2009. Marine distribution, life history traits, and the accumulation of polychlorinated biphenyls in chinook salmon from Puget Sound, Washington. Transactions of the American Fisheries Society 138:616-632. http://dx.doi.org/10.1577%2FT08-003.1",
 		"target": "PCBs: The PCB target is met if most Chinook salmon muscle tissue samples (calculated as the 95th percentile) contain total PCB concentrations below the Department of Health screening value for human health (currently 8 ng/g wet weight for subsistence fishers/high level consumers). ~P PBDEs: The PBDE reduction target is met if most Chinook salmon muscle tissue samples (calculated as the 95th percentile) contain PBDE concentrations below the Department of Health screening value for human health (currently 40 ng/g wet weight for subsistence fishers/high level consumers).",
@@ -35,7 +36,7 @@
 			"link0": {
 				"link-name": "Toxics-focused Biological Observing System (T-BiOS) at the Washington Department of Fish and Wildlife",
 				"link-url": "http://wdfw.wa.gov/conservation/research/projects/marine_toxics/"
+				}
 			}
 		}
-	}
 }

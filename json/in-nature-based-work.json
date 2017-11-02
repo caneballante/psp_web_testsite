@@ -20,7 +20,8 @@
 			"caption" : "",
 			"source" : "",
 			"description" : "Pilot data show less than 10% of the population is employed in nature-based work, such as commercial fishing, habitat restoration, and outdoor recreation. Less than half of those who do work outdoors work full time in these jobs. We anticipate more data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years."
-		},
+		}
+	},
 	"more-description" : "",
 	"why-happening": "Analysis of data trends is not currently available. ",
 	"references" : "",
@@ -35,7 +36,7 @@
 				"link-name" : "",
 				"link-url" : ""
 				}
-			}
+			
 		}	
   }
 }

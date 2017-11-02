@@ -20,6 +20,7 @@
 			"caption" : "",
 			"source" : "",
 			"description" : "Pilot data show that more than 50% of residents like to gather or hunt wild foods. More than 90% of those who like to gather or hunt did so in the past year. Over 70% were able to harvest as much as they wanted. Over 60% of those who were not able to harvest as much as they wanted reported that personal time limitation prevented them from that harvest. We anticipate more data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years."
+			}
 		},
 		"more-description": "",
 		"why-happening": "Analysis of data trends is not currently available.",
@@ -35,7 +36,7 @@
 				"link-name": "",
 				"link-url": ""
 				}
-			}
+			
 		}
 	}
 }

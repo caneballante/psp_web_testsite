@@ -20,7 +20,8 @@
 			"caption" : "",
 			"source" : "",
 			"description" : "Pilot data show over 20% of residents participated in traditional and cultural practices associated with the natural environment over the last year. We anticipate more data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years."
-		},
+		}
+	},
 	"more-description" : "",
 	"why-happening": "Analysis of data trends is not currently available.",
 	"references" : "",
@@ -31,11 +32,11 @@
     "map-link": "",
 	"map-link-text": "",
    	"links": {
-			"link0": {
-				"link-name" : "",
-				"link-url" : ""
-					}	
-		}
+		"link0": {
+			"link-name" : "",
+			"link-url" : ""
 			}	
-  }
+
+		}	
+  	}
 }

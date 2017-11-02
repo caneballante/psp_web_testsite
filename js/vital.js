@@ -330,7 +330,9 @@ $(document).ready(function () {
 				var inDataTitle = '<p>'+(dataSet['title'])+'</p>';
 				var inDataSubhead = '<p><em>'+(dataSet['subhead'])+'</em></p>';
 				var inDataFigure = '<img class="img-responsive" src="images/vitalsigns/' + (dataSet['figure-link']) + '"  alt=""/>';
-				var inDataCaption = '<p><em>'+(dataSet['caption'])+'</em></p>';
+				var inDataCaption = (dataSet['caption']);
+				var inDataCaptionBullets = bulletMaker(inDataCaption);
+				var inDataCaptionHtml = paragraphMaker(inDataCaptionBullets );
 				var inDataSource = '<p class="caption"><em>'+(dataSet['source'])+'</em></p><br>';
 				var inDataDescription = (dataSet['description']);
 				var inDataDescriptionBullets = bulletMaker(inDataDescription);
@@ -340,7 +342,7 @@ $(document).ready(function () {
 				$('#show-in-data').append(inDataTitle);
 				$('#show-in-data').append(inDataSubhead);
 				$('#show-in-data').append(inDataFigure);
-				$('#show-in-data').append(inDataCaption);
+				$('#show-in-data').append(inDataCaptionHtml);
 				$('#show-in-data').append(inDataSource);
 				$('#show-in-data').append(inDataDescriptionHtml);
 			});

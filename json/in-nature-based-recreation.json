@@ -20,7 +20,8 @@
 			"caption" : "",
 			"source" : "",
 			"description" : "Based on pilot data, over 70% of Puget Sound residents spend some time every week during the summer in outdoor recreation such as swimming, bicycling, hiking, skiing and gardening.  The number drops to about 50% for the winter. We anticipate more data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years."
-		},
+		}
+	},
 	"more-description" : "",
 	"why-happening": "No data or trends analyses are currently available for this indicator. ",
 	"references" : "",
@@ -32,10 +33,10 @@
 	"map-link-text": "",
    	"links": {
 			"link0": {
-				"link-name" : "I am a link1",
-				"link-url" : "https://content.govdelivery.com/accounts/WAPSP/bulletins/19f8a4b"
+				"link-name" : "",
+				"link-url" : ""
 				}
-			}
+			
 		}
 	}	
 }

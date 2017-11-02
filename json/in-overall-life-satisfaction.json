@@ -20,7 +20,8 @@
 			"caption" : "",
 			"source" : "",
 			"description" : "Pilot data show that over 70% of Puget Sound residents are somewhat or extremely satisfied with their lives and all adopted Vital Signs have been shown to predict this life satisfaction.  Independent of their gender, economic status, or geographic location, the happiness of Puget Sound residents depends on their ability to interact with the natural environment and a management process that is perceived as just.  We anticipate more data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years."
-		},
+		}
+	},
 	"more-description" : "",
 	"why-happening": "",
 	"references" : "",
@@ -35,7 +36,7 @@
 				"link-name" : "",
 				"link-url" : ""
 				}
-			}
+			
 		}
 	}	
 }

@@ -9,7 +9,7 @@
 		"key-messages": "Key messages coming soon!",
 		"indicators": {
 			"indicator1_json": "in-swimming-beaches.json",
-			"indicator2_json": "in-nature-based-recreation.json"
+			"indicator2_json": "in-nature-based-recreation.json",
 			"indicator3_json": "in-nature-based-work.json"
 		},
 		"highlights": "highlights",

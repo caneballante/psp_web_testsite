@@ -20,7 +20,8 @@
 			"caption" : "",
 			"source" : "",
 			"description" : "Pilot data show that over 30% of residents have felt inspired by nature and have spent time in nature to reduce stress in the past year. We anticipate more data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years."
-		},
+		}
+	},
 	"more-description" : "",
 	"why-happening": "Analysis of data trends is not currently available. ",
 	"references" : "",
@@ -35,7 +36,7 @@
 				"link-name" : "",
 				"link-url" : ""
 				}
-			}
+			
 		}
 	}	
 }
