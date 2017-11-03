@@ -128,6 +128,33 @@
 			<tr id="49"></tr>
 			
 		</table>
+		<br><br><p>ADDITIONAL INFORMATION</p>
+
+<p><a href="https://app.smartsheet.com/b/publish?EQBCT=621bfb83394144d980b8e78cbbca8cc8">List of Vital Signs, indicators and targets, with their description, scope and status</a></p>
+
+
+<p><a href="https://pspwa.box.com/s/mh73y4xia6odf1y4a0esid4ecrpiutlg">Executive Director’s statement on the scope of Vital Signs for Near Term Actions</a></p>
+
+
+<p><a href="https://pspwa.box.com/s/mym18v0rm56dspst6zxez818cucu4ijm">Target resolutions</a></p>
+
+
+<p><a href="http://www.psp.wa.gov/sos.php">Latest State of the Sound report</a></p>
+
+
+<p><a href="https://pspwa.box.com/s/ev6jlpvwsztrh7icp1jev9v5mg4tmiov">List of ecosystem recovery targets</a></p>
+
+
+<p><a href="http://www.psp.wa.gov/action-agenda-what.php">Action Agenda</a></p>
+
+
+<p><a href="http://www.psp.wa.gov/gis/ReportCard/">Puget Sound Action Agenda Report Card</a></p>
+
+
+<p><a href="http://www.psp.wa.gov/gis/RecoveryAtlas/">Puget Sound Recovery Atlas</a></p>
+
+
+<p><a href="http://www.psp.wa.gov/evaluating-effective-action.php">Effectiveness Monitoring</a></p>
 		
 		<!-- InstanceEndEditable --></div>
 		

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Vital Sign</title>
+<title>Vital Sign Goals</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="http://www.psp.wa.gov/css/bootstrap.css" rel="stylesheet">
@@ -28,8 +28,9 @@
 	
 	
 	<script> //setting the unused variable to 0 to flag the if statement to run either the VS or IN code.
-		var whatIN = "non"; 
-		var whatVS = "non";
+		var whatIN = "none"; 
+		var whatVS = "none";
+		var whatPage = "data-summary"
 	</script>
 	<link href="css/style.css" rel="stylesheet" type="text/css">
 
@@ -52,7 +53,7 @@
 <div class="container-fluid  page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
-			<h1></h1>
+			<h1>VITAL SIGN GOALS</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -63,13 +64,12 @@
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
 					<?php include 'includes/ln-vital.html';?>
-					<script src="js/vital.js"></script>
 					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 			<div><br>
 <br>
-				<div class="no-icon"><a href="http://www.psp.wa.gov/evaluating-PSEMP.php"><img src="images/vitalsigns/logos/PSEMP.png" alt="" width="260" height="86" title="PSEMP logo"/></a><br><br></div>
+				<div class="no-icon"><a href="http://www.psp.wa.gov/evaluating-PSEMP.php"><img class="img-responsive" src="images/vitalsigns/logos/PSEMP.png" alt="" width="260" height="86" title="PSEMP logo"/></a><br><br></div>
 </div>
 		</div>
 		 
@@ -83,7 +83,7 @@
 				<li><strong>Protected and Restored Habitat:</strong> A healthy Puget Sound where freshwater, estuary, nearshore, marine, and upland habitats are protected, restored, and sustained.</li>
 				<li><strong>Abundant Water Quantity:</strong> An ecosystem that is supported by groundwater levels, as well as by river and stream flows sufficient to sustain people, fish, wildlife, and the natural functions of the environment.</li>
 				<li><strong>Healthy Water Quality:</strong> Fresh and marine waters and sediments of a sufficient quality to support water that is safe for drinking, swimming, and other human uses and enjoyment, and are not harmful to the native marine mammals, fish, birds, and shellfish in the region.</li>
-			</ul>
+			</ul><br>
 			<p>ADDITIONAL INFORMATION</p>
 
 <p><a href="https://app.smartsheet.com/b/publish?EQBCT=621bfb83394144d980b8e78cbbca8cc8">List of Vital Signs, indicators and targets, with their description, scope and status</a></p>

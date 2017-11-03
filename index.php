@@ -125,8 +125,34 @@ The goals are depicted in the outer ring of the image of the Puget Sound Vital S
 <p>In many ways, the Puget Sound region is leading the country in ecosystem recovery, especially in incorporating human wellbeing explicitly into the science and implementation of recovery actions. </p>
 <p>However, most of the Vital Sign indicators are, at best, only slowly changing. There is little evidence that the indicators are on a trajectory to reach the 2020 targets. Nonetheless, there has been some progress in some indicators and at more local scales.</p>
 <p>Indicators that are making progress, perhaps as expected, are measures of a human action, compared to the measures of the biological, physical, or chemical conditions of Puget Sound. Some of the indicators making progress are also measures that are less under human control and are typically affected by multiple pressures and natural drivers outside of human control, such as water quality indicators, water quantity, and habitat.</p>
-<p>As we look beyond 2020, the region can expect to have a stronger scientific foundation for recovery and a rich set of information to chart the course for the next phase of restoring the Sound and building the ecosystem resilience to adapt to climate change.</p>
+<p>As we look beyond 2020, the region can expect to have a stronger scientific foundation for recovery and a rich set of information to chart the course for the next phase of restoring the Sound and building the ecosystem resilience to adapt to climate change.</p><br>
+<p>ADDITIONAL INFORMATION</p>
 
+<p><a href="https://app.smartsheet.com/b/publish?EQBCT=621bfb83394144d980b8e78cbbca8cc8">List of Vital Signs, indicators and targets, with their description, scope and status</a></p>
+
+
+<p><a href="https://pspwa.box.com/s/mh73y4xia6odf1y4a0esid4ecrpiutlg">Executive Director’s statement on the scope of Vital Signs for Near Term Actions</a></p>
+
+
+<p><a href="https://pspwa.box.com/s/mym18v0rm56dspst6zxez818cucu4ijm">Target resolutions</a></p>
+
+
+<p><a href="http://www.psp.wa.gov/sos.php">Latest State of the Sound report</a></p>
+
+
+<p><a href="https://pspwa.box.com/s/ev6jlpvwsztrh7icp1jev9v5mg4tmiov">List of ecosystem recovery targets</a></p>
+
+
+<p><a href="http://www.psp.wa.gov/action-agenda-what.php">Action Agenda</a></p>
+
+
+<p><a href="http://www.psp.wa.gov/gis/ReportCard/">Puget Sound Action Agenda Report Card</a></p>
+
+
+<p><a href="http://www.psp.wa.gov/gis/RecoveryAtlas/">Puget Sound Recovery Atlas</a></p>
+
+
+<p><a href="http://www.psp.wa.gov/evaluating-effective-action.php">Effectiveness Monitoring</a></p>
 		
 		<!-- InstanceEndEditable --></div>
 		

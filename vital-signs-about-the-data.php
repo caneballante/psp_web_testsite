@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Vital Sign</title>
+<title>About the data</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="http://www.psp.wa.gov/css/bootstrap.css" rel="stylesheet">
@@ -22,14 +22,15 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
-	<script> navSelected = 3;  subNavSelected = "non";
+	<script> navSelected = 76;  subNavSelected = "non";
 	</script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	
 	
 	<script> //setting the unused variable to 0 to flag the if statement to run either the VS or IN code.
-		var whatIN = "non"; 
-		var whatVS = "non";
+		var whatIN = "none"; 
+		var whatVS = "none";
+		var whatPage = "data-summary"
 	</script>
 	<link href="css/style.css" rel="stylesheet" type="text/css">
 
@@ -52,7 +53,7 @@
 <div class="container-fluid  page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
-			<h1>About the Data</h1>
+			<h1>ABOUT THE DATA</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -63,13 +64,12 @@
 				<ul class="nav nav-stacked nav-pills nav-leftside-custom padding-left-0 margin-10-top">
 					<!-- InstanceBeginEditable name="left_nav" -->
 					<?php include 'includes/ln-vital.html';?>
-					<script src="js/vital.js"></script>
 					<!-- InstanceEndEditable -->
 				</ul>
 			</div>
 			<div><br>
 <br>
-				<div class="no-icon"><a href="http://www.psp.wa.gov/evaluating-PSEMP.php"><img src="images/vitalsigns/logos/PSEMP.png" alt="" width="260" height="86" title="PSEMP logo"/></a><br><br></div>
+				<div class="no-icon"><a href="http://www.psp.wa.gov/evaluating-PSEMP.php"><img class="img-responsive" src="images/vitalsigns/logos/PSEMP.png" alt="" width="260" height="86" title="PSEMP logo"/></a><br><br></div>
 </div>
 		</div>
 		 
@@ -95,7 +95,7 @@
 			<p>Jon Bridgman, Puget Sound Partnership</p>
 			
 <script src="js/vital.js">
-	
+
 		
 		<!-- InstanceEndEditable --></div>
 		
