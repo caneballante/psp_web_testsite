@@ -22,7 +22,7 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
-	<script> navSelected = 2;  subNavSelected = "non";
+	<script> navSelected = 3;  subNavSelected = "non";
 	</script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	
@@ -52,8 +52,8 @@
 <div class="container-fluid  page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
-			
-		<!-- InstanceEndEditable --></div>
+			<h1>About the Data</h1>
+			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
 	
@@ -74,8 +74,8 @@
 		</div>
 		 
 		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" -->
-			<h2 class="margin-0-top">ABOUT THE DATA</h2>
-			<h3>OVERVIEW</h3>
+				<h2 class="margin-0-top">ABOUT THE DATA</h2>
+				
 <p>Tracking and reporting of the Puget Sound Vital Signs is the foundation of the shared measurement system the Partnership relies on to show collective impact. </p>
 			<p>The Vital Signs website presents the status and trends of indicators, and progress towards meeting the goals for recoveringPuget Sound. The website also provides connections to other pillars of Puget Sound recovery like the strategies, the Action Agenda Report Card, and effectiveness monitoring. </p>
 			<p>Our target audience includes the Puget Sound Partnership’s partners and boards, Strategic Initiative Leads, Lead Integrating Organizations, watershed groups, legislative staff, policy makers, nonprofit environmental organizations and scientists.</p>
@@ -93,8 +93,9 @@
 			<p>Nathalie Hamel, Puget Sound Partnership</p>
 			<h3>Web design and production</h3>
 			<p>Jon Bridgman, Puget Sound Partnership</p>
+			
 <script src="js/vital.js">
-
+	
 		
 		<!-- InstanceEndEditable --></div>
 		

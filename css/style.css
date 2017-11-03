@@ -58,9 +58,6 @@
 .center {
 	text-align: center;
 }
-.vsText {
-	margin: 20px;
-}
 .orange > a {
 	color: #e86e2f !important;
 }
@@ -106,7 +103,7 @@
 	
 }
 .nav-leftside-custom a {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .vs-nav-goal > a {
