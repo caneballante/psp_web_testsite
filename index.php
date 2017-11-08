@@ -83,8 +83,8 @@
 					<area shape="poly" coords="596,116,532,177,485,142,527,70,597,118" href="local_foods.php">
 					<area shape="poly" coords="531,125" href="#">
 					<area shape="poly" coords="571,224,536,179,600,120,648,179,571,224" href="onsite_sewage.php">
-					<area shape="poly" coords="682,257,602,282,572,225,650,184" href="#">
-					<area shape="poly" coords="680,258" href="outdoor_activities.php">
+					<area shape="poly" coords="682,257,602,282,572,225,650,184" href="outdoor_activities.php">
+			
 					<area shape="poly" coords="614,340,690,334,680,260,603,287" href="shellfish_beds_reopened.php">
 					<area shape="poly" coords="684,414,687,337,614,342,611,408" href="cultural_practices.php">
 					<area shape="poly" coords="665,498,688,419,608,410,588,470" href="economic_vitality.php">

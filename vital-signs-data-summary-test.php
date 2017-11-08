@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>About the data</title>
+<title>Vital Sign Data Summary</title>
 <!-- InstanceEndEditable -->
 <!-- Bootstrap -->
 <link href="http://www.psp.wa.gov/css/bootstrap.css" rel="stylesheet">
@@ -22,7 +22,7 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <!-- InstanceBeginEditable name="head" -->
-	<script> navSelected = 76;  subNavSelected = "non";
+	<script> navSelected = 3;  subNavSelected = "non";
 	</script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	
@@ -53,7 +53,7 @@
 <div class="container-fluid  page-content padding-50-bottom">
 	<div class="row">
 		<div class="col-sm-10 padding-20-top padding-0-left"> <!-- InstanceBeginEditable name="9col_header" -->
-			<h1>ABOUT THE DATA</h1>
+			<h1>Data Summary</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -73,29 +73,105 @@
 </div>
 		</div>
 		 
-		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" -->
-				<h2 class="margin-0-top">ABOUT THE DATA</h2>
-				
-<p>Tracking and reporting of the Puget Sound Vital Signs is the foundation of the shared measurement system the Partnership relies on to show collective impact. </p>
-			<p>The Vital Signs website presents the status and trends of indicators, and progress towards meeting the goals for recoveringPuget Sound. The website also provides connections to other pillars of Puget Sound recovery like the strategies, the Action Agenda Report Card, and effectiveness monitoring. </p>
-			<p>Our target audience includes the Puget Sound Partnership’s partners and boards, Strategic Initiative Leads, Lead Integrating Organizations, watershed groups, legislative staff, policy makers, nonprofit environmental organizations and scientists.</p>
-			<p>The responsibility for environmental monitoring in Puget Sound is distributed across many dozens of agencies, organizations, tribes, citizen groups, and others. Rather than creating and managing its own stream of data, the Puget Sound Partnership relies on existing monitoring programs and databases as sources of information.</p>
-<h3>Indicator reports and Vital Sign Reports</h3>
-			<p>Two types of reports make up most of the content on the Vital Sign website: indicator reports and Vital Sign reports.</p>
-			<p>The indicator reports present a summary of the status and trends of indicators, and whether ecosystem recovery targets are achieved. The Puget Sound Partnership staff work with scientists and monitoring program leads from a dozen organizations to compile, evaluate and report data for each indicator report. Data quality assurance and documentation remains the primary responsibility of the individual contributors.</p>
-			<p>In contrast to indicator reports, Vital Sign reports are a contribution from the Puget Sound Ecosystem Monitoring Program workgroups. Each workgroup prepares reports about the Vital Signs that are relevant to their topic. Reports consist of key messages about the Vital Signs, crafted primarily by synthesizing the information revealed by the indicator report. The reports are vetted by workgroup members. For more information about workgroups, please visit w<a href="www.psp.wa.gov/evaluating-PSEMP.php">ww.psp.wa.gov/evaluating-PSEMP.php</a></p>
-			<h3>The Puget Sound Ecosystem Monitoring Program</h3>
-			<p>The Puget Sound Ecosystem Monitoring Program (PSEMP) serves as the backbone organization for ecosystem monitoring in Puget Sound. It is an over-arching, voluntary body of representatives sharing a common goal to coordinate, improve, and focus these many independent efforts in support of the state’s goals to protect and recover Puget Sound. </p>
-			<p>The purpose of the Puget Sound Ecosystem Monitoring Program is to improve and coordinate the existing system of environmental data collection and evaluation in Puget Sound, including assessing the condition and changes over time of the Puget Sound ecosystem as well as the effectiveness of recovery actions, strategies, and programs. For more information about PSEMP, please visit www.psp.wa.gov/evaluating-PSEMP.php </p>
-			<h3>Contributors</h3>
-			<div><img class="img-responsive" src="images/vitalsigns/logos/all.jpg" width="616" height="643" alt=""/></div>
-			<h3>Editor</h3>
-			<p>Nathalie Hamel, Puget Sound Partnership</p>
-			<h3>Web design and production</h3>
-			<p>Jon Bridgman, Puget Sound Partnership</p><br><br>
+		<div class="col-sm-9 padding-20-top padding-0-left content-column mobile-padding-20-left"><!-- InstanceBeginEditable name="EditRegion12" --><h2 class="margin-0-top">Vital Signs Data Summary</h2><div id="show-indicators"></div><script src="js/vital.js"></script><script src="js/datasummary.js"></script>
+		
+		<div id="alphabetical"><table class='table' id="summaryTable"><tr><td>INDICATOR</td><td colspan='2'>STATUS<strong></strong></td><td colspan='2'>PROGRESS</td></tr>
+		
+			<tr id="0"></tr>
+			<tr id="1"></tr>
+			<tr id="2"></tr>
+			<tr id="3"></tr>
+			<tr id="4"></tr>
+			<tr id="5"></tr>
+			<tr id="6"></tr>
+			<tr id="7"></tr>
+			<tr id="8"></tr>
+			<tr id="9"></tr>
+			<tr id="10"></tr>
+			<tr id="11"></tr>
+			<tr id="12"></tr>
+			<tr id="13"></tr>
+			<tr id="14"></tr>
+			<tr id="15"></tr>
+			<tr id="16"></tr>
+			<tr id="17"></tr>
+			<tr id="18"></tr>
+			<tr id="19"></tr>
+			<tr id="20"></tr>
+			<tr id="21"></tr>
+			<tr id="22"></tr>
+			<tr id="23"></tr>
+			<tr id="24"></tr>
+			<tr id="25"></tr>
+			<tr id="26"></tr>
+			<tr id="27"></tr>
+			<tr id="28"></tr>
+			<tr id="29"></tr>
+			<tr id="30"></tr>
+			<tr id="31"></tr>
+			<tr id="32"></tr>
+			<tr id="33"></tr>
+			<tr id="34"></tr>
+			<tr id="35"></tr>
+			<tr id="36"></tr>
+			<tr id="37"></tr>
+			<tr id="38"></tr>
+			<tr id="39"></tr>
+			<tr id="40"></tr>
+			<tr id="41"></tr>
+			<tr id="42"></tr>
+			<tr id="43"></tr>
+			<tr id="44"></tr>
+			<tr id="45"></tr>
+			<tr id="46"></tr>
+			<tr id="47"></tr>
+			<tr id="48"></tr>
+			<tr id="49"></tr>
 			
-<script src="js/vital.js">
+			</table></div>
+			<div id="vitalsign">
+			
+			<table class='table' id="healthyHumanPop"><tr><td>VITAL SIGN</td><td>INDICATOR</td><td colspan='2'>STATUS<strong></strong></td><td colspan='2'>PROGRESS</td></tr>
+		
+			<tr id="0"></tr>
+			<tr id="1"></tr>
+			<tr id="2"></tr>
+			<tr id="3"></tr>
+			<tr id="4"></tr>
+			<tr id="5"></tr>
+			<tr id="6"></tr>
+			<tr id="7"></tr>
+			<tr id="8"></tr>
+			<tr id="9"></tr>
+			<tr id="10"></tr>
+	</table></div>
+		<br><br><p>ADDITIONAL INFORMATION</p>
 
+<p><a href="https://app.smartsheet.com/b/publish?EQBCT=621bfb83394144d980b8e78cbbca8cc8">List of Vital Signs, indicators and targets, with their description, scope and status</a></p>
+
+
+<p><a href="https://pspwa.box.com/s/mh73y4xia6odf1y4a0esid4ecrpiutlg">Executive Director’s statement on the scope of Vital Signs for Near Term Actions</a></p>
+
+
+<p><a href="https://pspwa.box.com/s/mym18v0rm56dspst6zxez818cucu4ijm">Target resolutions</a></p>
+
+
+<p><a href="http://www.psp.wa.gov/sos.php">Latest State of the Sound report</a></p>
+
+
+<p><a href="https://pspwa.box.com/s/ev6jlpvwsztrh7icp1jev9v5mg4tmiov">List of ecosystem recovery targets</a></p>
+
+
+<p><a href="http://www.psp.wa.gov/action-agenda-what.php">Action Agenda</a></p>
+
+
+<p><a href="http://www.psp.wa.gov/gis/ReportCard/">Puget Sound Action Agenda Report Card</a></p>
+
+
+<p><a href="http://www.psp.wa.gov/gis/RecoveryAtlas/">Puget Sound Recovery Atlas</a></p>
+
+
+<p><a href="http://www.psp.wa.gov/evaluating-effective-action.php">Effectiveness Monitoring</a></p>
 		
 		<!-- InstanceEndEditable --></div>
 		
