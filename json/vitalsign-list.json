@@ -1,0 +1,29 @@
+{
+	"vitalsigns": [
+		"vs-air-quality.json",
+		"vs-drinking-water.json",
+		"vs-local-foods.json",
+		"vs-onsite-sewage.json",
+		"vs-outdoor-activities.json",
+		"vs-shellfish-beds-reopened.json",
+		"vs-cultural-wellbeing.json",
+		"vs-economic.json",
+		"vs-good-governance.json",
+		"vs-sense-of-place.json",
+		"vs-sound-stewardship.json",
+		"vs-birds.json",
+		"vs-salmon.json",
+		"vs-orcas.json",
+		"vs-pacific-herring.json",
+		"vs-eelgrass.json",
+		"vs-estuaries.json",
+		"vs-floodplains.json",
+		"vs-land-cover-development.json",
+		"vs-armor.json",
+		"vs-summer-stream-flows.json",
+		"vs-freshwater-quality.json",
+		"vs-marine-sediment-quality.json",
+		"vs-marine-water.json",
+		"vs-toxics.json"
+	]
+}

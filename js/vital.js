@@ -195,8 +195,10 @@ $(document).ready(function () {
 			});
 				$.each((dataVS['vitalSign']['links']['section3']), function(i, thelink) {
 				//	var vsLinkURL = (linkSet['link-name']);
+					
 					var vslinkShow  = '<p>' + thelink + '<p>';
 					$('#show-links-sec3').append(vslinkShow);
+					
 			});
 
 		};
